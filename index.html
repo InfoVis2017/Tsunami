@@ -6,8 +6,25 @@
 <link rel="stylesheet" type="text/css" href="/style/default.css">
 </head>
 <body>
+  
+<form style ="float:right;height:755px" method="post">
+        <fieldset style="height:inherit">
+                <legend>Disater type</legend>
+                        <input type="checkbox" name="" value="Cat" />Earthquakes <br />
+                        <input type="checkbox" name="" value="Dog" />Huricanes<br />
+                        <input type="checkbox" name="" value="Bird" />Tsunamis<br />
+
+        </fieldset>
+</form>
 
 <div id="container"></div>
+
+
+
+<form name="myform" oninput="timeslidervalue.value = timeslider.valueAsNumber">
+  <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="1950" />
+  <output class ="timeslider" name="timeslidervalue" for="timeslider" >1950</output>
+</form>
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/topojson.v1.min.js"></script>

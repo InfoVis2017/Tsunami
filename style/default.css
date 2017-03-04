@@ -37,3 +37,10 @@ div.tooltip {
   stroke: #ccc;
   stroke-width: 1px;
 }
+
+.timeslider{
+    margin: 30px auto 0 auto;
+    width: 50%;
+    display: block;
+     text-align: center;
+}
