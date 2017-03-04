@@ -53,7 +53,7 @@ svg.append("rect")
 
 var g = svg.append("g");
 
-d3.json("/data/us.json", function(error, us) {
+d3.json("../data/us.json", function(error, us) {
   if (error) throw error;
 
   g.append("g")
