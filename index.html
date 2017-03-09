@@ -4,9 +4,7 @@
 <meta charset="utf-8">
 <title>D3 World Map Template</title>
 <link rel="stylesheet" type="text/css" href="/style/default.css">
-<head>
-  <base href="https://infovis2017.github.io/Tsunami/" target="_blank">
-</head>
+
 <body>
   
 <form style ="float:right;height:755px" method="post">
@@ -23,7 +21,7 @@
 
 
 
-<form name="myform" oninput="timeslidervalue.value = timeslider.valueAsNumber">
+<form name="myform" oninput="timeslidervalue.value = timeslider.valueAsNumber;redraw(timeslidervalue.value)">
   <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="1950" />
   <output class ="timeslider" name="timeslidervalue" for="timeslider" >1950</output>
 </form>
@@ -95,7 +93,7 @@ function handleMouseOut(){
 }
 
 
-function draw(topo) {
+function draw(topo,time) {
 
   svg.append("path")
      .datum(graticule)
@@ -134,7 +132,8 @@ function draw(topo) {
   d3.csv("/data/earthquakes.csv", function(err, quakes) {
 
     quakes.forEach(function(i){
-      addpoint(i.Longitude, i.Latitude,i.Magnitude );
+      
+      if(time == i.DateTime.substring(0,4)) {addpoint(i.Longitude, i.Latitude,i.Magnitude );}
     });
 
   });
@@ -142,12 +141,12 @@ function draw(topo) {
 }
 
 
-function redraw() {
+function redraw(time) {
   width = c.offsetWidth;
   height = width / 2;
   d3.select('svg').remove();
   setup(width,height);
-  draw(topo);
+  draw(topo,time);
 }
 
 
