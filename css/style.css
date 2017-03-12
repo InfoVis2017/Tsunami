@@ -1,0 +1,14 @@
+.country {
+  fill: #cccccc;
+  stroke: #333333;
+  stroke-width: 0.5;
+}
+
+.quake {
+  fill: black;
+}
+
+#map {
+  border:2px solid #000;
+  background: #fff;
+}
