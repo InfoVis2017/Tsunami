@@ -62,7 +62,7 @@ def find_location(flood):
     #  TODO: maybe try other locator services next to GoogleV3?)
     province_loc = flood['location'].split(',')[0]
     country_loc = flood['country_name']
-    return geocode(province_loc) or geocode(country_loc)
+    return geocode(province_loc + ", " + country_loc)
 
 def transform_emdat_csv(input,output):
     transform_csv(input=input,
