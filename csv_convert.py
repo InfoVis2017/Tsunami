@@ -14,7 +14,8 @@ geolocator = geopy.geocoders.GoogleV3()         # very decent, but limited to 25
 #geolocator = geopy.geocoders.ArcGIS()          # slows down after multiple requests...
 
 def geocode(nam):
-    geolocator.geocode(nam,timeout=3)
+    loc = geolocator.geocode(nam)
+    return loc
 
 # A simple function to transform CSV data into a 'standard' format
 #   - input should be the input .csv file
@@ -42,9 +43,11 @@ def transform_csv(input,output,transformer,initialize=None):
                         entry = { k: f(record) for (k,f) in transformer.iteritems() }
                         writer.writerow(entry)
                     except geopy.exc.GeopyError:    # geocoding errors cannot be tolerated => abort transformation
-                        raise
+			print "too much requests"                        
+			return
                     except:                         # other errors can be caused by some invalid records => continue
                         invalid = invalid + 1
+			 
                     total = total + 1
             endT = time.time()
             print('Processed ' + str(total-invalid) + '/' + str(total) + ' records')
@@ -61,8 +64,11 @@ def find_location(flood):
     #  - locate the country (maybe this is way too coarse grained... better just skip?)
     #  TODO: maybe try other locator services next to GoogleV3?)
     province_loc = flood['location'].split(',')[0]
+    province_loc = province_loc.split('(')[0]
     country_loc = flood['country_name']
-    return geocode(province_loc + ", " + country_loc)
+    response = geocode(province_loc + ", " + country_loc)
+    print response.latitude
+    return response
 
 def transform_emdat_csv(input,output):
     transform_csv(input=input,
