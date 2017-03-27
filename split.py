@@ -1,6 +1,6 @@
 import sys
 
-def main(argv):
+def main(argv)
     ctr = 0
     f = open(argv[0], "r")
     o = open(argv[1] + str(ctr), "w")
