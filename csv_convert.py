@@ -67,7 +67,6 @@ def find_location(flood):
     province_loc = province_loc.split('(')[0]
     country_loc = flood['country_name']
     response = geocode(province_loc + ", " + country_loc)
-    print response.latitude
     return response
 
 def transform_emdat_csv(input,output):
@@ -77,6 +76,8 @@ def transform_emdat_csv(input,output):
                   transformer={'start_date': lambda d: d['start_date'],
                                'end_date': lambda d: d['end_date'],
                                'deaths': lambda d: d['total_deaths'],
+                               'affected': lambda d: d['total_affected'],
+                               'damage': lambda d: d['total_dam'],
                                'lon': lambda d: d['coords'].longitude,
                                'lat': lambda d: d['coords'].latitude})
 
