@@ -16,7 +16,7 @@ geolocator = geopy.geocoders.GoogleV3()         # very decent, but limited to 25
 #geolocator = geopy.geocoders.ArcGIS()          # slows down after multiple requests...
 
 def geocode(nam):
-    nam= urllib.urlencode(nam)
+    nam = urllib.quote_plus(nam)
     loc = geolocator.geocode(nam, timeout=10)
     return loc
 
@@ -40,7 +40,7 @@ def transform_csv(input,output,transformer,initialize=None):
                                    label="Transforming CSV data",
                                    length=sum(1 for line in open(input))) as records:
                 for record in records:
-		    time.sleep(1)
+		    
                     try:
                         if(initialize):
                             initialize(record)
