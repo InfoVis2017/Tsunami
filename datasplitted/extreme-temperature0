@@ -1,0 +1,538 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
+26/12/1990,26/12/1990,Afghanistan,AFG,,Extreme temperature ,Cold wave,144,0,0,0,1990-0248,--,--
+03/01/1991,03/01/1991,Afghanistan,AFG,East and South Afghan Provinces,Extreme temperature ,Cold wave,80,200,0,0,1991-0009,--,--
+31/01/2001,20/02/2001,Afghanistan,AFG,"Hirat, Faryab, Jawzjan, Balkh, Samangan, Sar-e-Pul, Kunduz, Baghlan provinces",Extreme temperature ,Cold wave,150,100000,10,0,2001-0027,--,--
+/11/2001,/11/2001,Afghanistan,AFG,Kunduz province,Extreme temperature ,Cold wave,177,100000,0,0,2001-0668,--,--
+09/04/2005,10/04/2005,Afghanistan,AFG,Badakhshan province,Extreme temperature ,Cold wave,21,0,0,0,2005-0757,Snow/ice,--
+05/01/2008,15/02/2008,Afghanistan,AFG,"Nangarhar, Laghman (Eastern), Paktika, Paktya (Central), Ghor, Badghis, Hirat (Western), Sar-e-Pul, Kunduz, Balkh, Jawzjan, Takhar (Northern), Hilmand (SouthWest), Farah provinces",Extreme temperature ,Severe winter conditions,1317,170684,0,0,2008-0006,Cold wave,"Avalanche (Snow, Deb"
+16/01/2012,17/01/2012,Afghanistan,AFG,"Badakhshan, Daykundi provinces",Extreme temperature ,Severe winter conditions,45,68,0,0,2012-0050,--,--
+06/03/1985,06/03/1985,Albania,ALB,,Extreme temperature ,Severe winter conditions,68,7085,0,0,1985-0244,--,--
+01/07/2004,/07/2004,Albania,ALB,"Durres city (Durres district, Durres province)",Extreme temperature ,Heat wave,3,0,0,0,2004-0333,--,--
+15/07/2007,22/07/2007,Albania,ALB,"Berat, Bulqize, Delvine, Devoll, Diber, Durres, Elbasan, Fier, Gjirokastër, Gramsh, Has, Kavaje, Kolonjë, Korce, Krujë, Kucove, Kukës, Kurbin, Lezhë, Librazhd, Lushnjë, Malesi E Madhe, Mallakaster, Mat, Mirditë, Peqin, Permet, Pogradec, Puke, Sarandë, Shkoder, Skrapar, Tepelenë, Tirane, Tropojë, Vlore provinces",Extreme temperature ,Heat wave,0,150,0,0,2007-0235,--,--
+/01/2012,/02/2012,Albania,ALB,"Puke, Shkoder, Kukes, Librazhd, Korce provinces, Peshkopi district (Diber province)",Extreme temperature ,Severe winter conditions,5,230000,0,0,2012-0012,--,--
+21/06/2003,21/07/2003,Algeria,DZA,Adrar (province?/district?),Extreme temperature ,Heat wave,40,0,0,0,2003-0785,--,--
+04/01/1972,04/01/1972,Argentina,ARG,Buenos Aires,Extreme temperature ,Heat wave,100,0,0,0,1972-0014,--,--
+/09/1995,/09/1995,Argentina,ARG,"Rawson, sarmiento, El Maiten, Epuyen, Alto Rio Surgen, Cholila, El Hoyo y Carrenleufeu",Extreme temperature ,Cold wave,0,25000,0,0,1995-0221,--,--
+17/06/2000,17/06/2000,Argentina,ARG,"Buenos Aires, Sante Fe, Formosa, Santa Cruz provinces",Extreme temperature ,Cold wave,15,300,0,0,2000-0421,--,--
+/07/2001,/07/2001,Argentina,ARG,"Chubut, Neuquen, Rio Negro (Patagonia), Catamarca, Buenos Aires provinces",Extreme temperature ,Cold wave,14,3000,0,0,2001-0377,--,--
+/07/2002,/07/2002,Argentina,ARG,"Catamarca, Chaco, Corrientes, Formosa, Jujuy, Misiones, Salta, Santiago Del Estero, Tucuman provinces",Extreme temperature ,Cold wave,0,200,0,0,2002-0494,--,--
+/07/2004,/07/2004,Argentina,ARG,"Mar del Plata city (General Pueyrredon district, Buenos Aires province)",Extreme temperature ,Cold wave,5,0,0,0,2004-0331,Snow/ice,--
+/05/2007,/07/2007,Argentina,ARG,"Rosario district (Santa Fe province), Cordoba, San Luis, Buenos Aires, Buenos Aires D.f., Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra Del Fuego, Mendoza, La Rioja provinces",Extreme temperature ,Severe winter conditions,9,0,0,0,2007-0263,Snow/ice,--
+/07/2010,/07/2010,Argentina,ARG,"Buenos Aires, Buenos Aires D.f., Catamarca, Chaco, Chubut, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago Del Estero, Tierra Del Fuego, Tucuman provinces",Extreme temperature ,Cold wave,42,0,0,0,2010-0294,--,--
+/12/2013,/12/2013,Armenia,ARM,Yerevan province,Extreme temperature ,Severe winter conditions,0,12000,0,0,2013-0568,--,--
+/02/1993,/02/1993,Australia,AUS,South-east Australia,Extreme temperature ,Heat wave,17,3000500,0,0,1993-0515,--,--
+/01/1994,/01/1994,Australia,AUS,Townsville,Extreme temperature ,Heat wave,5,100150,0,0,1994-0641,--,--
+/12/1994,/12/1994,Australia,AUS,Southern NSW,Extreme temperature ,Heat wave,0,1000034,0,0,1994-0645,--,--
+/11/1995,/11/1995,Australia,AUS,Western Sydney,Extreme temperature ,Heat wave,1,500100,0,0,1995-0443,--,--
+27/01/2009,08/02/2009,Australia,AUS,"Victoria, New South wales (South), Tasmania (Northern) provinces",Extreme temperature ,Heat wave,347,2000,0,0,2009-0616,--,--
+13/01/2014,18/01/2014,Australia,AUS,"Western Australia, Victoria provinces",Extreme temperature ,Heat wave,139,0,0,0,2014-0010,--,--
+/07/2003,/08/2003,Austria,AUT,"Burgenland, Karnten, Niederosterreich, Oberosterreich, Steiernark, Salzburg, Tirol, Voralberg, Wien provinces",Extreme temperature ,Heat wave,345,0,280000,0,2003-0391,Wildfire,Drought
+27/12/2005,/01/2006,Austria,AUT,"Burgenland, Karnten, Niederosterreich, Oberosterreich, Salzburg, Steiermark, Tirol, Vorarlberg, Wien provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2005-0713,Snow/ice,--
+/07/2007,/07/2007,Austria,AUT,"Burgenland, Karnten, Niederosterreich, Steiermark, Wien provinces",Extreme temperature ,Heat wave,5,0,0,0,2007-0235,--,--
+18/12/2009,19/12/2009,Austria,AUT,Steiermark province,Extreme temperature ,Cold wave,2,0,0,0,2009-0571,--,--
+/02/2012,/02/2012,Austria,AUT,"Burgenland, Karnten, Niedterosterreich, Oberosterreich, Salzburg, Steiermark, Tirol, Voralberg, Wien provinces",Extreme temperature ,Cold wave,5,0,0,0,2012-0019,--,--
+/02/2012,/02/2012,Azerbaijan,AZE,Baku district (Absheron province),Extreme temperature ,Cold wave,5,0,0,0,2012-0019,--,--
+/12/1989,/12/1989,Bangladesh,BGD,North,Extreme temperature ,Cold wave,100,0,0,0,1989-0222,--,--
+/01/1989,/01/1989,Bangladesh,BGD,,Extreme temperature ,Cold wave,70,0,0,0,1989-0247,--,--
+29/12/1990,29/12/1990,Bangladesh,BGD,,Extreme temperature ,Cold wave,67,0,0,0,1990-0424,--,--
+01/01/1990,01/01/1990,Bangladesh,BGD,,Extreme temperature ,Cold wave,50,0,0,0,1990-0706,--,--
+24/12/1991,06/01/1992,Bangladesh,BGD,West and North Bangladesh,Extreme temperature ,Cold wave,182,0,0,0,1991-0433,--,--
+/02/1994,/02/1994,Bangladesh,BGD,North and Northwestern districts,Extreme temperature ,Cold wave,29,0,0,0,1994-0612,--,--
+/01/1995,/01/1995,Bangladesh,BGD,"Rajshahi, Rangpur, Pabna, Dinajpur",Extreme temperature ,Cold wave,120,0,0,0,1995-0001,--,--
+/01/1996,/01/1996,Bangladesh,BGD,"Gaibandha, Dinajpur, Rangpur, Nilphamari ",Extreme temperature ,Cold wave,200,0,0,0,1996-0013,--,--
+21/01/1997,21/01/1997,Bangladesh,BGD,Dinajpur (level 2) Level 1 = Rajshahi,Extreme temperature ,Cold wave,33,0,0,0,1997-0316,--,--
+09/01/1998,09/01/1998,Bangladesh,BGD,"Jessore, Rajshahi, Khulna",Extreme temperature ,Cold wave,120,34000,0,0,1998-0002,--,--
+/01/2000,/01/2000,Bangladesh,BGD,"Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Rangpur, Sylhet provinces",Extreme temperature ,Cold wave,49,0,0,0,2000-0003,--,--
+/12/2001,/12/2001,Bangladesh,BGD,"Panchagarh, Thakurgaon, Dinajpur, Nilphamari districts (Rangpur province), Satkhira, Jessore districts (Khulna province), Sylhet, Sunamganj districts (Sylhet province)",Extreme temperature ,Cold wave,6,2000,0,0,2001-0734,--,--
+15/12/2002,/01/2003,Bangladesh,BGD,"Rajshahi, Rangpur provinces",Extreme temperature ,Cold wave,700,50000,0,0,2002-0819,--,--
+10/05/2003,12/06/2003,Bangladesh,BGD,"Dhaka, Khulna, Rajshahi provinces",Extreme temperature ,Heat wave,62,0,0,0,2003-0250,--,--
+15/12/2003,/01/2004,Bangladesh,BGD,"Chittagong, Dhaka, Rajshahi, Rangpur provinces",Extreme temperature ,Cold wave,153,200,0,0,2003-0636,--,--
+/07/2005,/07/2005,Bangladesh,BGD,"Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Rangpur, Sylhet provinces",Extreme temperature ,Heat wave,0,0,0,0,2005-0323,--,--
+/12/2005,/01/2006,Bangladesh,BGD,"Chittagong district (Chittagong province), Jessore district (Khulna province), Rajshahi, Pabna districts (Rajshahi province), Thakurgaon, Kurigram districts (Rangpur province)",Extreme temperature ,Severe winter conditions,100,1000,0,0,2005-0701,--,--
+/01/2007,/01/2007,Bangladesh,BGD,"Panchagarh, Thakurgaon, Dinajpur, Nilphamari, Lalmonirhat, Gaibandha, Kurigram, Rangpur districts (Rangpur province), Joypurhat, Bogra, Sirajganj, Rajshahi, Pabna, Nawabganj districts (Rajshahi province), Mymensingh, Jamalpur, Kishoreganj, Sherpur, Gazipur, Shariatpur, Rajbari, Gopalganj districts (Dhaka), Jhalokati district (Barisal province), Khulna district (Khulna province), Brahamanbaria district (Chittagong province), Sylhet, Maulvibazar, Sunamganj districts (Sylhet province)",Extreme temperature ,Severe winter conditions,130,100000,0,0,2007-0033,--,--
+15/12/2009,31/01/2010,Bangladesh,BGD,"Rajbari, Manikganj, Tangail, Sherpur districts (Dhaka province), Damurhuda, Sadar, Jiban Naga (Chuadanga district, Khulna province), Jessore, Bagerhat, Khulna, Meherpur, Satkhira districts (Khulna province), Sadar, Sripur (Magura district, Khulna province), Naogaon, Pabna, Bogra, Sirajganj districts (Rajshahi province), Biral, Fulbari (Dinajpur district, Rangpur province), Fulchari, Sundarganj, Saghata, Gabindaganj, Sadullapu (Gaibandha district, Rangpur province), Tentulia, Debiganj, Atwari (Panchagarh district, Rangpur province), Baliadangi, Haripur, Ranisenkail (Thakurgaon district, Rangpur province), Dimla, Jaldhaka (Nilphamari district, Rangpur province), Hatibandha, Patgram, Aditmari (Lalmonirhat district, Rangpur province), Roumari, Chilmari, Ulipur (Kurigram district, Rangpur province), Gangachara, Pirganj (Rangpur district, Rangpur province)",Extreme temperature ,Cold wave,135,50000,0,0,2009-0595,--,--
+07/01/2011,20/02/2011,Bangladesh,BGD,"Barguna district (Barisal province), Nazirpur upazila (Pirojpur district, Barisal province), Gaibandha, Kurigram, Thakurgaon, Dinajpur districts (Rangpur province), Gabura city (Rangpur district, Rangpur province), Domar upazila (Nilphamari district, Rangpur province), Tetulia upazila (Panchagarh district, Rangpur province), Dakope upazila (Khulna district, Khulna province), Kushtia, Chuadanga districts (Khulna province), Kalaroa upazila (Satkhira district, Khulna province), Tarail upazila (Kishoreganj district, Dhaka province), Manikganj, Sherpur districts (Dhaka province), Sirajganj, Rajshahi districts (Rajshahi province), Ishwardi city (Pabna district, Rajshahi province)",Extreme temperature ,Cold wave,50,100000,0,0,2011-0018,--,--
+13/12/2011,18/12/2011,Bangladesh,BGD,"Barisal, Chittagong, Khulna, Rangpur provinces",Extreme temperature ,Cold wave,12,2000,0,0,2011-0525,--,--
+/12/2012,/02/2013,Bangladesh,BGD,"Panchagarh, Thakurgaon, Dinajpur, Nilphamari, Lalmonirhat, Rangpur, Kurigram, Gaibandha districts (Rangpur province), Bogra, Joypurhat, Naogaon, Nawabganj, Rajshahi, Natore, Sirajganj, Pabna districts (Rajshahi province), Mymensingh, Faridpur, Madaripur districts (Dhaka province), Maulvibazar district (Sylhet province), Kushtia, Jessore districts (Khuna province)",Extreme temperature ,Cold wave,72,75000,0,0,2012-0509,--,--
+/05/2000,/05/2000,Belarus,BLR,"Brest, Gomel, Grodno, Minsk, Minsk City, Mogilev, Vitebsk provinces",Extreme temperature ,Cold wave,0,0,30300,0,2000-0269,--,--
+/01/2006,/01/2006,Belarus,BLR,Minsk province,Extreme temperature ,Severe winter conditions,5,1820,0,0,2005-0713,Snow/ice,--
+/01/2012,/02/2012,Belarus,BLR,"Vitebsk, Miory, Glubokoe, Polotsk, Postavy districts (Vitebsk province), Minsk city, Minsk, Stolbtsy, Molodechno, Borisov, Slutsk districts (Minsk province), Gomel city (Gomel district, Gomel province), Rechista, Zhlobin, Mozyr districts (Gomel province), Lida, Slonim, Volkovysk districts (Grodno province), Brest, Mogilev provinces",Extreme temperature ,Cold wave,0,130,0,0,2012-0019,--,--
+/01/2013,/02/2013,Belarus,BLR,"Brest, Pinsk, Luninec, Stolin districts (Brest province), Verhnedvinsk, Miory, Sharkovshchina, Shumilino, Gorodok, Beshenkovichi districts (Vitebsk province), Borisov, Berezino, Stolbtsy, Molodechno districts (Minsk province), Bobruisk, Chausy, Mstislav, Slavgorod, Mogilev districts (Mogilev province), Rogachev, Zhitkovichi, Petrikov, Mozyr, Rechitsa, Chechersk, Gomel, Loev, Lel'chitsy, El'sk, Narovlja, Kalinkovichi, Svetlogorsk, Zhlobin, Vetka, Dobrush, Bragin districts (Gomel province)",Extreme temperature ,Severe winter conditions,4,11325,0,0,2013-0009,--,--
+18/01/2014,29/01/2014,Belarus,BLR,"Minsk, Grodno, Vitebsk, Mogilev provinces",Extreme temperature ,Severe winter conditions,2,31500,0,0,2014-0029,--,--
+//1963,//1963,Belgium,BEL,,Extreme temperature ,Cold wave,12,0,0,0,1963-0055,--,--
+/01/1985,/01/1985,Belgium,BEL,,Extreme temperature ,Cold wave,0,0,0,0,1985-0246,--,--
+01/08/2003,15/08/2003,Belgium,BEL,"Region de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewes, Region wallonne, Vlaams Gewest provinces",Extreme temperature ,Heat wave,1175,0,0,0,2003-0391,Drought,--
+25/11/2005,26/11/2005,Belgium,BEL,"Region Bruxelles-Capitale/Brussels Hoofdtedelijk Gewes, Région wallonne, Vlaams Gewest",Extreme temperature ,Cold wave,2,0,0,0,2005-0655,Snow/ice,--
+27/12/2005,30/12/2005,Belgium,BEL,"Region de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewes, Vlaams Gewest, Region wallonne provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2005-0713,Snow/ice,--
+/06/2006,/07/2006,Belgium,BEL,"Vlaams Geweest, Region de bruxelles-Capitale/Brussels Hoofdstedelijk Gewes, Region wallonne",Extreme temperature ,Heat wave,940,0,0,0,2006-0383,--,--
+/01/2009,/01/2009,Belgium,BEL,"Leuven city ( Vlaams-Brabant district, Vlaams Gewest province)",Extreme temperature ,Cold wave,1,0,0,0,2008-0633,--,--
+/02/2012,/02/2012,Belgium,BEL,Vlaams Gewest province,Extreme temperature ,Cold wave,3,0,0,0,2012-0019,--,--
+30/06/2015,05/07/2015,Belgium,BEL,"Vlaams Gewest, Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewes, Région wallonne provinces",Extreme temperature ,Heat wave,410,0,0,0,2015-0410,--,--
+//1990,//1990,Belize,BLZ,,Extreme temperature ,Cold wave,0,0,2250,0,1990-0641,--,--
+/07/2000,/07/2000,Bolivia (Plurinational State of),BOL,"Cochabamba, Santa Cruz, La Paz provinces",Extreme temperature ,Cold wave,6,25277,0,0,2000-0416,--,--
+/07/2001,/07/2001,Bolivia (Plurinational State of),BOL,"La Paz, Oruro, Cochabamba, Potosi provinces",Extreme temperature ,Cold wave,9,5,0,0,2001-0482,--,--
+/07/2007,/07/2007,Bolivia (Plurinational State of),BOL,La Paz province,Extreme temperature ,Severe winter conditions,0,0,0,0,2007-0263,Snow/ice,--
+/07/2010,/07/2010,Bolivia (Plurinational State of),BOL,Santa Cruz province,Extreme temperature ,Cold wave,4,0,0,0,2010-0294,--,--
+/08/2013,/08/2013,Bolivia (Plurinational State of),BOL,"Cocapata village (Ayopaya district, Cochabamba province), Quime village (Inquisivi district, La Paz province), Tinquipaya areas (Tomas Frias district, Potosi province), Uncía, Llallagua areas (Rafael Bustillo district, Potosi province), Colquechaca area (Chayanta district, Potosi province), Tomave area (Antonio Quijarro district, Potosi province)",Extreme temperature ,Heat wave,18,17490,0,0,2013-0365,--,--
+15/07/2007,22/07/2007,Bosnia and Herzegovina,BIH,"Stolac, Trebinje, Bileca districts (Republika Srpska), Neum, Citluk, Capljina cities (Neretvljanski, Federacija Bosne I Hercegovine province)",Extreme temperature ,Heat wave,0,0,0,0,2007-0235,--,--
+/01/2009,/01/2009,Bosnia and Herzegovina,BIH,"Sarajevo district (Federacoja Bosne I Hercegovine province), Zenica city (Zenicko-dobojski district, Federacoja Bosne I Hercegovine province), Zvornik, Sokolac, Foca, Doboj districts (Republika Srpska province), Fazlagica Kula (Gacko district, Republika Spska province)",Extreme temperature ,Severe winter conditions,1,10000,0,0,2009-0030,--,--
+19/12/2010,/12/2010,Bosnia and Herzegovina,BIH,Banja Luka district (Republika Srpska province),Extreme temperature ,Cold wave,2,0,0,0,2010-0633,--,--
+02/02/2012,07/02/2012,Bosnia and Herzegovina,BIH,"Sokolac, Cajnice, Kalinovik, Stari Grad, Kladanj, Krupes, Han Pijesak districts (Republika Srpska province), Luka, Krusev Do, Bozici (Srebrenica districts, Republika Srpska province), Drvar, Kupres (Zapadnobosanski district, Federacija Bosne I Hercegovine province)",Extreme temperature ,Cold wave,4,10347,0,0,2012-0019,--,--
+/12/1968,/12/1968,Brazil,BRA,,Extreme temperature ,Heat wave,113,0,0,0,1968-0131,--,--
+/07/1975,/07/1975,Brazil,BRA,Parana,Extreme temperature ,Cold wave,70,600,600000,0,1975-0039,--,--
+/12/1975,/12/1975,Brazil,BRA,,Extreme temperature ,Heat wave,56,0,0,0,1975-0145,--,--
+/05/1988,/05/1988,Brazil,BRA,,Extreme temperature ,Cold wave,77,0,0,0,1988-0191,--,--
+24/06/1994,24/06/1994,Brazil,BRA,Minas Gerais,Extreme temperature ,Cold wave,0,0,475000,0,1994-0160,--,--
+/07/2000,/07/2000,Brazil,BRA,Porto Alegre district (Rio Grande Do Sul province),Extreme temperature ,Cold wave,7,0,0,0,2000-0456,--,--
+/07/2004,/07/2004,Brazil,BRA,"Santa Catarina, Parana provinces",Extreme temperature ,Cold wave,0,0,0,0,2004-0331,--,--
+/02/2010,/02/2010,Brazil,BRA,"Cariocas borough (Nova Lima district, Minas Gerais province), Santos district (Sao Paulo province)",Extreme temperature ,Heat wave,32,0,0,0,2010-0057,--,--
+30/11/1998,08/12/1998,Bulgaria,BGR,"Montana, Sofia",Extreme temperature ,Cold wave,3,323,0,0,1998-0395,--,--
+/01/2000,/01/2000,Bulgaria,BGR,"Sofia province, Sofia-city province",Extreme temperature ,Cold wave,0,0,0,0,2000-0029,--,--
+/06/2000,/07/2000,Bulgaria,BGR,"Sofia, Sofia-city, Stata Zagora, Blagoevgrad, Vidin provinces",Extreme temperature ,Heat wave,7,0,50,0,2000-0382,--,--
+22/01/2006,25/01/2006,Bulgaria,BGR,"Burgas, Varna provinces",Extreme temperature ,Severe winter conditions,18,20,0,0,2005-0713,--,--
+/06/2007,/07/2007,Bulgaria,BGR,"Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Jambol, Kardzhali, Kustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smoljan, Sofia, Sofia-city, Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratca provinces",Extreme temperature ,Heat wave,2,50,0,0,2007-0235,Wildfire,Drought
+/01/2008,/01/2008,Bulgaria,BGR,"Sopot area (Karlovo district, Plovdiv province), Samokov, Pirdop districts (Sofia province), Haskovo, Kardzkali, Sliven, Veliko Tarnovo, Jambol provinces
+
+",Extreme temperature ,Cold wave,10,0,0,0,2008-0007,Snow/ice,Rain
+/01/2010,/01/2010,Bulgaria,BGR,"Sofia, Sofia-city, Shumen provinces, Valtchi Dol district (Varna province), Glavinitca district (Silistra province), Tran district (Pernik province), Knezha district (Vratca province), Sevlievo district (Gabrovo province)",Extreme temperature ,Cold wave,3,0,0,0,2010-0050,--,--
+/01/2012,/02/2012,Bulgaria,BGR,"Chirpan district (Stara Zagora province), Sevlievo district (Gabrovo province), Varna district (Varna province)",Extreme temperature ,Cold wave,30,0,0,0,2012-0019,--,--
+01/12/2012,15/12/2012,Bulgaria,BGR,"Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Jambol, Kardzhali, Kustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smoljan, Sofia, Sofia-city, Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratca, provinces",Extreme temperature ,Cold wave,3,0,0,0,2012-0485,--,--
+06/07/1936,06/07/1936,Canada,CAN,Nationwide (except Yukon and Nothwest territories),Extreme temperature ,Heat wave,500,0,0,0,1936-0006,--,--
+19/01/1982,19/01/1982,Canada,CAN," Labrador, Newfoundland",Extreme temperature ,Cold wave,0,200,0,0,1982-0247,--,--
+/12/1992,/04/1993,Canada,CAN,Ontario,Extreme temperature ,Cold wave,0,0,2000000,0,1992-0504,--,--
+21/12/2013,22/12/2013,Canada,CAN,"Ontario, Quebec provinces",Extreme temperature ,Severe winter conditions,10,0,0,0,2013-0528,--,--
+01/01/2014,09/01/2014,Canada,CAN,"Ontario, Manitoba, Saskatchewan provinces",Extreme temperature ,Cold wave,0,0,0,0,2014-0009,--,--
+26/07/2004,30/07/2004,Canary Is,SPI,Canarias province,Extreme temperature ,Heat wave,13,113,0,0,2004-0361,--,--
+15/08/1995,15/08/1995,Chile,CHL,"Longuimay, Curarrehue, Pucon, Melipouco, Curacautin",Extreme temperature ,Cold wave,2,10000,10000,0,1995-0176,--,--
+03/07/2000,03/07/2000,Chile,CHL,"Antofagasta, Araucania, Arica y Painacota, Atacama, Coquimbo, Los Lagos, Los Rios, Tarapaca provinces",Extreme temperature ,Cold wave,0,0,10000,0,2000-0423,--,--
+/07/2002,/07/2002,Chile,CHL,"Aisen del Gral. Carlos Ibañez del Campo, Antofagasta, Araucania, Arica y Painacota, Atacama, Biobio, Coquimbo, Libertador Gral. Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y Antartica chilena, Maule, Metropolitana, Tarapaca, Valparaiso provinces",Extreme temperature ,Cold wave,0,25000,0,0,2002-0495,--,--
+/07/2004,/07/2004,Chile,CHL,"Aisen del Gral. Carlos Ibañez del Campo, Antofagasta, Araucania, Arica y Painacota, Atacama, Biobio, Coquimbo, Libertador Gral. Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y Antartica chilena, Maule, Metropolitana, Tarapaca, Valparaiso provinces",Extreme temperature ,Cold wave,0,0,0,0,2004-0331,--,--
+/07/2007,/07/2007,Chile,CHL,"Osorno district (Los Lagos province), Santiago district (Metropolitan province), Araucania province",Extreme temperature ,Severe winter conditions,6,0,0,0,2007-0263,--,--
+/07/2010,/07/2010,Chile,CHL,Aisen del Gral. Carlos Ibañez del Campo province,Extreme temperature ,Cold wave,0,150,0,0,2010-0294,--,--
+13/07/2011,02/11/2011,Chile,CHL,"Lonquimay villages (Malleco districts, Araucania province), Cunco, Curarrehue, Pucon, Villarrica, Vilcun villages (Cautin district, Araucania province), Biobio province",Extreme temperature ,Severe winter conditions,0,25475,0,0,2011-0316,--,--
+13/07/2011,19/07/2011,Chile,CHL,"Lonquimay, Curacautín, Purén villages (Malleco district, Araucania province), Cunco, Pucón, Curarrehue, Melipeuco, Carahue, Vilcún, Villarrica villages (Cautin district, Araucania province), Alto Bio-bío village (Biobio district, Biobio province)",Extreme temperature ,Severe winter conditions,0,25475,0,0,2011-0661,--,--
+10/09/2013,30/09/2013,Chile,CHL,"Biobio, Libertador Gral. Bernardo O'Higgins, Maule, Metropolitana, Valparaiso provinces",Extreme temperature ,Severe winter conditions,0,0,1000000,0,2013-0407,--,--
+//1986,//1986,China,CHN,Northwest,Extreme temperature ,Cold wave,2,30000,0,0,1986-0015,--,--
+/08/1994,/08/1994,China,CHN,Beijing,Extreme temperature ,Heat wave,104,0,0,0,1994-0616,--,--
+/01/1997,/01/1997,China,CHN,Xinjiang Region,Extreme temperature ,Cold wave,24,100000,29000,0,1997-0003,--,--
+09/07/1997,09/07/1997,China,CHN,Beijing,Extreme temperature ,Heat wave,16,180,0,0,1997-0343,--,--
+/09/1997,/09/1997,China,CHN,"Tibet, Qinghai",Extreme temperature ,Cold wave,0,2000,0,0,1997-0355,--,--
+/07/2002,/07/2002,China,CHN,"Chongqing Shi province, Shijiazhuang district (Hebei Sheng province)",Extreme temperature ,Heat wave,7,3500,0,0,2002-0531,--,--
+02/07/2004,03/07/2004,China,CHN,"Guangzhou city (Guangzhou district, Guangdong Sheng province)",Extreme temperature ,Heat wave,39,0,0,0,2004-0310,--,--
+/07/2005,/07/2005,China,CHN,Shanghai city (Shanghai Shi province),Extreme temperature ,Heat wave,0,200,0,0,2005-0339,--,--
+10/01/2008,05/02/2008,China,CHN,"Zhejiang Sheng, Sichuan Sheng, Anhui Sheng, Hubei Sheng, Hunan Sheng, Guizhou Sheng, Guangxi Zhuangzu Zizhiqu, Jiangxi Sheng provinces, Shanghai city (Shanghai Shi province)",Extreme temperature ,Severe winter conditions,129,77000000,21100000,1600000,2008-0020,Cold wave,--
+14/02/2008,18/02/2008,China,CHN,Yunnan Sheng province,Extreme temperature ,Severe winter conditions,16,0,0,0,2008-0073,Snow/ice,--
+01/01/2011,24/01/2011,China,CHN,"Sichuan Sheng, Jiangxi Sheng, Guizhou Sheng, Yunnan Sheng, Anhui Sheng, Hunan Sheng, Hubei Sheng, Guangxi Zhuangzu Zizhiqu provinces",Extreme temperature ,Cold wave,2,4033472,281000,0,2011-0002,--,--
+07/02/2012,09/02/2012,China,CHN,Xizang Zizhiqu province,Extreme temperature ,Severe winter conditions,0,50650,20200,0,2012-0559,--,--
+01/07/2013,15/08/2013,China,CHN,Shanghai Shi province,Extreme temperature ,Heat wave,40,0,0,0,2013-0582,--,--
+20/01/2016,26/01/2016,China,CHN,"Yakeshi city (Hulunbuir district, Nei Mongol Zizhiqu province), Harbin district (Heilongjiang Sheng province), Mohe area (Daxing'anling district, Heilongjiang province), Changsha district (Hunan Sheng province), Changchun district (Jilin Sheng province), Zhejiang Sheng, Beijing Shi, Hainan Sheng, Shanghai Shi provinces",Extreme temperature ,Cold wave,5,0,1600000,0,2016-0023,--,--
+/06/2000,/06/2000,Croatia,HRV,"Zagreb city (Zagreb province), Split city (Split-dalmatija province), Osijek city (Osijek-baranja province), Rijeka city (Primorje-gorski Kota province)",Extreme temperature ,Heat wave,40,200,240000,0,2000-0324,--,--
+/07/2003,/07/2003,Croatia,HRV,"Bjelovar-bilogora, Dubrovnik-Neretva, Grad Zagreb, Istra, Karlovac, Koprivnica-krizevci, Krapina-zagorje, Lika-senj, Medimurje, Osijek-baranja, Pozega-slavonija, Primorje-gorski Kota, ibenik, Sisak-moslavina, Slavonski Brod-posav, Split-dalmatija, Varazdin, Virovitica-podravina, Vukovar-srijem, Zadar-Knin, Zagreb provinces",Extreme temperature ,Heat wave,788,0,0,0,2003-0391,Drought,--
+27/12/2005,30/12/2005,Croatia,HRV,"Bjelovar-bilogora, Dubrovnik-neretva, Grad Zagreb, Istra, Karlovac, Koprivnica-krizevci, Krapina-zagorje, Lika-senj, Medimurje, Osijek-baranja, Pozega-slavonija, Primorje-gorski Kota, Sibenik, Sisak-moslavina, Slavonski Brod-posav, Split-dalmatija, Varazdin, Virovitica-podravina, Vukovar-srijem, Zadar-knin, Zagreb provinces",Extreme temperature ,Severe winter conditions,5,0,0,0,2005-0713,Snow/ice,--
+18/12/2010,/12/2010,Croatia,HRV,Cakovec city (Medimurje province),Extreme temperature ,Cold wave,0,0,0,0,2010-0633,--,--
+/02/2012,/02/2012,Croatia,HRV,"Bjelovar-bilogora, Dubrovnik-Neretva, Grad Zagreb, Istra, Karlovac, Koprivinca-krizevci, Krapina-zagorje, Lika-senj, Medimurje, Osijek-baranja, Pozega-slavonija, Primorje-gorski Kota, ibenik, Sisak-moslavia, Slavonski Brod-posav, Split-dalmatija, Varazdin, Vukovar-srijem, Zadar-Knin, Zagrb, Virovitica-podravina provinces",Extreme temperature ,Cold wave,3,0,0,0,2012-0019,--,--
+07/12/2012,31/12/2012,Croatia,HRV,"Bjelovar-bilogora, Dubrovnik-neretva, Grad Zagreb, Istra, Karlovac, Koprivnica-krizevci, Krapina-zagorje, Lika-senj, Medimurje, Osijek-baranja, Pozega-slavonija, Primorje-gorski Kota, Sibenik, Sisak-moslavina, Slavonski Brod-posav, Split- dalmatija, Varazdin, Virovitica-podravina, Vukovar-srijem, Zadar-knin, Zagreb provinces",Extreme temperature ,Cold wave,4,0,0,0,2012-0485,--,--
+10/08/1998,10/08/1998,Cyprus,CYP,,Extreme temperature ,Heat wave,52,100,0,0,1998-0241,--,--
+/07/2000,/07/2000,Cyprus,CYP,Nicosia province,Extreme temperature ,Heat wave,5,400,0,0,2000-0398,--,--
+/06/2007,/07/2007,Cyprus,CYP,"Famgusta, Kyrenia, Larnaca, Limassol, Nicosia, Paphos provinces",Extreme temperature ,Heat wave,4,0,0,0,2007-0235,--,--
+/07/2003,/07/2003,Czech Republic (the),CZE,"Jihocesky, Jihomoravsky, Praha, Severocesky, Severomoravsky, Stredocesky, Vychodocesky, Zapadocesky provinces",Extreme temperature ,Heat wave,418,0,0,0,2003-0391,--,--
+27/12/2005,/01/2006,Czech Republic (the),CZE,"Jihocesky, Jihomoravsky, Praha, Severomoravsky, Stredocesky, Vychodocesky provinces",Extreme temperature ,Severe winter conditions,15,0,0,0,2005-0713,--,--
+/11/2010,/12/2010,Czech Republic (the),CZE,Praha city (Praha province),Extreme temperature ,Cold wave,12,0,0,0,2010-0615,--,--
+/01/2012,/02/2012,Czech Republic (the),CZE,Opava district (Severomoravsky province),Extreme temperature ,Cold wave,25,0,0,0,2012-0019,--,--
+07/12/2012,07/12/2012,Czech Republic (the),CZE,"Jihocesky, Jihomoravsky, Praha, Severocesky, Severomoravsky, Stredocesky, Vychodocesky, Zapadocesky provinces",Extreme temperature ,Cold wave,7,0,0,0,2012-0485,--,--
+10/11/1981,10/11/1981,Czechoslovakia,CSK,,Extreme temperature ,Severe winter conditions,0,0,0,0,1981-0215,--,--
+15/01/1982,15/01/1982,Czechoslovakia,CSK,,Extreme temperature ,Severe winter conditions,0,0,0,0,1982-0300,--,--
+15/01/1985,15/01/1985,Czechoslovakia,CSK,,Extreme temperature ,Cold wave,0,0,0,0,1985-0247,--,--
+12/06/1995,12/06/1995,Egypt,EGY,Nord,Extreme temperature ,Heat wave,32,0,0,0,1995-0355,--,--
+07/07/1996,07/07/1996,Egypt,EGY,,Extreme temperature ,Heat wave,22,0,0,0,1996-0367,--,--
+/01/2000,/01/2000,Egypt,EGY,"Kalyoubia, Shrkia, Fayoum province",Extreme temperature ,Cold wave,3,105,0,0,2000-0092,--,--
+09/08/2015,09/08/2015,Egypt,EGY,"Cairo, Qena provinces ; Marsa Matruh district (Matrouh province)",Extreme temperature ,Heat wave,110,66,0,0,2015-0342,--,--
+/11/2006,/11/2006,El Salvador,SLV,Santa Tecla district (La Libertad province),Extreme temperature ,Cold wave,1,0,0,0,2006-0709,--,--
+/01/2006,/01/2006,Estonia,EST,"Lääne maakond, Põlva maakond, Tartu maakond, Valga maakond, Võru maakond provinces",Extreme temperature ,Severe winter conditions,3,0,0,0,2005-0713,--,--
+/02/2012,/02/2012,Estonia,EST,"Harju maakond, Hiiu maakond, Ida-Viru maakond, Jarva maakond, Jõgeva maakond, Laane-Viru maakond, Laane maakond, Parnu maakond, Polva maakond, Rapla maakond, Saare maakond, Tartu maakond, Valga maakond, Viljandi maakond, Viljandi maakond, Voru maakond provinces + Administrative unit not available province",Extreme temperature ,Cold wave,1,0,0,0,2012-0019,--,--
+15/01/1985,30/01/1985,France,FRA,Countrywide,Extreme temperature ,Cold wave,0,0,0,132300,1985-0251,--,--
+24/07/1990,24/07/1990,France,FRA,Southwestern,Extreme temperature ,Heat wave,5,0,0,0,1990-0085,--,--
+/02/1991,/02/1991,France,FRA,,Extreme temperature ,Cold wave,20,0,0,0,1991-0020,--,--
+20/04/1991,21/04/1991,France,FRA,"Champagne, Cognac, Provence, Touraine, Bordeaux",Extreme temperature ,Cold wave,0,0,772000,0,1991-0497,--,--
+04/01/1997,04/01/1997,France,FRA,South,Extreme temperature ,Cold wave,23,10000,0,0,1997-0006,--,--
+01/08/2003,20/08/2003,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",Extreme temperature ,Heat wave,19490,0,4400000,0,2003-0391,Drought,--
+23/11/2005,27/11/2005,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",Extreme temperature ,Cold wave,6,0,0,0,2005-0655,Snow/ice,--
+27/12/2005,30/12/2005,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Comte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Midi-Pyrenees, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote-d'Azur, Rhone-Alpes provinces",Extreme temperature ,Severe winter conditions,2,0,0,0,2005-0713,Snow/ice,Snow/ice
+15/07/2006,23/07/2006,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",Extreme temperature ,Heat wave,1388,0,0,0,2006-0383,--,--
+06/01/2009,08/01/2009,France,FRA,"Ile-de-France, Nord-Pas-de-Calais, Provence-Alpes-Cote-d'Azur provinces",Extreme temperature ,Cold wave,2,0,0,0,2008-0633,--,--
+14/01/2009,14/01/2009,France,FRA,"Lyon city (Rhone district, Rhone-Alpes province)",Extreme temperature ,Severe winter conditions,3,200,0,0,2009-0029,--,--
+18/12/2009,19/12/2009,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Comte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Midi-Pyrenees, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote-d'Azur, Rhone-Alpes provinces",Extreme temperature ,Cold wave,2,0,0,0,2009-0571,--,--
+28/11/2010,01/12/2010,France,FRA,"Bretagne, Auvergne, Rhones-Alpes provinces",Extreme temperature ,Cold wave,3,0,0,0,2010-0615,--,--
+/02/2012,/02/2012,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",Extreme temperature ,Cold wave,12,0,0,0,2012-0019,--,--
+29/06/2015,09/08/2015,France,FRA,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",Extreme temperature ,Heat wave,3275,0,0,0,2015-0410,--,--
+04/01/1997,04/01/1997,Germany,DEU,,Extreme temperature ,Cold wave,30,0,0,0,1997-0005,--,--
+/08/2003,/08/2003,Germany,DEU,"Baden-Wuerttemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Nierdersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thueringen provinces",Extreme temperature ,Heat wave,9355,0,1650000,10000,2003-0391,Drought,--
+25/11/2005,27/11/2005,Germany,DEU,Nordrhein-Westfalen province,Extreme temperature ,Cold wave,1,165,300000,150000,2005-0655,Snow/ice,--
+22/01/2006,28/01/2006,Germany,DEU,"Baden-Wuerttemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thueringen provinces",Extreme temperature ,Severe winter conditions,10,0,0,0,2005-0713,--,--
+15/07/2006,23/07/2006,Germany,DEU,"Dresden city (Dresden district, Sachsen province), Brombach lake (Mittelfranken district, Bayern province)",Extreme temperature ,Heat wave,2,0,0,0,2006-0383,--,--
+05/01/2009,/01/2009,Germany,DEU,"Berlin, Brandenburg, Bremen, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Sachsen, Sachsen-Anhalt, Thueringen provinces",Extreme temperature ,Cold wave,1,0,0,0,2008-0633,--,--
+18/12/2009,25/01/2010,Germany,DEU,"Bayern, Berlin, Hamburg provinces, Leipzig district (Sachsen province), Hanover city (no Admin 2, Niedersachsen province), Gruenow city (no admin 2, Brandenburg province)",Extreme temperature ,Cold wave,14,0,0,0,2009-0571,--,--
+28/11/2010,01/12/2010,Germany,DEU,"Querfurt area (Sachsen-Anhalt province), Frankfurt airport (Darmstadt district, Hessen province)",Extreme temperature ,Cold wave,1,0,0,0,2010-0615,--,--
+/02/2012,/02/2012,Germany,DEU,"Baden-Wuerttemberg, Bayern, Berlon, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thueringen provinces",Extreme temperature ,Cold wave,4,0,0,0,2012-0019,--,--
+07/12/2012,31/12/2012,Germany,DEU,"Baden-Wuerttemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thueringen provinces",Extreme temperature ,Cold wave,2,0,0,0,2012-0485,--,--
+/01/1979,/01/1979,Germany Fed Rep,DFR,North,Extreme temperature ,Cold wave,0,0,80000,0,1979-0014,--,--
+05/08/1985,05/08/1985,Greece,GRC,Countrywide,Extreme temperature ,Heat wave,20,0,0,0,1985-0257,--,--
+20/07/1987,31/07/1987,Greece,GRC,,Extreme temperature ,Heat wave,1000,0,0,0,1987-0596,--,--
+03/07/1988,03/07/1988,Greece,GRC,,Extreme temperature ,Heat wave,56,0,0,0,1988-0298,--,--
+05/02/1991,05/02/1991,Greece,GRC,,Extreme temperature ,Cold wave,5,0,0,0,1991-0034,--,--
+/07/2000,/07/2000,Greece,GRC,"Anatoliki Makedonia Kai Thraki, Attiki, Dytiki Ellada, Dytiki Makedonia, Ionioi Nisoi, Ipeiros, Kentriki Makedonia, Kriti, Peloponnisos, Sterea Ellada, Thessalia, Voreio Aigaio, Notio Aigaio provinces",Extreme temperature ,Heat wave,27,176,3000,0,2000-0379,--,--
+/06/2007,/07/2007,Greece,GRC,"Corfu Isl. (kerkyras district, Ionioi Nisoi province), Sterea Ellada, Peloponnisos, Thessalia, Dytiki Ellada, Attiki, Notio Aigaio province",Extreme temperature ,Heat wave,16,0,0,0,2007-0235,Wildfire,--
+/02/2012,/02/2012,Greece,GRC,"Anatoliki Makedonia Kai Thraki, Attiki, Dytiki Ellada, Dytiki Makedonia, Ionioi Nisoi, Ipeiros, Kentriki Makedonia, Kriti, Notio Aigaio, Peloponnisos, Sterea Elleda, Thessalia, Voreio Aigaio provinces",Extreme temperature ,Cold wave,5,0,0,0,2012-0019,--,--
+/11/2001,/11/2001,Guatemala,GTM,"El Progreso, Jalapa, Chiquimula, Zacapa, Jutiapa provinces",Extreme temperature ,Cold wave,0,1850,0,0,2001-0753,--,--
+/11/2006,23/11/2006,Guatemala,GTM,"Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Petén, Quetzaltenango, Quiché, Retalhuleu, Sacatepéquez, San Marcos, Santa Rosa, Sololá, Suchitepéquez, Totonicapán, Zacapa provinces",Extreme temperature ,Cold wave,6,0,0,0,2006-0709,--,--
+/12/2011,/12/2011,Guatemala,GTM,"Huehuetenango, Quiche, San Marcos, Solola, Quetzaltenango, Sacatepequez, Guatemala, Jalapa, Chiquimula provinces",Extreme temperature ,Cold wave,0,2643,0,0,2011-0513,--,--
+/11/2014,/01/2015,Guatemala,GTM,"Alta Verapaz, Guatemala, Huehuetenango, Jalapa, Quetzaltenango, Quiché, Sacatepéquez, San Marcos, Solola, Totonicapan provinces",Extreme temperature ,Severe winter conditions,0,8141,0,0,2014-0528,--,--
+28/11/1987,28/11/1987,Hong Kong,HKG,,Extreme temperature ,Cold wave,10,7,0,0,1987-0296,--,--
+/12/2001,/12/2001,Hungary,HUN,"Bacs-kiskun, Baranya, Bekes, Borsod-abauj-zemplen, Budapest, Csongrad, Fejer, Gyor-moson-sopron, Hajdu-bihar, Heves, Jasz-nagykun-szolnok, Komarom-esztergom, Nograd, Pest, Somogy, Szabolcs-szatmar-bereg, Tolna, Vas, Veszprem, Zala provinces",Extreme temperature ,Cold wave,81,0,0,0,2001-0686,--,--
+27/12/2005,/01/2006,Hungary,HUN,"Bacs-kiskun, Baranya, Bekes, Borsod-abauj-zemplen, Budapest, Csongrad, Fejer, Gyor-moson-sopron, Hajdu-bihar, Heves, Jasz-nagykun-szolnok, Komarom-esztergom, Nograd, Pest, Somogy, Szabolcs-szatmar-bereg, Tolna, Vas, Veszprem, Zala provinces",Extreme temperature ,Severe winter conditions,48,0,0,0,2005-0713,Snow/ice,--
+/07/2007,/07/2007,Hungary,HUN,"Bacs-kiskun, Baranya, Bekes, Borsod-abauj-zemplen, Budapest, Csongrad, Fejer, Gyor-moson-sopron, Hajdu-bihar, Heves, Jasz-nagykun-szolnok, Komarom-esztergom, Nograd, Pest, Somogy, Szabolcs-szatmar-bereg, Tolna, Vas, Veszprem, Zala provinces",Extreme temperature ,Heat wave,500,0,0,0,2007-0235,--,--
+/01/2008,/01/2008,Hungary,HUN,Battonya city (Bekes province),Extreme temperature ,Cold wave,17,500,0,0,2008-0007,--,--
+/02/2012,/02/2012,Hungary,HUN,"Bacs-kiskun, Baranya, Bekes, Borsod-abauj-zemplen, Budapest, Csongrád, Fejér, Gyor-moson-sopron, Hajdu-bihar, Heves, Jasz-nagykun-szolnok, Komarom-esztergom, Nógrád, Pest, Somogy, Szabolcs-szatmar-bereg, Tolna, Vas, Veszprém, Zala",Extreme temperature ,Cold wave,16,0,0,0,2012-0019,--,--
+/06/1953,/06/1953,India,IND,,Extreme temperature ,Heat wave,400,0,0,0,1953-0042,--,--
+/05/1958,/05/1958,India,IND,,Extreme temperature ,Heat wave,651,0,0,0,1958-0031,--,--
+/12/1961,/12/1961,India,IND,,Extreme temperature ,Cold wave,400,0,0,0,1961-0055,--,--
+/06/1965,/06/1965,India,IND,,Extreme temperature ,Heat wave,100,0,0,0,1965-0096,--,--
+05/01/1973,05/01/1973,India,IND,"Uttar Pradesh, Bihar",Extreme temperature ,Cold wave,115,0,0,0,1973-0009,--,--
+23/12/1973,23/12/1973,India,IND,"Bihar, Delhi",Extreme temperature ,Cold wave,146,0,0,0,1973-0054,--,--
+/05/1978,/05/1978,India,IND,,Extreme temperature ,Heat wave,150,0,0,0,1978-0063,--,--
+/05/1979,/05/1979,India,IND,Bihar,Extreme temperature ,Heat wave,300,0,0,0,1979-0045,--,--
+/07/1979,/07/1979,India,IND,Rajasthan,Extreme temperature ,Heat wave,100,0,0,0,1979-0061,--,--
+/01/1980,/01/1980,India,IND,Bihar,Extreme temperature ,Cold wave,79,0,0,0,1980-0012,--,--
+29/04/1980,29/04/1980,India,IND,"Bihar, Uttar Pradesh states",Extreme temperature ,Heat wave,50,0,0,0,1980-0357,--,--
+/01/1981,/01/1981,India,IND,Northern,Extreme temperature ,Cold wave,300,0,0,0,1981-0003,--,--
+/12/1982,/12/1982,India,IND,Northern,Extreme temperature ,Cold wave,400,0,0,0,1982-0129,--,--
+/12/1984,/12/1984,India,IND,Northeast,Extreme temperature ,Cold wave,290,0,0,0,1984-0115,--,--
+06/06/1985,06/06/1985,India,IND,Bihar,Extreme temperature ,Heat wave,103,0,0,0,1985-0069,--,--
+26/12/1985,26/12/1985,India,IND,"Bihar, Uttar Pradesh, Jammu and Kashmir, Gujarat",Extreme temperature ,Cold wave,225,0,144000,0,1985-0141,--,--
+/06/1987,/06/1987,India,IND, Rajasthan,Extreme temperature ,Heat wave,100,0,0,0,1987-0104,--,--
+/05/1988,/05/1988,India,IND,"Northern, Western, Central India",Extreme temperature ,Heat wave,418,200,0,0,1988-0183,--,--
+/05/1988,/05/1988,India,IND,Rajasthan,Extreme temperature ,Heat wave,32,0,0,0,1988-0190,--,--
+/12/1989,/12/1989,India,IND,Bihar,Extreme temperature ,Cold wave,109,0,0,0,1989-0235,--,--
+/01/1989,/01/1989,India,IND,,Extreme temperature ,Cold wave,18,0,0,0,1989-0427,--,--
+29/12/1990,29/12/1990,India,IND,"North, West",Extreme temperature ,Cold wave,86,0,0,0,1990-0423,--,--
+/01/1990,/01/1990,India,IND,"Haryana, Punjab, Jammu, Himachal Pradesh, Rajasthan states",Extreme temperature ,Cold wave,178,0,0,0,1990-0632,--,--
+/01/1992,/01/1992,India,IND,Bihar state,Extreme temperature ,Cold wave,275,0,0,0,1992-0500,--,--
+/05/1994,/05/1994,India,IND,"New Delhi, Rajasthan, Madhya Pradesh",Extreme temperature ,Heat wave,161,0,0,0,1994-0624,--,--
+08/05/1995,21/06/1995,India,IND,"Bihar, Punjab, Haryana and Jammu, Kashmir, Tamil Nadu, Maharashtra, Orissa, Uttar Pradesh, New Delhi, Rajasthan, Madhya Pradesh",Extreme temperature ,Heat wave,558,0,0,0,1995-0112,--,--
+26/05/1998,26/05/1998,India,IND,"Orissa, Andhra Pradesh, Rajasthan, Madhya Pradesh, Uttar Pradesh, Gujarat states",Extreme temperature ,Heat wave,2541,0,0,0,1998-0217,--,--
+15/12/1998,15/12/1998,India,IND,"Uttar Pradesh, Bihar, Rajasthan, Jammu and Cachemire states",Extreme temperature ,Cold wave,100,0,0,0,1998-0455,--,--
+/04/1999,/04/1999,India,IND,"Orissa, Andhra Pradesh, Gujurat, Uttar Pradesh",Extreme temperature ,Heat wave,140,0,0,0,1999-0125,--,--
+/01/2000,/01/2000,India,IND,"Bihar, Uttar Pradesh, West Bengal provinces",Extreme temperature ,Cold wave,275,0,0,0,2000-0020,--,--
+/04/2000,/04/2000,India,IND,"Andhra Pradesh, Chhattisgarh, Gujarat, Madhya Pradesh, Orissa, Rajasthan provinces",Extreme temperature ,Heat wave,7,0,0,0,2000-0223,--,--
+/01/2001,/01/2001,India,IND,"Uttar Pradesh, Bihar, Punjab provinces",Extreme temperature ,Cold wave,125,0,0,0,2001-0011,--,--
+/12/2001,/12/2001,India,IND,"Uttar Pradesh, Rajasthan provinces",Extreme temperature ,Cold wave,48,0,0,0,2001-0681,--,--
+10/05/2002,22/05/2002,India,IND,"Madhya Pradesh, Andhra Pradesh, Uttar Pradesh, Delhi, Rajasthan, Punjab, Haryana, Orissa, West Bengal provinces",Extreme temperature ,Heat wave,1030,0,0,0,2002-0290,--,--
+/12/2002,/12/2002,India,IND,"Bihar, Uttar Pradesh, Himachal Pradesh, Rajasthan, Jharkhand, Jammu and Kashmir, Punjab, Haryana, Delhi provinces",Extreme temperature ,Cold wave,900,0,0,0,2002-0818,--,--
+14/05/2003,06/06/2003,India,IND,"Andhra Pradesh, Orissa, Tamil Nadu, Vidarbha (=part of Maharashtra), Chhattisgarh, Jharkland, Uttar Pradesh, Rajasthan, Madhya Pradesh, Bihar provinces",Extreme temperature ,Heat wave,1210,0,400000,0,2003-0250,Drought,--
+15/12/2003,/01/2004,India,IND,"Uttar Pradesh, Himachal Pradesh, Haryana, Jammu and Kashmir provinces",Extreme temperature ,Cold wave,400,0,0,0,2003-0636,--,--
+/06/2005,/06/2005,India,IND,"Uttar Pradesh, Bihar, West Bengal, Orissa, Maharashtra, Andhra Pradesh provinces",Extreme temperature ,Heat wave,329,0,0,0,2005-0323,--,--
+/12/2005,/01/2006,India,IND,"Uttar Pradesh, Punjab, Haryana, Himachal Pradesh, Delhi, Bihar, Rajasthan, Jammu and Kashmir provinces",Extreme temperature ,Severe winter conditions,180,0,0,0,2005-0701,--,--
+/05/2006,/05/2006,India,IND,"Uttar Pradesh, Orissa, Punjab, Delhi provinces",Extreme temperature ,Heat wave,47,0,0,0,2006-0237,--,--
+/04/2007,/06/2007,India,IND,"Uttar Pradesh, Rajasthan, Punjab, Delhi provinces",Extreme temperature ,Heat wave,72,0,0,0,2007-0207,--,--
+/12/2007,/01/2008,India,IND,"Uttar Pradesh, Jammu and Kashmir, Gujarat provinces",Extreme temperature ,Cold wave,47,0,0,0,2007-0674,--,--
+11/03/2007,14/03/2007,India,IND,Jammu and Kashmir province,Extreme temperature ,Cold wave,66,25,0,0,2007-0687,Snow/ice,Rain
+/12/2008,/01/2009,India,IND,"Uttar Pradesh, Bihar, Haryana, Punjab, Himachal Pradesh, Uttarakhand, Jammu and Kashmir provinces",Extreme temperature ,Cold wave,70,0,0,0,2008-0616,--,--
+14/04/2009,26/06/2009,India,IND,"Orissa, West Bengal, Bihar, Uttar Pradesh, Jharkhand, Andhra Pradesh provinces",Extreme temperature ,Heat wave,120,25,0,0,2009-0175,--,--
+02/01/2010,13/01/2010,India,IND,"Srinagar city ('72808' district, '40424' Jammu and Kashmir province), Uttar Pradesh, Himachal Pradesh, Delhi, Bihar provinces",Extreme temperature ,Cold wave,100,0,0,0,2009-0595,--,--
+/03/2010,/05/2010,India,IND,"Delhi, Haryana, Madhya Pradesh, Orissa, Rajasthan, Uttar Pradesh provinces",Extreme temperature ,Heat wave,250,0,0,0,2010-0206,--,--
+01/01/2011,18/01/2011,India,IND,"Delhi province, Allahabad, Pratapgarh, Jaunpur, Bara Banki districts (Uttar Pradesh province), Sundernagar city (Mandi district, Himachal Pradesh province), Bhuntar city (Kullu district, Himachal Pradesh province), Shimla, Solan districts (Himachal Pradesh province), Leh city ('40422' Jammu and Kashmir province), Qazigund city ('40425' Jammu and Kashmir province), Bihar province",Extreme temperature ,Cold wave,80,0,0,0,2011-0007,--,--
+16/12/2011,31/12/2011,India,IND,"Uttar Pradesh, Punjab, Haryana provinces",Extreme temperature ,Cold wave,132,0,0,0,2011-0643,--,--
+15/01/2012,17/01/2012,India,IND,"Karimnagar, Vishakhapatnam, Guntur districts (Andhra Pradesh province)",Extreme temperature ,Cold wave,15,0,0,0,2012-0015,--,--
+22/12/2012,20/01/2013,India,IND,"Bihar, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab, Rajasthan, Uttar Pradesh provinces",Extreme temperature ,Cold wave,249,0,0,0,2012-0538,--,--
+1/04/2013,30/05/2013,India,IND,"Adilabad, East Godavari, Guntur, Karimnagar, Khammam, Krishna, Nalgonda, Nizamabad, Prakasam, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",Extreme temperature ,Heat wave,557,0,0,0,2013-0208,--,--
+20/01/2014,24/01/2014,India,IND,"Uttar Pradesh, Jammu and Kashmir, Uttarakhand, Delhi provinces",Extreme temperature ,Cold wave,24,0,0,0,2014-0047,Fog,--
+07/12/2014,09/12/2014,India,IND,Muzaffarnagar district (Uttar Pradesh province),Extreme temperature ,Cold wave,16,0,0,0,2014-0520,--,--
+17/12/2014,18/12/2014,India,IND,"Himachal Pradesh, Uttarakhand, Uttar Pradesh provinces",Extreme temperature ,Severe winter conditions,140,0,0,0,2014-0523,Snow/ice,Fog
+20/05/2015,31/05/2015,India,IND,"Delhi, Andhra Pradesh, Orissa provinces",Extreme temperature ,Heat wave,2248,0,0,0,2015-0189,--,--
+01/04/2016,20/05/2016,India,IND,"Andhra Pradesh, Rajasthan, Telangana, Odisha, Bihar, Jharkhand, Tamil Nadu,UP provinces",Extreme temperature ,Heat wave,300,0,0,0,2016-0133,--,--
+/07/1953,/07/1953,Iran (Islamic Republic of),IRN,,Extreme temperature ,Heat wave,158,0,0,0,1953-0047,--,--
+25/02/1992,25/02/1992,Israel,ISR,,Extreme temperature ,Cold wave,0,0,550000,150000,1992-0028,--,--
+/07/2000,/07/2000,Israel,ISR,"Central District, Haifa, Jerusalem, Northern, Southern District, Tel Aviv provinces",Extreme temperature ,Heat wave,0,0,0,0,2000-0473,--,--
+04/07/1998,04/07/1998,Italy,ITA,Calabria,Extreme temperature ,Heat wave,10,0,0,0,1998-0204,--,--
+16/07/2003,15/08/2003,Italy,ITA,"Milano, Varese districts (Lombardia province), Torino district (Piemonte province), Firenze district (Toscana province), Lecce district (Puglia province), Genova district (Liguria province)",Extreme temperature ,Heat wave,20089,0,4400000,0,2003-0391,Drought,--
+27/12/2005,/01/2006,Italy,ITA,"Emilia-romagna, Friuli-venezia Giulia, Liguria, Lombardia, Piemonte, Sicilia, Toscana, Trentino-alto Adige, Valle D'aosta, Veneto provinces",Extreme temperature ,Severe winter conditions,9,0,0,0,2005-0713,Snow/ice,--
+/06/2007,/06/2007,Italy,ITA,"Calabria, Sicilia, Trentino-alto Adige provinces",Extreme temperature ,Heat wave,6,0,0,0,2007-0235,Wildfire,--
+21/12/2009,21/12/2009,Italy,ITA,"Veneto province, Milano district (Lombardia province), Friuli-venezia Giulia province",Extreme temperature ,Cold wave,0,0,0,0,2009-0571,--,--
+01/12/2010,01/12/2010,Italy,ITA,"Lombardia, Piemonte, Emilia-romagna, Veneto, Roma district (Lazio province), Bolzano district (Trentino-alto Adige province)",Extreme temperature ,Cold wave,0,0,0,0,2010-0615,--,--
+17/08/2011,24/08/2011,Italy,ITA,"Milano district (Lombardia province), Torino district (Piemonte province), Trieste district (Friuli-venezia Giulia province), Verona district (Veneto province), Messina district (Sicilia province), Roma district (Lazio province), Napoli district (Campania province)",Extreme temperature ,Heat wave,10,0,0,0,2011-0329,--,--
+/02/2012,/02/2012,Italy,ITA,"Milano district (Lombardia province), Abruzzi, Emilia-romagna, Marche, Umbria, Toscana, Campania, Sicilia provinces",Extreme temperature ,Cold wave,45,0,132601,0,2012-0019,--,--
+/07/2004,/08/2004,Japan,JPN,Tokyo city (Tookyoo province),Extreme temperature ,Heat wave,10,300,0,0,2004-0352,--,--
+/08/2007,17/08/2007,Japan,JPN,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",Extreme temperature ,Heat wave,62,3000,0,0,2007-0358,--,--
+19/07/2010,25/07/2010,Japan,JPN,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",Extreme temperature ,Heat wave,170,15000,0,0,2010-0331,--,--
+/07/2011,/08/2011,Japan,JPN,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",Extreme temperature ,Heat wave,36,22000,0,0,2011-0573,--,--
+/05/2013,/09/2013,Japan,JPN,"Ehime, Kagawa, Kooti, Tokusima provinces (Shikoko Isl.), Hukuoka, Kagosima, Kumamoto, Miyazaki, Nagasaki, Ooita, Saga provinces (Kyushu Isl.), Oosaka, Kyooto provinces (Honshu Isl.), Kobe city (Hyoogo province) (Honshu Isl.)",Extreme temperature ,Heat wave,338,54000,0,0,2013-0316,--,--
+14/07/2014,29/07/2014,Japan,JPN,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",Extreme temperature ,Heat wave,27,17000,0,0,2014-0578,--,--
+03/08/2015,09/08/2015,Japan,JPN,Oosaka province,Extreme temperature ,Heat wave,32,11187,0,0,2015-0575,--,--
+11/05/2015,/05/2015,Japan,JPN,,Extreme temperature ,Heat wave,2,480,0,0,2015-0610,--,--
+12/07/2015,15/07/2015,Japan,JPN,,Extreme temperature ,Heat wave,5,3200,0,0,2015-0611,--,--
+20/01/2016,26/01/2016,Japan,JPN,"Okinawa city (Okinawa province), Kagosima province (Amami ?shima Isl.), Nagasaki, Hirosima, Isikawa, Tookyoo provinces",Extreme temperature ,Cold wave,6,0,0,0,2016-0023,--,--
+30/01/1992,02/02/1992,Jordan,JOR,,Extreme temperature ,Cold wave,15,0,400000,0,1992-0104,Snow/ice,Rain
+/07/2000,/07/2000,Jordan,JOR,Amman province,Extreme temperature ,Heat wave,0,12,0,0,2000-0471,--,--
+/11/1997,/11/1997,Kazakhstan,KAZ,,Extreme temperature ,Cold wave,0,600000,0,0,1997-0314,--,--
+/01/2001,/01/2001,Kazakhstan,KAZ,"Ust Kamenogorsk area (Ulan district, Vostochno-kazachstanskaya province)",Extreme temperature ,Cold wave,3,12,0,0,2001-0017,--,--
+18/12/2012,/01/2013,Kazakhstan,KAZ,"Karaganda city (Bukhar-Zhyrau district, Karagandinskaya province), Petropavlovsk city (Kyzyljar district, Severo-Kazachstanskaya province), Semey city (Semey City area district, Vostochno-kazachstanskaya province)",Extreme temperature ,Severe winter conditions,0,5000,0,0,2012-0532,--,--
+29/07/1990,29/07/1990,Korea (the Republic of),KOR,,Extreme temperature ,Heat wave,40,0,0,0,1990-0388,--,--
+20/01/2016,26/01/2016,Korea (the Republic of),KOR,,Extreme temperature ,Cold wave,6,0,127000,0,2016-0023,--,--
+16/10/2000,16/10/2000,Kyrgyzstan,KGZ,"Bishkek, Chuy, Talas, Ysyk-Kol provinces",Extreme temperature ,Cold wave,11,0,0,0,2000-0676,--,--
+18/12/2012,22/12/2012,Kyrgyzstan,KGZ,Bishkek province,Extreme temperature ,Cold wave,16,50,0,0,2012-0609,--,--
+/10/2001,/10/2001,Latvia,LVA,Rigas province,Extreme temperature ,Cold wave,21,0,0,0,2001-0713,--,--
+/01/2003,/01/2003,Latvia,LVA,Rigas province,Extreme temperature ,Cold wave,15,0,0,0,2003-0022,--,--
+/01/2006,/01/2006,Latvia,LVA,"Aizkraukles, Aluksnes, Balvu, Bauskas, Cesu, Daugavpils, Dobeles, Gulbenes, Jekabpils, Jelgavas, Kraslavas, Kuldigas, Liepajas, Limbazu, Ludzas, Madonas, Ogres, Preilu, Rezeknes, Rigas, Saldus, Talsu, Tukuma, Valkas, Valmieras, Ventspils provinces",Extreme temperature ,Severe winter conditions,40,0,0,0,2005-0713,--,--
+/02/2012,/02/2012,Latvia,LVA,"Aizkraukles, Aluksnes, Balvu, Bauskas, Cesu, Daugavpils, Dobeles, Gulbenes, Jekabpils, Jelgavas, Kraslavas, Kuldigas, Liepajas, Limbazu, Ludzas, Madonas, Ogres, Preilu, Rezeknes, Rigas, Saldus, Talsu, Tukuma, Valkas, Valmieras, Ventspils provinces",Extreme temperature ,Cold wave,10,0,0,0,2012-0019,--,--
+//1990,//1990,Liberia,LBR,,Extreme temperature ,Cold wave,0,1000000,47000,0,1990-0258,--,--
+14/06/1999,14/06/1999,Lithuania,LTU,,Extreme temperature ,Heat wave,32,0,0,0,1999-0702,--,--
+/12/2001,/12/2001,Lithuania,LTU,"Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus provinces",Extreme temperature ,Cold wave,20,0,0,0,2001-0714,--,--
+27/11/2010,01/12/2010,Lithuania,LTU,"Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus provinces",Extreme temperature ,Cold wave,5,0,0,0,2010-0615,--,--
+/01/2012,/02/2012,Lithuania,LTU,"Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, iauliu, Taurages, Telsiu, Utenos, Vilniaus.",Extreme temperature ,Cold wave,24,0,0,0,2012-0019,--,--
+07/12/2012,31/12/2012,Lithuania,LTU,"Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus provinces",Extreme temperature ,Cold wave,6,0,0,0,2012-0485,--,--
+/07/2003,/07/2003,Luxembourg,LUX,"Diekirch, Grevenmacher, Luxembourg provinces",Extreme temperature ,Heat wave,170,0,0,0,2003-0391,--,--
+/12/2001,/12/2001,Macedonia (the former Yugoslav Republic of),MKD,"Veles, Kumanovo, Bitola, Skopje provinces",Extreme temperature ,Cold wave,15,0,0,0,2001-0692,--,--
+01/07/2004,/07/2004,Macedonia (the former Yugoslav Republic of),MKD,"Berovo, Bitola, Brod, Debar, Delcevo, Demir Hisar, Gevgelija, Gostivar, Kavadarci, Kicevo, Kocani, Kratovo, Kriva Palanka, Krusevo, Kumanovo, Negotino, Ohrid, Prilep, Probistip, Radovic, Resen, Skopje, Stip, Struga, Strumica, Sveti Nikole, Tetovo, Valandovo, Veles, Vinica provinces",Extreme temperature ,Heat wave,15,0,0,0,2004-0333,--,--
+/07/2007,/07/2007,Macedonia (the former Yugoslav Republic of),MKD,Bitola district (Bitola province),Extreme temperature ,Heat wave,0,202,0,0,2007-0235,Wildfire,--
+/01/2012,/02/2012,Macedonia (the former Yugoslav Republic of),MKD,"Skopje, Veles, Debar, Bitola, Struga, Prilep, Brod, Berevo, Tetovo, Gostivar provinces",Extreme temperature ,Cold wave,1,5100,0,0,2012-0019,--,--
+28/12/2014,03/01/2015,Macedonia (the former Yugoslav Republic of),MKD,"Velmej, Brezhani, Mramorec, Turje, Ozdoleni i Soshani, Vrbjani cities (Belcista district, Ohrid province), Leskovec, Sirula, Kuratica cities (Kosel district, Ohrid province), Mislodezhda, Delogozhda, Koroshishta, Dzepin cities (Delogozdi district, Struga province), Selci, Zbazhdi, Lokov, R'janovo, Burinec cities (Lukovo district, Struga province), Gorna Belica city (Vevcani district, Struga province), Dolna Belitsa city (Velesta district, Struga province), Mali Vlaj, Radozhda cities (Struga district, Struga province), Dolno Tateshi city (Velesta district, Struga province), Dzepiste, Dolno i Gorno Kosovrasti cities (Debar district, Debar province) , Kodzadzik city (Centar Zupa district, Debar province), Tanusevci city (Cucer-Sandevo district, Skopje province), Tomino Selo, Slatina, Inche cities (Makedonski Brod district, Brod province), Benche city (Samokov district, Brod province), D. Dusegubica, G. Dusegubica cities (Drugovo district, Kicevo province), Kumanovo province",Extreme temperature ,Severe winter conditions,0,8800,0,0,2014-0496,--,--
+/05/1962,/05/1962,Mexico,MEX,,Extreme temperature ,Heat wave,50,0,0,0,1962-0027,--,--
+/07/1968,/07/1968,Mexico,MEX,,Extreme temperature ,Heat wave,40,0,0,0,1968-0123,--,--
+/01/1988,/01/1988,Mexico,MEX,,Extreme temperature ,Cold wave,23,0,600,0,1988-0029,--,--
+30/04/1990,06/06/1990,Mexico,MEX,North,Extreme temperature ,Heat wave,380,0,0,0,1990-0356,Drought,--
+06/01/1992,03/02/1992,Mexico,MEX,Northern ,Extreme temperature ,Cold wave,50,16000,78000,0,1992-0108,Snow/ice,Rain
+/12/1992,/12/1992,Mexico,MEX,North,Extreme temperature ,Cold wave,30,0,0,0,1992-0356,--,--
+20/12/1995,20/12/1995,Mexico,MEX,Chihuahua,Extreme temperature ,Cold wave,49,0,0,0,1995-0364,--,--
+14/01/1997,14/01/1997,Mexico,MEX,"Chihuahua, Coahuila, Nuevo Leon",Extreme temperature ,Cold wave,205,0,0,0,1997-0062,--,--
+13/12/1997,13/12/1997,Mexico,MEX,"Guadalajara, Aguascalientes",Extreme temperature ,Cold wave,87,0,4000,3000,1997-0290,--,--
+/12/1998,/12/1998,Mexico,MEX,"Guadalajara, Aguascalientes",Extreme temperature ,Cold wave,100,0,0,0,1998-0453,--,--
+/01/1999,/01/1999,Mexico,MEX,Chihuahua State,Extreme temperature ,Cold wave,15,0,0,0,1999-0004,--,--
+/10/2000,/10/2000,Mexico,MEX,Chihuahua province,Extreme temperature ,Cold wave,66,0,0,0,2000-0827,--,--
+24/12/2002,24/12/2002,Mexico,MEX,"Chihuahua, Sonora, Baja California, Baja California Sur provinces",Extreme temperature ,Cold wave,50,0,0,0,2002-0805,--,--
+/12/2003,/12/2003,Mexico,MEX,"Chihuahua, Puebla, Nuevo Leon, Hidalgo, Sonora, Durango, San Luis Potosi, Tlaxcala provinces",Extreme temperature ,Cold wave,21,0,0,0,2003-0622,--,--
+/11/2004,/11/2004,Mexico,MEX,Chihuahua province,Extreme temperature ,Cold wave,14,0,0,0,2004-0601,--,--
+/11/2006,/11/2006,Mexico,MEX,"Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas provinces",Extreme temperature ,Cold wave,5,0,0,0,2006-0709,--,--
+01/02/2011,08/02/2011,Mexico,MEX,"Sinaloa, Sonora, Tamaulipas provinces",Extreme temperature ,Cold wave,3,120000,500000,200000,2011-0105,--,--
+20/01/2006,24/01/2006,Moldova (the Republic of),MDA,Chisinau province,Extreme temperature ,Severe winter conditions,13,0,0,0,2005-0713,Snow/ice,--
+30/01/2012,05/02/2012,Moldova (the Republic of),MDA,"Soroca, Soldanesti districts (Soroca province), Ocnita, Briceni, Donduseni districts (Edinet province), Singerei, Glodeni, Balti, Falesti, Riscani districts (Balti province), Comrat district (Gagauzia province), Basarabeasca district (Lapusna province), Bender city (Slobozia district, Dubasari province)",Extreme temperature ,Cold wave,10,7374,0,0,2012-0019,--,--
+/12/2009,/05/2010,Mongolia,MNG,"Arxangai, Bayanxongor, Bayan-O'lgii, Govi-Altai, Dungdovi, To'v, O'mnogovi, O'vorxangai, Uvs, Zavxan, Xovd, Xo'vsgol provinces",Extreme temperature ,Cold wave,5,769113,62000,0,2009-0632,--,--
+/11/2015,/01/2016,Mongolia,MNG,"Arxangai, Bayan-O'lgii, Bulgan, Xo'vsgol, Selenge, To'v, Uvs, Zavxan provinces",Extreme temperature ,Severe winter conditions,0,965000,0,0,2015-0529,Cold wave,Snow/ice
+/02/2012,/02/2012,Montenegro,MNE,"Kolasin, Mojkovac, Berane, Andrijevica, Plav, Rozaj, Bijelo Polje, Pljevlja, Zabljak, Savnik, Pluzine, Niksic, Cetinje, Bar provinces",Extreme temperature ,Cold wave,1,4500,0,0,2012-0019,--,--
+/08/2000,/08/2000,Morocco,MAR,"Settat district (Chaouia-Ouardigha province), Casablanca district (Grand Casablanca province), Gharb-Chrarda-Beni Hssen province",Extreme temperature ,Heat wave,0,0,809,0,2000-0487,--,--
+/02/2012,/02/2012,Morocco,MAR,"Figuig district (Oriental province), Taza-Al Hoceima-Taounate province",Extreme temperature ,Cold wave,0,7500,0,0,2012-0045,--,--
+27/02/2016,27/02/2016,Morocco,MAR,"Figuig district (Oriental province), Azilal district (Tadla - Azilal province, north of the High Atlas region), Taza, Guercif cities (Taza district, Taza - Al Hoceima - Taounate province), Rif region (Al Hoceima district, Taza - Al Hoceima - Taounate province), Boulemane, Sefrou districts (Fès - Boulemane province, Middle Atlas region)
+",Extreme temperature ,Cold wave,0,750000,0,0,2016-0061,Storm,Snow/ice
+/04/1987,/04/1987,Nepal,NPL,Nepalguni,Extreme temperature ,Heat wave,0,10,0,0,1987-0298,--,--
+/12/2002,/12/2002,Nepal,NPL,"Bara, Parsa, Rautahat areas (Narayani district, Central province), Dhanusha, Mahottari, Sarlahi areas (Janakpur district, Central province), Banke, Bardiya areas (Bheri district, Mid Western province), Kailali area (Seti district, Far Western province)",Extreme temperature ,Cold wave,60,200,0,0,2002-0831,--,--
+15/12/2003,/01/2004,Nepal,NPL,"Central, Eastern, Far Western, Mid Western, Western provinces",Extreme temperature ,Cold wave,48,0,0,0,2003-0636,--,--
+/12/2009,/01/2010,Nepal,NPL,"Saptari (Sagarmatha district, Eastern province), Bara (Narayani district, Central province)",Extreme temperature ,Cold wave,18,0,0,0,2009-0595,--,--
+/12/2011,/01/2012,Nepal,NPL,"Taplejung, Ilam, Panchthar (Mechi district, Eastern province), Bhojpur, Sankhuwasava, Dhankuta, Tehrathum (Koshi district, Eastern province), Khotang, Solukhumbu (Sagarmatha district, Eastern province)",Extreme temperature ,Cold wave,0,25000,0,0,2011-0627,--,--
+11/01/2011,19/01/2011,Nepal,NPL,"Kapilvastu, Nawalparasi, Rupandehi areas (Lumbini district, Western province), Parbat area (Dhawalagiri district, Western province), Bhojpur, Dhankuta, Morang, Sankhuwasava, Sunsari areas (Koshi district, Eastern province), Khotang, Saptari, Siraha areas (Sagarmatha district, Eastern province), Jhapa areas (Mechi district, Eastern province), Dhanusha, Mahottari, Sarlahi areas (Janakpur district, Central province), Bara, Chitwan, Parsa, Rautahat areas (Narayani district, Central province), Kanchanpur area (Mahakali district, Far Western province), Kailali area (Seti district, Far Western province), Banke, Bardiya, Dang areas (Bheri district, Mid Western province)",Extreme temperature ,Cold wave,42,0,123,0,2011-0641,--,--
+01/01/2013,20/01/2013,Nepal,NPL,"Central, Eastern, Far Western, Mid Western, Western provinces",Extreme temperature ,Cold wave,49,0,0,0,2012-0509,--,--
+31/07/2003,13/08/2003,Netherlands (the),NLD,"Drenthe, Flevoland, Friesland, Gelderland, Groninge, Limburg, Noord-brabant, Noord-holland,Overijssel, Utrecht, Zeeland, Zuit-holland provinces",Extreme temperature ,Heat wave,965,0,0,0,2003-0391,--,--
+25/11/2005,27/11/2005,Netherlands (the),NLD,"Drenthe, Flevoland, Friesland, Gelderland, Groningen, Limburg, Noord-brabant, Noord-holland, Overijssel, Utrecht, Zeeland, Zuit-holland provinces",Extreme temperature ,Cold wave,0,0,100000,60000,2005-0655,--,--
+27/12/2005,30/12/2005,Netherlands (the),NLD,Amsterdam (Noord-Holland province),Extreme temperature ,Severe winter conditions,0,0,0,0,2005-0713,Snow/ice,--
+15/07/2006,23/07/2006,Netherlands (the),NLD,"Drenthe, Flevoland, Friesland, Gelderland, Groninge, Limburg, Noord-brabant, Noord-holland,Overijssel, Utrecht, Zeeland, Zuit-holland provinces",Extreme temperature ,Heat wave,1000,0,0,0,2006-0383,--,--
+/02/2012,/02/2012,Netherlands (the),NLD,"Drenthe, Flevoland, Friesland, Gelderland, Groningen, Limburg, Noord-brabant, Noord-holland, Overijssel, Utrecht, Zeeland, Zuid-holland provinces",Extreme temperature ,Cold wave,1,0,0,0,2012-0019,--,--
+/01/2001,/04/2001,New Zealand,NZL,"Canterbury, Nelson-marlborough, Otago, Southland, Westland provinces",Extreme temperature ,Heat wave,0,0,200000,0,2001-0779,Drought,--
+/01/1992,/01/1992,Nigeria,NGA,,Extreme temperature ,Cold wave,18,0,0,0,1992-0499,--,--
+/06/2002,/06/2002,Nigeria,NGA,Maiduguri district (Borno province),Extreme temperature ,Heat wave,60,0,0,0,2002-0354,--,--
+/07/1953,/07/1953,Pakistan,PAK,,Extreme temperature ,Heat wave,111,0,0,0,1953-0046,--,--
+/06/1975,/06/1975,Pakistan,PAK,,Extreme temperature ,Heat wave,14,0,0,0,1975-0033,--,--
+/07/1979,/07/1979,Pakistan,PAK,"Sind, Punjab",Extreme temperature ,Heat wave,70,0,0,0,1979-0062,--,--
+26/12/1990,26/12/1990,Pakistan,PAK,,Extreme temperature ,Cold wave,18,0,0,0,1990-0247,--,--
+01/06/1991,15/06/1991,Pakistan,PAK,"Jacobabab, Nawabsma, Hyderabad (Sind province)",Extreme temperature ,Heat wave,523,250,0,0,1991-0279,--,--
+19/06/1996,19/06/1996,Pakistan,PAK,Karachi,Extreme temperature ,Heat wave,32,0,0,0,1996-0153,--,--
+16/06/1997,16/06/1997,Pakistan,PAK,N.A. on the source,Extreme temperature ,Heat wave,100,0,0,0,1997-0334,--,--
+/04/1999,/04/1999,Pakistan,PAK,,Extreme temperature ,Heat wave,11,0,0,0,1999-0131,--,--
+/06/2000,/06/2000,Pakistan,PAK,Punjab province,Extreme temperature ,Heat wave,24,0,0,0,2000-0351,--,--
+/01/2001,/01/2001,Pakistan,PAK,"Bahawalpur District, Rahim Yar Khan District districts (Punjab province), Peshawar District (North-West Frontier province), Balochistan province",Extreme temperature ,Cold wave,0,0,0,0,2001-0026,--,--
+/05/2002,/05/2002,Pakistan,PAK,"Balochistan, Punjab, Sindh provinces",Extreme temperature ,Heat wave,113,24,0,0,2002-0284,--,--
+/12/2002,/12/2002,Pakistan,PAK,"Punjab, Sindh provinces",Extreme temperature ,Cold wave,0,0,0,0,2002-0834,--,--
+01/05/2003,06/06/2003,Pakistan,PAK,Punjab province,Extreme temperature ,Heat wave,200,0,0,0,2003-0250,--,--
+13/06/2005,28/06/2005,Pakistan,PAK,"Punjab, Sindh, Balochistan provinces",Extreme temperature ,Heat wave,106,200,0,0,2005-0347,--,--
+/05/2006,/05/2006,Pakistan,PAK,"Punjab, Sindh, Balotchistan provinces",Extreme temperature ,Heat wave,84,100,0,0,2006-0254,--,--
+/01/2014,30/04/2014,Pakistan,PAK,"Mithi, Chachro, Dahli, Diplo, Islamkot, Nagarparkar regions (Tharparkar district, Sindh province)",Extreme temperature ,Heat wave,139,0,18000,0,2014-0546,Drought,--
+18/06/2015,24/06/2015,Pakistan,PAK,"Sindh, Punjab provinces",Extreme temperature ,Heat wave,1229,80000,0,0,2015-0232,--,--
+/07/2000,/07/2000,Paraguay,PRY,"Alto Paraguay, Alto Parana, Amambay, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro provinces",Extreme temperature ,Cold wave,8,0,0,0,2000-0486,--,--
+/07/2004,/07/2004,Paraguay,PRY,"Alto Paraguay, Alto Parana, Amambay, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro provinces",Extreme temperature ,Cold wave,0,0,0,0,2004-0331,--,--
+/07/2010,/07/2010,Paraguay,PRY,"Alto Paraguay, Alto Parana, Amambay, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro provinces",Extreme temperature ,Cold wave,12,0,0,0,2010-0294,--,--
+/01/1983,/01/1983,Peru,PER,Lima,Extreme temperature ,Heat wave,17,2700,0,0,1983-0011,--,--
+14/06/1991,14/06/1991,Peru,PER,Andes,Extreme temperature ,Cold wave,25,0,0,0,1991-0276,--,--
+07/07/2003,15/08/2003,Peru,PER,"Ayacucho, Huancavelica, Tacna, Moquegua, Arequipa, Puno, Cusco, Apurimac provinces",Extreme temperature ,Cold wave,339,1839888,0,0,2003-0339,Snow/ice,--
+/06/2004,/07/2004,Peru,PER,"Ancash, Puno, Cusco, Arequipa, Moquegua, Tacna, Apurimac, Ayacucho, Huancavelica, Huanuco, Junin, Lima, Madre de Dios, Pasco, Ucayali provinces",Extreme temperature ,Cold wave,90,2137467,0,0,2004-0331,Snow/ice,Rain
+/04/2007,/07/2007,Peru,PER,"Apurímac, Arequipa, Ayacucho, Cajamarca, Cusco, Huancavelica, Huánuco, Junín, Loreto, Moquegua, Pasco, Puno, Tacna provinces",Extreme temperature ,Severe winter conditions,67,884572,0,0,2007-0263,--,--
+/05/2009,/08/2009,Peru,PER,"Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Cusco, Huancavelica, Huanuco provinces",Extreme temperature ,Cold wave,274,24262,0,0,2009-0301,--,--
+/07/2010,/01/2011,Peru,PER,"Ancash, Apurimac, Arequipa, Ayacucho, Cusco, Huanvelica, Huanuco, Junin, Lima, Moquegua, Pasco, Puno, Tacna, Madre de Dios, Ucayali, Loreto provinces",Extreme temperature ,Cold wave,409,57600,0,0,2010-0343,--,--
+/05/2011,/06/2011,Peru,PER,"Huancavelica, Cusco, Ayacucho, Arequipa, Moquegua provinces",Extreme temperature ,Cold wave,20,13440,0,0,2011-0201,--,--
+/06/2012,/06/2012,Peru,PER,Arequipa province,Extreme temperature ,Cold wave,252,30113,0,0,2012-0256,--,--
+23/08/2013,12/09/2013,Peru,PER,"Puno, Cusco, Ayacucho, Apurimac, Huancavelica, Junin, Moquegua, Tacna provinces",Extreme temperature ,Severe winter conditions,1,92701,0,0,2013-0357,Snow/ice,Cold wave
+13/04/2014,27/09/2014,Peru,PER,"Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Junin, La Libertad, Lambayeuqe, Lima, Loreto, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Ucayali provinces",Extreme temperature ,Cold wave,505,109257,0,0,2014-0547,--,--
+/05/2015,/09/2015,Peru,PER,"Apurimac, Arequipa, Cusco, Huancavelica, Lima, Moquegua, Pasco, Puno, Tacna, Ayucucho",Extreme temperature ,Cold wave,21,200620,94000,0,2015-0315,--,--
+04/01/1997,04/01/1997,Poland,POL,,Extreme temperature ,Cold wave,50,0,0,0,1997-0007,--,--
+29/11/1998,29/11/1998,Poland,POL,,Extreme temperature ,Cold wave,64,0,0,0,1998-0378,--,--
+/10/1999,/10/1999,Poland,POL,,Extreme temperature ,Cold wave,154,0,0,0,1999-0613,--,--
+/12/2000,/12/2000,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,84,0,0,0,2000-0830,--,--
+10/10/2001,20/01/2002,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,270,0,0,0,2001-0661,--,--
+/10/2002,/01/2003,Poland,POL,"Lodzkie, Lubeiskie, Mazowieckie, Podlaskie, Swietokrzyskie, Warminsko-Mazurskie provinces",Extreme temperature ,Cold wave,183,0,0,0,2002-0754,--,--
+/10/2005,06/02/2006,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Severe winter conditions,191,0,0,0,2005-0713,Snow/ice,--
+01/11/2008,08/01/2009,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,82,0,0,0,2008-0633,--,--
+01/11/2009,26/01/2010,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,298,0,0,0,2009-0571,--,--
+/11/2010,/02/2011,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,200,0,0,0,2010-0615,--,--
+/11/2011,/12/2011,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,26,0,0,0,2011-0628,--,--
+27/01/2012,/02/2012,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokryskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,82,0,0,0,2012-0019,--,--
+28/10/2012,01/12/2012,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,14,0,0,0,2012-0413,--,--
+01/12/2012,21/12/2012,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,177,0,0,0,2012-0485,--,--
+01/03/2013,26/03/2013,Poland,POL,"Podlaskie, Warminsko-Mazurskie provinces",Extreme temperature ,Cold wave,25,0,0,0,2013-0165,--,--
+23/01/2014,27/01/2014,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,78,0,0,0,2014-0030,--,--
+/01/2015,/01/2015,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,77,0,0,0,2015-0577,--,--
+02/01/2016,04/01/2016,Poland,POL,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Extreme temperature ,Cold wave,21,0,0,0,2016-0001,--,--
+/08/2003,/08/2003,Portugal,PRT,"Aveiro, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guadra, Leiria, Lisboa, Portoalegre, Porto, Santarem, Setubal, Viana Do Castelo, Vila Real, Viseu provinces",Extreme temperature ,Heat wave,2696,0,0,0,2003-0391,--,--
+/07/2006,/07/2006,Portugal,PRT,"Aveiro, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guadra, Leiria, Lisboa, Portoalegre, Porto, Santarem, Setubal, Viana Do Castelo, Vila Real, Viseu provinces",Extreme temperature ,Heat wave,41,0,0,0,2006-0383,--,--
+/01/2009,/01/2009,Portugal,PRT,"Porto, Viseu, Braga, Vila Real, Aveiro, Guarda provinces",Extreme temperature ,Cold wave,0,0,0,0,2008-0633,--,--
+/12/2010,/12/2010,Portugal,PRT,"Aveiro, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa, Portalegre, Porto, Santarem, Setubal, Viana Do Castelo, Vila Real, Viseu provinces",Extreme temperature ,Cold wave,0,0,0,0,2010-0615,--,--
+08/03/1993,08/03/1993,Romania,ROU,,Extreme temperature ,Cold wave,0,0,0,0,1993-0129,--,--
+/05/1994,/05/1994,Romania,ROU,,Extreme temperature ,Heat wave,0,0,0,0,1994-0759,--,--
+04/07/1996,04/07/1996,Romania,ROU,,Extreme temperature ,Heat wave,16,200,0,0,1996-0362,--,--
+03/08/1998,03/08/1998,Romania,ROU,,Extreme temperature ,Heat wave,20,0,0,0,1998-0250,--,--
+18/11/1998,18/11/1998,Romania,ROU,"Jasi, Bucarest Departments",Extreme temperature ,Cold wave,60,1700,0,0,1998-0408,--,--
+/07/2000,/07/2000,Romania,ROU,"Bucuresti, Dolj provinces",Extreme temperature ,Heat wave,6,100,0,0,2000-0380,--,--
+01/12/2001,01/12/2001,Romania,ROU,"Iasi, Bacau, Bistrita-nasaud, Suceava, Botosani, Vrancea provinces",Extreme temperature ,Cold wave,10,0,0,0,2001-0663,--,--
+07/12/2002,07/12/2002,Romania,ROU,"Bucuresti, Iasi, Cluj, Bihor provinces",Extreme temperature ,Cold wave,10,0,0,0,2002-0767,--,--
+01/07/2004,/07/2004,Romania,ROU,"Alba, Arad, Arges, Bacau, Bihor, Bistrita-nasaud, Botosani, Braila, Brasov, Bucuresti, Buzau, Calarasi, Caras-severin, Cluj, Constanta, Covasna, Dimbovita, Boj, Galati, Giurgiu, Gorj, Harghita, Hunedoara, Ialomita, Iasi, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Vilcea, Vrancea provinces",Extreme temperature ,Heat wave,27,0,0,0,2004-0333,--,--
+20/01/2006,28/01/2006,Romania,ROU,"Alba, Arad, Arges, Bacau, Bihor, Bistrita-nasaud, Botosani, Braila, Brasov, Bucuresti, Buzau, Calarasi, Caras-severin, Cluj, Constanta, Covasna, Dimbovita, Dolj, Galati, Giurgiu, Gorj, Harghita, Hunedoara, Ialomita, Iasi, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Vilcea, Vrancea provinces",Extreme temperature ,Severe winter conditions,68,0,0,0,2005-0713,--,--
+27/07/2005,01/08/2005,Romania,ROU,Bucuresti province,Extreme temperature ,Heat wave,13,500,0,0,2005-0756,--,--
+29/06/2006,/07/2006,Romania,ROU,"Bucarest, Galati, Mehedinti provinces",Extreme temperature ,Heat wave,26,200,0,0,2006-0348,--,--
+/06/2007,/07/2007,Romania,ROU,"Caras-severin, Dolj, Olt, Teleorman, Giurgiu, Bucuresti, Iasi provinces",Extreme temperature ,Heat wave,30,0,0,0,2007-0235,Drought,--
+10/12/2007,//2008,Romania,ROU,Bucuresti provinces,Extreme temperature ,Cold wave,38,0,0,0,2007-0673,--,--
+01/01/2009,15/01/2009,Romania,ROU,"Alba, Arad, Bihor, Bistrita-nasaud, Brasov, Bucuresti, Caras-severin, Cluj, Constanta, Covasna, Harghita, Hunedoara, Maramures, Mures, Salaj, Satu Mare, Sibiu, Timis provinces",Extreme temperature ,Cold wave,43,20,0,0,2008-0633,--,--
+20/12/2009,23/12/2009,Romania,ROU,"Alba, Arad, Arges, Bacau, Bihor, Bistrita-nasaud, Botosani, Braila, Brasov, Bucuresti, Buzau, Calarasi, Caras-severin, Cluj, Constanta, Covasna, Dimbovita, Dolj, Galati, Giurgiu, Gorj, Harghita, Hunedoara, Ialomita, Iasi, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Vilcea, Vrancea provinces",Extreme temperature ,Cold wave,11,0,0,0,2009-0571,--,--
+22/01/2010,26/01/2010,Romania,ROU,"Bucuresti, Alba, Arges, Bacau, Bistrita-nasaud, Satu Mare, Prahova, Botosani provinces",Extreme temperature ,Cold wave,52,0,0,0,2010-0050,--,--
+23/01/2012,16/02/2012,Romania,ROU,"Tulcea, Botosani, Neamt, Olt, Constanta, Sibiu, Vrancea, Teleorman, Calarasi, Braila, Galati, Giurgiu, Buzau, Ialomita provinces",Extreme temperature ,Cold wave,86,7539,0,0,2012-0019,--,--
+26/01/2014,31/01/2014,Romania,ROU,Bucarest province,Extreme temperature ,Cold wave,13,0,0,0,2014-0030,--,--
+/11/1993,/11/1993,Russian Federation (the),RUS,Moscow,Extreme temperature ,Cold wave,41,260,0,0,1993-0245,--,--
+/12/1994,/12/1994,Russian Federation (the),RUS,Moscou,Extreme temperature ,Cold wave,42,0,0,0,1994-0309,--,--
+01/11/1995,01/11/1995,Russian Federation (the),RUS,Moscou,Extreme temperature ,Cold wave,208,108,0,0,1995-0359,--,--
+14/06/1995,14/06/1995,Russian Federation (the),RUS,Moscou,Extreme temperature ,Heat wave,20,0,0,0,1995-0363,--,--
+17/12/1997,17/12/1997,Russian Federation (the),RUS,Moscow,Extreme temperature ,Cold wave,22,0,0,0,1997-0291,--,--
+16/11/1998,28/12/1998,Russian Federation (the),RUS,Kazakstan border,Extreme temperature ,Cold wave,69,263,0,0,1998-0406,--,--
+/01/1999,/01/1999,Russian Federation (the),RUS,"Kamchatkam, Magadam, Stukotka",Extreme temperature ,Cold wave,0,725000,0,0,1999-0068,--,--
+/12/1999,/12/1999,Russian Federation (the),RUS,Moscou,Extreme temperature ,Cold wave,162,246,0,0,1999-0627,--,--
+/02/2000,/02/2000,Russian Federation (the),RUS,Moskva province,Extreme temperature ,Cold wave,13,252,0,0,2000-0165,--,--
+13/05/2000,13/05/2000,Russian Federation (the),RUS,"Bashkortostan Rep., Chuvashiya Rep., Kirovskaya Oblast, Komi-permyatskiy Okrug, Mariy-el Rep., Mordoviya Rep., Nizhegorodskaya Oblast, Penzenskaya Oblast, Permskaya Oblast, Samarskaya Oblast, Tatarstan Rep., Udmurtiya Rep., Ulyanovskaya Oblast provinces (Volga Region), Chechnya Rep., Dagestan Rep., Ingushetiya Rep., Kabardino-balkariya Rep., Karatchayevo-cherkesiya Rep., Severnaya Osetiya-alaniya Rep provinces (North Caucasus region), Moskva, Moskovskaya Oblast, Belgorodskaya Oblast, Bryanskaya Oblast, Ivanovskaya Oblast, Kaluzhskaya Oblast, Kostromskaya Oblast, Kurskaya Oblast, Lipetskaya Oblast, Orlovskaya Oblast, Ryanzanskaya Oblast, Smolenskaya Oblast, Tambovskaya Oblast, Tulskaya Oblast, Tverskaya Oblast, Vladimirskaya Oblast, Voronezhskaya Oblast, Yaroslavskaya Oblast provinces (Central region)",Extreme temperature ,Cold wave,0,0,0,0,2000-0277,--,--
+10/10/2000,10/10/2000,Russian Federation (the),RUS,"Moskva, Moskovskaya Oblast provinces",Extreme temperature ,Cold wave,232,94,0,0,2000-0705,--,--
+/01/2001,/02/2001,Russian Federation (the),RUS,"Bratsk, Oust-Ilimsk, Tayshet, Irkutsk cities (Irkutskaya Oblast province), Novosibirsk city (Novosibirskaya Oblast province), Poligus city (Evenkiyskiy Okrug province) ",Extreme temperature ,Cold wave,145,6120,100,0,2001-0018,--,--
+/07/2001,/07/2001,Russian Federation (the),RUS,"Moskva, Moskovskaya Oblast provinces",Extreme temperature ,Heat wave,276,0,0,0,2001-0404,--,--
+/10/2001,/10/2001,Russian Federation (the),RUS,"Moskva, Moskovskaya Oblast provinces, Saint-Petersbourg city (Sankt-peterburg, Leningradskaya Oblast provinces)",Extreme temperature ,Cold wave,332,174,0,0,2001-0579,--,--
+/10/2002,/10/2002,Russian Federation (the),RUS,Moskva province,Extreme temperature ,Cold wave,242,25062,0,0,2002-0639,--,--
+/01/2006,/01/2006,Russian Federation (the),RUS,"Moskva, Moskovskaya Oblast, Sankt-peterburg, Leningradskaya Oblast, Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug, Magadanskaya Oblast, Volgogradskaya Oblast provinces
+",Extreme temperature ,Severe winter conditions,116,14,1000000,0,2005-0713,Snow/ice,--
+01/01/2010,26/01/2010,Russian Federation (the),RUS,"Moskva, Moskovskaya Oblast, Sankt-peterburg, Leningradskaya Oblast, Orlovskaya Oblast, Chuvashiya Rep. provinces",Extreme temperature ,Cold wave,13,0,0,0,2010-0050,--,--
+/06/2010,/08/2010,Russian Federation (the),RUS,"Moska, Moskovskaya Oblast, Volgogradskaya Oblast, Lipetskaya Oblast, Voronezhskaya Oblast provinces",Extreme temperature ,Heat wave,55736,0,400000,0,2010-0372,--,--
+03/12/2010,03/12/2010,Russian Federation (the),RUS,Moskva province,Extreme temperature ,Cold wave,11,11,0,0,2010-0615,--,--
+01/01/2012,/02/2012,Russian Federation (the),RUS,"Moskva, Moskovskaya Oblast, Sakha Rep. provinces",Extreme temperature ,Cold wave,64,0,0,0,2012-0019,--,--
+14/12/2012,25/12/2012,Russian Federation (the),RUS,"Khabarovsk city (Khabarovskiy Kray province), Krasnoyarsk city (Krasnoyarskiy Kray province), Moskva, Moskovskaya Oblast provinces",Extreme temperature ,Cold wave,170,1594,0,0,2012-0485,--,--
+/07/2007,/07/2007,Serbia,SRB,"Borski, Branicevski, Grad Beograd, Jablanicki, Juzno-backi, Juzno-banatski, Kolubarski, Kosovski, Kosovsko-mitrovatski, Kosovsko-pomoravski, Macvanski, Moravicki, Nisavski, Pcinjski, Pecki, Pirotski, Podunavski, Pomoravski, Prizremski, Rasinski, Raski, Severno-backi, Severno-banatski, Srednje-banatski, Sremski, Sumadijski, Toplicki, Zajecarski, Zapadno-backi, Zlatiborski provinces",Extreme temperature ,Heat wave,0,0,0,0,2007-0235,Wildfire,--
+15/01/2009,15/01/2009,Serbia,SRB,"Belgrade city (Grad Beograd province), Novi Sad city (Juzno-backi province)",Extreme temperature ,Severe winter conditions,0,500,0,0,2009-0030,--,--
+28/01/2010,28/01/2010,Serbia,SRB,"Zacejar city (Zajecarski province), Valjevo city (Kolubarski province)",Extreme temperature ,Cold wave,3,0,0,0,2010-0050,--,--
+19/12/2010,/12/2010,Serbia,SRB,Krusevac city (Rasinski province),Extreme temperature ,Cold wave,2,0,0,0,2010-0633,--,--
+06/01/2012,/02/2012,Serbia,SRB,"Istog, Peja, Gjakova, Klina cities (Pecki province), Kamenica city (Nisavski province), Dragash, Rahovec, Prizren, Malisheva, Suhareka cities (Prizremski province), Skenderaj, Vushtrri, Mitrovica, Leposavic, Zubin Potok, Zvecan cities (Kosovsko-mitrovatski province), Novo Brde, Podujeva, Prishtina, Kacanik, Obiliq, Shtime, Strpce cities (Kosovski province), Vitina city (Kosovsko-pomoravski province), Gracanica city (Macvanski province)",Extreme temperature ,Severe winter conditions,9,18234,0,0,2012-0012,--,--
+28/01/2012,/02/2012,Serbia,SRB,"Sjenica, Nova Varos, Bajna Basta, Prijepolje, Priboj cities (Zlatiborski province), Kraljevo, Novi Pazar, Tutin cities (Raski province), Valjevo, Osecina cities (Kolubarski province), Ivanjica, Gornji Milanoviac, Lucani cities (Moravicki province), Prokuplje, Kursumlija cities (Toplicki province), Zagubica city (Branicevski province), Trgoviste, Surdulica, Vladicin Han, Bosilegrad, Vranje cities (Pcinjski province), Crna Trava, Medvela, Lebane, Vlasotince cities (Jablanicki province), Boljevac city (Zajecarski province) ",Extreme temperature ,Cold wave,10,70000,0,0,2012-0019,--,--
+07/12/2012,31/12/2012,Serbia,SRB,"Borski, Branicevski, Grad Beograd, Jablanicki, Juzno-backi, Juzno-banatski, Kolubarski, Kosovski, Kosovsko-mitrovatski, Kosovsko-pomoravski, Macvanski, Moravicki, Nisavski, Pcinjski, Pecki, Pirotski, Podunavski, Pomoravski, Prizremski, Rasinski, Raski, Severno-backi, Severno-banatski, Srednje-banatski, Sremski, Sumadijski, Toplicki, Zajecarski, Zapadno-backi, Zlatiborski provinces",Extreme temperature ,Cold wave,6,0,0,0,2012-0485,--,--
+28/01/2014,02/02/2014,Serbia,SRB,"Backa Topola city (Severno-backi province), Zrenjanin city (Srednje-banatski province), Kikinda city (Severno-banatski province), Juzno-backi province",Extreme temperature ,Severe winter conditions,0,3000,0,0,2014-0080,--,--
+/07/2000,/07/2000,Serbia Montenegro,SCG,"Subotica city (Severno-backi province), Belgrade city (Grad Beograd province), Leskovac city (Jablanicki province) (Serbia)",Extreme temperature ,Heat wave,3,70,0,0,2000-0383,--,--
+/01/2006,/01/2006,Serbia Montenegro,SCG,"Andrijevica, Berane, Bijelo Polje, Borski, Branicevski, Grad Beograd, Jablanicki, Juzno-backi, Juzno-banatski, Kolubarski, Kosovski, Kosovsko-mitrovatski, Kosovsko-pomoravski, Macvanski, Moravicki, Nisavski, Pcinjski, Pecki, Pirotski, Plav, Podunavski, Pomoravski, Prizremski, Rasinski, Raski, Rozaj, Severno-backi, Severno-banatski, Srednje-banatski, Sremski, Sumadijski, Toplicki, Zajecarski, Zapadno-backi, Zlatiborski provinces",Extreme temperature ,Severe winter conditions,3,0,0,0,2005-0713,--,--
+/07/2003,/08/2003,Slovakia,SVK,"Banka Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilna provinces",Extreme temperature ,Heat wave,0,0,150000,0,2003-0391,Drought,--
+27/12/2005,30/12/2005,Slovakia,SVK,"Bratislava, Nitra, Trnava provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2005-0713,--,--
+/07/2007,/07/2007,Slovakia,SVK,"Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilna provinces",Extreme temperature ,Heat wave,1,89,0,0,2007-0235,--,--
+/11/2010,28/02/2011,Slovakia,SVK,"Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilna provinces",Extreme temperature ,Cold wave,122,0,0,0,2010-0615,--,--
+/01/2012,/01/2012,Slovakia,SVK,"Sunava city (Poprad district, Presov province)",Extreme temperature ,Cold wave,5,0,0,0,2012-0019,--,--
+/07/2003,/08/2003,Slovenia,SVN,"Gorenjska, Goriska, Jugovzodna Slovenija, Koroska, Notranjsko-kraska, Obalno-kraska, Osrednjeslovenska, Podravska, Pomurska, Savinjska, Spodnjeposavska, Zavaska provinces",Extreme temperature ,Heat wave,289,0,80000,0,2003-0391,Drought,Wildfire
+31/01/2014,02/02/2014,Slovenia,SVN,Notranjsko-kraska province,Extreme temperature ,Severe winter conditions,1,50000,0,0,2014-0046,--,--
+06/07/1996,06/07/1996,South Africa,ZAF,Kwazulu Natal,Extreme temperature ,Cold wave,30,0,0,0,1996-0363,--,--
+21/05/2007,27/05/2007,South Africa,ZAF,"Gauteng, Eastern Cape provinces",Extreme temperature ,Cold wave,22,0,0,0,2007-0213,Snow/ice,Snow/ice
+01/01/2016,10/01/2016,South Africa,ZAF,North West province,Extreme temperature ,Heat wave,11,20,0,0,2016-0036,--,--
+/01/1971,/01/1971,Spain,ESP,,Extreme temperature ,Cold wave,400,0,100000,0,1971-0010,--,--
+09/01/1985,09/01/1985,Spain,ESP,,Extreme temperature ,Cold wave,40,0,0,0,1985-0269,--,--
+25/07/1995,25/07/1995,Spain,ESP,Andalusia,Extreme temperature ,Heat wave,30,70,0,0,1995-0157,--,--
+22/04/1995,22/04/1995,Spain,ESP,Rioja,Extreme temperature ,Cold wave,0,0,824300,65900,1995-0353,--,--
+01/08/2003,11/08/2003,Spain,ESP,Andaloucia province,Extreme temperature ,Heat wave,15090,0,880000,0,2003-0391,Drought,--
+26/07/2004,30/07/2004,Spain,ESP,"Andalucía, Castilla-La Mancha, Comunidad de Madrid, Comunitat Valenciana, Extremadura, Región de Murcia provinces",Extreme temperature ,Heat wave,26,0,0,0,2004-0361,--,--
+27/12/2005,/01/2006,Spain,ESP,"Aragón, Cataluña/Catalunya, Comunidad Foral de Navarra, Comunitat Valenciana, La Rioja, País Vasco/Euskadi, Región de Murcia provinces",Extreme temperature ,Severe winter conditions,9,0,0,0,2005-0713,Snow/ice,--
+15/07/2006,04/08/2006,Spain,ESP,"Cataluña/Catalunya, Comunitat Valenciana provinces",Extreme temperature ,Heat wave,21,0,0,0,2006-0383,--,--
+13/08/2015,15/08/2015,Sudan (the),SDN,Wadi Halfa district (Northern province),Extreme temperature ,Heat wave,16,0,0,0,2015-0393,--,--
+/12/2005,/12/2005,Sweden,SWE,"Blekinge Laen, Gotlands Laen, Hallands Laen, Joenkoepings Laen, Kalmar Laen, Kronobergs Laen, Oerebro Laen, Oestergoetlands Laen, Skaane Laen, Soedermanlands Laen, Stockholms Laen, Uppsala Laen, Vaermlands Laen, Vaestmanlands Laen, Vaestra Goetalands Laen provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2005-0713,--,--
+13/12/2001,13/12/2001,Switzerland,CHE,"Jungfraujoch (Bern province), Zurich province",Extreme temperature ,Cold wave,0,0,0,0,2001-0673,--,--
+/07/2003,/07/2003,Switzerland,CHE,"Aargau, Appenzll Ausser-rhoden, Appenzell Inner-rhoden, Basel-landschaft, Basel-stadt, Bern, Friboug, Genève, Glaurus, Graubünden, Jura, Luzern, Neuchâtel, Nidwalden, Obwalden, Sankt Gallen, Schaffhaussen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais, Vaud, Zug, Zurich provinces",Extreme temperature ,Heat wave,1039,0,280000,0,2003-0391,Drought,--
+27/12/2005,30/12/2005,Switzerland,CHE,"Graubunden, Ticino, Valais provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2005-0713,--,--
+30/11/2010,01/12/2010,Switzerland,CHE,Geneve province,Extreme temperature ,Cold wave,0,0,0,0,2010-0615,--,--
+07/02/2012,07/02/2012,Switzerland,CHE,"Graubunden, Neuchatel provinces",Extreme temperature ,Cold wave,0,0,0,0,2012-0019,--,--
+07/12/2012,31/12/2012,Switzerland,CHE,"Aargau, Appenzell Ausser-rhoden, Appenzell Inner-rhoden, Basel-landschaft, Basel-stadt, Bern, Fribourg, Geneve, Glarus, Graubunden, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais, Vaud, Zug, Zurich provinces",Extreme temperature ,Cold wave,11,0,0,0,2012-0485,--,--
+20/01/2016,26/01/2016,Taiwan (Province of China),TWN,,Extreme temperature ,Cold wave,85,0,0,0,2016-0023,--,--
+/01/2008,/02/2008,Tajikistan,TJK,Khatlon province,Extreme temperature ,Severe winter conditions,0,2000000,840000,0,2008-0050,Snow/ice,--
+/02/2012,/02/2012,Tajikistan,TJK,"Khatlon, Sogd, Tadzhikistan Territories provinces",Extreme temperature ,Severe winter conditions,1,0,0,0,2012-0050,--,--
+/01/2013,/02/2013,Tajikistan,TJK,"Alichur, Bulunkul, Karakul, Rangkul, Tokhtamish, Kuhnakurgan, Modiyon, Chechtube, Chichekdeh, Shaimok, Bashgunbez villages (Murgabskiy district, Badakhshoni Kuni province)",Extreme temperature ,Severe winter conditions,0,2500,0,0,2013-0027,--,--
+/01/2014,/01/2014,Thailand,THA,"Loei, Tak, Nan, Chiang Mai, Nakhon Phanom, Nong Bua Lamphu provinces ",Extreme temperature ,Cold wave,63,1000000,0,0,2014-0089,--,--
+20/01/2016,26/01/2016,Thailand,THA,,Extreme temperature ,Cold wave,14,0,0,0,2016-0023,--,--
+/03/1987,/03/1987,Turkey,TUR,Istanbul,Extreme temperature ,Cold wave,30,0,0,0,1987-0382,--,--
+14/02/1994,14/02/1994,Turkey,TUR,Eastern and North-East,Extreme temperature ,Severe winter conditions,0,8000,0,0,1994-0027,--,--
+/06/2000,/07/2000,Turkey,TUR,"Adana, Adiyaman, Afyon, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Icel, Igdir, Isparta, Istanbul, Izmir, K.maras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon, Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak provinces",Extreme temperature ,Heat wave,11,300,1000,0,2000-0381,Drought,--
+17/12/2001,17/12/2001,Turkey,TUR,"Uskudar, Bayrampasa distrcits (Istanbul province), Kirklareli, Cannakale provinces",Extreme temperature ,Cold wave,29,0,0,0,2001-0689,--,--
+09/01/2004,10/01/2004,Turkey,TUR,"Aragpir city (Malatya province), Istanbul, Ankara, Kayseri, Izmir, Bursa, Erzurum provinces",Extreme temperature ,Cold wave,10,0,0,0,2004-0010,Snow/ice,--
+26/12/2005,06/02/2006,Turkey,TUR,"Agri, Istanbul, Ankara provinces",Extreme temperature ,Severe winter conditions,17,150,0,0,2005-0713,Snow/ice,--
+/06/2007,/06/2007,Turkey,TUR,"Burdur, Sinop provinces",Extreme temperature ,Heat wave,3,0,0,0,2007-0235,Wildfire,--
+01/05/2000,11/05/2000,Ukraine,UKR,"Cherkas'ka, Chernihivs'ka, Chernivets'ka, Dnipropetrovs'ka, Donets'ka, Ivano-rankivs'ka, Kharkivs'ka, Khersons'ka, Khmel'nyts'ka, Kirovohrads'ka, Krym, Kyyivs'ka, L'vivs'ka, Luhans'ka, Mykolayivs'ka, Odes'ka, Poltavs'ka, Rivnens'ka, Sums'ka, Ternopil's'ka, Vinnyts'ka, Volyns'ka, Zakarpats'ka, Zaporiz'ka, Zhytomyrs'ka provinces",Extreme temperature ,Cold wave,0,0,85000,0,2000-0337,--,--
+16/01/2006,06/02/2006,Ukraine,UKR,"Cherkas'ka, Chernihivs'ka, Chernivets'ka, Dnipropetrovs'ka, Donets'ka, Ivano-rankivs'ka, Kharkivs'ka, Khersons'ka, Khmel'nyts'ka, Kirovohrads'ka, Krym, Kyyivs'ka, L'vivs'ka, Luhans'ka, Mykolayivs'ka, Odes'ka, Poltavs'ka, Rivnens'ka, Sums'ka, Ternopil's'ka, Vinnyts'ka, Volyns'ka, Zakarpats'ka, Zaporiz'ka, Zhytomyrs'ka provinces",Extreme temperature ,Severe winter conditions,801,59600,0,0,2005-0713,Snow/ice,--
+/01/2009,/01/2009,Ukraine,UKR,Khersons'ka province,Extreme temperature ,Cold wave,5,0,0,0,2008-0633,--,--
+21/12/2009,21/12/2009,Ukraine,UKR,"Dones'tka, Krym provinces",Extreme temperature ,Cold wave,27,0,0,0,2009-0571,--,--
+27/01/2012,/02/2012,Ukraine,UKR,"Luhans'ka, Kyyivs'ka provinces",Extreme temperature ,Cold wave,112,87500,0,0,2012-0019,--,--
+07/12/2012,31/12/2012,Ukraine,UKR,"Cherkas'ka, Chernihivs'ka, Chernivets'ka, Dnipropetrovs'ka, Donets'ka, Ivano-rankivs'ka, Kharkivs'ka, Khersons'ka, Khmel'nyts'ka, Kirovohrads'ka, Krym, Kyyivs'ka, L'vivs'ka, Luhans'ka, Mykolayivs'ka, Odes'ka, Poltavs'ka, Rivnens'ka, Sums'ka, Ternopil's'ka, Vinnyts'ka, Volyns'ka, Zakarpats'ka, Zaporiz'ka, Zhytomyrs'ka provinces",Extreme temperature ,Cold wave,83,526,0,0,2012-0485,--,--
+14/02/1991,14/02/1991,United Kingdom of Great Britain and Northern Irela,GBR,,Extreme temperature ,Cold wave,0,0,0,200000,1991-0483,--,--
+04/12/1997,04/12/1997,United Kingdom of Great Britain and Northern Irela,GBR,,Extreme temperature ,Cold wave,14,0,0,0,1997-0004,--,--
+/07/2003,/07/2003,United Kingdom of Great Britain and Northern Irela,GBR,"England, Wales provinces",Extreme temperature ,Heat wave,301,0,0,0,2003-0391,--,--
+25/11/2005,27/11/2005,United Kingdom of Great Britain and Northern Irela,GBR,"Avon, Bedfordshire, Berkshire, Buckinghamshire, Cambridgeshire, Cornwall, Devonshire, Dorsetshire, East Sussex, Essex, Gloucestershire, Greater London, Hampshire, Hertfordshire, Isle of Wight, Kent, Norfolkshire, Northamptonshire, Oxfordshire, Somersetshire, Suffolk, Surrey, West Sussex, Wiltshire districts (England province)",Extreme temperature ,Cold wave,0,0,0,0,2005-0655,--,--
+27/12/2005,30/12/2005,United Kingdom of Great Britain and Northern Irela,GBR,"Cleveland, Durham, Northumberland, Tyne and Wear, West Midlands districts (England province), Scotland province",Extreme temperature ,Severe winter conditions,1,0,0,0,2005-0713,Snow/ice,--
+19/12/2009,23/12/2009,United Kingdom of Great Britain and Northern Irela,GBR,"Penzance area (Cornwall district, England province), Cumbria, Greater London, Greater Manchest, Kent districts (England province), Strathclyde, Lothian, Grampian districts (Scotland province)",Extreme temperature ,Cold wave,3,47,0,0,2009-0571,--,--
+28/11/2010,01/12/2010,United Kingdom of Great Britain and Northern Irela,GBR,Highland district (Scotland province),Extreme temperature ,Cold wave,0,0,0,0,2010-0615,--,--
+/07/2013,/07/2013,United Kingdom of Great Britain and Northern Irela,GBR,"England, Wales provinces",Extreme temperature ,Heat wave,760,0,0,0,2013-0549,--,--
+/07/1936,/07/1936,United States of America (the),USA,Illinois,Extreme temperature ,Heat wave,1193,0,0,0,1936-0005,--,--
+/01/1951,/01/1951,United States of America (the),USA,Tennessee,Extreme temperature ,Cold wave,25,0,100000,0,1951-0003,--,--
+/08/1951,/08/1951,United States of America (the),USA,,Extreme temperature ,Heat wave,44,0,0,0,1951-0037,--,--
+30/08/1955,07/09/1955,United States of America (the),USA,Los Angeles,Extreme temperature ,Heat wave,107,0,0,0,1955-0046,--,--
+//1958,//1958,United States of America (the),USA,East,Extreme temperature ,Cold wave,0,0,520000,0,1958-0002,--,--
+/01/1963,/01/1963,United States of America (the),USA,,Extreme temperature ,Cold wave,150,0,0,0,1963-0061,--,--
+/07/1966,/07/1966,United States of America (the),USA,Illinois state,Extreme temperature ,Heat wave,80,0,0,0,1966-0055,--,--
+09/07/1966,09/07/1966,United States of America (the),USA,"St Louis, Missouri",Extreme temperature ,Heat wave,182,0,0,0,1966-0056,--,--
+22/07/1972,22/07/1972,United States of America (the),USA,New York,Extreme temperature ,Heat wave,10,0,0,0,1972-0045,--,--
+31/08/1973,31/08/1973,United States of America (the),USA,New York,Extreme temperature ,Heat wave,22,0,0,0,1973-0036,--,--
+//1977,//1977,United States of America (the),USA,East,Extreme temperature ,Cold wave,0,0,2800000,0,1977-0031,--,--
+/06/1980,/09/1980,United States of America (the),USA,"Kansas City, Missouri, St Louis, Missouri, Memphis, Tennessee",Extreme temperature ,Heat wave,1260,0,2000000,0,1980-0063,Drought,--
+/07/1983,/07/1983,United States of America (the),USA,,Extreme temperature ,Heat wave,188,0,0,0,1983-0503,--,--
+/07/1986,/08/1986,United States of America (the),USA,"Carolina, Alabama, Georgia, Virginia, Maryland",Extreme temperature ,Heat wave,48,0,1750000,0,1986-0249,Drought,--
+/07/1987,/07/1987,United States of America (the),USA,,Extreme temperature ,Heat wave,80,0,0,0,1987-0329,--,--
+21/12/1989,21/12/1989,United States of America (the),USA,,Extreme temperature ,Cold wave,84,0,0,500000,1989-0467,--,--
+20/12/1990,20/12/1990,United States of America (the),USA,"Washington, Ohio, Illinois, Indiana",Extreme temperature ,Cold wave,0,0,40000,40000,1990-0254,--,--
+25/06/1990,25/06/1990,United States of America (the),USA,"Californie, Arizona, Colorado",Extreme temperature ,Heat wave,11,0,0,265000,1990-0373,--,--
+/06/1993,/06/1993,United States of America (the),USA,Boston (Washigton),Extreme temperature ,Heat wave,48,0,0,0,1993-0432,--,--
+14/07/1995,14/07/1995,United States of America (the),USA,"Missouri, Oklahoma, Ilinois, Wisconsin, Iowa, New-York, Chicago, Washington (Dc)",Extreme temperature ,Heat wave,670,0,0,0,1995-0150,--,--
+09/12/1995,09/12/1995,United States of America (the),USA,"Atlanta, Detroit, Philadelphia, Chicago, Milwaukee",Extreme temperature ,Cold wave,40,0,0,0,1995-0288,--,--
+01/05/1998,20/07/1998,United States of America (the),USA,"Arizona, Florida, Colorado, Texas, Oklahoma, LA",Extreme temperature ,Heat wave,130,0,4275000,0,1998-0212,Drought,--
+/07/1999,/08/1999,United States of America (the),USA,"Illinois, Missouri, Wisconsin, Ohio, Sth.Carolina, Ohlahoma, Kentucky, Indiana, Tennessee, Nth.Carolina, Kansas, Georgia, Arkansas, Maryland, Nebraska, N-York, Pennsylvania, Louisiana, Michigan, Minnesota, Alabama",Extreme temperature ,Heat wave,257,0,1000000,0,1999-0246,Drought,--
+/07/2000,/07/2000,United States of America (the),USA,"Texas, Louisiana, Alabama provinces",Extreme temperature ,Heat wave,35,0,0,0,2000-0433,--,--
+/08/2001,/08/2001,United States of America (the),USA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",Extreme temperature ,Heat wave,56,0,0,0,2001-0770,--,--
+/06/2002,/06/2002,United States of America (the),USA,Arizona province,Extreme temperature ,Heat wave,14,0,0,0,2002-0355,--,--
+09/01/2004,12/01/2004,United States of America (the),USA,"Connecticut, Delaware, Maryland, Maine, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont provinces",Extreme temperature ,Cold wave,3,0,0,450000,2004-0740,--,--
+04/07/2005,30/07/2005,United States of America (the),USA,"Arizona, Nevada, Oklahoma, Utah, Missouri, Kentucky, Ohio, Mississippi provinces",Extreme temperature ,Heat wave,33,31,0,0,2005-0687,--,--
+14/07/2006,15/08/2006,United States of America (the),USA,"Modesto city (Stanislaus district, California province)",Extreme temperature ,Heat wave,164,0,0,0,2006-0387,--,--
+30/07/2006,06/08/2006,United States of America (the),USA,New York province,Extreme temperature ,Heat wave,24,0,0,0,2006-0427,--,--
+11/12/2008,14/12/2008,United States of America (the),USA,"Maine, Massachusetts, New Hampshire, New York, Vermont provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2008-0563,--,--
+26/01/2009,28/01/2009,United States of America (the),USA,"Texas, Pennsylvania, Oklahoma, Kentucky, Missouri, Arkansas, District of Columbia provinces",Extreme temperature ,Cold wave,58,0,1100000,565000,2009-0056,--,--
+19/07/2011,22/07/2011,United States of America (the),USA,"New York, Washington, Texas, Ohio, Maine, Iowa, Illinois, Minnesota, Nebraska, Wisconsin, South Dakota provinces",Extreme temperature ,Heat wave,22,0,0,0,2011-0264,--,--
+30/06/2012,19/07/2012,United States of America (the),USA,"District of Columbia, Iowa, Virginia, North Carolina provinces",Extreme temperature ,Heat wave,123,0,0,0,2012-0214,--,--
+19/12/2013,22/12/2013,United States of America (the),USA,"Michigan, Ohio, New York, Vermont, Maine, Kansas, Iowa, Texas, Wisconsin, Illinois, Minnesota, Arkansas, Louisiana, Mississippi, Kentucky provinces",Extreme temperature ,Severe winter conditions,19,0,0,0,2013-0528,--,--
+05/01/2014,08/01/2014,United States of America (the),USA,"New York, Minnesota, Georgia, Maryland, Alaska, Alabama, Mississippi, Louisiana, North Carolina, South Carolina, Ohio, Indiana, Illinois, Pennsylvania, Michigan, New Jersey, Virginia, Kentucky, Missouri provinces",Extreme temperature ,Cold wave,21,0,2500000,1600000,2014-0009,--,--
+/07/2000,/07/2000,Uruguay,URY,"Paysandu, Maldonado provinces",Extreme temperature ,Cold wave,7,400,0,0,2000-0422,--,--
+/07/2004,/07/2004,Uruguay,URY,Montevideo province,Extreme temperature ,Cold wave,0,2000,0,0,2004-0331,--,--
+/07/2007,/07/2007,Uruguay,URY,"Canelones, Colonia, Flores, Florida, Lavalleja, Maldonado, Montevideo, Rocha, San Jose, Soriano provinces",Extreme temperature ,Severe winter conditions,0,0,0,0,2007-0263,--,--
+/07/2010,/07/2010,Uruguay,URY,"Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San Jose, Soriano, Tacuarembo, Treinta Y Tres provinces",Extreme temperature ,Cold wave,4,0,0,0,2010-0294,--,--
+11/07/1988,11/07/1988,Yugoslavia,YUG,Belgrade (Serbia),Extreme temperature ,Heat wave,38,0,0,0,1988-0308,--,--

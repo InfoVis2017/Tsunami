@@ -1,0 +1,706 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
+/01/1969,//1969,Afghanistan,AFG,Paktia province,Drought,Drought,0,48000,200,0,1969-9007,Food shortage,--
+/08/1971,//1973,Afghanistan,AFG,"Central, North-West, North-East, West regions",Drought,Drought,0,0,0,0,1971-9085,--,--
+/05/2000,//2002,Afghanistan,AFG,"Kandahar, Hilmand, Nimroz, Zabul, Uruzgan provinces (south-west), Hirat, Farah, Badghis provinces (west), Paktika, Khost, Ghazni provinces (south), Baghlan, Kunduz, Takhar, Badakhshan provinces (north-east)",Drought,Drought,37,2580000,50,0,2000-9186,Water shortage,Famine
+/07/2006,//2006,Afghanistan,AFG,"Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Faryab, Ghor, Jawzjan, Kunduz, Samangan, Sar-e-Pul, Takhar, Uruzgan provinces",Drought,Drought,0,1900000,0,0,2006-9570,--,--
+/10/2008,/10/2008,Afghanistan,AFG,"Kunduz, Balkh, Faryab, Badghis provinces",Drought,Drought,0,280000,0,0,2008-9475,Food shortage,--
+/01/2011,/08/2011,Afghanistan,AFG,"Balkh, Samangan, Takhar, Sar-e-Pul, Hirat, Badghis, Faryab, Jawzjan, Baghlan, Kunduz, Badakshan, Bamyan, Daykundi, Ghor provinces",Drought,Drought,0,1750000,142000,0,2011-9312,Food shortage,--
+//1989,//1991,Albania,ALB,,Drought,Drought,0,3200000,0,0,1989-9335,--,--
+//1981,//1983,Algeria,DZA,,Drought,Drought,0,0,0,0,1981-9118,--,--
+/07/1981,//1981,Angola,AGO,"Benguela, Mocamedes, Huila, Cunene, Kuando-Kobango, Bie",Drought,Drought,0,80000,0,0,1981-9309,Food shortage,--
+//1985,//1985,Angola,AGO,,Drought,Drought,0,500000,0,0,1985-9400,--,--
+/01/1989,//1992,Angola,AGO,"Huila, Namibe, Kwanza Sul, Benguela",Drought,Drought,0,1900000,0,0,1989-9145,--,--
+/03/1997,//1998,Angola,AGO,,Drought,Drought,0,105000,0,0,1997-9239,--,--
+/01/2001,//2001,Angola,AGO,Cuanza Sul province,Drought,Drought,58,0,0,0,2001-9152,Famine,--
+/09/2004,//2005,Angola,AGO,"Cunene, Cuanza-Sul provinces",Drought,Drought,0,25000,0,0,2004-9480,Food shortage,--
+/03/2012,//2012,Angola,AGO,"Bengo, Cuanza Sul, Benguela, Huila, Namibe, Cunene, Moxico, Bie, Huambo, Zaire provinces",Drought,Drought,0,1833900,0,0,2012-9065,Food shortage,--
+//1919,//1923,Anguilla,AIA,,Drought,Drought,0,0,0,0,1919-9006,--,--
+/11/1983,//1983,Antigua and Barbuda,ATG,,Drought,Drought,0,75000,0,0,1983-9139,--,--
+/06/2003,/09/2003,Argentina,ARG,"Buenos Aires, Buenos Aires D.f., Entre Rios, Santa Fe provinces",Drought,Drought,0,0,120000,0,2003-9785,--,--
+/01/2009,//2009,Argentina,ARG,"Río Negro, La Pampa, Córdoba, Buenos Aires, Entre Ríos, Santa Fe, Corrientes, Chaco, Formosa, Santiago del Estero provinces",Drought,Drought,0,0,0,0,2009-9055,Wildfire,--
+/06/2000,//2000,Armenia,ARM,"Ararat, Armavir, Gergharkunik, Aragatsotn, Shirak, Kotayk, Tavush, Lori provinces",Drought,Drought,0,297000,100000,0,2000-9495,Heat wave,--
+//1967,//1969,Australia,AUS,South-East,Drought,Drought,600,0,600000,0,1967-9012,--,--
+/12/1974,/01/1975,Australia,AUS,Central New South Wales,Drought,Drought,0,0,0,0,1974-9100,--,--
+//1976,//1976,Australia,AUS,"Victoria, South Australia, Southern Inland New South Wales",Drought,Drought,0,0,0,0,1976-9126,--,--
+/05/1976,/08/1976,Australia,AUS,Southwest of Western Australia,Drought,Drought,0,0,0,0,1976-9127,--,--
+//1978,//1978,Australia,AUS,"Southern Queensland, New South Wales, Victoria, Northeast Tasmania",Drought,Drought,0,0,0,0,1978-9200,--,--
+//1981,//1982,Australia,AUS,"Queensland, New South Wales, Victoria States",Drought,Drought,0,80000,6000000,0,1981-9188,--,--
+//1991,//1991,Australia,AUS,"Western, South",Drought,Drought,0,0,473000,0,1991-9697,--,--
+/12/1992,/12/1995,Australia,AUS,Queensland,Drought,Drought,0,7000000,1500000,0,1992-9543,--,--
+/04/2002,/11/2002,Australia,AUS,"Queensland, New South Wales provinces",Drought,Drought,0,0,2000000,0,2002-9611,Wildfire,--
+/10/2006,//2006,Australia,AUS,NO DATA: all country has been selected,Drought,Drought,0,0,0,0,2006-9554,--,--
+/10/2000,//2000,Azerbaijan,AZE,"Absheron, Aran, Daghlig Shirvan, Ganja-Gazakh, Guba-Khachmaz, Kalbajar-Lachin, Lankaran, Nakhchivan, Shaki-Zaqatala, Yukhari Garabakh provinces",Drought,Drought,0,0,100000,0,2000-9495,--,--
+//1943,//1943,Bangladesh,BGD,,Drought,Drought,1900000,0,0,0,1943-9002,Famine,--
+/07/1947,//1947,Bangladesh,BGD,,Drought,Drought,0,0,0,0,1947-9005,--,--
+/10/1974,//1974,Bangladesh,BGD,Northwest,Drought,Drought,0,0,0,0,1974-9049,--,--
+/06/1979,//1979,Bangladesh,BGD,"Chittagong, Rangpur Mymenshingh region",Drought,Drought,18,2000,0,0,1979-9270,--,--
+/07/1983,//1983,Bangladesh,BGD,,Drought,Drought,0,20000000,0,0,1982-9350,--,--
+/04/1989,//1989,Bangladesh,BGD,Northwest,Drought,Drought,0,5000000,0,0,1989-9040,--,--
+/07/2009,/08/2009,Bangladesh,BGD,"Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Rangpur, Sylhet provinces",Drought,Drought,0,0,0,0,2009-9323,--,--
+/01/2010,/06/2010,Barbados,BRB,"Christ Church, St. Andrew, St. George, St. James, St. John, St. Joseph, St. Lucy, St. Michael, St. Peter, St. Phillip, St. Tomas provinces",Drought,Drought,0,0,0,0,2010-9077,--,--
+/07/1976,//1976,Belgium,BEL,,Drought,Drought,0,0,0,0,1976-9162,--,--
+/01/1972,//1975,Benin,BEN,Entire country,Drought,Drought,0,115000,0,0,1969-9006,Famine,--
+/01/1983,//1985,Benin,BEN,"Oueme, Zou, Borgou, Atacora provinces",Drought,Drought,0,2100000,651,0,1980-9114,Food shortage,--
+//1977,//1977,Bolivia (Plurinational State of),BOL,Potosi department,Drought,Drought,0,0,0,0,1977-9005,--,--
+/04/1983,//1983,Bolivia (Plurinational State of),BOL,Altiplano (High Plateaux),Drought,Drought,0,1583049,417200,0,1983-9007,--,--
+/12/1983,//1983,Bolivia (Plurinational State of),BOL,,Drought,Drought,0,1500000,500000,0,1983-9535,--,--
+/10/1988,//1988,Bolivia (Plurinational State of),BOL,"Santa Cruz, La Paz, Chaco area",Drought,Drought,0,0,48400,0,1988-9449,--,--
+//1990,//1990,Bolivia (Plurinational State of),BOL,"La paz, Oruro, Potosi, Cochabamba, Tarija departments",Drought,Drought,0,283160,0,0,1990-9059,Water shortage,--
+/12/1994,//1994,Bolivia (Plurinational State of),BOL,Potosi,Drought,Drought,0,50000,0,0,1994-9692,--,--
+/04/2000,//2000,Bolivia (Plurinational State of),BOL,Gran Chaco district (Tarija province),Drought,Drought,0,20000,0,0,2000-9881,--,--
+/10/2004,//2005,Bolivia (Plurinational State of),BOL,"Beni, Chuquisaca, Cochabamba, Santa Cruz, Tarija provinces",Drought,Drought,0,55000,0,0,2004-9576,--,--
+/12/2008,//2009,Bolivia (Plurinational State of),BOL,"La Paz, Oruro, Tarija, Chuquisaca, Santa Cruz provinces",Drought,Drought,0,27500,0,0,2008-9661,--,--
+/06/2010,/09/2010,Bolivia (Plurinational State of),BOL,"Santa Cruz, Tarija, Chuquisaca provinces",Drought,Drought,0,62500,100000,0,2010-9253,--,--
+/01/2013,/09/2013,Bolivia (Plurinational State of),BOL,"Tarija, Santa Cruz, Chuquisaca, Cochabamba, Beni, La Paz provinces",Drought,Drought,0,340355,0,0,2013-9369,--,--
+/10/2014,/10/2014,Bolivia (Plurinational State of),BOL,Santa Cruz province,Drought,Drought,0,51180,0,0,2014-9457,--,--
+/11/2016,/11/2016,Bolivia (Plurinational State of),BOL,"Oruro, Cochabamba, Beni provinces",Drought,Drought,0,665000,0,0,2016-9435,--,--
+/08/2000,//2000,Bosnia and Herzegovina,BIH,"Federacija Bosne I Hercegovine, Republika Srpska provinces",Drought,Drought,0,0,158000,0,2000-9537,Heat wave,--
+/05/2003,//2003,Bosnia and Herzegovina,BIH,"Republika Srpska province, Posavski district (Federacija Bosne I Hercegovine province), Neretvljanski district (Federacija Bosne I Hercegovine province)",Drought,Drought,0,62575,140000,0,2003-9784,--,--
+/07/1965,//1965,Botswana,BWA,Nationwide,Drought,Drought,0,60000,0,0,1965-9003,--,--
+/06/1968,//1968,Botswana,BWA,Countrywide,Drought,Drought,0,60000,1000,0,1968-9004,--,--
+/01/1970,//1970,Botswana,BWA,Countrywide,Drought,Drought,0,87600,2000,0,1970-9073,--,--
+/04/1982,//1987,Botswana,BWA,Nationwide,Drought,Drought,0,1037300,0,0,1981-9309,--,--
+//1992,//1992,Botswana,BWA,,Drought,Drought,0,100000,0,0,1990-9604,--,--
+/07/2015,/12/2015,Botswana,BWA,All country,Drought,Drought,0,0,44000,0,2015-9307,--,--
+/08/1970,//1970,Brazil,BRA,Northeast,Drought,Drought,0,10000000,100,0,1970-9005,--,--
+//1977,//1977,Brazil,BRA,North East,Drought,Drought,0,0,0,0,1977-9006,--,--
+//1978,//1978,Brazil,BRA,Central and Southern,Drought,Drought,0,0,2300000,0,1978-9005,--,--
+//1979,//1979,Brazil,BRA,Northeastern,Drought,Drought,0,5000000,0,0,1979-9012,--,--
+/09/1983,//1983,Brazil,BRA,"Northeast, Sertao",Drought,Drought,20,20000000,0,0,1983-9206,--,--
+/11/1985,//1985,Brazil,BRA,Rio Grande Do Sul,Drought,Drought,0,0,651000,0,1985-9011,--,--
+/06/1987,//1988,Brazil,BRA,"Alagoas, Minas, Bahia, Maranhao, Piaui, Ceara, Rio Grande Do Norte, Paraiba, Pernambuco, Sergipe, Mina Gerais states",Drought,Drought,0,750000,0,0,1987-9103,--,--
+/02/1988,//1988,Brazil,BRA,"Rio Grande Do Sul, Santa Catarina",Drought,Drought,0,0,0,0,1988-9064,--,--
+//1994,//1994,Brazil,BRA,,Drought,Drought,0,0,0,0,1994-9207,--,--
+/04/1998,//1999,Brazil,BRA,"Nord East, Piaui State",Drought,Drought,0,10000000,122000,0,1998-9114,--,--
+/06/2001,//2001,Brazil,BRA,Pernambuco province,Drought,Drought,0,1000000,0,0,2001-9394,--,--
+/09/2002,//2002,Brazil,BRA,"Minas Gerais, Paraiba, Rio Grande do Norte, Pernambuco, Piaui provinces",Drought,Drought,0,0,0,0,2002-9605,--,--
+/12/2004,/03/2005,Brazil,BRA,"Rio Grande Do Sul, Paraiba, Ceara, Piaui, Sergipe, Alagoas, Bahia, Rio Grande do Norte, Pernambuco provinces",Drought,Drought,0,0,1650000,0,2004-9705,--,--
+/10/2005,/10/2005,Brazil,BRA,"Manaquiri, Atalaia Do Norte, Anori, Caapiranga districts (Amazonas province)",Drought,Drought,0,0,0,0,2005-9569,--,--
+/10/2007,//2007,Brazil,BRA,"Ceara, Piaui, Maranhao, Tocantins, Minas Gerais provinces",Drought,Drought,0,1000000,0,0,2007-9514,--,--
+/10/2010,//2010,Brazil,BRA,Amazonas province,Drought,Drought,0,62000,0,0,2010-9556,--,--
+/05/2012,/05/2013,Brazil,BRA,"Minas Gerias, Pernambuco, Bahia provinces",Drought,Drought,0,4000000,1460000,0,2012-9607,--,--
+/01/2014,/04/2014,Brazil,BRA,"Alagoas, Bahia, Ceara, Maranhao, Paraiba, Pernambuco, Piaui, Rio Grande Do Norte, Sergipe provinces",Drought,Drought,0,27000000,5000000,0,2014-9025,--,--
+/05/1983,//1983,Bulgaria,BGR,,Drought,Drought,0,0,0,0,1983-9338,Food shortage,--
+/03/2000,//2001,Bulgaria,BGR,,Drought,Drought,0,0,0,0,2000-9788,--,--
+//1910,//1914,Burkina Faso,BFA,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Burkina Faso,BFA,,Drought,Drought,0,0,0,0,1940-9002,Famine,--
+/07/1966,//1966,Burkina Faso,BFA,Nationwide,Drought,Drought,0,0,0,0,1966-9005,--,--
+/04/1969,//1975,Burkina Faso,BFA,"East, North of Ougadougou. Northern section",Drought,Drought,0,975000,0,0,1969-9006,Famine,--
+//1977,//1978,Burkina Faso,BFA,Nationwide,Drought,Drought,0,442000,0,0,1976-9152,--,--
+/11/1980,//1985,Burkina Faso,BFA,,Drought,Drought,0,1250000,0,0,1980-9114,--,--
+//1988,//1988,Burkina Faso,BFA,North,Drought,Drought,0,200000,0,0,1988-9009,Crop failure,--
+/12/1990,//1990,Burkina Faso,BFA,North and Central provinces,Drought,Drought,0,2600000,0,0,1990-9578,--,--
+/12/1995,//1996,Burkina Faso,BFA,"Bam, Kadigo, Outbritenga, Oudalan, Sanmatenga, Seno, Soum, Yatenga provinces",Drought,Drought,0,75590,0,0,1995-9026,Food shortage,Famine
+/03/1998,//1998,Burkina Faso,BFA,,Drought,Drought,0,20700,0,0,1998-9153,Food shortage,--
+/04/2001,//2001,Burkina Faso,BFA,Plateau Central province,Drought,Drought,0,0,0,0,2001-9044,--,--
+/12/2011,//2012,Burkina Faso,BFA,"Sahel, Centre-nord, Est, Centre-ouest and Centre-est provinces",Drought,Drought,0,2850000,0,0,2011-9524,Food shortage,--
+/05/2014,//2014,Burkina Faso,BFA,Sahel province,Drought,Drought,0,4000000,0,0,2014-9196,Food shortage,--
+/10/1999,//2001,Burundi,BDI,"Bugabira, Busoni, Kirundo, Ntega districts (Kirundo province), Gihanga district (Bubanza province), Rumonge district (Bururi province), Buganda, Rugombo districts (Cibitoke province), Gitega, Ruyigi, Karuzi, Rutana, Makamba, Muyinga, Cankuzo provinces",Drought,Drought,6,650000,0,0,1999-9388,--,--
+/09/2003,//2004,Burundi,BDI,"Kirundo, Muyinga, Ngozi, Kayanza, Muramvya, Bujumbura Rural, Ruyigi, Gitega, Bubanza, Makamba provinces ",Drought,Drought,0,0,0,0,2003-9651,--,--
+/01/2005,/01/2006,Burundi,BDI,"Busoni, Bugabira, Ntega, Kirundo districts (Kirundo province), Ruyigi, Cankuzo, Rutana, Muyinga provinces ",Drought,Drought,120,2150000,0,0,2005-9067,Crop failure,Famine
+/09/2008,/01/2009,Burundi,BDI,"Kirundo, Ngozi, Muyinga, Cankuzo, Karuzi, Ruyigi provinces",Drought,Drought,0,82500,0,0,2008-9640,Food shortage,--
+/12/2009,/02/2010,Burundi,BDI,"Kirundo, Bugabira, Busoni districts (Kirundo province)",Drought,Drought,0,180000,0,0,2009-9634,Food shortage,--
+//2011,//2011,Burundi,BDI,"Kayanza, Ngozi provinces (North region), Cankuzo, Kirundo, Muyinga provinces (North-Eastern region), Bururi, Makamba, Rutana provinces (Southern region)",Drought,Drought,0,0,0,0,2010-9082,--,--
+//1900,//1900,Cabo Verde,CPV,Countrywide,Drought,Drought,11000,0,0,0,1900-9002,Famine,--
+//1910,//1914,Cabo Verde,CPV,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1920,//1920,Cabo Verde,CPV,Countrywide,Drought,Drought,24000,0,0,0,1920-9004,Famine,--
+//1940,//1944,Cabo Verde,CPV,"Nicolau, Fogo, Sao Tiago",Drought,Drought,20000,0,0,0,1940-9002,Famine,--
+//1946,//1946,Cabo Verde,CPV,Countrywide,Drought,Drought,30000,0,0,0,1946-9004,Famine,--
+//1972,//1975,Cabo Verde,CPV,,Drought,Drought,0,0,0,0,1969-9006,Famine,--
+//1982,//1985,Cabo Verde,CPV,,Drought,Drought,0,0,0,0,1980-9114,--,--
+//1992,//1992,Cabo Verde,CPV,,Drought,Drought,0,0,0,0,1992-9248,--,--
+/03/1998,//1998,Cabo Verde,CPV,"Praia (Santiago Isl.), Fogo Isl., San Vicente, San Nicolau and Sal.",Drought,Drought,0,10000,0,0,1998-9346,Food shortage,Famine
+/06/2002,//2002,Cabo Verde,CPV,"Santiago, Santo Antao Provinces",Drought,Drought,0,30000,0,0,2002-9398,Food shortage,--
+//1987,//1987,Cambodia,KHM,,Drought,Drought,0,0,0,0,1987-9026,--,--
+/06/1994,//1996,Cambodia,KHM,"Prey Veng, Kompong Speu, Kompong Chhnang, Takeo provinces",Drought,Drought,0,5000000,100000,0,1994-9223,Flood,Famine
+/09/2001,//2001,Cambodia,KHM,"Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Phnom Penh, Preah Sihanouk, Prey Veng, Pursat, Svay Rieng, Takeo provinces",Drought,Drought,0,300000,0,0,2001-9525,--,--
+/01/2002,/07/2002,Cambodia,KHM,"Takeo, Kampot, Kampong Speu, Kampong Chhnang, Kandal, Prey Veng, Phnom Penh,Otdar Meanchey, Banteay Meanchey, Pursat, Battambang provinces",Drought,Drought,0,650000,38000,0,2002-9485,--,--
+/04/2005,/04/2005,Cambodia,KHM,Kampong Speu province,Drought,Drought,0,600000,0,0,2005-9206,Food shortage,Heat wave
+/05/2016,/05/2016,Cambodia,KHM,"Banteay Meanchey, Battambang, Pursat, Kampong Speu provinces ",Drought,Drought,0,2500000,0,0,2016-9225,Water shortage,--
+/01/1971,//1971,Cameroon,CMR,,Drought,Drought,0,400000,1500,0,1971-9001,--,--
+//1990,//1991,Cameroon,CMR,North provinces,Drought,Drought,0,186900,0,0,1990-9579,Food shortage,Famine
+/01/2001,//2001,Cameroon,CMR,Nord province,Drought,Drought,0,0,0,0,2001-9067,--,--
+/03/2005,/05/2005,Cameroon,CMR,Logone-Et-Chari disctrict (Extrème-Nord province),Drought,Drought,0,0,0,0,2005-9238,Famine,--
+/01/1931,//1940,Canada,CAN,"Prairie provinces, Western Canada",Drought,Drought,0,25000,0,0,1931-9014,Heat wave,--
+/01/1961,//1961,Canada,CAN,Western Canada,Drought,Drought,0,0,0,0,1961-9040,--,--
+/01/1977,//1980,Canada,CAN,Prairie provinces,Drought,Drought,0,0,3000000,0,1977-9294,--,--
+/01/1984,/03/1985,Canada,CAN,"Quebec, Prince Edouard Islands, Alberta, Saskatchewan, Manitoba, Ontario provinces",Drought,Drought,0,30000,1000000,0,1984-9211,--,--
+/01/1988,//1988,Canada,CAN,"British Columbia, Ontario",Drought,Drought,0,0,810000,0,1988-9638,--,--
+/02/1983,/11/1984,Central African Republic,CAF,all coutry,Drought,Drought,0,0,0,0,1983-9060,Wildfire,Famine
+//1910,//1914,Chad,TCD,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Chad,TCD,,Drought,Drought,0,0,0,0,1940-9002,--,--
+/03/1966,//1966,Chad,TCD,,Drought,Drought,0,0,0,0,1966-9005,--,--
+/10/1969,//1978,Chad,TCD,"Central, East, South, North",Drought,Drought,0,900000,83000,0,1969-9006,Famine,--
+/11/1981,//1985,Chad,TCD,,Drought,Drought,3000,1500000,0,0,1980-9114,Famine,--
+/12/1993,//1993,Chad,TCD,,Drought,Drought,0,300000,0,0,1993-9501,--,--
+//1997,//1997,Chad,TCD,,Drought,Drought,0,356000,0,0,1997-9043,Crop failure,--
+/01/2001,//2001,Chad,TCD,"Guera, Biltine, Ouaddaï, Assongha, Batha-Est, Batha-ouest provinces",Drought,Drought,0,800000,0,0,2001-9044,Food shortage,--
+/12/2009,/07/2010,Chad,TCD,"Kanem, Barl El Gazal, Lac, Batha Est, Batha Ouest, Guera, Sila, Salamat, Ouaddai, Hadjer Lamis provinces",Drought,Drought,0,2400000,0,0,2009-9654,Food shortage,--
+/06/2012,/02/2013,Chad,TCD,"Kanem, Lac Barl el Gazal, Batha Est, Batha Ouest, Hadjer Lamis, Ouaddai, Salamat provinces",Drought,Drought,0,1600000,0,0,2012-9160,Food shortage,--
+/08/1968,//1972,Chile,CHL,"Nationwide, Central Valley, Central Chile",Drought,Drought,0,120000,55000,0,1968-9008,--,--
+/01/1991,/05/1991,Chile,CHL,,Drought,Drought,0,0,200000,0,1991-9006,--,--
+//1920,//1920,China,CHN,North,Drought,Drought,500000,20000000,0,0,1920-9003,--,--
+//1928,//1928,China,CHN,"Shensi, Honan, Kansu",Drought,Drought,3000000,0,0,0,1928-9002,--,--
+/03/1965,/04/1965,China,CHN,"Central, South-West",Drought,Drought,0,0,27118,0,1965-9080,--,--
+//1978,//1978,China,CHN,"Anhwei, Kiangsu Province",Drought,Drought,0,6000000,0,0,1978-9008,--,--
+//1979,//1982,China,CHN,Hwei province,Drought,Drought,0,0,0,0,1979-9004,--,--
+/01/1983,/08/1983,China,CHN,Tibet,Drought,Drought,0,0,0,0,1983-9019,--,--
+//1985,//1986,China,CHN,Fujian province,Drought,Drought,0,0,0,0,1985-9211,--,--
+/06/1988,//1988,China,CHN,"Hubei,Jiangsu, Henan, Anhui, Shandong, Zhejiang provinces",Drought,Drought,1400,49000000,942887,0,1988-9237,Heat wave,--
+/02/1991,/08/1991,China,CHN,"Jiangxi, Hunan provinces",Drought,Drought,2000,5000000,0,0,1991-9305,--,--
+//1992,//1993,China,CHN,Hunnan provinces,Drought,Drought,0,0,53200,0,1992-9090,--,--
+/05/1992,//1992,China,CHN,North and Central,Drought,Drought,0,12000000,0,0,1992-9128,--,--
+/01/1994,/12/1994,China,CHN,"Xuwen, Leizhou, Yangjiang, Maoming, Suixi, Hanwei, Chaozhou, Meizhou, Jieyang (Guangdong province)",Drought,Drought,0,82000000,13755200,0,1994-9096,--,--
+/03/1994,//1995,China,CHN,"Anhui, Jiangsu, Sichuan Provinces",Drought,Drought,0,6690000,0,0,1994-9186,--,--
+/01/1995,/08/1995,China,CHN,Nord-East provinces,Drought,Drought,0,9060000,12800,0,1995-9138,--,--
+/05/1997,/08/1997,China,CHN,Shandong,Drought,Drought,0,0,169100,0,1997-9557,--,--
+/03/1999,//1999,China,CHN,North Region,Drought,Drought,0,19000000,0,0,1999-9079,Water shortage,--
+/04/2000,//2000,China,CHN,"Jilin Sheng, Jiangxi Sheng, Anhui Sheng provinces",Drought,Drought,0,15000000,796115,0,2000-9267,--,--
+/08/2000,//2000,China,CHN,Nei Mongol Zizhiqu province ,Drought,Drought,0,5000000,0,0,2000-9531,--,--
+/09/2000,//2000,China,CHN,Guangdong Sheng province,Drought,Drought,0,0,0,0,2000-9626,--,--
+/02/2001,//2001,China,CHN,Nei Mongol Zizhiqu province,Drought,Drought,0,530000,0,0,2001-9149,--,--
+/03/2001,//2001,China,CHN,"Sichuan Sheng, Yunnan Sheng provinces",Drought,Drought,0,15800000,0,0,2001-9218,--,--
+/04/2002,//2002,China,CHN,"Guangdong Sheng, Fujian Sheng, Guangxi Zhuangzu Zizhiqu provinces",Drought,Drought,0,60000000,0,0,2002-9203,--,--
+/09/2002,//2002,China,CHN,Hebei Sheng province,Drought,Drought,0,900000,0,0,2002-9564,--,--
+01/06/2002,30/10/2002,China,CHN,Shandong Sheng province,Drought,Drought,0,3660000,1210000,0,2002-9854,--,--
+/01/2003,/01/2003,China,CHN,Nei Mongol Zizhiqu province,Drought,Drought,0,48000000,0,0,2003-9064,--,--
+/07/2003,//2003,China,CHN,"Hunan Sheng, Jiangxi Sheng, Zhejiang Sheng, Fujian Sheng provinces",Drought,Drought,0,3000000,0,0,2003-9360,Fire,--
+/10/2005,//2005,China,CHN,Guangdong Sheng province,Drought,Drought,0,174000,0,0,2005-9745,Fire,--
+07/07/2005,//2005,China,CHN,"Shanxi Sheng, Nei Mongol Zizhiqu, Ningxia Huizu Zizhiqu, Hunan Sheng, Guizhou Sheng provinces",Drought,Drought,0,7600000,0,0,2005-9746,--,--
+01/05/2006,10/09/2006,China,CHN,"Sichuan Sheng, Chongqing Shi, Guizhou Sheng, Zhejiang Sheng, Anhui Sheng, Jiangxi Sheng, Hunan Sheng, Hubei Sheng provinces",Drought,Drought,134,18000000,2910000,0,2006-9741,Heat wave,--
+/11/2008,/02/2009,China,CHN,"Henan Sheng, Anhui Sheng, Shanxi Sheng, Shaanxi Sheng, Shandong Sheng, Hubei Sheng, Gansu Sheng, Hebei Sheng, Jiangsu Sheng provinces",Drought,Drought,0,3700000,234000,0,2008-9662,--,--
+/06/2009,/07/2009,China,CHN,"Chaiyang, Fuxin, Jinzhou, Huludao districts (Liaoning Sheng province)",Drought,Drought,0,160000,0,0,2009-9283,--,--
+/10/2009,/05/2010,China,CHN,"Yunnan Sheng, Guizhou Sheng, Sichuan Sheng, Guangxi Zhuangzu Zizhiqu, Chongqing Shi provinces",Drought,Drought,0,60000000,3600000,0,2009-9655,Water shortage,--
+/12/2010,/05/2011,China,CHN,"Anhui Sheng, Gansu Sheng, Henan Sheng, Hebei Sheng, Jiangsu Sheng, Shaanxi Sheng, Shandong Sheng, Shanxi Sheng provinces",Drought,Drought,0,35000000,2370000,0,2010-9701,Water shortage,--
+/01/2013,/07/2013,China,CHN,"Yunnan Sheng, Sichuan Sheng, Shaanxi Sheng, Qinghai Sheng, Shanxi Sheng, Gansu Sheng provinces",Drought,Drought,0,5000000,0,0,2013-9062,--,--
+/06/2014,/07/2014,China,CHN,"Shandong Sheng, Shaanxi Sheng, Henan Sheng provinces, Nanbu-Nanchong city (Nanchong district, Sichuan Sheng ptovince)",Drought,Drought,0,226000,1180000,0,2014-9265,--,--
+/08/2014,/10/2014,China,CHN,"Liaoning Sheng, Jilin Sheng, Nei Mongol Zizhiqu provinces",Drought,Drought,0,27500000,2500000,110000,2014-9408,--,--
+/05/2015,/10/2015,China,CHN,"Hebei Sheng, Shanxi Sheng, Nei Mongol Zizhiqu, Liaoning Sheng, Jilin Sheng, Heilongjiang Sheng, Shandong Sheng, Yunnan Sheng, Shaanxi, Ningxia Huizu Zizhiqu provinces",Drought,Drought,0,0,2464000,444000,2015-9328,--,--
+/06/2016,/08/2016,China,CHN,"Jilin Sheng, Heilongjiang Sheng, Shanxi Sheng, Gansu Sheng, Ningxia Huizu Zizhiqu, Nei Mongol Zizhiqu provinces",Drought,Drought,0,10000000,1600000,0,2016-9369,Water shortage,--
+/01/1998,//1998,Colombia,COL,,Drought,Drought,0,100000,0,0,1998-9077,--,--
+/10/2015,/02/2016,Colombia,COL,"Caldas, Tolima, Quindio, Huila, Boyaca, Valle Del Cauca, Santander, Narino, Caqueta, Risaralda, Guajira, Atlantico, Magdalena, Bolivar, Arauca, Casanare provinces",Drought,Drought,0,0,0,0,2015-9372,Wildfire,--
+/08/1981,//1981,Comoros (the),COM,Great Comoros Isl.,Drought,Drought,0,0,0,0,1981-9121,Food shortage,--
+//1978,//1979,Congo (the Democratic Republic of the),COD,Bas Zaire,Drought,Drought,0,500000,0,0,1978-9125,Famine,--
+//1984,//1984,Congo (the Democratic Republic of the),COD,"Haut Zaire, Kivu province",Drought,Drought,0,300000,0,0,1983-9060,--,--
+/02/1983,//1983,Congo (the),COG,Northern area,Drought,Drought,0,0,0,0,1983-9060,Crop failure,--
+//1973,//1973,Costa Rica,CRI,Laguna Arenal,Drought,Drought,0,0,0,0,1973-9004,--,--
+/07/1994,/09/1994,Costa Rica,CRI,,Drought,Drought,0,0,1000,0,1994-9162,--,--
+/05/1998,//1998,Costa Rica,CRI,"Guarracaste, Central, South Pacific, Valle Central, Valle del Cuarco regions/provinces",Drought,Drought,0,0,23000,0,1998-9216,--,--
+/08/2015,/08/2015,Costa Rica,CRI,"Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose provinces",Drought,Drought,0,0,0,0,2014-9580,--,--
+//1983,//1983,Côte dIvoire,CIV,Central,Drought,Drought,0,0,0,0,1980-9114,Food shortage,Crop failure
+/02/2003,21/05/2003,Croatia,HRV,"Bjelovar-bilogora, Dubrovnik-Neretva, Grad Zagreb, Istra, Karlovac, Koprivnica-krizevci, Krapina-zagorje, Lika-senj, Medimurje, Osijek-baranja, Pozega-slavonija, Primorje-gorski Kota, ibenik, Sisak-moslavina, Slavonski Brod-posav, Split-dalmatija, Varazdin, Virovitica-podravina, Vukovar-srijem, Zadar-Knin provinces",Drought,Drought,0,0,330000,0,2003-9784,Heat wave,--
+//1981,//1983,Cuba,CUB,,Drought,Drought,0,0,0,0,1981-9307,--,--
+//1986,//1986,Cuba,CUB,,Drought,Drought,0,0,0,0,1986-9404,--,--
+//1993,//1993,Cuba,CUB,,Drought,Drought,0,0,0,0,1993-9585,--,--
+/01/1998,//1998,Cuba,CUB,"Guantanamo, Las Tuna, Holguin, Santiago de Cuba, Granma, Matanzas Provinces",Drought,Drought,0,820000,180000,0,1998-9210,Food shortage,--
+/08/2000,//2001,Cuba,CUB,"Guantanamo, Santiago De Cuba, Las Tunas, Camaguey provinces",Drought,Drought,0,0,0,0,2000-9496,--,--
+/08/2004,//2004,Cuba,CUB,"Holguin, Las Tunas, Camaguey, La Habane provinces",Drought,Drought,0,0,3139,0,2004-9332,--,--
+/05/2015,/06/2015,Cuba,CUB,"Camaguey, Ciego De Avila, Cienfuegos, Ciudad De La Habana, Granma, Guantanamo, Holguin, Isla De La Juventud, La Habana, Las Tunas, Matanzas, Pinar Del Rio, Sancti Spiritus, Santiago De Cuba, Villa Clara provinces",Drought,Drought,0,100000,0,0,2015-9372,--,--
+/03/1991,//1991,Cyprus,CYP,,Drought,Drought,0,0,0,0,1991-9050,--,--
+/03/2000,//2000,Cyprus,CYP,"Famgusta, Kyrenia, Larnaca, Limassol, Nicosia, Paphos provinces",Drought,Drought,0,0,0,0,2000-9173,--,--
+/05/1992,/07/1992,Denmark,DNK,,Drought,Drought,0,0,751700,0,1992-9200,--,--
+/06/1980,//1980,Djibouti,DJI,"Countrywide, especially Tadjourah",Drought,Drought,0,145000,0,0,1980-9005,--,--
+//1983,//1984,Djibouti,DJI,,Drought,Drought,0,80000,0,0,1983-9060,--,--
+/03/1988,//1988,Djibouti,DJI,,Drought,Drought,0,30000,0,0,1988-9008,--,--
+/02/1996,//1996,Djibouti,DJI,"Gouvetto, Kabah-Kabah, Assamo, Guestir, Ali-Addeh, Hol-Hol (Ali-Sabieh dist.), Yokobi, Asseyla (Dikhil dist.), Makrassoul, Dorba, Assa-Guela, Dabnou, Adgueno, Assal, Neima, Debne-Auri, Bahlo (Tadjourah dist.), Adguenou (Obock dist.), Damerjob, Artawea ",Drought,Drought,0,100000,0,0,1996-9119,--,--
+/06/2001,//2001,Djibouti,DJI,"Ali Sabieh, Dikhil, Djibouti, Obock, Tadjourah provinces",Drought,Drought,0,100000,0,0,1999-9388,--,--
+/04/2005,/04/2006,Djibouti,DJI,"Tadjourah district (Tadjourah province), Dikhil district (Dikhil province), Ali Sabieh district (Ali Sabieh province), Obock district (Obock province)",Drought,Drought,0,150000,0,0,2005-9213,Famine,--
+/01/2007,/01/2007,Djibouti,DJI,NO DATA: all country selected,Drought,Drought,0,42750,0,0,2007-9676,--,--
+/07/2008,//2009,Djibouti,DJI,"Djibouti, Arta cities (Djibouti district, Djibouti province), Ali Sabieh district (Ali Sabieh province), Obock district (Obock province), Tadjourah district (Tadjourah province), Dikhil district (Dikhil province)",Drought,Drought,0,340000,0,0,2008-9303,Food shortage,--
+/11/2010,/07/2011,Djibouti,DJI,"Ali Sabieh district (Ali Sabieh province), Dikhil, Yoboki districts (Dikhil province), Alaili Dadda, Obock districts (Obock province), Balha, Dorra districts (Tadjourah province)",Drought,Drought,0,200258,0,0,2010-9082,--,--
+/08/1968,//1968,Dominican Republic (the),DOM,Nationwide,Drought,Drought,0,240000,5000,0,1968-9009,--,--
+/03/1964,//1964,Ecuador,ECU,,Drought,Drought,0,600000,0,0,1964-9006,--,--
+/02/1997,//1997,Ecuador,ECU,"Celica, Macara, Puyango, Pindal, Sozoranga, Zapotillo counties (Loja province), Arenillas, Las Lajas, Huaquillas counties (El Oro province)",Drought,Drought,0,34000,0,0,1997-9023,--,--
+/11/2009,//2010,Ecuador,ECU,"Manabi, Los Rios, Cotopaxi, Bolivar, Chimborazo, Tungurahua provinces",Drought,Drought,0,107500,1700,0,2009-9415,--,--
+/02/2013,/06/2013,Ecuador,ECU,"Zapotillo, Celica, Paltas, Macara, Sozoranga districts (Loja province)",Drought,Drought,0,3165,0,0,2013-9308,--,--
+/07/1982,//1982,El Salvador,SLV,,Drought,Drought,0,0,0,0,1982-9286,--,--
+/07/1994,/09/1994,El Salvador,SLV,,Drought,Drought,0,0,1000,0,1994-9162,--,--
+/05/1998,//1998,El Salvador,SLV,,Drought,Drought,0,0,170000,0,1998-9216,--,--
+/05/2001,//2001,El Salvador,SLV,"Usulutan, San Miguel, Morazan, La Union provinces",Drought,Drought,0,400000,22400,0,2001-9383,--,--
+12//2009,//2009,El Salvador,SLV,"Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan provinces",Drought,Drought,0,0,27000,0,2009-9415,--,--
+/04/2015,/12/2016,El Salvador,SLV,"La Union, San Miguel, Morazan, Usulutan, Ahuachapan, Sonsonate, Santa Ana, Chalatenango provinces",Drought,Drought,0,700000,100000,0,2014-9580,--,--
+/11/1993,//1993,Eritrea,ERI,,Drought,Drought,0,1600000,0,0,1993-9573,--,Food shortage
+/10/1999,//2003,Eritrea,ERI,"Anseba, Debubawi Keih Bahri, Semenawi Keih Bahri provinces",Drought,Drought,0,2300000,0,0,1999-9388,Food shortage,--
+/10/2008,/10/2008,Eritrea,ERI,"Achipelagos, Semenawi Keih Bahri provinces (Northern Red Sea Region), Debubawi Keih Bahri province (Southern Red Sea Region), Anseba, Debub provinces",Drought,Drought,0,1700000,0,0,2008-9200,--,--
+/07/1965,//1965,Ethiopia,ETH,Nationwide,Drought,Drought,2000,1500000,0,0,1965-9038,--,--
+/09/1969,//1969,Ethiopia,ETH,Hamasion division,Drought,Drought,0,1700000,1000,0,1969-9009,--,--
+/12/1973,//1978,Ethiopia,ETH,"Tigre, Wollo, North Shoa, Tigray, Kangra provinces",Drought,Drought,100000,3000000,76000,0,1973-9005,Famine,--
+/05/1983,//1984,Ethiopia,ETH,"Wollo, Gondar, Goe, Eritrea, Tigrai, Shoa, Harerge, Sidamo",Drought,Drought,300000,7750000,0,0,1983-9060,--,--
+/06/1987,//1987,Ethiopia,ETH,"Ogaden, Eritrea, Tigray, Wello, Shewa, Gama, Gofa, Sidamo, Gondar, Bale",Drought,Drought,367,7000000,0,0,1987-9014,--,--
+/10/1989,//1994,Ethiopia,ETH,"Northern Ethiopia, Eritrea, Tigray, Wollo, Gondar, Harerge",Drought,Drought,0,6500000,0,0,1989-9230,Food shortage,--
+/02/1997,//1997,Ethiopia,ETH,"Borena, Bale (Oromiya state) South Ome zone, Somali state ",Drought,Drought,0,986200,0,0,1997-9091,--,--
+/07/1998,//1998,Ethiopia,ETH,,Drought,Drought,0,0,15600,0,1998-9237,--,--
+/09/1999,/12/2000,Ethiopia,ETH,"North Wollo, South Wollo, Oromia, Wag Himra districts (Amhara province), Southern district (Tigray province), Beneshangul Gumu, Gambela, Oromia, SNNPR, Somali provinces",Drought,Drought,0,4900000,0,0,1999-9388,Food shortage,--
+//2003,//2004,Ethiopia,ETH,"Tigray, Oromia, Amhara, Somali, Afar provinces",Drought,Drought,0,12600000,0,0,2003-9772,--,--
+/11/2005,//2006,Ethiopia,ETH,"Afder, Liben districts (Somali province), Gode zones (Shabelle district, Somali province), Borena district (Oromiya province)",Drought,Drought,0,2600000,0,0,2005-9747,Food shortage,--
+/05/2008,/10/2009,Ethiopia,ETH,"Oromia, Somali, Amhara, Afar, Tigray, SNNPR provinces",Drought,Drought,0,6400000,0,0,2008-9200,Famine,Food shortage
+/01/2009,/08/2010,Ethiopia,ETH,"Somali, Oromia, Afar, Tigray, Amhara, SNNP, Gambela provinces",Drought,Drought,0,6200000,0,0,2009-9615,Food shortage,--
+/01/2011,/01/2012,Ethiopia,ETH,"Somali, Oromia, Afar, Tigray, Amhara provinces",Drought,Drought,0,4805679,0,0,2010-9082,--,--
+//2012,//2012,Ethiopia,ETH,"Dire Dawa, Gambela, Hareri, Oromia, SNNPR, Somali, Addis Ababa provinces (Southern Ethiopia)",Drought,Drought,0,1000000,0,0,2011-9663,Food shortage,--
+/09/2015,/01/2016,Ethiopia,ETH,"Somali, Afar provinces",Drought,Drought,0,10200000,1400000,0,2015-9545,Famine,--
+//1983,//1983,Fiji,FJI,Western division,Drought,Drought,0,31000,30000,0,1983-9018,--,--
+/01/1998,//1998,Fiji,FJI,"Viti Levu, Yasawa, Vanua Levu",Drought,Drought,0,263455,0,0,1998-9324,--,--
+/09/2015,/10/2015,Fiji,FJI,NO DATA: all country selected,Drought,Drought,0,67000,0,0,2015-9483,--,--
+/07/1982,//1982,France,FRA,"Corsica, Var",Drought,Drought,0,0,0,0,1982-9303,Heat wave,Wildfire
+/07/1989,/08/1989,France,FRA,Corse,Drought,Drought,0,0,1600000,0,1989-9595,--,--
+/07/1991,//1991,France,FRA,"Limousin, Poitou-Charente, Aquitaine, Midi Pyrenees, Normandie",Drought,Drought,0,0,0,0,1991-9316,Wildfire,--
+/04/1997,//1997,France,FRA,,Drought,Drought,0,0,10000,0,1997-9105,--,--
+//1910,//1914,Gambia (the),GMB,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Gambia (the),GMB,,Drought,Drought,0,0,0,0,1940-9002,--,--
+/11/1968,//1968,Gambia (the),GMB,Northwestern region,Drought,Drought,0,180000,500,0,1968-9010,--,--
+/01/1971,//1975,Gambia (the),GMB,Countrywide,Drought,Drought,0,150000,200,0,1969-9006,Famine,--
+//1977,//1978,Gambia (the),GMB,,Drought,Drought,0,0,0,0,1976-9152,--,--
+/09/1980,//1985,Gambia (the),GMB,Countrywide,Drought,Drought,0,500000,0,0,1980-9114,Food shortage,--
+/05/2002,//2002,Gambia (the),GMB,"NO DATA: all country selected: Central River, Kanifing Municipal Council, Lower River, North Bank, Upper River, West Coast provinces",Drought,Drought,0,0,0,0,2002-9535,Food shortage,--
+/03/2012,//2012,Gambia (the),GMB,"NO DATA: all country selected - North Bank, Lower River (mainly?), Upper River, West Coast, Kanifing Municipal Council, Central River provinces",Drought,Drought,0,428000,0,0,2012-9245,Crop failure,Food shortage
+/01/2015,/12/2015,Gambia (the),GMB,"NO DATA: all country selected: Central River, North Bank (mainly?), Kanifing Municipal Council, Lower River, Upper River, West Coast provinces",Drought,Drought,0,63100,0,0,2015-9575,Food shortage,--
+/08/2000,//2001,Georgia,GEO,"Kakheti, Kvemo Kartli, Samtskhe-Javakheti, Mtskheta-Mtianeti, Shida Kartli, Imereti provinces",Drought,Drought,0,696000,200000,0,2000-9495,--,--
+/01/1971,//1971,Ghana,GHA,Countrywide,Drought,Drought,0,12000,100,0,1971-9003,--,--
+/05/1977,//1977,Ghana,GHA,"North, Upper regions",Drought,Drought,0,0,0,0,1977-9062,Food shortage,--
+/10/1983,//1985,Ghana,GHA,Countrywide,Drought,Drought,0,12500000,0,0,1980-9114,Wildfire,--
+/03/1990,/03/1990,Greece,GRC,,Drought,Drought,0,0,1000000,0,1990-9595,Heat wave,--
+/01/2010,/06/2010,Grenada,GRD,"St. Patrick's, Name Unknown, St. George's provinces",Drought,Drought,0,0,0,0,2010-9077,Wildfire,--
+//1987,//1988,Guatemala,GTM,Chiquimula area,Drought,Drought,0,73000,0,0,1987-9588,--,--
+/07/1994,/09/1994,Guatemala,GTM,,Drought,Drought,0,0,10000,0,1994-9162,--,--
+/09/2001,//2001,Guatemala,GTM,Chiquimula province,Drought,Drought,41,113596,14000,0,2001-9383,Famine,--
+/03/2009,/12/2009,Guatemala,GTM,"Baja Verapaz, El Progreso, Zacapa, Jalapa, Chiquimula, Santa Rosa, Jutiapa, Quiché provinces",Drought,Drought,0,2500000,0,0,2009-9415,Food shortage,--
+/06/2012,//2012,Guatemala,GTM,"Jalapa, El Progreso, Zacapa, Santa Rosa, Guatemala, Sacatepéquez, Solola, Chimaltenango, Baja Verapaz, Quiché, Huehuetenango provinces",Drought,Drought,0,266485,0,0,2012-9355,Heat wave,--
+/08/2014,//2016,Guatemala,GTM,"Baja Verapaz, El Progreso, Zacapa, Chiquimula, Jalapa, Jutiapa, Quiché, Huehuetenango, Totonicapán, San Marcos, Retalhuleu, Santa Rosa, Escuintla provinces",Drought,Drought,0,1300000,100000,0,2014-9277,--,--
+/02/1981,//1983,Guinea,GIN,Upper and Middle region,Drought,Drought,0,0,0,0,1980-9114,--,--
+/02/1998,/02/1998,Guinea,GIN,,Drought,Drought,12,0,0,0,1998-9330,Food shortage,--
+//1910,//1914,Guinea-Bissau,GNB,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Guinea-Bissau,GNB,,Drought,Drought,0,0,0,0,1940-9002,--,--
+//1972,//1975,Guinea-Bissau,GNB,,Drought,Drought,0,0,0,0,1969-9006,Famine,--
+//1982,//1985,Guinea-Bissau,GNB,,Drought,Drought,0,0,0,0,1980-9114,--,--
+/05/2002,/05/2002,Guinea-Bissau,GNB,"All country: Gabu, Bafata (mainly affected provinces in North-eastern), Biombo, Bolama/bijagos, Cacheu, Oio, Quinara, Sector Autonomo De Bissau, Tombali provinces",Drought,Drought,0,100000,0,0,2002-9332,--,--
+/05/2006,/05/2006,Guinea-Bissau,GNB,"Quinara, Tombali provinces, Bolama/Bijagos Isl.(=province)",Drought,Drought,0,32000,0,0,2006-9233,Famine,--
+//1988,//1988,Guyana,GUY,,Drought,Drought,0,0,0,0,1988-9026,--,--
+/07/1997,//1998,Guyana,GUY,Rupununi Region,Drought,Drought,0,607200,29000,0,1997-9074,--,--
+/01/2010,/06/2010,Guyana,GUY,"Barima Waini (region N°1), Cuyuni/mazaruni (region N°7), Pomeroon/supenaam (region N°2), Potaro/siparuni (region N°8), Upper Takutu/upper Essequibo (region N°9) provinces",Drought,Drought,0,0,14700,0,2010-9077,--,--
+/01/1968,//1968,Haiti,HTI,North West Peninsula,Drought,Drought,0,210217,1000,0,1968-9006,--,--
+/11/1974,//1974,Haiti,HTI,Northwest Peninsula,Drought,Drought,0,507000,0,0,1974-9055,--,--
+/05/1977,//1977,Haiti,HTI,Countrywide,Drought,Drought,0,450000,0,0,1977-9002,Food shortage,--
+//1980,//1983,Haiti,HTI,Southwest,Drought,Drought,0,103000,0,0,1980-9132,Water shortage,--
+/04/1992,//1992,Haiti,HTI,,Drought,Drought,0,1000000,0,0,1992-9140,Food shortage,--
+/08/1993,//1993,Haiti,HTI,Artibonite region,Drought,Drought,0,0,0,0,1993-9561,Crop failure,Famine
+/02/2003,//2004,Haiti,HTI,"Saint Nicolas, Bombardopolis, Baie-de-Henne, Jean Rabel towns (Mole Saint Nicolas district, Nord Ouest province)",Drought,Drought,0,35000,0,0,2003-9758,Food shortage,--
+/01/2014,/07/2015,Haiti,HTI,"Macaya area (Cayes district, Sud province), Nord province",Drought,Drought,0,1000000,0,0,2014-9102,Food shortage,--
+/01/2016,/03/2016,Haiti,HTI,"Corail, Anse-D'Ainsault, Jeremie districts (Grande Anse province), Chardonnieres, Coteaux, Aquin, Cayes, Port-Salut districts (Sud province), Anse-A-Veau, Baraderes, Miragoane districts (Nippes province), Gonave, Leogane districts (Ouest province), Belle Anse, Jacmel, Bainet districts (Sud Est province), Croix-des-Bouquets district (Ouest province), Lascahobas, Ceca La Source, Hinche, Mirebalais districts (Centre province), Valliere, Ouanaminthe, Trou du Nord, Fort Liberte districts (Nord Est province), Saint-Raphael, Grande Riviere Du Nord, Limbe, Acul Du Nord districts (Nord province), Gonaives, Marmelade, Gros Morne, Saint-Marc districts (Artibonite province), Mole Saint Nicolas, Port De Paix districts (Nord Ouest province)",Drought,Drought,0,3600000,0,0,2016-9052,Food shortage,--
+/06/1965,//1965,Honduras,HND,"South Valle, Choluteca",Drought,Drought,0,100000,0,0,1965-9032,--,--
+//1972,//1973,Honduras,HND,,Drought,Drought,0,300000,7000,0,1972-9077,--,--
+/07/1994,/09/1994,Honduras,HND,,Drought,Drought,0,0,10000,0,1994-9162,--,--
+/12/1997,//1997,Honduras,HND,"Choluteca, Valle, Francisco Morazan, El Paraíso, Comayagua departments",Drought,Drought,0,0,0,0,1997-9305,--,--
+/07/2000,//2000,Honduras,HND,"Montana de la Flor area (Marale district, Francisco Morazan province)",Drought,Drought,0,1125,0,0,2000-9860,Famine,--
+/07/2001,//2004,Honduras,HND,"Choluteca, Valle, Francisco Morazan, Paraiso, La Paz, Comayagua, Intibuca, Yoro, Lempira provinces",Drought,Drought,0,195000,0,0,2001-9383,Food shortage,--
+/01/2002,//2002,Honduras,HND,"Liure, Soledad districts (Paraiso province), Orocuina, El Corpus districts (Choculeta province)",Drought,Drought,0,82000,0,0,2002-9838,--,--
+/07/2004,//2004,Honduras,HND,"Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, Francisco Morazan, Gracias A Dios, Intibuca, Islas De Bahia, La Paz, Lempira, Name Unknown, Ocotepeque, Olancho, Paraiso, Santa Barbara, Valle, Yoro provinces",Drought,Drought,0,137500,0,0,2004-9363,Food shortage,--
+/11/2009,/02/2011,Honduras,HND,"Paraiso, Francisco Morazan, Yoro, Choluteca, Valle, Intibuca provinces",Drought,Drought,0,45000,0,0,2009-9559,Food shortage,--
+/09/2012,/09/2012,Honduras,HND,"Choluteca, Francisco Morazan, Gracias A Dios, La Paz, Olancho, Paraiso, Valle provinces",Drought,Drought,0,125000,0,0,2012-9379,--,--
+/04/2014,/07/2015,Honduras,HND,"San Marcos De Sierra, Camasca districts (Intibuca province), Moroceli, Alauca, Oropoli, Teupasenti districts (Paraiso province), Ocotepeque, Copan, Santa Barbara, Yoro, Comayagua, Olancho, Lempira, La Paz, Valle, Choluteca, Francisco Morazan provinces",Drought,Drought,0,571710,0,0,2014-9332,Food shortage,--
+/01/1960,//1960,Hong Kong,HKG,,Drought,Drought,0,0,0,0,1960-9039,--,--
+/09/1966,/12/1966,Hong Kong,HKG,,Drought,Drought,0,0,0,0,1966-9107,--,--
+/01/1976,/05/1976,Hong Kong,HKG,Hong Kong,Drought,Drought,0,0,0,0,1976-9134,--,--
+/01/1977,/05/1977,Hong Kong,HKG,,Drought,Drought,0,0,0,0,1977-9195,--,--
+/10/1979,/12/1979,Hong Kong,HKG,,Drought,Drought,0,0,0,0,1979-9200,Wildfire,--
+//1981,//1981,Hong Kong,HKG,,Drought,Drought,0,0,0,0,1981-9194,--,--
+/10/1983,/12/1983,Hong Kong,HKG,,Drought,Drought,0,0,0,0,1983-9308,--,--
+/06/1986,/09/1986,Hungary,HUN,Entire country,Drought,Drought,0,0,500000,0,1986-9405,--,--
+/05/1992,/08/1992,Hungary,HUN,Entire country,Drought,Drought,0,0,384000,0,1992-9195,--,--
+/07/2003,/08/2003,Hungary,HUN,"Bacs-kiskun, Baranya, Bekes, Borsod-abauj-zemplen, Budapest, Csongrád, Fejér, Gyor-moson-sopron, Hadju-bihar, Heves, Jasz-nagykun-seolnok, Komarom-esztergom, Nógrád, Pest, Somogy, Szabolcs-szatmar-bereg, Tolna, Vas, Veszprém, Zala provinces",Drought,Drought,0,0,100000,0,2003-9784,--,--
+//1900,//1900,India,IND,Bengal,Drought,Drought,1250000,0,0,0,1900-9001,--,--
+//1942,//1942,India,IND,"Calcutta, Bengal region",Drought,Drought,1500000,0,0,0,1942-9003,Famine,--
+/07/1964,//1964,India,IND,"Rajasthan, center",Drought,Drought,0,500000,0,0,1964-9009,--,--
+/08/1964,//1964,India,IND,Mysore,Drought,Drought,0,166000,0,0,1964-9044,Famine,--
+//1965,//1967,India,IND,Nationwide except south,Drought,Drought,1500000,100000000,100000,0,1965-9073,Famine,--
+//1972,//1973,India,IND,Central,Drought,Drought,0,200000000,100000,0,1972-9116,--,--
+//1979,//1979,India,IND,,Drought,Drought,0,10000000,200000,0,1979-9005,--,--
+/06/1982,//1983,India,IND,"districts of Bhiwani, Gurgaon, Hisar, Mahendargarh, and Rohtak, Kerala, Tami Nadu, Rajasthan",Drought,Drought,0,100000000,0,0,1982-9350,--,--
+/05/1987,/08/1987,India,IND,"Gujarat, Rajasthan, Orissa, Madhya Pradesh, Andhra Pradesh, Maharashtra",Drought,Drought,300,300000000,0,0,1987-9024,--,--
+/03/1993,/10/1993,India,IND,"Bihar, Orissa, Andhra Pradesh, Maharashtra, Gujarat, Madhya Prasdesh, Uttar Pradesh, Karnataka",Drought,Drought,0,1175000,0,0,1993-9472,--,--
+/03/1996,/04/1996,India,IND,Rajasthan,Drought,Drought,0,0,542400,0,1996-9328,--,--
+/04/2000,//2001,India,IND,"New Delhi city (Delhi province), Gujarat, Rajasthan, Madhya Prasdesh, Andhra Pradesh, Orissa, Maharashtra provinces",Drought,Drought,20,50000000,588000,0,2000-9222,Heat wave,Food shortage
+/07/2002,//2002,India,IND,"Uttar Pradesh, Madhya Pradesh, Rajasthan, Punjab, Haryana, Delhi, Karnataka, Kerala, Nagaland, Orissa, Chhattisgarh, Himachal Pradesh, Gujarat, Maharashtra, Andhra Pradesh, Tamil Nadu provinces",Drought,Drought,0,300000000,910722,0,2002-9349,--,--
+/07/2009,/08/2009,India,IND,"Bongaigaon, Cachar, Dhuburi, Goalpara, Golaghat, Hailakandi, Jorhat, Kamrup, Karbi Anglong, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Sibsagar, Barpeta, Darrang, Dhemaji, Dibrugarh, Karimganj, Nalbari, North Cachar Hills, Sonitpur, Tinsukia districts (Assam province), Bilaspur, Chamba, Hamirpur, Kangra, Kinnaur, Kullu, Lahaul and Spiti, Mandi, Shimla, Sirmaur, Solan, Una districts (Himachal Pradesh province), Chatra, Garhwa, Latehar, Palamu, Dumka, Deoghar, Giridih, Godda, Jamtara, Pakur, Sahibganj, Bokaro, Dhanbad, Purba Singhbhum, Gumla, Hazaribag, Koderma, Lohardaga, Ranchi, Simdega, Saraikela Kharsawan, Pashchim Singhbhum districts (Jharkhand province), Bishnupur, Chandel, Churachandpur, East Imphal, West Imphal, Senapati, Tamenglong, Thoubal, Ukhrul districts (Manipur province), Dimapur, Kohima, Phek, Mokokchung, Mon, Tuensang, Wokha, Zunheboto districts (Nagaland province), Ambedkar Nagar, Ballia, Bareilly, Basti, Deoria, Farrukkhabad, Fatehpur, Ghazipur, Hardoi, Hathras, Jaunpur, Kannauj, Kanpur Dehat, Mainpuri, Mau, Rae Bareli, Sultanpur, Sant Kabir Nagar, Unnao, Agra, Shahjahanpur, Faizabad, Meerut, Mahoba, Aligarh, Jyotiba Phule Nagar, Balrampur, Etah, Rampur, Ghaziabad, Gautam Buddha Nagar, Banda, Mathura, Allahabad, Auraiya, Jalaun, Varanasi, Chandauli, Moradabad, Azamgarh, Siddharth Nagar, Badaun, Sitapur, Firozabad, Saharanpur, Chitrakoot, Etawah, Bulandshahr, Kaushambi, Pilibhit, Muzaffarnagar, Kushinagar, Jhansi, Lucknow, Bijnor, Mirzapur districts (Uttar Pradesh province), Patna, Nalanda, Gaya, Buxar, Bhojpur, Rohtas, Bhabua, Siwan, Nawada, Munger, Aurangabad, Sheikhpura, Lakhisarai, Jamui, Bhagalpur, Banka, Saran, Jehanabad, Muzaffarpur, Sitamarhi, Begusarai, Madhepura, Kishanganj, Katihar, Vaishali districts (Bihar province), Bangalore Urban, Bangalore Rural, Kolar, Tumkur, Chitradurga, Davanagere, Chamrajnagar, Mysore, Mandya, Bellary, Koppal, Raichur, Gulbarga, Bidar, Belgaum, Bagalkot, Bijapur, Gadag districts (Karnataka province), Nanded, Latur, Aurangabad, Jalna, Bid, Parbhani, Osmanabad, Hingoli, Chandrapur, Yavatmal, Wardha, Thane, Raigarh, Nandurbar, Jalgaon, Amravati, Buldana, Washim, Garhchiroli, Pune, Satara, Sangli, Solapur, Kolhapur, Nashik, Dhule, Ahmednagar, Akola districts (Maharasthra province), Rewa, Satna, Sidhi, Shahdol, Anuppur, Umaria, Dindori, Jabalpur, Katni, Balaghat, Narsinghpur, Mandla, Sagar, Panna, Tikamgarh, Chhatarpur, Raisen, Vidisha, Damoh, Sehore, Gwalior, Guna, Ashoknagar, Shivpuri, Datia, Bhind, Morena, Sheopur, Shajapur, Dewas, Ratlam, East Nimar, Burhanpur, Barwani, Jhabua districts (Madhya Pradesh province), Ajmer, Alwar, Banswara, Barmer, Bhilwara, Bikaner, Bundi, Chittaurgarh, Churu, Dausa, Dungarpur, Ganganagar, Hanumangarh, Jaipur, Jaisalmer, Jalor, Jhunjhunu, Jodhpur, Nagaur, Pali, Rajsamand, Sawai Madhopur, Sikar, Sirohi, Tonk, Udaipur districts (Rajasthan province)",Drought,Drought,0,0,0,0,2009-9323,--,--
+/01/2016,/05/2016,India,IND,"Tamil Nadu, Rajasthan, Jharkhand, Assam, Andhra Pradesh, Himachal Pradesh, Nagaland, ",Drought,Drought,0,330000000,0,0,2016-9090,--,--
+/01/1966,//1966,Indonesia,IDN,"Lombok, South",Drought,Drought,8000,204000,0,0,1966-9004,Famine,--
+//1972,//1973,Indonesia,IDN,"Central Java, Southern Isles",Drought,Drought,0,3500000,70000,0,1972-9131,--,--
+/04/1978,//1978,Indonesia,IDN,Flores (Tilor Isl.),Drought,Drought,63,17220,1200,0,1978-9002,Storm,--
+/01/1982,/12/1982,Indonesia,IDN,"Irian Jaya, East Timor",Drought,Drought,280,0,0,0,1982-9007,Epidemic,--
+//1984,//1984,Indonesia,IDN,"Kyrim, Irian Jaya",Drought,Drought,230,2000,0,0,1984-9013,--,--
+//1986,//1986,Indonesia,IDN,Kurima (Irian Jaya),Drought,Drought,84,1000,0,0,1986-9128,--,--
+//1987,//1987,Indonesia,IDN,"Java, Bali, Nusa Tenggara Timor, S. Sumtra, E. Kalimatan",Drought,Drought,0,0,0,0,1987-9027,--,--
+/09/1997,/11/1997,Indonesia,IDN,Irian Jaya Province,Drought,Drought,672,1065000,88000,0,1997-9244,Wildfire,Famine
+/08/2003,/09/2003,Indonesia,IDN,"Belu, Timor Tengah Selatan, Timor Tengah Utara, Kupang districts (West Timor region, Nusatenggara Timur province)",Drought,Drought,0,15000,1000,0,2003-9760,--,--
+/07/2015,/07/2015,Indonesia,IDN,"Lani Jaya (Jayawijaya district, Papua province), Puncakjaya district (Papua province)",Drought,Drought,11,0,0,0,2015-9411,Cold wave,Food shortage
+/01/1964,//1964,Iran (Islamic Republic of),IRN,,Drought,Drought,0,625000,0,0,1964-9002,Storm,Snow/ice
+/04/1999,//2001,Iran (Islamic Republic of),IRN,"Fars, Buchehr, Yazd, Kerman, Sistan-Baluchestan, Kohkiluyeh Boyer-Ahmad, Hormuzgan, Khuzestan provinces",Drought,Drought,0,37000000,3300000,0,1999-9122,--,--
+//1969,//1971,Iraq,IRQ,"Ninauri, Kirkuk, Arbil",Drought,Drought,0,500000,2000,0,1969-9068,--,--
+//1998,//2001,Iraq,IRQ,,Drought,Drought,0,0,0,0,1998-9670,Water shortage,--
+/04/1999,//1999,Israel,ISR,,Drought,Drought,0,0,75000,0,1999-9153,--,--
+/04/1997,//1997,Italy,ITA,,Drought,Drought,0,0,800000,0,1997-9105,--,--
+/05/2002,//2002,Italy,ITA,"Sicilia, Basilicata, Puglia, Sardegna provinces",Drought,Drought,0,0,0,0,2002-9298,--,--
+01/06/2012,10/10/2012,Italy,ITA,"Abruzzi, Basilicata, Calabria, Campania, Emilia-romagna, Friuli-venezia Giulia, Lazio, Liguria, Lombardia, Marche, Molise, Piemonte, Puglia, Sardegna, Sicilia, Toscana, Trentino-alto Adige, Umbria, Valle D'aosta, Veneto provinces",Drought,Drought,0,0,1190000,0,2012-9290,Heat wave,--
+/01/1968,//1968,Jamaica,JAM,Nationwide,Drought,Drought,0,100000,500,0,1968-9007,--,--
+/01/1981,//1983,Jamaica,JAM,,Drought,Drought,0,0,0,0,1981-9209,Water shortage,--
+/03/2000,//2000,Jamaica,JAM,"Clarendon, Hanover, Manchester, Portland, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Thomas, Trelawny, Westmoreland provinces",Drought,Drought,0,0,6000,0,2000-9138,--,--
+/01/2014,/11/2014,Jamaica,JAM,"Saint Thomas, Saint Mary, Portland, Clarendon, Manchester, Saint Catherine, Saint Andrew And Kingston provinces",Drought,Drought,0,91545,0,0,2014-9469,Food shortage,--
+/04/1977,//1977,Japan,JPN,Okinawa,Drought,Drought,0,0,0,0,1977-9055,--,--
+/07/1999,//1999,Jordan,JOR,,Drought,Drought,0,180000,0,0,1999-9153,--,--
+/08/2000,//2000,Jordan,JOR,"Ajloon, Amman, Aqaba, Balqa, Irbid, Jarash, Karak, Ma'an, Madaba, Mafraq, Tafiela, Zarqa provinces",Drought,Drought,0,150000,0,0,2000-9327,--,--
+/07/1965,//1965,Kenya,KEN,,Drought,Drought,0,260000,0,0,1965-9038,--,--
+/01/1971,//1971,Kenya,KEN,Countrywide,Drought,Drought,0,150000,1500,0,1971-9004,--,--
+//1979,//1980,Kenya,KEN,Turkana district,Drought,Drought,0,40000,0,0,1979-9177,Food shortage,--
+//1984,//1984,Kenya,KEN,,Drought,Drought,0,600000,0,0,1983-9060,Food shortage,--
+//1991,//1992,Kenya,KEN,Northeastern regions,Drought,Drought,0,2700000,0,0,1991-9224,--,--
+/03/1994,//1995,Kenya,KEN,Northern & northeastern districts,Drought,Drought,0,1200000,0,0,1994-9422,--,--
+/01/1997,//1998,Kenya,KEN,"Garissa, Isiolo, Wajir, Mandera, Turkana, Baringo, Kifili, Meru, Makueni, Marsabit/moyale, Tana river, Kitui, Mwingi, Mbere, Tharaka Nithi, Nyambene, Machakos, Taita Taveta, Muranga/Makuyu/Maragwa, Kajiado, Kilifi districts",Drought,Drought,0,1600000,0,0,1996-9326,--,--
+/12/1999,//2002,Kenya,KEN,"Nyandarua, Nyeri districts (Central province), Kilifi, Kwale, Lamu, Taita Taveta, Tana River districts (Coast province), Isiolo, Kitui, Machakos, Makueni, Marsabit, Mbeere, Moyale, Mwingi, Tharaka districts (Eastern province), Garissa, Mandera, Wajir districts (North Eastern province), Baringo, Kajiado, Keiyo, Laikipia, Marakwet, Samburu, Trans Mara, Turkana, West Pokot districts (Rift Valley province)",Drought,Drought,85,23000000,0,0,1999-9388,Food shortage,--
+/07/2004,//2004,Kenya,KEN,"Kitui, Mbeere, Mwingi, Marsabit districts (Eastern province), Turkana, Kajiado, Narok districts (Rift Valley province), Mandera, Wajir, Garissa, Ijara districts (North Eastern province), Tana river, Kilifi, Kwale, Taita Taveta, Malindi districts (Coast province), Nyanza, Central provinces",Drought,Drought,80,2300000,0,0,2004-9288,Crop failure,Food shortage
+/12/2005,//2006,Kenya,KEN,"Makueni, Kitui, Marsabit, Isiolo, Mwingi, Kitui, Moyale districts (Eastern province), Malindi, Kwale, Kilifi, Taita Taveta, Tana river districts (Coast province), Mandera, Wajir, Garissa, Ijara districts (North Eastern province), Kajiado, Turkana, Samburu, Laikipia districts (Rift Valley province).",Drought,Drought,27,3500000,0,0,2005-9719,Famine,--
+/07/2008,//2009,Kenya,KEN,"Sacho, Marigat, Mukutani, Tenges, Kolowa, Tangulbei, Nginyang cities/towns (Baringo district, Rift Valley province), Samburu district (Rift valley province), Turkana, West Pokot, Administrative Unit Not Available districts (North Rift Valley province), Central, Eastern, North Eastern, Coast provinces",Drought,Drought,4,3800000,0,0,2008-9302,--,--
+/01/2011,/01/2011,Kenya,KEN,"Marsabit, Isiolo, Moyale districts (Eastern province); Mandera, Wajir, Ijara, Garissa (North Eastern province); West Pokot, Turkana, Samburu district (Rift Valley Province); Tana River, Lamu, Kwale (Coast province)",Drought,Drought,0,4300000,0,0,2010-9082,Famine,--
+//2011,//2012,Kenya,KEN,"Wajir, Mandera districts (North Eastern province), Turkana district (Rift Valley province), Tana river district (Coast province), Moyale, Marsabit, Mwingi districts (Eastern province)",Drought,Drought,0,3750000,0,0,2011-9663,Food shortage,--
+/01/2014,/05/2015,Kenya,KEN,"Mandera, Wajir districts (North Eastern province) Turkana, Baringo, Samburu districts (Rift Valley province), Marsabit district (Eastern province) ",Drought,Drought,0,1600000,0,0,2014-9404,--,--
+/06/2016,/11/2016,Kenya,KEN,"Kilifi, Kwale, Tana River, Taita Taveta districts (Coast province), Wajir, Mandera districts (North Eastern province), Marsabit, Makueni, Kitui districts (Eastern province), Samburu district (Rift Valley province)",Drought,Drought,0,1254600,0,0,2016-9452,Food shortage,--
+/03/1999,//1999,Kiribati,KIR,"South Tarawa, Ocean Island",Drought,Drought,0,84000,0,0,1999-9086,--,--
+/04/2012,//2012,Korea (the Democratic People's Republic of),PRK,"Yanggang-do, Chagang-do, Hamgyong-bukto, Hamgyong-namdo, Kangwon-do provinces",Drought,Drought,0,3000000,0,0,2012-9222,Food shortage,--
+/06/2015,/07/2015,Korea (the Democratic People's Republic of),PRK,"Hwanghae-namdo, Hwanghae-bukto, Hamyong-namdo, P'yongan-bukto, P'yongan-namdo, P'yongyang-si provinces",Drought,Drought,0,18000000,0,0,2015-9257,--,--
+//1967,//1968,Korea (the Republic of),KOR,South,Drought,Drought,0,2800000,0,0,1967-9010,--,--
+/06/2001,//2001,Korea (the Republic of),KOR,"Cheju-do, Chollabuk-do, Chollanam-do, Chungchongbuk-do, Chungchongnam-do, Inchon, Kang-won-do, Kwangju, Kyonggi-do, Kyongsangbuk-do, Kyongsangnam-do, Pusan, Seoul, Taegu, Taejon provinces",Drought,Drought,0,0,0,0,2001-9398,--,--
+//2009,//2009,Kyrgyzstan,KGZ,"Batken, Bishkek, Jalal-Abad, Naryn, Osh, Talas, Ysyk-Kol provinces",Drought,Drought,0,2000000,0,0,2009-9661,Food shortage,--
+//1977,//1977,Lao People's Democratic Republic (the),LAO,Southern provinces,Drought,Drought,0,3500000,0,0,1977-9029,--,--
+//1987,//1987,Lao People's Democratic Republic (the),LAO,Northern provinces,Drought,Drought,0,0,0,0,1987-9028,--,--
+/12/1988,//1988,Lao People's Democratic Republic (the),LAO,Southern provinces,Drought,Drought,0,730000,0,0,1988-9522,--,--
+/07/1991,//1993,Lao People's Democratic Republic (the),LAO,Whole country,Drought,Drought,0,0,1000,0,1991-9195,--,--
+/01/1999,//1999,Lao People's Democratic Republic (the),LAO,,Drought,Drought,0,20000,0,0,1999-9037,--,--
+/06/1968,//1968,Lesotho,LSO,,Drought,Drought,0,204000,1000,0,1968-9005,--,--
+/02/1983,//1984,Lesotho,LSO,,Drought,Drought,0,500000,0,0,1983-9182,Food shortage,--
+/06/1992,//1994,Lesotho,LSO,,Drought,Drought,0,331500,0,0,1990-9604,--,--
+/04/2002,//2003,Lesotho,LSO,"Qacha's Nek, Quthing, Mohale's Hoek provinces",Drought,Drought,0,500000,0,0,2002-9333,Famine,Food shortage
+/07/2007,//2008,Lesotho,LSO,"Maseru, Mafeteng, Leribe, Butha Buthe, Berea, Mohale's Hoek, Quthing provinces (Lowlands region)",Drought,Drought,0,475000,0,0,2007-9494,Food shortage,--
+/12/2011,/10/2012,Lesotho,LSO,"Quthing, Mohale's Hoek, Mafeteng, Maseru, Berea, Leribe, Butha Buthe, Mokhotlong, Thaba-Tseka provinces",Drought,Drought,0,725515,0,0,2011-9629,Food shortage,--
+/02/2016,/02/2016,Lesotho,LSO,"Qachas Nek, Mokhotlong, Thaba Tseka, Quthing, Mafeteng, Butha Bothe, Berea, Leribe, Maseru, Mohale's Hoek provinces",Drought,Drought,0,491000,0,0,2016-9050,Food shortage,--
+/02/1983,//1983,Liberia,LBR,,Drought,Drought,0,0,0,0,1980-9114,Food shortage,--
+/06/1992,/07/1992,Lithuania,LTU,,Drought,Drought,0,0,52900,0,1992-9205,--,--
+/08/2006,//2006,Lithuania,LTU,"Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus provinces",Drought,Drought,0,0,225573,0,2006-9411,Heat wave,--
+/12/1993,//1993,Macedonia (the former Yugoslav Republic of),MKD,,Drought,Drought,0,10000,0,0,1993-9509,Food shortage,--
+//1981,//1981,Madagascar,MDG,"Toliary, Tolagnaro",Drought,Drought,0,1000000,0,0,1981-9012,Food shortage,--
+/04/1988,//1992,Madagascar,MDG,South regions,Drought,Drought,200,950000,0,0,1988-9013,Famine,--
+/06/2000,//2000,Madagascar,MDG,"Ambovombe-Androy, Bekily, Beloha, Tsihombe districts (Androy province), Amboasary-Atsimo ditrict (Anosy province), Ampanihy Ouest district (Atsimo Andrefana province), Ambatatondraza, Amparafaravola, Andilamena, district (Alaotra Mangoro province), Vatomandry, Marolambo, Antanambao Manamposty districts (Atsinanana province), Antsirabe I, Antsirable II, Faratsiho, Antanifotsy, Betafo districts (Vakinankaratra province)",Drought,Drought,0,231290,0,0,2000-9309,--,--
+/11/2002,//2004,Madagascar,MDG,"Amoron I Mania, Androy, Anosy, Atsimo Andrefana, Atsimo Atsinanana, Haute Matsiatra, Ihorombe, Menabe, Vatovavy Fitovinany provinces (South regions)",Drought,Drought,0,600000,0,0,2002-9707,Famine,--
+/11/2005,/12/2006,Madagascar,MDG,Vangaindrano district (Atsimo Atsinanana province),Drought,Drought,0,14000,0,0,2005-9637,Famine,Food shortage
+//2008,//2011,Madagascar,MDG,"Atsimo Andrefana, Androy, Anosy provinces",Drought,Drought,0,720000,0,0,2008-9644,Food shortage,--
+/11/2014,/02/2015,Madagascar,MDG,"Androy, Anosy provinces; Atsimo Andrefana, Menabe provinces (South-West regions)",Drought,Drought,0,20000,0,0,2014-9533,Famine,--
+/01/2016,/11/2016,Madagascar,MDG,"Ambovombe-Androy, Bekily, Beloha, Tsihombe districts (Androy province), Amboasary-Atsimo, Taolagnaro districts (Anosy province), Ampanihy Ouest, Betioky Atsimo districts (Atsimo Andrefana province)",Drought,Drought,0,850000,0,0,2016-9020,Food shortage,--
+//1987,//1988,Malawi,MWI,South,Drought,Drought,0,1429267,0,0,1987-9033,Food shortage,Famine
+/02/1990,//1990,Malawi,MWI,,Drought,Drought,0,2800000,0,0,1990-9604,--,--
+/04/1992,//1995,Malawi,MWI,"Dedza, Dowa, Mzimba, Nkhotakota, Ntcheu, Salima districts",Drought,Drought,0,7000000,0,0,1992-9231,--,--
+/02/2002,//2002,Malawi,MWI,"Balaka, Blantyre, Chikwawa, Machinga, Mangochi, Mulanje, Nsanje, Phalombe, Thyolo, Zomba districts (Southern Region Province)",Drought,Drought,500,2829435,0,0,2002-9124,Famine,--
+/10/2005,/03/2006,Malawi,MWI,"Southern Region, Central Region provinces",Drought,Drought,0,5100000,0,0,2005-9578,Famine,Food shortage
+/10/2007,//2007,Malawi,MWI,"Karonga, Mzimba districts (Northern Region province), Ntchisi district (Central Region province), Mulanje district (Southern Region province)",Drought,Drought,0,520000,0,0,2007-9499,--,--
+/08/2012,//2013,Malawi,MWI,"Balaka, Blantyre, Chikwawa, Machinga, Mangochi, Mulanje, Mwanza, Neno, Nsanje, Phalombe, Thyolo, Zomba districts (Southern Region Province), Dedza, Ntcheu, Salima districts (Central Region Province)",Drought,Drought,0,1900000,0,0,2012-9304,Food shortage,--
+/10/2015,/12/2016,Malawi,MWI,23-25 districts affected (almost all the country): All provinces have been selected ,Drought,Drought,0,6500000,0,0,2015-9444,Food shortage,--
+/03/1998,//1998,Malaysia,MYS,Sabah,Drought,Drought,0,5000,0,0,1998-9062,--,--
+/03/2014,/03/2014,Malaysia,MYS,"Kedah, Perak, Perlis, Pulau Pinang, Selangor provinces",Drought,Drought,0,2200000,0,0,2014-9429,--,--
+//1910,//1914,Mali,MLI,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Mali,MLI,,Drought,Drought,0,0,0,0,1940-9002,--,--
+/01/1966,//1966,Mali,MLI,"Kayes, Bamako, Gao",Drought,Drought,0,0,0,0,1966-9005,--,--
+//1978,//1978,Mali,MLI,Niger River area,Drought,Drought,0,0,0,0,1976-9152,--,--
+/01/1980,//1985,Mali,MLI,Western region,Drought,Drought,0,1500000,0,0,1980-9114,--,--
+/03/1991,//1991,Mali,MLI,,Drought,Drought,0,302000,0,0,1991-9346,--,--
+/04/2001,//2001,Mali,MLI,"Bamako, Gao, Kayes, Koulikoro, Mopti, Segou, Sikasso provinces; Dire, Gourma-Rharous, Niafunke districts (Tombouctou province) (South/Sahel region)",Drought,Drought,0,0,0,0,2001-9044,Famine,--
+//2005,//2006,Mali,MLI,"Mopti, Kayes, Tombouctou, Gao provinces",Drought,Drought,0,1000000,0,0,2005-9142,Food shortage,--
+/08/2006,/09/2006,Mali,MLI,Kidal province,Drought,Drought,0,25000,0,0,2006-9425,Famine,--
+/06/2010,//2010,Mali,MLI,"Kayes, Tombouctou, Kidal, Gao provinces",Drought,Drought,0,600000,0,0,2010-9249,--,--
+//2011,//2012,Mali,MLI,"Kayes, Koulikoro, Mopti, Segou provinces",Drought,Drought,0,3500000,0,0,2011-9661,Food shortage,--
+/05/2013,/05/2013,Marshall Islands (the),MHL,"North of the capital Majuro, atolls/islands of Namu, Likiep and Mejit",Drought,Drought,0,6384,0,0,2013-9150,--,--
+//2016,/05/2016,Marshall Islands (the),MHL,,Drought,Drought,0,21000,0,0,2016-9496,--,--
+//1910,//1914,Mauritania,MRT,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Mauritania,MRT,,Drought,Drought,0,0,0,0,1940-9002,--,--
+/01/1965,//1965,Mauritania,MRT,"Tichitt, Kandossa",Drought,Drought,0,46000,0,0,1965-9001,--,--
+//1969,//1975,Mauritania,MRT,,Drought,Drought,0,1300000,34000,0,1969-9006,Famine,--
+//1976,//1977,Mauritania,MRT,,Drought,Drought,0,1420000,0,0,1976-9152,--,--
+//1978,/04/1979,Mauritania,MRT,Southern,Drought,Drought,0,27000,25500,0,1978-9126,--,--
+/06/1980,//1985,Mauritania,MRT,,Drought,Drought,0,1600000,0,0,1980-9114,--,--
+//1993,//1993,Mauritania,MRT,"E.Trarza, N. Brakna, Gorgol, N.W. Assaba, Tagnat",Drought,Drought,0,446507,0,0,1993-9511,--,--
+/03/1997,//1998,Mauritania,MRT,"Brakna, Tagant, Assaba, Adrar and Inchiri regions",Drought,Drought,0,21400,0,0,1997-9100,Crop failure,Famine
+/04/2001,//2003,Mauritania,MRT,"Assaba, Brakna, Gorgol, Tagant, Nouackchott, Inchiri, Adrar, Hodh el Gharbi, Hodh ech Chargi, Tiris-Zemmour, Dakhlet-Nouadhibou provinces",Drought,Drought,0,1000000,0,0,2001-9409,Food shortage,--
+//2010,//2011,Mauritania,MRT,"Assaba, Brakna, Gorgol, Guidimakha, Hodh Ech Gharbi, Nouakchott, Tagant, Trarza provinces; Amourj, Bassikounou, Djigueni, Nema, Timbedra districts (Hodh Ech Chargi province) (Southern Mauritania/Sahel region)",Drought,Drought,0,838000,0,0,2010-9292,Food shortage,--
+//2011,//2012,Mauritania,MRT,"Hodh El Chargi, Assaba, Brakna, Gorgol, Hodh El Gharbi, Guidimakha provinces",Drought,Drought,0,723000,0,0,2011-9662,Food shortage,--
+/01/1999,/04/1999,Mauritius,MUS,Nationwide,Drought,Drought,0,0,175000,0,1999-9629,Water shortage,--
+//1978,//1978,Mexico,MEX,North,Drought,Drought,0,0,0,0,1978-9016,--,--
+/05/1988,//1988,Mexico,MEX,"Sinaloa, Nayarit provinces",Drought,Drought,0,0,0,0,1988-9181,--,--
+/06/1995,/06/1995,Mexico,MEX,"Coahuila, Durango, Chihuahua, Nuevo Leon",Drought,Drought,0,0,100000,0,1995-9119,--,--
+/05/1996,//1996,Mexico,MEX,North,Drought,Drought,0,0,1200000,0,1996-9097,--,--
+/05/1999,//2000,Mexico,MEX,"Coahuila, Chichuahua, Durango, Sonora, Sinoloa State",Drought,Drought,0,65000,100000,0,1999-9171,--,--
+/04/2002,//2002,Mexico,MEX,"Baja California, Coahuila, Tamaulipas, Veracruz, Sinaloa, Tlaxcala, Sonora, San Luis Potosi provinces",Drought,Drought,0,0,210000,0,2002-9292,--,--
+/09/2011,/12/2011,Mexico,MEX,"Nuevo Leon, Guanajuato, Sonora, Chihuahua, Coahuila, Durango, Zacatecas, San Luis Potosi provinces",Drought,Drought,0,2500000,0,0,2011-9363,--,--
+/03/1998,//1998,Micronesia (Federated States of),FSM,"Pohnpei, Chuuk, Yap states",Drought,Drought,0,28800,0,0,1998-9087,--,--
+//2016,/05/2016,Micronesia (Federated States of),FSM,"Yap, Chuuk regions",Drought,Drought,0,100000,0,0,2016-9495,--,--
+/05/2000,/06/2000,Moldova (the Republic of),MDA,"Balti, Cahul, Chisinau, Dubasari, Edinet, Gagauzia, Lapusna, Orhei, Soroca, Tighina, Ungheni provinces",Drought,Drought,2,0,0,0,2000-9318,--,--
+//2007,//2007,Moldova (the Republic of),MDA,Dubasari province (Transnitria region),Drought,Drought,0,210394,406000,0,2007-9677,Food shortage,--
+/11/2012,//2012,Moldova (the Republic of),MDA,"Falesti district (Balti province), Vulcanesti district (Cahul province), Chisinau, Criuleni, Ialoveni districts (Chisinau province), Ciadir-Lunga district (Gagauzia province), Basarabeasca district (Lapusna province), Orhei, Rezina, Telenesti districts (Orhei province), Ungheni district (Ungheni province)",Drought,Drought,0,5800,0,0,2012-9478,--,--
+/02/2000,//2002,Mongolia,MNG,"Guulin town (Delger district, Govi-Altai province), Galshir district (Xentii province), Ider district (Zavxan province), Mo'st, Manxan, Bulgan, U'yench district (Xovd province), Bugat, Jargalan districts (Govi-Altai province), Bogd, Jinst, Baacagaan, Bayan-O'ndor districts (Bayanxongor province), Bayandelger, Tu'vshinshiree, Uulbayan, Asgat districts (Su'xbaatar province), Dornogovi, Dundgovi, O'mnogovi provinces",Drought,Drought,0,450000,0,0,2000-9604,Wildfire,--
+/01/1966,//1966,Morocco,MAR,,Drought,Drought,0,0,0,0,1966-9006,--,--
+/01/1971,//1971,Morocco,MAR,,Drought,Drought,0,137000,100,0,1971-9005,--,--
+/02/1983,//1983,Morocco,MAR,,Drought,Drought,0,0,0,0,1983-9186,--,--
+/02/1984,//1984,Morocco,MAR,South,Drought,Drought,0,0,0,0,1984-9145,--,--
+/06/1999,//2001,Morocco,MAR,Tiznit,Drought,Drought,0,275000,900000,0,1999-9212,--,--
+/01/1979,//1982,Mozambique,MOZ,"Nampula (North province), Cabo Delgado, Nampula, Tete, Manica provinces",Drought,Drought,0,6000000,0,0,1979-9118,--,--
+//1981,//1985,Mozambique,MOZ,"South, Central, Maputo, Gaza, Inhambane, Manica, Sofala, Zambezi",Drought,Drought,100000,4750000,0,0,1981-9016,--,--
+/09/1987,//1987,Mozambique,MOZ,Inhambane province,Drought,Drought,50,8000,0,0,1987-9154,--,--
+/03/1991,/03/1992,Mozambique,MOZ,Center,Drought,Drought,0,3300000,50000,0,1990-9604,Famine,--
+/04/1998,//1999,Mozambique,MOZ,"Maputo, Gaza, Inhame (south)",Drought,Drought,0,0,0,0,1998-9620,--,--
+/01/2001,//2001,Mozambique,MOZ,Inhambane province,Drought,Drought,0,100000,0,0,2001-9048,--,--
+/03/2002,//2002,Mozambique,MOZ,"Maputo, Gaza, Inhambane, Sofala, Tete, Zambezia provinces",Drought,Drought,9,600000,0,0,2001-9122,--,--
+/01/2003,/01/2003,Mozambique,MOZ,"Magoe, Zumbu, Cahora Bassa, Changara, Moatize, Chiuta, Mutarara districts (Tete province)",Drought,Drought,9,119500,0,0,2003-9035,--,--
+/05/2005,//2006,Mozambique,MOZ,"Maputo, Gaza, Inhambane, Manica, Sofala, Zambezia, Tete provinces",Drought,Drought,0,1400000,0,0,2005-9262,Crop failure,Food shortage
+/08/2007,/08/2007,Mozambique,MOZ,"Gaza, Inhambane, Manica, Sofala, Maputo provinces (Centre and south of the country)",Drought,Drought,0,520000,0,0,2007-9343,Food shortage,--
+/12/2008,//2009,Mozambique,MOZ,"Maputo, Gaza, Inhambane, Manica, Sofala, Tete provinces ",Drought,Drought,0,500000,0,0,2008-9590,Food shortage,--
+/03/2010,//2010,Mozambique,MOZ,"Maputo, Inhambane, Gaza provinces (South)",Drought,Drought,0,460000,0,0,2010-9290,Food shortage,--
+/01/2016,/11/2016,Mozambique,MOZ,"Magude, Manhiça districts (Maputo province), Massingir, Chibuto districts (Gaza province), Funhaloro, Panda districts (Inhambane province)",Drought,Drought,0,2000000,0,0,2016-9122,Food shortage,--
+/04/1982,//1984,Namibia,NAM,,Drought,Drought,0,0,0,0,1981-9309,--,--
+//1991,/03/1992,Namibia,NAM,"Kavango, Ovambo regions (North)",Drought,Drought,0,250000,50000,0,1990-9604,Water shortage,--
+//1995,//1996,Namibia,NAM,,Drought,Drought,0,163200,0,0,1995-9269,--,--
+/12/1998,//1999,Namibia,NAM,,Drought,Drought,0,25000,1000,0,1998-9028,--,--
+/01/2001,//2001,Namibia,NAM,"Otjovanatje, Otjorute, Okapundja, Otjekwa, Okaurukwa locations (Ruacana district, Omusati province)",Drought,Drought,0,0,0,0,2001-9854,--,--
+/07/2002,//2003,Namibia,NAM,"Otjozondjupa, Oshikoto, Oshana, Omusati, Ohangwena, Kunene, Kavango, Caprivi provinces (North)",Drought,Drought,0,345000,0,0,2002-9022,--,--
+/01/2013,/01/2014,Namibia,NAM,"Kavango, Ohangwena, Oshikoto, Kunene provinces",Drought,Drought,0,331000,64000,0,2013-9146,Food shortage,--
+/01/2015,/09/2015,Namibia,NAM,"Erongo, Hardap, Karas, Kunene provinces (South and Western part of the country)",Drought,Drought,0,580000,0,0,2015-9505,Food shortage,--
+/05/1964,//1964,Nepal,NPL,Mountain areas,Drought,Drought,0,0,0,0,1964-9007,--,--
+//1967,//1967,Nepal,NPL,Western Montain,Drought,Drought,0,0,0,0,1967-9006,--,--
+//1972,//1973,Nepal,NPL,Hill area,Drought,Drought,0,900000,10000,0,1972-9075,--,--
+//1979,//1980,Nepal,NPL,,Drought,Drought,0,3500000,0,0,1979-9131,--,--
+/07/2006,//2006,Nepal,NPL,"Mid Western, Far Western provinces",Drought,Drought,0,200000,0,0,2006-9723,--,--
+//2009,//2009,Nepal,NPL,"Far Western, Mid Western provinces",Drought,Drought,0,303000,0,0,2009-9660,Food shortage,--
+/01/1994,/08/1994,New Zealand,NZL,,Drought,Drought,0,0,100000,0,1992-9543,--,--
+/01/2013,/05/2013,New Zealand,NZL,"Auckland, Bay of Plenty, East Cape, Hawke's Bay, Northland, Taranaki, Waikato, Wanganui-manawatu, Wellington provinces (North Island)",Drought,Drought,0,0,823000,0,2013-9203,--,--
+/07/1994,/09/1994,Nicaragua,NIC,Western provinces,Drought,Drought,0,75000,16000,0,1994-9162,--,--
+/09/1997,//1997,Nicaragua,NIC,"Mozonte, Ocotal, Santa Maria de Macuelito, San Lucas, Somoto, Yalaguina, Achuapa, Santa Rosa del Penon, Palacaguina, Totogalpa, San Juan de Limay, San Nicolas, Larreynaga, El Sauce, El Jicaral, San Francisco, San Pedro, Villanueva, Santo Tomas, Somototill",Drought,Drought,0,290000,2000,0,1997-9227,--,--
+/07/2000,//2000,Nicaragua,NIC,"Atlantico Norte, Jinotega, Nueva Segovia provinces",Drought,Drought,0,0,0,0,2000-9860,Famine,--
+/08/2001,//2001,Nicaragua,NIC,"Nueva Segovia, Madriz, Esteli, Leon, Chinandega, Carazo, Boaco, Jinotega, Matagalpa provinces",Drought,Drought,0,188000,0,0,2001-9383,Food shortage,--
+/08/2014,/02/2015,Nicaragua,NIC,"Atlantico Norte, Atlantico Sur, Boaco, Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas provinces",Drought,Drought,0,460000,0,0,2014-9580,--,--
+//1903,//1903,Niger (the),NER,Tahoua area,Drought,Drought,0,0,0,0,1903-9001,--,--
+//1906,//1907,Niger (the),NER,"Birni N'konni, Madoua, Tahoua",Drought,Drought,0,0,0,0,1906-9025,--,--
+//1910,//1914,Niger (the),NER,Zinder department,Drought,Drought,85000,32000,0,0,1910-9006,--,--
+//1940,//1944,Niger (the),NER,,Drought,Drought,0,0,0,0,1940-9002,--,--
+/01/1966,//1967,Niger (the),NER,"East, Middle-East regions",Drought,Drought,0,0,0,0,1966-9005,--,--
+/06/1980,//1985,Niger (the),NER,,Drought,Drought,0,3500000,0,0,1980-9114,--,--
+//1988,//1988,Niger (the),NER,"Niamey, Maradi, Zinder, Diffa departments",Drought,Drought,0,1000000,0,0,1988-9003,--,--
+//1990,//1991,Niger (the),NER,Countrywide,Drought,Drought,0,1630000,0,0,1990-9597,Food shortage,--
+/04/1997,//1998,Niger (the),NER,,Drought,Drought,0,8500,0,0,1997-9099,Food shortage,Famine
+/04/2001,//2002,Niger (the),NER,"Ibanka, Rouafi I, Rouafi II, Chinagamane villages (Filingue district, Tillaberi province), Sabara I (Dogondoutchi district, Dosso province), Sabara II (Niamey province), Ayawa (Ouallam district, Tillaberi province), Kabefo (Tillaberi district, Tillaberi province), Dinkihmi villages (not found). ",Drought,Drought,0,3584558,0,0,2001-9044,Famine,--
+/07/2005,/07/2006,Niger (the),NER,"Tillaberi, Tahoua, Diffa, Zinder, Maradi provinces",Drought,Drought,0,3000000,0,0,2005-9362,Famine,Food shortage
+/09/2009,/03/2010,Niger (the),NER,"Agadez, Diffa, Dosso, Maradi, Tahoua, Tillaberi, Zinder, Niamey provinces",Drought,Drought,0,7900000,0,0,2009-9651,Food shortage,--
+//2011,//2012,Niger (the),NER,"Diffa, N'Guigmi districts (Diffa province); Dogondoutchi, Loga districts (Dosso province); Aguie, Guidan Roumji, Madarounfa, Mayahi districts (Maradi province); Bouza, Illela, Birni N'konni, Madaoua districts (Tahoua province); Filingue, Ouallam, Tera, Tillaberi (Tillaberi); Goure, Matamey, Tanout (Zinder)",Drought,Drought,0,3000000,0,0,2011-9529,Food shortage,--
+/04/2015,/05/2015,Niger (the),NER,"NO DATA: all provinces have been selected: Maradi, Niamey, Tahoua, Tillaberi, Zinder provinces",Drought,Drought,0,2588128,0,0,2015-9166,Food shortage,--
+/06/1983,//1985,Nigeria,NGA,"North, central, south",Drought,Drought,0,3000000,71103,0,1981-9120,--,--
+/11/1999,//2003,Pakistan,PAK,"Thar, Kohistan, Kachoo (Sindh province), Lasbela, Kharan, Chaghi, Loralai,Zhob, Khuzdar, Kalat, Killa Saifullah, Pshin districts (Baluchistan Province)",Drought,Drought,143,2200000,247000,0,1999-9122,Heat wave,--
+/05/1983,//1983,Panama,PAN,Panama city,Drought,Drought,0,81000,0,0,1983-9331,Water shortage,--
+/01/2013,/05/2013,Panama,PAN,"Coclé, Veraguas, Los santos, Herrera provinces",Drought,Drought,0,0,200000,0,2013-9185,--,--
+/08/2015,/08/2015,Panama,PAN,"Coclé, Colón, Kuna Yala, Herrera, Los Santos, Panamá, Bocas del Toro, Chiriquí, Darién, Emberá, Ngöbe Buglé, Veraguas provinces",Drought,Drought,0,0,0,0,2015-9353,--,--
+/10/1980,//1981,Papua New Guinea,PNG,"Enga, Western highlands, Southern higlands",Drought,Drought,0,40000,0,0,1980-9363,Snow/ice,--
+/09/1997,//1998,Papua New Guinea,PNG,"Milne Bay, Morobe, Madang, East ",Drought,Drought,60,500000,0,0,1997-9263,Wildfire,--
+/05/2015,/10/2015,Papua New Guinea,PNG,"Kandep district (Enga province), Sirunki city (Lagaip district, Enga province), Mendi, Ialibu, Pangia districts (Southern Highlands province), Tambul district (Western Highlands province), Menyamya district (Morobe province); Kundiawa, Gembogl, Sinasina(-Yongomugl), Gumine, Chuave, Kerowagi, Karimui (-Nomane) districts (Chimbu province), Henganofi, Goroka (Unggai-Bena) districts (Eastern Highlands province), Rabaul, Kokopo districts (East New Britain province), Goilala district (Central province), Manus province",Drought,Drought,24,2520000,60000,0,2015-9410,Cold wave,--
+//1963,//1964,Paraguay,PRY,Chaco region,Drought,Drought,0,13400,0,0,1963-9026,--,--
+/06/1983,//1983,Paraguay,PRY,,Drought,Drought,0,0,0,0,1983-9332,--,--
+/06/1999,//2002,Paraguay,PRY,"Concepcion, San Pedro Department, Alto Paraguay, Boqueon, Presidente Hayes",Drought,Drought,12,40000,0,0,1999-9404,Cold wave,--
+14/10/2005,//2005,Paraguay,PRY,"Presidente Hayes, Boqueron, Alto Paraguay provinces",Drought,Drought,0,52990,0,0,2005-9734,--,--
+/09/2008,//2008,Paraguay,PRY,"Filadelfia, Loma Plata, Mariscal Estigarribia towns (Mcal. Estigarribia district, Boqueron province), Alto Paraguay, Presidente Hayes provinces",Drought,Drought,4,18000,0,0,2008-9550,--,--
+/01/2009,/11/2009,Paraguay,PRY,"Boqueron, Presidente Hayes, Alto Paraguay, Concepción, Neembucú provinces",Drought,Drought,0,200000,0,0,2009-9210,--,--
+/01/2012,/01/2012,Paraguay,PRY,"Concepcion, San pedro, Cordillera, Guaira, Caaguazu, Caazapa, Itapua, Misiones, Paraguari, Alto Parana, Central, Neembucu, Amambay, Canindeyu provinces",Drought,Drought,0,1391900,0,0,2012-9021,Food shortage,--
+/09/2013,/08/2014,Paraguay,PRY,"Presidente Hayes, Boqueron, Alto Paraguay, San Pedro, Concepcion, Amambay, Canindeyu, Alto Parana, Itapua, Cordillera, Guaira, Neembucu, Paraguari, Caazapa, Caaguazu provinces",Drought,Drought,0,75000,0,0,2013-9496,--,--
+/07/1966,//1966,Peru,PER,Puno department,Drought,Drought,0,156000,0,0,1966-9007,--,--
+/05/1969,//1969,Peru,PER,,Drought,Drought,0,128604,10000,0,1969-9114,--,--
+/01/1983,//1983,Peru,PER,Puno department (Andean),Drought,Drought,0,0,0,0,1983-9007,--,--
+/08/1990,//1990,Peru,PER,"Lambayeque, La Libertad, Cajamarca, Ancash, Ica, Huancavelica, Ayacucho, Arequipa, Apurimac, Cusco, Puno, Moquepa, Tacna, Lima departments",Drought,Drought,0,2200000,36000,0,1990-9059,Water shortage,--
+/07/1992,//1992,Peru,PER,,Drought,Drought,0,1100000,250000,0,1992-9229,--,--
+/03/2002,//2002,Peru,PER,"Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali provinces",Drought,Drought,0,21500,0,0,2002-9843,--,--
+/01/2004,//2004,Peru,PER,Cajamarca province,Drought,Drought,0,0,0,0,2004-9063,Cold wave,--
+/01/2006,/01/2006,Peru,PER,"Tumbes, Piura, Ica, Arequipa provinces",Drought,Drought,0,0,0,0,2006-9016,--,--
+/02/1978,//1978,Philippines (the),PHL,Santos City,Drought,Drought,0,3665,0,0,1978-9167,--,--
+/01/1980,/07/1980,Philippines (the),PHL,Mindanao,Drought,Drought,0,1002100,0,0,1980-9364,--,--
+//1983,//1983,Philippines (the),PHL,Misamis Oriental,Drought,Drought,0,1691060,0,0,1983-9016,--,--
+//1987,//1987,Philippines (the),PHL,,Drought,Drought,0,1002100,0,0,1987-9030,--,--
+/12/1990,/07/1992,Philippines (the),PHL,"Regions VI, IX, X, XI and XII",Drought,Drought,0,254282,64000,0,1990-9707,--,--
+/04/1998,//1998,Philippines (the),PHL,All country,Drought,Drought,8,2600000,0,0,1998-9109,--,--
+/03/2002,/03/2002,Philippines (the),PHL,"Pangasinan, La Union, Ilocos Norte, Ilocos Sur districts (Region I (Ilocos region) province)",Drought,Drought,0,0,453,0,2002-9164,--,--
+/08/2007,/08/2007,Philippines (the),PHL,"La Union, Pangasinan, Ilocos Sur districts (Region I (Ilocos region) province), Isabela, Nueva Vizcaya, Quirino districts (Region II (Cagayan Valley) province)",Drought,Drought,0,0,0,0,2007-9347,--,--
+/08/2015,/04/2016,Philippines (the),PHL,"Isabela district (Region II (Cagayan Valley), Region XIII (Caraga), Autonomous region in Muslim Mindanao (ARMM), Region IX (Zamboanga Peninsula), Region X (Northern Mindanao), Region XI (Davao Region), Region XII (Soccsksargen) provinces (Mindanao Isl.), Region VI (Western Visayas), Region VII (Central Visayas), Region VIII (Eastern Visayas) provinces (Visayas regions)",Drought,Drought,0,181687,84399,0,2015-9364,--,--
+/04/1983,//1983,Portugal,PRT,Beja region,Drought,Drought,0,0,95000,0,1983-9378,--,--
+/04/1997,//1997,Portugal,PRT,,Drought,Drought,0,0,10000,0,1997-9105,--,--
+/09/2004,//2005,Portugal,PRT,All country: all provinces selected,Drought,Drought,0,0,1338136,0,2004-9704,--,--
+/07/1994,/09/1994,Puerto Rico,PRI,,Drought,Drought,0,0,2000,0,1994-9162,--,--
+/05/1983,//1983,Romania,ROU,,Drought,Drought,0,0,0,0,1983-9381,--,--
+/06/2000,//2000,Romania,ROU,"Dolj, Mehedinti, Teleorman, Olt, Constanta, Braila, Vaslui, Botosani provinces",Drought,Drought,0,0,500000,0,2000-9328,--,--
+//1993,//1993,Russian Federation (the),RUS,,Drought,Drought,0,0,0,0,1993-9521,--,--
+/07/1998,//1998,Russian Federation (the),RUS,Tartarstan,Drought,Drought,0,0,0,0,1998-9197,--,--
+//2003,//2003,Russian Federation (the),RUS,Vladisvostok city (Primorskiy Kray province),Drought,Drought,0,1000000,0,0,2003-9777,Water shortage,--
+01/04/2010,20/08/2010,Russian Federation (the),RUS,"Adygeya Rep., Astrakhanskaya Oblast, Bashkortostan Rep., Belgorodskaya Oblast, Bryanskaya Oblast, Chelyabinskaya Oblast, Ivanovskaya Oblast, Kalmykiya Rep., Kaluzhskaya Oblast, Krasnodarskiy Kray, Kurskaya Oblast, Lipetskaya Oblast, Moskovskaya Oblast, Moskva, Name Unknown, Orenburgskaya Oblast, Orlovskaya Oblast, Penzenskaya Oblast, Rostovskaya Oblast, Ryazanskaya Oblast, Samarskaya Oblast, Saratovskaya Oblast, Smolenskaya Oblast, Stavropolskiy Kray, Tambovskaya Oblast, Tulskaya Oblast, Tverskaya Oblast, Ulyanovskaya Oblast, Vladimirskaya Oblast, Volgogradskaya Oblast, Voronezhskaya Oblast, Yaroslavskaya Oblast provinces",Drought,Drought,0,0,1400000,0,2010-9318,Heat wave,Wildfire
+01/06/2012,31/08/2012,Russian Federation (the),RUS,"Adygeya Rep., Astrakhanskaya Oblast, Bashkortostan Rep., Belgorodskaya Oblast, Bryanskaya Oblast, Chelyabinskaya Oblast, Kalmykiya Rep., Krasnodarskiy Kray, Kurskaya Oblast, Lipetskaya Oblast, Name Unknown, Orenburgskaya Oblast, Orlovskaya Oblast, Penzenskaya Oblast, Rostovskaya Oblast, Samarskaya Oblast, Saratovskaya Oblast, Stavropolskiy Kray, Tambovskaya Oblast, Ulyanovskaya Oblast, Volgogradskaya Oblast, Voronezhskaya Oblast provinces",Drought,Drought,0,0,1140000,0,2012-9395,--,--
+//1976,//1977,Rwanda,RWA,Widespread,Drought,Drought,0,1700000,0,0,1976-9196,Famine,--
+/10/1984,//1984,Rwanda,RWA,,Drought,Drought,0,420000,0,0,1984-9151,Food shortage,--
+/12/1989,//1989,Rwanda,RWA,"South, West of Kigali",Drought,Drought,237,60000,0,0,1989-9241,Crop failure,Famine
+/12/1996,//1997,Rwanda,RWA,Ginkongoro,Drought,Drought,0,82000,0,0,1996-9089,Food shortage,Famine
+/11/1999,//2000,Rwanda,RWA,"Umutura village (Rubavu district, West/Iburengerazuba province), Kibungo village (Ngoma district, East/Iburasirazuba province), Gitamara village (Muhanga district, South/Amajyepfo province), Butare village (Huye district, South/Amajyepfo province), Gikongoro village (Nyamagabe district, South/Amajyepfo province), Kigali City/Umujyi wa Kigali province",Drought,Drought,0,894545,0,0,1999-9388,Food shortage,--
+/03/2003,//2007,Rwanda,RWA,"Gatsibo, Nyagatare, Bugesera district (East/Iburasirazuba province), Kibungo city (Ngoma district, East/Iburasirazuba province), Gisagara, Huye, Nyanza, Nyamagabe, Nyaruguru, Kamonyi, Muhanga, Ruhango districts (South/Amajyepfo province)",Drought,Drought,0,1000000,0,0,2003-9651,--,--
+/01/2010,/06/2010,Saint Lucia,LCA,"Area Under National Administration, Region Number 1 - 8 provinces",Drought,Drought,0,0,0,0,2010-9077,Water shortage,--
+/01/2010,/06/2010,Saint Vincent and the Grenadines,VCT,"Carriacou, Petite Martinique islands (Grenadines province)",Drought,Drought,0,0,0,0,2010-9077,--,--
+/06/2015,/12/2015,Samoa,WSM,"Upolu Isl., Savaii Isl.",Drought,Drought,0,0,0,0,2015-9483,--,--
+//1983,//1985,Sao Tome and Principe,STP,Countrywide,Drought,Drought,0,93000,0,0,1983-9211,--,--
+//1910,//1914,Senegal,SEN,,Drought,Drought,0,0,0,0,1910-9006,--,--
+//1940,//1944,Senegal,SEN,,Drought,Drought,0,0,0,0,1940-9002,--,--
+//1966,//1967,Senegal,SEN,,Drought,Drought,0,0,0,0,1966-9005,--,--
+/01/1969,//1975,Senegal,SEN,Casamance,Drought,Drought,0,1400000,74800,0,1969-9006,Famine,--
+//1977,//1978,Senegal,SEN,Countrywide,Drought,Drought,0,3715000,300000,0,1976-9152,--,--
+//1979,//1980,Senegal,SEN,"Louga, Senegal Oriental",Drought,Drought,0,950000,0,0,1979-9122,--,--
+//1982,//1985,Senegal,SEN,,Drought,Drought,0,1200000,0,0,1980-9114,--,--
+/08/2002,//2002,Senegal,SEN,"NO DATA: all country was selected: Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam, Saint Louis, Sedhiou, Tambacounda, Thies, Ziguinchor provinces",Drought,Drought,0,284000,0,0,2002-9487,--,--
+/12/2011,//2013,Senegal,SEN,"Kaffrine, Kedougou, Tambacounda, Saint-Louis, Matam, Diourbel, Kolda, Kaolack, Fatick provinces, Louga, Linguere districts (Louga province)",Drought,Drought,0,850000,0,0,2011-9560,Food shortage,--
+/09/2014,/04/2015,Senegal,SEN,"Kanel district (Matam province), Podor district (Saint Louis province), Fatick district (Fatick province), Goudomp district (Sedhiou province)",Drought,Drought,0,639702,0,0,2014-9573,Food shortage,--
+/11/1997,//1997,Solomon Islands,SLB,"Choiseul, Isabel, Western, Central provinces",Drought,Drought,0,0,0,0,1997-9300,Water shortage,--
+/08/1998,//1998,Solomon Islands,SLB,Basakana Island,Drought,Drought,0,380,0,0,1998-9223,--,--
+//2015,/12/2015,Solomon Islands,SLB,"Bellona, Rennell, Makira",Drought,Drought,0,0,0,0,2015-9483,--,--
+/12/1964,//1964,Somalia,SOM,"Nationwide, Galciao",Drought,Drought,50,700000,0,0,1964-9066,--,--
+/09/1969,//1969,Somalia,SOM,"East Burao, North Mudugh",Drought,Drought,0,0,0,0,1969-9009,--,--
+/12/1974,//1976,Somalia,SOM,North West to Central areas,Drought,Drought,19000,230000,0,0,1973-9005,Famine,--
+/01/1980,//1980,Somalia,SOM,,Drought,Drought,0,0,0,0,1980-9005,--,--
+/06/1983,//1983,Somalia,SOM,North-West area,Drought,Drought,0,0,0,0,1983-9060,Water shortage,Crop failure
+/04/1987,//1987,Somalia,SOM,"Togdheer, Sol, Sannag, Bari, Nugall, Mudug, Galguduud, Hiraan, Bakool, Shabeellaha, Gedo",Drought,Drought,600,500000,0,0,1987-9014,--,--
+//1988,//1988,Somalia,SOM,"Awdal, Gedo regions",Drought,Drought,0,53500,0,0,1988-9008,--,--
+/01/2000,//2001,Somalia,SOM,"Ceel Barde, Rab Dhuure, Tayeeglow, Xudur districts (Bakool province), Garbahaarey, Baardheere districts (Gedo province), Bay, Hiraan provinces
+",Drought,Drought,21,1200000,0,0,1999-9388,Food shortage,--
+/01/2004,/01/2004,Somalia,SOM,"Sool, Sanaag, Togdheer, Nugaal, Galgaduud, Hiraan, Mudug, Bari provinces ",Drought,Drought,0,200000,0,0,2004-9085,Food shortage,--
+//2005,//2005,Somalia,SOM,"Gedo, Bakool, Bay, Hiraan, Juba Hoose, Juba Dhexe provinces",Drought,Drought,2,0,0,0,2005-9722,Food shortage,--
+/01/2008,/04/2009,Somalia,SOM,"Matabaan city, Belet Weyne district (Hiraan province)",Drought,Drought,0,3300000,0,0,2008-9468,Food shortage,--
+/02/2010,/11/2011,Somalia,SOM,"Bakool, Shabelle Hoose, Shabelle Dhexe, Bay, Galgaduud, Gedo, Hiraan, Juba Dhexe, Juba Hoose, Mudug, Sanaag, Sool, Togdheer, Woqooyi Galbeed, Awdal, Bari, Nugaal province",Drought,Drought,20000,4000000,0,0,2010-9082,Famine,--
+//2012,//2012,Somalia,SOM,"Bakool, Gedo, Juba, Hiraan provinces",Drought,Drought,0,3000000,0,0,2011-9663,Food shortage,--
+/07/2014,//2015,Somalia,SOM,"Mogasdischio city (Banadir district, Banadir province), Bakool, Gedo, Juba Dhexe, Hiraan, Shabelle Hoose",Drought,Drought,0,350000,0,0,2014-9231,Food shortage,Famine
+/08/2015,/01/2016,Somalia,SOM,"Sanaag, Sool, Togdheer, Woqooyi Galbeed, Awdal provinces (Somaliland region), Bari, Nugaal provinces (Puntland region)",Drought,Drought,0,4700000,0,0,2015-9616,Food shortage,--
+//1964,//1964,South Africa,ZAF,"Ciskei, Transkei",Drought,Drought,0,5000,0,0,1964-9011,--,--
+/08/1980,//1980,South Africa,ZAF,Natal,Drought,Drought,0,0,0,0,1980-9125,--,--
+/03/1982,//1983,South Africa,ZAF,"Countrywide, Transvaal, Orange Free, Natal states",Drought,Drought,0,0,0,0,1981-9309,--,--
+/05/1986,//1986,South Africa,ZAF,"Lebowa, Venda (Eastern Transvaal)",Drought,Drought,0,850000,0,0,1986-9024,Famine,--
+/10/1988,//1988,South Africa,ZAF,Homelands,Drought,Drought,0,1320000,0,0,1988-9620,Famine,--
+//1991,/03/1992,South Africa,ZAF,"Northern and eastern Transvaal, central and northern Natal, eastern and northern Cape Region, Homeland area",Drought,Drought,0,0,1000000,0,1990-9604,--,--
+/12/1995,//1995,South Africa,ZAF,Nebo District (Northern provinces),Drought,Drought,0,300000,0,0,1995-9436,--,--
+/01/2004,//2004,South Africa,ZAF,"KwaZulu-Natal, Eastern Cape, Northern Cape, Mpumalanga, North-West, Free state, Limpopo provinces",Drought,Drought,0,15000000,0,0,2004-9017,--,--
+/01/2015,/11/2016,South Africa,ZAF,"KwaZulu-Natal, Free state, Limpopo, Mpumalanga, North-West provinces",Drought,Drought,0,2700000,2000000,0,2015-9500,Heat wave,--
+//2009,//2010,South Sudan,SSD,"Unity, Northern Bahr Ghazal, Jonglei, Upper Nile, Eastern Equatoria, Warab provinces",Drought,Drought,0,4300000,0,0,2009-9633,Food shortage,--
+/02/2016,/11/2016,South Sudan,SSD,"Western Bahr El Ghazal, Northern Bahr El Ghazal, Warab, Unity, Upper Nile, Jonglei, El Buheyrat, Western Equatoria, Central Equatoria, Eastern Equatoria provinces",Drought,Drought,0,3600000,0,0,2016-9065,Famine,--
+//1921,//1921,Soviet Union,SUN,"South Ukraine, Volga",Drought,Drought,1200000,5000000,0,0,1921-9001,Crop failure,Famine
+//1980,//1983,Spain,ESP,Southern region,Drought,Drought,0,0,1500000,0,1980-9359,--,--
+//1981,//1981,Spain,ESP,,Drought,Drought,0,0,1460000,0,1981-9130,--,--
+/09/1990,//1995,Spain,ESP,"Andalucía, Extremadura, Castilla la Mancha (Southern)",Drought,Drought,0,6000000,4500000,0,1990-9025,--,--
+/04/1999,//1999,Spain,ESP,"Andalousie, Estrémadure, Castille (centre), Levant (Murcie, Valence, Catalogne, Aragon",Drought,Drought,0,0,3200000,0,1999-9149,--,--
+//1977,//1977,Sri Lanka,LKA,,Drought,Drought,0,250000,0,0,1977-9021,--,--
+/01/1979,//1979,Sri Lanka,LKA,,Drought,Drought,0,0,0,0,1979-9238,--,--
+/03/1980,//1980,Sri Lanka,LKA,Central,Drought,Drought,0,0,0,0,1980-9011,--,--
+//1981,//1981,Sri Lanka,LKA,,Drought,Drought,0,0,0,0,1981-9005,--,--
+/09/1982,//1983,Sri Lanka,LKA,,Drought,Drought,0,2000000,0,0,1982-9350,Food shortage,--
+//1987,//1987,Sri Lanka,LKA,"North, Northeast",Drought,Drought,0,2200000,0,0,1987-9025,--,--
+/08/1988,//1989,Sri Lanka,LKA,North and East,Drought,Drought,0,806000,0,0,1988-9036,--,--
+/09/2001,//2002,Sri Lanka,LKA,"Hambantota district (Southern province), Kurunegala, Puttalam districts (North Western provinces), Ratnapura district (Sabaragamuwa province), Moneragala, Badulla districts (Uva province), Ampara district (Eastern province)",Drought,Drought,0,1000000,0,0,2001-9498,--,--
+/01/2012,/11/2012,Sri Lanka,LKA,"Anuradhapura, Polonnaruwa districts (North Central province), Kurunegala, Puttalam districts (North Western province), Moneragala district (Uva province), Hambantota district (Southern province), Mannar district (Northern province)",Drought,Drought,0,1800000,0,0,2012-9405,--,--
+/01/2014,/08/2014,Sri Lanka,LKA,"Mullattivu, Kilinochchi, Mannar, Vavuniya, Jaffna districts (Northern province), Moneragala district (Uva province), Ampara, Batticaloa, Trincomalee districts (Eastern province), Anuradhapura, Polonnaruwa districts (North Central province), Kurunegala, Puttalam districts (North Western province), Hambantota, Galle districts (Southern province)",Drought,Drought,0,1800000,25000,0,2014-9393,--,--
+/06/1980,//1980,Sudan (the),SDN,,Drought,Drought,0,0,0,0,1980-9005,Food shortage,Crop failure
+/04/1983,//1985,Sudan (the),SDN,"Northern Regions, Maban, Upper Nile Province (south east), Countrywide",Drought,Drought,150000,8400000,0,0,1983-9060,--,--
+/10/1987,//1987,Sudan (the),SDN," Kordofan, Darfur",Drought,Drought,0,3450000,0,0,1987-9174,--,--
+//1990,//1990,Sudan (the),SDN,Bar El Ghazal Province,Drought,Drought,0,600000,0,0,1990-9289,--,--
+/10/1991,//1992,Sudan (the),SDN,"West, Central, Eastern, Northern and South regions",Drought,Drought,0,8600000,0,0,1991-9686,--,--
+/12/1996,//1996,Sudan (the),SDN,Beja (Red Sea state),Drought,Drought,0,160000,0,0,1996-9220,--,--
+/01/2000,//2001,Sudan (the),SDN,"Northern Darfur, Northern Kordofan, Red Sea provinces",Drought,Drought,0,2000000,0,0,1999-9388,Food shortage,Water shortage
+//2012,//2012,Sudan (the),SDN,Abyei district (Southern Kordofan province),Drought,Drought,0,3200000,0,0,2011-9663,Food shortage,--
+/08/2015,/08/2015,Sudan (the),SDN,"Southern Kordofan, Blue Nile provinces",Drought,Drought,0,800000,0,0,2015-9373,Food shortage,--
+//1983,//1983,Swaziland,SWZ,Nationwide,Drought,Drought,500,0,0,0,1981-9309,Food shortage,--
+/01/1984,//1984,Swaziland,SWZ,,Drought,Drought,0,0,0,0,1984-9159,--,--
+/11/1990,//1995,Swaziland,SWZ,Southeast,Drought,Drought,0,250000,1739,0,1990-9604,--,--
+//2001,//2004,Swaziland,SWZ,"Lomahasha, Lugongolweni, Tikhuba districts (Lubombo province), Madlangampisi, Mhlangatane, Ndzingeni districts (Hhohho province), Dvokodvweni, Hlane, Lubuli, Mhlume, Mpolonjeni, Nkilongo, Siphofaneni, Sithobela districts (Lubombo province), Mafutseni, Mkhiweni districts (Manzini province), Lavumisa, Matsanjeni, Sigwe districts (Shiselweni province), Lobamba, Mayiwane, Ntfonjeni, Timpisini districts (Hhohho province), Kuhanyeni, Kwaluseni, Ludzeludze, Mahlanya, Manzini, Mthongwaneni, Nhlambeni districts (Manzini province), Hosea, Kubuta, Maseyisini, Mbangweni, Mtsambama, Sandleni, Shiselweni 1, Zombodze districts (Shiselweni province)",Drought,Drought,0,970000,0,0,2001-9122,--,--
+/07/2007,//2007,Swaziland,SWZ,"Hhohho, Lubombo, Manzini, Shiselweni provinces",Drought,Drought,0,410000,0,0,2007-9288,Famine,--
+/02/2016,/11/2016,Swaziland,SWZ,"Whole country: Hhohho, Lubombo, Manzini, Shiselweni provinces",Drought,Drought,0,350000,0,0,2016-9291,--,--
+/05/1999,//2000,Syrian Arab Republic,SYR,,Drought,Drought,0,329000,0,0,1999-9153,--,--
+//2008,//2010,Syrian Arab Republic,SYR,"Damascus, Homs, Hama, Raqqah, Dayr_Az_Zor, Hassakeh provinces",Drought,Drought,0,1300000,0,0,2008-9755,--,--
+/05/2000,//2001,Tajikistan,TJK,"Kabodien, Shaartuskiy, Jilikul, Ghozimalik, Kumsangirskiy, Piynjskiy districts (Khatlon province), Gorno Badakhshan Autonomous Oblast (Badakhshoni Kuni province), Leninabad Oblast (Sogd province)",Drought,Drought,0,3000000,57000,0,2000-9186,--,--
+/10/2008,/10/2008,Tajikistan,TJK,"Badakhshoni Kuni, Khatlon, Sogd, Tadzhikistan Territories provinces",Drought,Drought,0,800000,0,0,2008-9456,Food shortage,--
+/05/1967,//1967,"Tanzania, United Republic of",TZA,"Nationwide, Kilwa",Drought,Drought,0,53483,0,0,1967-9005,--,--
+//1977,//1977,"Tanzania, United Republic of",TZA,Tanga,Drought,Drought,0,20000,0,0,1977-9022,--,--
+//1984,//1984,"Tanzania, United Republic of",TZA,,Drought,Drought,0,1900000,0,0,1984-9012,--,--
+//1988,//1988,"Tanzania, United Republic of",TZA,Lindi region,Drought,Drought,0,110000,0,0,1988-9408,--,--
+//1991,//1992,"Tanzania, United Republic of",TZA,Central and Northern regions,Drought,Drought,0,800000,0,0,1990-9604,--,--
+//1996,//2000,"Tanzania, United Republic of",TZA,"Lake Victoria, North East, Coastal Region",Drought,Drought,0,3000000,0,0,1996-9326,Food shortage,Water shortage
+/08/2003,//2004,"Tanzania, United Republic of",TZA,"Kaskazini Unguja, Mjini Magharibi, Kusini Unguja, Singida, Dodoma, Shinyanga, Mwanza, Tabora, Kagera, Kigoma provinces",Drought,Drought,0,1900000,0,0,2003-9651,--,--
+/10/2004,//2004,"Tanzania, United Republic of",TZA,"Arusha, Kilimanjaro, Manyara, Tanga provinces (Northern Highlands region), Pwani, Dar-es-salaam provinces (Northern Coast region). ",Drought,Drought,0,254000,0,0,2004-9577,Food shortage,--
+//2006,//2006,"Tanzania, United Republic of",TZA,"Arusha, Manyara, Kilimanjaro provinces",Drought,Drought,0,3700000,0,0,2006-9756,--,Food shortage
+/08/2011,//2012,"Tanzania, United Republic of",TZA,"Ngorongoro district (Arusha province), Simanjiro district (Manyara province), Same, Rombo, Mwanga districts (Kilimanjaro province)",Drought,Drought,0,1000000,0,0,2011-9415,Food shortage,--
+/03/1991,//1991,Thailand,THA,,Drought,Drought,0,2500000,0,0,1991-9078,--,--
+//1993,//1993,Thailand,THA,"North, Central",Drought,Drought,0,0,2000,0,1993-9522,--,--
+/01/1999,//1999,Thailand,THA,,Drought,Drought,0,6000000,0,0,1999-9037,--,--
+/02/2002,//2002,Thailand,THA,"Nakhon Sawan, Udon Thani, Khon Kaen, Satun, Phrae, Loei, Kalasin, Sukhothai, Nakhon Ratchasima provinces",Drought,Drought,0,5000000,2300,0,2002-9158,--,--
+/01/2005,/03/2005,Thailand,THA,"Ang Thong, Bangkok, Buriram, Chachoengsao, Chainat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chonburi, Chumphon, Kalasin, Kampaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Lampang, Lamphun, Loei, Lopburi, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan
+Narathiwat, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Phuket, Prachuap Khilikhan, Ranong, Ratchaburi, Rayong, Roi Et, Sakon Nakhon, Samut Prakarn, Samut Sakhon, Samut Songkham, Saraburi, Satun, Si Saket, Singburi, Songkhla, Sukhothai, Suphanburi, Surat Thani, Surin, Tak, Trad, Trang, Uthai Thani, Uttaradit, Yala, Yasothon, Amnat Charoen, Nong Bua Lamphu, Phachinburi, Sa Kaeo, Ubon Ratchathani, Udon Thani provinces",Drought,Drought,0,0,420000,0,2005-9153,--,--
+/04/2008,//2008,Thailand,THA,"Ang Thong, Chainat, Chaiyaphum, Chiang Rai, Kalasin, Kampaeng Phet, Khon Kaen, Lampang, Loei, Lopburi, Maha Sarakham, Mukdahan, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nan, Nong Bua Lamphu, Nong Khai, Phayao, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Sakon Nakhon, Saraburi, Singburi, Sukhothai, Suphanburi, Udon Thani, Uthai Thani, Uttaradit provinces",Drought,Drought,0,10000000,0,0,2008-9154,--,--
+/03/2010,/03/2011,Thailand,THA,"Ang Thong, Chainat, Chaiyaphum, Chiang Rai, Kalasin, Kampaeng Phet, Khon Kaen, Lampang, Loei, Lopburi, Maha Sarakham, Mukdahan, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nan, Nong Bua Lamphu, Nong Khai, Phayao, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Sakon Nakhon, Saraburi, Singburi, Sukhothai, Suphanburi, Udon Thani, Uthai Thani, Uttaradit provinces",Drought,Drought,0,6482602,0,0,2010-9132,--,--
+/06/2011,//2011,Thailand,THA,"Chians Rai, Nan, Phrae, Loei, Nong Khai, Ubon Ratchathani, Mukdahan, Sakon Nakhon, Si Saket, Surin, Chaiyaphum, Amnat Charoen, Kalasin, Nakhon Ratchasima, Buriram, Yasothon provinces (North); Sukhothai, Phetchabun, Phichit provinces (Central); Prachuap Khilikhan, Phetchaburi, Kanchanaburi provinces (West)",Drought,Drought,0,0,0,0,2011-9207,--,--
+/03/2014,/03/2014,Thailand,THA,"Ang Thong, Bangkok, Buriram, Chachoengsao, Chainat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chonburi, Chumphon, Kalasin, Kampaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Lampang, Lamphun, Loei, Lopburi, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan
+Narathiwat, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Phuket, Prachuap Khilikhan, Ranong, Ratchaburi, Rayong, Roi Et, Sakon Nakhon, Samut Prakarn, Samut Sakhon, Samut Songkham, Saraburi, Satun, Si Saket, Singburi, Songkhla, Sukhothai, Suphanburi, Surat Thani, Surin, Tak, Trad, Trang, Uthai Thani, Uttaradit, Yala, Yasothon, Amnat Charoen, Nong Bua Lamphu, Phachinburi, Sa Kaeo, Ubon Ratchathani, Udon Thani provinces",Drought,Drought,0,0,0,0,2014-9428,--,--
+/02/2007,/03/2007,Timor-Leste,TLS,"Aileu, Ainaro, Baucau, Ermera, Liquica, Manatuto, Manufahi provinces",Drought,Drought,0,0,0,0,2007-9650,--,--
+/04/2016,/04/2016,Timor-Leste,TLS,"Baucau, Lautem, Viqueque provinces",Drought,Drought,0,120000,0,0,2016-9119,--,--
+/01/1971,//1971,Togo,TGO,Countrywide,Drought,Drought,0,150000,500,0,1971-9006,--,--
+/02/1983,//1983,Togo,TGO,,Drought,Drought,0,0,0,0,1980-9114,Food shortage,Wildfire
+/01/1989,//1989,Togo,TGO,"Tone, Oti prectures",Drought,Drought,0,400000,0,0,1989-9276,Food shortage,--
+/08/2015,/12/2015,Tonga,TON,"Vava'u, Ha'apai, Tongatapu, Niuafo'ou, Niuatoputapu",Drought,Drought,0,0,0,0,2015-9483,--,--
+/01/2010,/06/2010,Trinidad and Tobago,TTO,"Arima, Chaguanas, Couva/Tabaquite/Talparo, Diego Martin, Penal/Debe, Point Fortin, Port Of Spain, Princes Town, Rio Claro/Mayaro, San Fernando, San Juan/Laventille, Sangre Grande, Siparia, Tobago, Tunapuna/Piarco provinces",Drought,Drought,0,0,0,0,2010-9077,--,Water shortage
+//1977,//1977,Tunisia,TUN,"South, Central regions",Drought,Drought,0,31400,0,0,1977-9024,--,--
+//1988,//1988,Tunisia,TUN,,Drought,Drought,0,0,0,0,1988-9006,Insect infestation,--
+/09/2011,//2011,Tuvalu,TUV,Nukulaelae Isl. Funati Islands,Drought,Drought,0,0,0,0,2011-9390,--,--
+/01/1967,//1967,Uganda,UGA,Karamoja,Drought,Drought,0,25000,200,0,1967-9001,--,--
+//1979,//1980,Uganda,UGA,Karamoja,Drought,Drought,0,500000,0,0,1979-9128,--,--
+/12/1987,//1988,Uganda,UGA,"Karamoja, Northwestern",Drought,Drought,0,600000,0,0,1987-9031,--,--
+/01/1998,//1999,Uganda,UGA,,Drought,Drought,0,126000,1600,0,1998-9265,--,--
+/08/1999,//2001,Uganda,UGA,"Abim, Amudat, Kaabong, Kotido, Moroto, Nakapiripirit, Napak provinces",Drought,Drought,115,700000,0,0,1999-9388,Famine,--
+/06/2002,//2002,Uganda,UGA,"Kaabong, Kotido, Abim, Moroto, Nakapiripirit provinces (Karamoja region)",Drought,Drought,79,655000,0,0,2002-9852,Food shortage,--
+/03/2005,/03/2006,Uganda,UGA,"Rupa, Nadunget subcounties (Moroto province); Nyakwae subcounty (Abim province); Kalapata city (Dodoth district, Kaabong province) (Karamoja region)",Drought,Drought,0,600000,0,0,2005-9163,--,--
+/07/2008,/10/2009,Uganda,UGA,"Nakapiripit, Kodito, Abim provinces (Karamoja region, North-East)",Drought,Drought,0,1100000,0,0,2008-9307,Food shortage,--
+/03/2011,//2011,Uganda,UGA,"Kaabong, Kotido, Abim, Moroto, Nakapiripirit provinces (Karamoja region)",Drought,Drought,0,669000,0,0,2010-9082,--,--
+15/04/2012,31/07/2012,Ukraine,UKR,Amury city (Odes'ka province),Drought,Drought,0,0,1690000,0,2012-9606,--,--
+//1933,//1937,United States of America (the),USA,Great Plains,Drought,Drought,0,0,0,0,1933-9003,--,--
+/04/1988,/06/1988,United States of America (the),USA,,Drought,Drought,0,0,0,0,1988-9707,--,--
+/01/1991,/07/1991,United States of America (the),USA,California,Drought,Drought,0,0,1000000,0,1991-9476,--,--
+/07/1991,/07/1991,United States of America (the),USA,"Pennsylvania, Maryland",Drought,Drought,0,0,335000,0,1991-9523,--,--
+/07/1999,//1999,United States of America (the),USA,"Kentucky, Maryland, Ohio, Pennsylvania, Virginia , West Virginia",Drought,Drought,0,0,1100000,0,1999-9358,--,--
+/06/2000,//2002,United States of America (the),USA,"South Carolina, Georgia, Alabama, Florida, Louisiana, Texas provinces",Drought,Drought,0,0,1100000,0,2000-9339,--,--
+/11/2000,//2000,United States of America (the),USA,Wyoming province,Drought,Drought,0,0,0,0,2000-9712,Wildfire,--
+/07/2002,/08/2002,United States of America (the),USA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",Drought,Drought,0,0,3300000,0,2002-9853,--,--
+/10/2007,/06/2009,United States of America (the),USA,"California, Georgia, Maryland provinces",Drought,Drought,0,0,300000,0,2007-9548,--,--
+/01/2011,/11/2011,United States of America (the),USA,"Texas, Oklahoma, New Mexico, Arizona, Kansas, Louisiana provinces",Drought,Drought,0,0,8000000,1000000,2011-9363,--,--
+/06/2012,//2012,United States of America (the),USA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",Drought,Drought,0,0,0,0,2012-9235,Heat wave,--
+/06/2012,/12/2012,United States of America (the),USA,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Arizona, California, Colorado, Nevada, New Mexico, Oklahoma, Texas, Utah provinces",Drought,Drought,0,0,20000000,16000000,2012-9489,Heat wave,--
+/01/2014,/12/2014,United States of America (the),USA,San Joaquin district (California province),Drought,Drought,0,0,2200000,0,2014-9023,--,--
+/01/2015,/12/2015,United States of America (the),USA,"California, Nevada, Oregon, Washington, Idaho, Montana, Utah, Arizona provinces",Drought,Drought,0,0,1800000,0,2015-9210,--,--
+/06/1999,//2000,Uruguay,URY,"Artigas, Salto, Paysandu, Rio Negro, Cerro Largo, Tacuarembo, Rivera Departments",Drought,Drought,0,0,250000,0,1999-9085,Wildfire,Food shortage
+/08/2000,/08/2001,Uzbekistan,UZB,"Karakalpakstan, Khorezm provinces",Drought,Drought,0,600000,50000,0,2000-9494,--,--
+/11/2009,//2010,Venezuela (Bolivarian Republic of),VEN,"Amazonas, Anzoategui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales, Falcon, Guarico, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Tachira, Trujillo, Yaracuy, Zulia, Vargas, Distrito Capital provinces",Drought,Drought,0,0,0,0,2009-9415,--,--
+//1987,//1987,Viet Nam,VNM,Northern Provinces,Drought,Drought,0,0,0,0,1987-9029,--,--
+/12/1997,/06/1998,Viet Nam,VNM,"Quang Tri, Quang Binh, Quang Ngai, Quang Nam, Ha Tinh, Nghe An, Binh Dinh, Gia Lai, Kon Tun provinces",Drought,Drought,0,3000000,407000,0,1997-9525,Food shortage,--
+/01/1999,//1999,Viet Nam,VNM,Central - North regions,Drought,Drought,0,1400000,0,0,1999-9084,--,--
+/05/2002,//2002,Viet Nam,VNM,"An Giang, Kien Giang, Long An provinces ",Drought,Drought,0,1300000,200000,0,2002-9132,--,--
+/05/2005,//2005,Viet Nam,VNM,Ben Tre province,Drought,Drought,0,410000,42120,0,2005-9277,--,--
+/12/2015,/11/2016,Viet Nam,VNM,"An Giang, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Can Tho city, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Gia Lai, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kon Tum, Lam Dong, Long An, Ninh Thuan, Phu Yen, Quang Nam, Quang Ngai, Soc Trang, Tay Ninh, Tien Giang, Tra Vinh, Vinh Long provinces",Drought,Drought,0,1750000,613000,0,2015-9617,--,--
+//1969,//1971,Yemen Arab Rep,YMN,"Taiz-Torba, Tihama",Drought,Drought,0,2020000,10000,0,1969-9069,--,--
+//1977,//1977,Yemen Arab Rep,YMN,,Drought,Drought,0,0,0,0,1977-9026,--,--
+/01/1975,//1975,Yemen P Dem Rep,YMD,,Drought,Drought,0,0,0,0,1975-9133,--,--
+//1977,//1977,Yemen P Dem Rep,YMD,,Drought,Drought,0,0,0,0,1977-9026,--,--
+/07/1990,/08/1990,Yugoslavia,YUG,Central,Drought,Drought,0,0,1000000,0,1990-9717,--,--
+/01/1982,//1982,Zambia,ZMB,"south, west and central",Drought,Drought,0,0,0,0,1981-9309,--,--
+/01/1983,//1983,Zambia,ZMB,"south, west, central",Drought,Drought,0,0,0,0,1983-9200,--,--
+//1991,//1992,Zambia,ZMB,,Drought,Drought,0,1700000,0,0,1990-9604,--,--
+/08/1995,//1995,Zambia,ZMB,"Southern, Western, Central & Eastern Lusaka Provinces",Drought,Drought,0,1273204,0,0,1995-9268,--,--
+/06/2005,/11/2005,Zambia,ZMB,"Southern, Western provinces",Drought,Drought,0,1200000,0,0,2005-9403,Food shortage,--
+/10/1982,//1984,Zimbabwe,ZWE,"central, south east and west",Drought,Drought,0,0,1000,0,1981-9309,--,--
+/04/1991,//1995,Zimbabwe,ZWE,,Drought,Drought,0,5000000,50000,0,1990-9604,Water shortage,--
+/11/1998,//1998,Zimbabwe,ZWE,Southern (Matabeleland),Drought,Drought,0,55000,0,0,1998-9361,--,--
+/03/2001,//2003,Zimbabwe,ZWE,"Kwekwe, Gokwe South, Zvishavane, Shurugwi, Gweru, Mberengwa, Gokwe North districts (Midlands province), Mvuma city (Chirumhanzu district, Midlands province), Chipinge district (Manicaland province), Gwanda, Umzingwane, Matobo districts (Matabeleland South province), Chiredzi, Chivi, Masvingo districts (Masvingo province), Hwange, Tsholotsho districts (Matabeleland North province), Kariba district (Mashonaland West province), Guruve district (Mashonaland Central province)",Drought,Drought,0,6000000,0,0,2001-9122,--,--
+/01/2007,/06/2009,Zimbabwe,ZWE,"Masvingo, Matabeleland North, Matabeleland South, Midlands, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West provinces",Drought,Drought,0,2100000,0,0,2007-9675,Food shortage,--
+/05/2010,//2013,Zimbabwe,ZWE,"Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands provinces",Drought,Drought,0,1667618,0,0,2010-9181,Food shortage,--
+/12/2013,/12/2013,Zimbabwe,ZWE,"Matabeleland North, Matabeleland South, Masvingo, Midlands provinces",Drought,Drought,0,2200000,0,0,2013-9536,Food shortage,--
+/01/2015,/11/2016,Zimbabwe,ZWE,"Manicaland, Masvingo, Matabeleland North, Matabeleland South, Mashonaland Central, Midlands provinces",Drought,Drought,0,4100000,0,0,2015-9478,Food shortage,--

@@ -1,0 +1,408 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
+12/06/1999,12/06/1999,Afghanistan,AFG,"Badil, Sholake, Hadwal, Dara Pech (settlements) - Kunar Province",Wildfire,Forest fire,0,0,0,0,1999-0195,--,--
+/07/2007,/07/2007,Albania,ALB,"Kolonje, Vlore, Puke, Tropoje provinces",Wildfire,Forest fire,0,75,0,0,2007-0365,--,--
+/08/1994,/08/1994,Algeria,DZA,,Wildfire,Forest fire,22,0,0,0,1994-0306,--,--
+/09/2007,/09/2007,Algeria,DZA,Tzarifet forest (Tlemcen province),Wildfire,Forest fire,8,0,0,0,2007-0670,--,--
+22/01/1987,22/01/1987,Argentina,ARG,"Lanin area (Neuquen province), El Bolson area (Chubut province), Rio Negro province",Wildfire,Forest fire,0,152752,100000,0,1987-0002,--,--
+21/01/1994,21/01/1994,Argentina,ARG,"Near Puerto Madryn, Santa Rosa province, Pampa",Wildfire,"Land fire (Brush, Bush, Pastur",24,0,0,0,1994-0611,--,--
+/01/1999,/01/1999,Argentina,ARG,Patagonia Province,Wildfire,Forest fire,0,0,0,0,1999-0048,--,--
+/12/2000,/12/2000,Argentina,ARG,"La Pampa, Mendoza, San Luis, Formosa provinces",Wildfire,Forest fire,8,0,0,0,2000-0853,--,--
+/08/2001,/08/2001,Argentina,ARG,La Rioja province,Wildfire,Forest fire,0,0,0,0,2001-0442,--,--
+//1939,//1939,Australia,AUS,Victoria New South Wales,Wildfire,"Land fire (Brush, Bush, Pastur",71,3900,0,0,1939-0017,--,--
+//1944,//1944,Australia,AUS,Western District Victoria,Wildfire,"Land fire (Brush, Bush, Pastur",49,2100,0,0,1944-0028,--,--
+07/02/1967,07/02/1967,Australia,AUS,Hobart (Tasmania),Wildfire,"Land fire (Brush, Bush, Pastur",62,3100,68500,0,1967-0018,--,--
+/11/1968,/11/1968,Australia,AUS,New South Wales,Wildfire,"Land fire (Brush, Bush, Pastur",12,1800,1000,0,1968-0080,--,--
+/01/1975,/01/1975,Australia,AUS,Kangaroo Isl.,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1975-0102,--,--
+/01/1975,/01/1975,Australia,AUS,Mildura region,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1975-0103,--,--
+/02/1977,/02/1977,Australia,AUS,Western district,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,22592,0,1977-0225,--,--
+/12/1977,/12/1977,Australia,AUS,"Blue Mountains, New South Wales",Wildfire,"Land fire (Brush, Bush, Pastur",3,0,2168,0,1977-0227,--,--
+/02/1979,/02/1979,Australia,AUS,"Act, Gouldburn,Yass, Mittagong, New South Wales",Wildfire,"Land fire (Brush, Bush, Pastur",0,0,4090,0,1979-0241,--,--
+/02/1980,/02/1980,Australia,AUS, Adelaide Hills (South),Wildfire,"Land fire (Brush, Bush, Pastur",0,40,25975,0,1980-0288,--,--
+16/02/1983,16/02/1983,Australia,AUS,"South Australia, Victoria",Wildfire,"Land fire (Brush, Bush, Pastur",75,11000,400000,0,1983-0045,--,--
+/01/1985,/01/1985,Australia,AUS,Southeastern,Wildfire,"Land fire (Brush, Bush, Pastur",5,100,15000,0,1985-0004,--,--
+/02/1985,/02/1985,Australia,AUS,New South Wales,Wildfire,"Land fire (Brush, Bush, Pastur",6,0,18169,0,1985-0331,--,--
+03/01/1990,03/01/1990,Australia,AUS,"South New South Wales, North Victoria",Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1990-0269,--,--
+06/01/1994,06/01/1994,Australia,AUS,Nouvelle Galle du Sud,Wildfire,"Land fire (Brush, Bush, Pastur",4,26020,150000,0,1994-0001,--,--
+20/09/1994,20/09/1994,Australia,AUS,New South Wales & Queenland,Wildfire,"Land fire (Brush, Bush, Pastur",0,20141,0,0,1994-0210,--,--
+07/10/1997,07/10/1997,Australia,AUS,North West,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1997-0246,--,--
+28/11/1997,28/11/1997,Australia,AUS," From Tare To Bega, Coonabaraban",Wildfire,"Land fire (Brush, Bush, Pastur",2,0,6700,0,1997-0285,--,--
+/01/1999,/01/1999,Australia,AUS,"Victoria, South Australia",Wildfire,"Land fire (Brush, Bush, Pastur",1,2000,0,0,1999-0001,--,--
+/10/2000,/10/2000,Australia,AUS,"Ashfield (A), Auburn (C), Bankstown (C), Botany Bay (C), Burwood (A), Canada Bay (A), Canterbury (C), Holroyd (C), Hunters Hill (A), Hurstville (C), Kogarah (C), Ku-ring-gai (A), Lane Cove (A), Leichhardt (A), Manly (A), Marrickville (A), Mosman (A), North Sydney (A), Parramatta (C), Pittwater (A), Randwick (C), Rockdale (C), Ryde (C), Strathfield (A), Sutherland Shire (A), Sydney (C), Warringah (A), Waverley (A), Willoughby (C), Woollahra (A) districts (New South Wales province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,200,0,0,2000-0659,--,--
+/10/2001,/10/2001,Australia,AUS,New South Wales province,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,2001-0655,--,--
+25/12/2001,16/01/2002,Australia,AUS,"Sydney (Ashfield (A), Auburn (C), Bankstown (C), Botany Bay (C), Burwood (A), Canada Bay (A), Canterbury (C), Holroyd (C), Hunters Hill (A), Hurstville (C), Kogarah (C), Ku-ring-gai (A), Lane Cove (A), Leichhardt (A), Manly (A), Marrickville (A), Mosman (A), North Sydney (A), Parramatta (C), Pittwater (A), Randwick (C), Rockdale (C), Ryde (C), Strathfield (A), Sutherland Shire (A), Sydney (C), Warringah (A), Waverley (A), Willoughby (C), Woollahra (A) districts, New South Wales province), Canberra (Unincorporated ACT district, Australian Capital Territory province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,4400,90000,35000,2001-0699,--,--
+08/10/2002,06/12/2002,Australia,AUS,"Sydney (Ashfield (A), Auburn (C), Bankstown (C), Botany Bay (C), Burwood (A), Canada Bay (A), Canterbury (C), Holroyd (C), Hunters Hill (A), Hurstville (C), Kogarah (C), Ku-ring-gai (A), Lane Cove (A), Leichhardt (A), Manly (A), Marrickville (A), Mosman (A), North Sydney (A), Parramatta (C), Pittwater (A), Randwick (C), Rockdale (C), Ryde (C), Strathfield (A), Sutherland Shire (A), Sydney (C), Warringah (A), Waverley (A), Willoughby (C), Woollahra (A) districts, New South Wales province)",Wildfire,"Land fire (Brush, Bush, Pastur",2,244,50000,0,2002-0765,--,--
+08/01/2003,18/02/2003,Australia,AUS,"Canberra region (Unincorporated ACT district, Australian Capital Territory province)",Wildfire,Forest fire,4,2650,300000,264000,2003-0030,--,--
+04/01/2005,26/01/2005,Australia,AUS,"Eyre peninsula (Ceduna (DC), Cleve (DC), Elliston (DC), Franklin Harbour (DC), Kimba (DC), Lower Eyre Peninsula (DC), Port Augusta (C), Port Lincoln (C), Streaky Bay (DC), Tumby Bay (DC), Whyalla (C), Wudinna (DC) districts, South Australia province)",Wildfire,Forest fire,12,220,40000,20000,2005-0014,--,--
+/01/2006,/04/2006,Australia,AUS,"Victoria, New South Wales, Tasmania provinces",Wildfire,Forest fire,3,81,50000,0,2006-0057,--,--
+16/11/2006,16/11/2006,Australia,AUS,"Blue mountains district, New South Wales province",Wildfire,--,0,0,0,0,2006-0660,--,--
+/12/2006,/12/2006,Australia,AUS,"Tasmania, Victoria, New South Wales provinces",Wildfire,Forest fire,1,60,50000,0,2006-0666,--,--
+02/02/2009,14/02/2009,Australia,AUS,"Marysville, Kinglake, Taggerty cities (Murrindindi (S) district, Victoria province), Strathewen, St Andrews cities (Nillumbik (S) district, Victoria province), , Whittlesea city (Whittlesea district, Victoria province), Wandong city (Mitchell (S) district, Victoria province) ",Wildfire,"Land fire (Brush, Bush, Pastur",180,9954,1300000,770000,2009-0067,Heat wave,--
+23/08/2011,24/08/2011,Australia,AUS,"Margaret river city (Augusta-Margaret River (S) district, Western Australia province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,120,54000,0,2011-0640,--,--
+01/01/2013,17/01/2013,Australia,AUS,"Dunnaley, Boomer Bay cities (Sorell (M) district, Tasmania province), Sommers Bay (Tasman district, Tasmania province), Bicheno city (Glamorgan/Spring Bay (M) district, Tasmania province); New South Wales, Victoria",Wildfire,"Land fire (Brush, Bush, Pastur",1,450,98000,80000,2013-0024,--,--
+18/10/2013,31/10/2013,Australia,AUS,Blue Mountains (C) district (New South Wales province),Wildfire,"Land fire (Brush, Bush, Pastur",2,990,268000,164000,2013-0402,--,--
+13/01/2014,13/01/2014,Australia,AUS,"Kalamunda (S), Mundaring (S) districts (Perth Hills region, Western Australia province)",Wildfire,"Land fire (Brush, Bush, Pastur",2,168,25000,0,2014-0004,--,--
+07/02/2014,28/02/2014,Australia,AUS,"Mickleham, Craigieburn cities (Hume district, Victoria province), Whittlesea (S), Nillumbik (S) districts (Melbourne north outskirts, Victoria province), Wallan, Kilmore, Beveridge cities (Mitchell (S) district, Victoria province), Warrandyte city (Manningham (C) district, Victoria province), Wunghnu city (Moira (S) district, Victoria province), Glenaladale, Walpa cities (East Gippsland (S) district, Victoria province), Yarram city (Wellington district, Victoria province), Morwell city (Latrobe district, Victoria province), Gisborne (Macedon Ranges district, Victoria province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,90,100000,0,2014-0062,Industrial accidents,Pollution
+03/01/2015,08/01/2015,Australia,AUS,"Sampson Flat city (Playford (C) district, South Australia province), Kersbrook (Adelaide Hills (DC) district, Mount Lofty Ranges, South Australia province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,134,51000,45000,2015-0010,--,--
+25/11/2015,28/11/2015,Australia,AUS,"Pinery, Balaklava cities (Wakefield (DC) district, North Mount Lofty Ranges, South Australia province), Roseworthy city (Light (RegC) district, South Australia province)",Wildfire,"Land fire (Brush, Bush, Pastur",2,135,200000,120000,2015-0514,--,--
+19/12/2015,26/12/2015,Australia,AUS,"Wye River, Separation Creek cities (Colac-Otway (S) district, Victoria province)",Wildfire,Forest fire,0,348,100000,0,2015-0560,--,--
+05/01/2016,10/01/2016,Australia,AUS,"Yarloop, Cookernup areas (Harvey (S) district, Western Australia province), Hamel, Waroona areas (Waroona (S) district, Western Australia province)",Wildfire,"Land fire (Brush, Bush, Pastur",2,486,4200,0,2016-0014,--,--
+10/04/1978,10/04/1978,Benin,BEN,Aguegues (Portonovo),Wildfire,Forest fire,2,7200,0,0,1978-0053,--,--
+//1984,//1984,Benin,BEN,North,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1984-0004,--,--
+06/01/2013,06/01/2013,Benin,BEN,"Alloya village (Chee-Ahomadegbe, Lalo district, Couffo Province)",Wildfire,--,1,2759,0,0,2013-0376,--,--
+/01/1999,/01/1999,Bhutan,BTN,,Wildfire,Forest fire,0,0,3500,0,1999-0117,--,--
+13/08/1999,13/08/1999,Bolivia (Plurinational State of),BOL,"Ascension De Guarayos, San Ignacio De Moxos, Canandoa",Wildfire,"Land fire (Brush, Bush, Pastur",3,6300,0,0,1999-0273,--,--
+17/08/2002,17/08/2002,Bolivia (Plurinational State of),BOL,"Sama, Tucumilla, Iscayachi, Lazareto, San Andres, Victoria, Coimata, Erquis Norte, Sur villages (Cercado district, Tarija province)",Wildfire,Forest fire,0,0,0,0,2002-0525,--,--
+/09/2005,/09/2005,Bolivia (Plurinational State of),BOL,"Beni, Pando provinces",Wildfire,Forest fire,0,3000,0,0,2005-0538,--,--
+/08/2010,/08/2010,Bolivia (Plurinational State of),BOL,"Beni, Pando, Santa Cruz, Cochabamba, La Paz provinces",Wildfire,Forest fire,0,300,0,0,2010-0421,--,--
+15/03/1998,15/03/1998,Brazil,BRA,"Alta Alegre, Amajari, Apiau, Bom-Pim, Canta, Caracarai, Iracema, Maraca, Macajai, Normandia, Pacaraima, Uiramuta municipalities (Roraima state)",Wildfire,"Land fire (Brush, Bush, Pastur",1,12000,36000,0,1998-0070,--,--
+11/09/1998,11/09/1998,Brazil,BRA,"Tocantins, Para Mato Grosso, Rondonia",Wildfire,Forest fire,0,0,0,0,1998-0326,--,--
+/09/1999,/09/1999,Brazil,BRA,"Mato Grosso, Mato Grosso do Sul",Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1999-0329,--,--
+04/03/1998,30/05/1998,Brunei Darussalam,BRN,,Wildfire,Forest fire,0,0,2000,0,1998-0057,--,--
+01/07/2000,01/07/2000,Bulgaria,BGR,"Haskovo, Jambol, Burgas, Stara Zagora, Plovdiv provinces",Wildfire,Forest fire,7,167,17600,0,2000-0407,--,--
+/08/2001,/08/2001,Bulgaria,BGR,"Blagoevgrad, Haskovo, Kardzhali, Smoljan provinces",Wildfire,Forest fire,0,0,0,0,2001-0504,--,--
+/07/2007,/07/2007,Bulgaria,BGR,"Veliko Tarnovo, Kustendil, Montana, Sofia, Smoljan, Stara Zagora provinces ",Wildfire,Forest fire,1,9,2454,0,2007-0366,--,--
+25/08/2007,26/08/2007,Bulgaria,BGR,"Topolovgrad, Svilengrad districts (Haskovo province)",Wildfire,--,2,0,0,0,2007-0395,--,--
+11/07/1911,11/07/1911,Canada,CAN,"Cochrane (and Northern Region), Ontario",Wildfire,Forest fire,73,200,0,0,1911-0018,--,--
+30/09/1922,30/09/1922,Canada,CAN,"Haileybury, Ontario",Wildfire,Forest fire,43,11000,8000,0,1922-0011,--,--
+/06/1980,/06/1980,Canada,CAN,"Red Lake, Ontario",Wildfire,"Land fire (Brush, Bush, Pastur",0,5000,0,0,1980-0211,--,--
+/07/1985,/07/1985,Canada,CAN,Northeast of Vancouver,Wildfire,Forest fire,0,0,0,0,1985-0077,--,--
+15/05/1986,15/05/1986,Canada,CAN,"Grand Falls, Newfoundland",Wildfire,Forest fire,0,1000,0,0,1986-0188,--,--
+15/05/1986,15/05/1986,Canada,CAN,"George Town & Burton, New Brunswick",Wildfire,Forest fire,0,1000,0,0,1986-0242,--,--
+/01/1989,/08/1989,Canada,CAN,"Entire country, especillay Labrador",Wildfire,Forest fire,1,25000,4200000,0,1989-0280,--,--
+/07/1992,/07/1992,Canada,CAN,Britsh Columbia province,Wildfire,Forest fire,0,0,120000,0,1992-0503,--,--
+24/07/1994,24/07/1994,Canada,CAN,British Columbia,Wildfire,Forest fire,0,3000,0,0,1994-0170,--,--
+01/06/1995,30/06/1995,Canada,CAN,Saskatchewan (British Colombia),Wildfire,Forest fire,0,1500,89500,0,1995-0098,--,--
+24/06/1995,24/06/1995,Canada,CAN,Ontario,Wildfire,Forest fire,0,5000,0,0,1995-0135,--,--
+29/05/1997,29/05/1997,Canada,CAN,Quebec,Wildfire,Forest fire,0,1600,0,0,1997-0119,--,--
+02/05/1998,02/05/1998,Canada,CAN,"Alberta, British Columbia",Wildfire,Forest fire,0,8000,0,0,1998-0123,--,--
+05/03/1999,05/03/1999,Canada,CAN,"Manitoba, Ontario",Wildfire,Forest fire,0,1500,0,0,1999-0145,--,--
+28/05/2001,28/05/2001,Canada,CAN,Alberta province,Wildfire,Forest fire,0,1200,0,0,2001-0340,--,--
+/07/2002,/07/2002,Canada,CAN,"Lac-Saint-Jean-Est, Le Domaine-du-Roy, Le Saguenay-et-son-Fjord, Maria-Chapdelaine, Nord-du-Québec districts (Quebec / Québec province)",Wildfire,Forest fire,0,600,0,0,2002-0409,--,--
+01/08/2003,14/09/2003,Canada,CAN,"British Columbia, Alberta, Saskatchewan, Manitoba provinces",Wildfire,Forest fire,1,0,545000,155000,2003-0369,--,--
+/07/2005,/07/2005,Canada,CAN,Québec province,Wildfire,Forest fire,0,0,0,0,2005-0383,--,--
+/08/2005,/08/2005,Canada,CAN,Ontario province,Wildfire,Forest fire,0,0,0,0,2005-0460,--,--
+14/05/2011,16/05/2011,Canada,CAN,"Slave Lake area (Division No. 17 district, Alberta province)",Wildfire,Forest fire,1,7000,1500000,720000,2011-0630,--,--
+01/07/2015,10/07/2015,Canada,CAN,"Saskatchewan, Alberta, British Columbia provinces",Wildfire,Forest fire,0,13036,0,0,2015-0275,--,--
+01/05/2016,09/05/2016,Canada,CAN,"Fort McMurray city (Wood Buffalo area, Division No. 16 district, Alberta province)",Wildfire,Forest fire,0,7200,3900000,2800000,2016-0172,--,--
+/07/2007,/08/2007,Canary Is,SPI,"Grand Canaria Island (Las Palmas district, Canarias province), Tenerife Island (Santa Cruz de Tenerife district, Canarias province)",Wildfire,Forest fire,0,405,0,0,2007-0329,--,--
+/01/1995,/01/1995,Central African Republic,CAF,,Wildfire,Forest fire,0,85,0,0,1995-0469,--,--
+30/01/2002,30/01/2002,Central African Republic,CAF,"Yaloké district (Ombella M'Poko province), Bria district (Haute-Kotto province)",Wildfire,Forest fire,1,750,0,0,2002-0052,--,--
+//1992,//1992,Chile,CHL,,Wildfire,Forest fire,0,0,120000,0,1992-0502,--,--
+/01/1993,/01/1993,Chile,CHL,South,Wildfire,Forest fire,0,0,0,0,1993-0523,--,--
+06/04/1997,06/04/1997,Chile,CHL,Near Conception Port,Wildfire,Forest fire,10,300,0,0,1997-0078,--,--
+02/01/1999,02/01/1999,Chile,CHL,"San Fernando, Bio-Bio",Wildfire,Forest fire,0,1000,280000,0,1999-0013,--,--
+/02/2002,/02/2002,Chile,CHL,Coquimbo province,Wildfire,Forest fire,0,0,80000,0,2002-0089,--,--
+23/01/2003,23/01/2003,Chile,CHL,Valparaiso province,Wildfire,"Land fire (Brush, Bush, Pastur",0,285,0,0,2003-0042,--,--
+/02/2011,/02/2011,Chile,CHL,Maule province,Wildfire,"Land fire (Brush, Bush, Pastur",0,400,0,0,2011-0097,--,--
+29/12/2011,06/01/2012,Chile,CHL,"Maule, Biobio, Magallanes y Antartica chilena, Araucania provinces",Wildfire,Forest fire,1,1082,200000,0,2011-0584,--,--
+01/01/2012,06/01/2012,Chile,CHL,"Biobio, Magallanes y Antartica chilena provinces",Wildfire,--,7,0,200000,15000,2012-0605,--,--
+12/04/2014,21/04/2014,Chile,CHL,Valparaiso province,Wildfire,"Land fire (Brush, Bush, Pastur",12,11000,34000,0,2014-0118,--,--
+13/03/2015,21/03/2015,Chile,CHL,Valparaiso province,Wildfire,Forest fire,1,32,0,0,2015-0092,--,--
+09/05/1981,09/05/1981,China,CHN,Near Beijing,Wildfire,Forest fire,0,0,0,0,1981-0233,--,--
+/05/1987,/05/1987,China,CHN,Mohe county (Heilongjiang province),Wildfire,Forest fire,191,56313,110000,0,1987-0095,--,--
+06/04/1995,06/04/1995,China,CHN,Hongqing,Wildfire,Forest fire,29,0,0,0,1995-0321,--,--
+03/04/1999,03/04/1999,China,CHN,"Fenyang, Wenshui (Shanxi Province)",Wildfire,Forest fire,23,0,0,0,1999-0103,--,--
+/04/2003,/04/2003,China,CHN,"Mangui village (Hulunbuir district, Nei Mongol Zizhiqu province), Heilongjiang Sheng, Yunnan Sheng provinces",Wildfire,Forest fire,0,300,0,0,2003-0202,--,--
+05/12/2010,05/12/2010,China,CHN,"Daofu county (Garzê Tibetan district, Sichuan Sheng province)",Wildfire,"Land fire (Brush, Bush, Pastur",22,3,0,0,2010-0623,--,--
+03/02/1991,03/02/1991,Colombia,COL,"Cano Yarumales, Rio Guayabero",Wildfire,Forest fire,0,0,0,0,1991-0126,--,--
+/08/2001,/08/2001,Colombia,COL,"Amazonas, Arauca, Boyaca, Caqueta, Casanare, Guainia, Guaviare, Meta, Norte De Santander, Putumayo, Vaupes, Vichada provinces",Wildfire,Forest fire,0,0,0,0,2001-0499,--,--
+/01/2010,06/04/2010,Colombia,COL,"Antioquia, Arauca, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Cordoba, Cundinamarca, Guainia, Guajira, Guaviare, Huila, Magdalena, Meta, Narino, Norte De Santander, Putumayo, Quindio, Risaralda, Santander, Sucre, Tolima, Valle Del Cauca, Vichada provinces",Wildfire,--,31,200,0,0,2010-0289,--,--
+12/07/2009,12/07/2009,Congo (the Democratic Republic of the),COD,"Tshikula, Dibaya cities (Lulua district, Kasai Occidental province), Kongolo city (Tanganyka district, Katanga province), Mukishi city (Haut-Lomani district, Katanga province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,125,0,0,2009-0264,--,--
+06/08/2010,20/08/2010,Congo (the Democratic Republic of the),COD,"Kongolo city (Tanganyka district, Katanga province)",Wildfire,"Land fire (Brush, Bush, Pastur",8,2770,0,0,2010-0414,--,--
+24/08/2015,28/08/2015,Congo (the Democratic Republic of the),COD,"Katanga, Maniema provinces",Wildfire,"Land fire (Brush, Bush, Pastur",3,57003,0,0,2015-0385,--,--
+/04/1976,/04/1976,Costa Rica,CRI,Chirripo Mountain,Wildfire,Forest fire,0,0,0,0,1976-0030,--,--
+09/04/1992,09/04/1992,Costa Rica,CRI,Cerro Chiripo region of Talamanca,Wildfire,Forest fire,0,1200,0,0,1992-0155,--,--
+29/07/1997,29/07/1997,Croatia,HRV,Hvar Is.,Wildfire,Forest fire,0,0,0,0,1997-0157,--,--
+/08/2000,/08/2000,Croatia,HRV,"Split, Omis cities (Split-dalmatija province), Slano, Metkovic cities (Dubrovnik-neretva province)",Wildfire,Forest fire,1,0,17750,0,2000-0528,--,--
+18/07/2003,23/07/2003,Croatia,HRV,"Dubrovnik-neretva, Lika-Senj provinces",Wildfire,Forest fire,0,0,20000,0,2003-0347,--,--
+04/08/2007,05/08/2007,Croatia,HRV,"Dubrovnik, Mlini, Plat cities (Dubrovnik-neretva province), Split-damlatjia, Zadar-knin provinces (Dalmatia region)",Wildfire,Forest fire,0,26,0,0,2007-0325,--,--
+30/08/2007,30/08/2007,Croatia,HRV,Kornat Isl. (Sibenik province),Wildfire,Forest fire,12,0,0,0,2007-0444,--,--
+/08/1987,/08/1987,Cuba,CUB,"Moa, Holguin",Wildfire,Forest fire,0,0,0,0,1987-0138,--,--
+08/04/1999,08/04/1999,Cuba,CUB,Guane (Pinor del Rio Province),Wildfire,Forest fire,0,0,0,0,1999-0110,--,--
+13/06/2000,13/06/2000,Cyprus,CYP,Larnaca province,Wildfire,Forest fire,0,0,0,0,2000-0329,--,--
+19/04/1965,19/04/1965,Dominican Republic (the),DOM,Pico Duarte,Wildfire,Forest fire,0,0,1000,0,1965-0022,--,--
+12/02/1983,12/02/1983,Dominican Republic (the),DOM,South-East of Constanza,Wildfire,Forest fire,0,0,0,0,1983-0044,--,--
+11/03/2005,11/03/2005,Dominican Republic (the),DOM,"Bohechio, San Juan de la Maguana districts (San Juan province), San José de Las Matas district (Santiago province), San Ignacio de Sabaneta district (Santiago Rodriguez province)",Wildfire,Forest fire,0,0,0,0,2005-0739,--,--
+28/02/1985,28/02/1985,Ecuador,ECU,"Isabela IsL, Gualapagos",Wildfire,"Land fire (Brush, Bush, Pastur",0,800,0,0,1985-0035,--,--
+11/04/1994,11/04/1994,Ecuador,ECU,Santa Isabela Is. (Galapagos),Wildfire,Forest fire,0,0,0,0,1994-0042,--,--
+01/05/2012,25/09/2012,Ecuador,ECU,"Azuay, El Oro, Imbabura, Loja provinces",Wildfire,Forest fire,5,1945,0,0,2012-0608,--,--
+/02/2000,/02/2000,Ethiopia,ETH,"Bale, Borena districts (Oromia province) Wondo genet city (Sidama district, SNNPR province)",Wildfire,Forest fire,0,5,0,0,2000-0104,--,--
+/08/1949,/08/1949,France,FRA,Landes,Wildfire,--,80,0,0,0,1949-0027,--,--
+24/08/1982,24/08/1982,France,FRA,South-East departments,Wildfire,Forest fire,2,18,0,0,1982-0304,--,--
+/08/1983,/08/1983,France,FRA,,Wildfire,Forest fire,12,0,0,0,1983-0208,--,--
+25/04/1984,25/04/1984,France,FRA,"Northwest, Southern",Wildfire,Forest fire,0,0,0,0,1984-0254,--,--
+12/07/1984,12/07/1984,France,FRA,Southern,Wildfire,Forest fire,0,0,0,0,1984-0256,--,--
+/08/1985,/08/1985,France,FRA,"South, Corsica",Wildfire,Forest fire,6,130,0,0,1985-0087,--,--
+24/07/1986,24/07/1986,France,FRA,"Languedoc, Roussillon, Provence, Cote d'Azur",Wildfire,Forest fire,5,2000,0,0,1986-0083,--,--
+26/07/1997,26/07/1997,France,FRA,Near Marseille,Wildfire,Forest fire,0,1259,0,0,1997-0159,--,--
+22/07/1999,22/07/1999,France,FRA,Alpilles,Wildfire,Forest fire,0,6,0,0,1999-0642,--,--
+28/07/2003,30/07/2003,France,FRA,"Massif des Maures mountain (Var district, Provence-Alpes-Cote-d'Azur province)",Wildfire,Forest fire,5,3004,0,0,2003-0365,--,--
+20/06/2005,26/08/2005,France,FRA,,Wildfire,Forest fire,2,0,10000,0,2005-0367,--,--
+/07/2009,/07/2009,France,FRA,"Corse province, Marseille city (Bouches-du-Rhone district, Provence-Alpes-Cote-d'Azur province)",Wildfire,Forest fire,0,0,0,0,2009-0271,--,--
+/03/1973,/03/1973,Gambia (the),GMB,,Wildfire,"Land fire (Brush, Bush, Pastur",0,5000,0,0,1973-0059,--,--
+25/07/1983,25/07/1983,Germany Fed Rep,DFR,Basse-Saxe,Wildfire,Forest fire,0,0,0,0,1983-0350,--,--
+25/02/1985,25/02/1985,Ghana,GHA,Central,Wildfire,"Land fire (Brush, Bush, Pastur",4,1500,0,0,1985-0033,--,--
+22/07/1983,22/07/1983,Greece,GRC,North,Wildfire,Forest fire,12,0,0,0,1983-0357,--,--
+22/07/1984,22/07/1984,Greece,GRC,"North region, Thassos Isl.",Wildfire,Forest fire,0,0,0,0,1984-0265,--,--
+13/08/1984,13/08/1984,Greece,GRC,Ayios Apostolos (Varvona region),Wildfire,"Land fire (Brush, Bush, Pastur",0,200,0,0,1984-0266,--,--
+16/07/1985,16/07/1985,Greece,GRC,"Hydra, Evvia",Wildfire,Forest fire,3,0,0,0,1985-0256,--,--
+09/08/1987,09/08/1987,Greece,GRC,Rhodes,Wildfire,Forest fire,0,0,0,0,1987-0145,--,--
+22/07/1995,22/07/1995,Greece,GRC,Mount Penteli (Athens),Wildfire,Forest fire,0,2014,0,0,1995-0159,--,--
+/06/1998,/08/1998,Greece,GRC,"Central, North and South",Wildfire,"Land fire (Brush, Bush, Pastur",14,300,675000,0,1998-0230,Heat wave,--
+/07/2000,/07/2000,Greece,GRC,"Samos island (Samou district, Voreio Aigaio province), Agioi Theodoroi, Kiato, Korinthias areas (Korinthias district, Peloponnisos province), Diakofto area (Achaias district, Dytiki Ellada province), Thassos island (Kavalas district, Anatoliki Makedonia Kai Thraki province), Chios island (Chiou district, Voreio Aigaio province), Mandra area (Attikis district, Attiki province), Rhode island (Dodekanisou district, Notio Aigaio province), Sterea Ellada, Thessalia provinces",Wildfire,Forest fire,2,102,0,0,2000-0455,--,--
+24/08/2000,24/08/2000,Greece,GRC,"Ipeiros province, Arkadias district (Peloponnisos province), Corfu city (Kerkyras district, Ionioi Nisoi province)",Wildfire,Forest fire,7,7,0,0,2000-0529,--,--
+01/06/2007,30/07/2007,Greece,GRC,"Pylos city (Messinias district, Peloponnisos province), Andros Isl. (Kykladon district, Notio Aigaio province), Keratea city, Idra Isl. (Attikis district, Attiki province), Menindi city (Aitolias Kai Akarnanias district, Dytiki Ellada province), Skiathos Isl. (Magnisias district, Thessalia province), Kefalonia Isl. (Kefallinias district, Ionioi Nisoi province), Zante Isl. (Zakynthou district, Ionioi Nisoi province), Chios Isl. (Chiou district, Voreio Aigaio province), Kastoria city (Kastorias district, Dytiki Makedonia province), Kozani city (Kozanis district, Dytiki Makedonia province), Loannina city (Ioanninon district, Ipeiros province), Florina city (Florinis district, Dytiki Makedonia province), Pierias district (Kentriki Makedonia province), Thesprotias district (Iperiros province), Fthiotidos district (Sterea Ellada province)",Wildfire,Forest fire,3,4,0,0,2007-0301,--,--
+24/08/2007,30/08/2007,Greece,GRC,"Messinias, Lakonias districts (Peloponisos province), Euboea Isl. (Evvoias district, Sterea Ellada province), Olympia city (Ileias district, Dytiki Ellada province)",Wildfire,Forest fire,65,5392,1750000,0,2007-0392,--,--
+/07/2009,/07/2009,Greece,GRC,"Zakynthou district (Ionioi Nisoi province), Peloponnisos province, Evvoias district (Sterea Ellada province)",Wildfire,Forest fire,0,0,0,0,2009-0271,--,--
+21/08/2009,25/08/2009,Greece,GRC,"Marathonas area (Attikis district, Attiki province)",Wildfire,Forest fire,0,1040,0,0,2009-0345,--,--
+/05/1987,/05/1987,Guatemala,GTM,Peten,Wildfire,Forest fire,0,0,0,0,1987-0088,--,--
+/03/2003,/03/2003,Guatemala,GTM,Petén province,Wildfire,Forest fire,0,0,0,0,2003-0764,--,--
+10/01/2004,10/01/2004,Guinea,GIN,"Tamagali city (Mamou district, Mamou province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,777,0,0,2004-0738,--,--
+16/02/1998,16/02/1998,Guinea-Bissau,GNB,Gabu region,Wildfire,"Land fire (Brush, Bush, Pastur",3,1500,0,0,1998-0083,--,--
+/02/2000,/02/2000,Honduras,HND,"Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, Francisco Morazan, Gracias A Dios, Intibuca, Islas De Bahia, La Paz, Lempira, Name Unknown, Ocotepeque, Olancho, Paraiso, Santa Barbara, Valle, Yoro provinces",Wildfire,Forest fire,0,0,0,0,2000-0215,--,--
+//1967,//1967,Hong Kong,HKG,,Wildfire,Forest fire,0,0,0,0,1967-0095,--,--
+//1968,//1968,Hong Kong,HKG,,Wildfire,Forest fire,0,0,0,0,1968-0106,--,--
+/10/1968,/10/1968,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1968-0108,--,--
+/07/1969,/07/1969,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1969-0129,--,--
+/10/1969,/10/1969,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1969-0130,--,--
+/01/1970,/01/1970,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1970-0093,--,--
+/04/1970,/04/1970,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1970-0094,--,--
+/04/1971,/04/1971,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1971-0100,--,--
+/10/1971,/10/1971,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1971-0102,--,--
+/01/1972,/01/1972,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1972-0097,--,--
+/04/1972,/04/1972,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1972-0098,--,--
+/10/1972,/10/1972,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1972-0099,--,--
+/01/1973,/01/1973,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1973-0095,--,--
+/04/1973,/04/1973,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1973-0096,--,--
+/01/1974,/01/1974,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1974-0114,--,--
+/04/1974,/04/1974,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1974-0115,--,--
+/10/1974,/10/1974,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1974-0117,--,--
+/01/1978,/01/1978,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1978-0206,--,--
+/10/1978,/10/1978,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1978-0208,--,--
+/01/1979,/01/1979,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1979-0201,--,--
+/10/1979,/10/1979,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1979-0203,--,--
+/01/1980,/01/1980,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1980-0214,--,--
+/10/1980,/10/1980,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1980-0217,--,--
+/01/1981,/01/1981,Hong Kong,HKG,,Wildfire,Forest fire,0,0,0,0,1981-0195,--,--
+/10/1981,/10/1981,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1981-0198,--,--
+/01/1982,/01/1982,Hong Kong,HKG,"Kwun Tong, Wong Tai Sin, Tsuen Wan, Mong Kok",Wildfire,"Land fire (Brush, Bush, Pastur",0,9000,0,0,1982-0268,--,--
+/01/1982,/01/1982,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1982-0269,--,--
+/10/1983,/10/1983,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1983-0310,--,--
+13/12/1985,13/12/1985,Hong Kong,HKG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1985-0224,--,--
+/01/1986,/01/1986,Hong Kong,HKG,Shing Mun Country Park,Wildfire,"Land fire (Brush, Bush, Pastur",0,3,0,0,1986-0196,--,--
+20/12/1987,20/12/1987,Hong Kong,HKG,Tai Mo Shan Country Park,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1987-0294,--,--
+29/11/1989,29/11/1989,Hong Kong,HKG, Hong Kong,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1989-0296,--,--
+/05/1984,/05/1984,India,IND,Jammu region,Wildfire,Forest fire,0,0,2000,0,1984-0044,--,--
+/04/1999,/04/1999,India,IND,"Garhwal & Kumaon (districts of Nainital, Almora and Pithoragarh) Level 1 = Uttar Pradesh",Wildfire,Forest fire,6,0,0,0,1999-0121,--,--
+01/02/2016,02/05/2016,India,IND,Uttarakhand province,Wildfire,Forest fire,7,0,0,0,2016-0187,--,--
+01/08/1991,27/10/1991,Indonesia,IDN,"Borneo, Sumatra Isl., Kalimatan, java, Sulawesi",Wildfire,Forest fire,57,8,13200,0,1991-0418,Pollution,Transport accident
+/10/1994,/10/1994,Indonesia,IDN,,Wildfire,Forest fire,0,3000000,0,0,1994-0359,--,--
+/09/1997,/09/1997,Indonesia,IDN,Sumatra & Kalimantan,Wildfire,Forest fire,240,32070,8000000,0,1997-0220,--,--
+/03/1998,/04/1998,Indonesia,IDN,Kalimatan Province (Borneo Isl.),Wildfire,Forest fire,3,2000,1300000,0,1998-0057,--,--
+/06/1999,/06/1999,Indonesia,IDN,"Sumatra, Kalimantan",Wildfire,Forest fire,0,0,1800,0,1999-0342,--,--
+/02/2000,/02/2000,Indonesia,IDN,"Riau province (Sumatra Isl.), Kalimatan Barat, Kalimatan Tengah provinces (Borneo Isl.)
+",Wildfire,Forest fire,0,0,0,0,2000-0117,--,--
+/08/2002,/08/2002,Indonesia,IDN,"Kalimatan Barat, Kalimatan Tengah provinces (Borneo Isl.), Riau province (Sumatra Isl.)",Wildfire,Forest fire,0,200,0,0,2002-0615,--,--
+09/08/2005,09/08/2005,Indonesia,IDN,"Sintang, Sanggau, Ketapang districts (Kalimatan Barat province), Kotawaringin Timur, Katingan, Seruyan, Kapuas (Kalimantan Tengah province), Kota Baru, Tapin, Hulusungai Selatan, Banjar, Tanahlaut (Kalimantan Selatan province) (Sumatra Isl.)",Wildfire,Forest fire,0,0,0,0,2005-0430,--,--
+/08/2006,/08/2006,Indonesia,IDN,"Muarojambi, Tanjungjabung Timur districts (Jambi province), Ogan Komering Ilir, Banyuasin, Musibanyuasin districts (Sumatera Selatan province), Ketapang district (Kalimantan Barat province), Kotawaringin Timur, Kotawaringin Barat, Pulangpisau, Seruyan, Sukamara districts (Kalimantan Tengah province), Banjar, Hulusungai Selatan districts (Kalimantan Selatan province)",Wildfire,Forest fire,0,200,14000,0,2006-0471,--,--
+/09/2015,/12/2015,Indonesia,IDN,"Jambi, Riau, Sumatera Selatan, Kalimantan Timur, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Barat provinces",Wildfire,Forest fire,19,409664,1000000,0,2015-0429,--,--
+/06/2002,/06/2002,Iran (Islamic Republic of),IRN,Fars province,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,2002-0363,--,--
+03/11/1983,03/11/1983,Israel,ISR,Jerusalem,Wildfire,Forest fire,0,0,0,0,1983-0365,--,--
+02/07/1995,02/07/1995,Israel,ISR,Jerusalem area,Wildfire,Forest fire,0,240,45000,0,1995-0145,--,--
+02/12/2010,05/12/2010,Israel,ISR,"Isfiya village (Carmel forest, Haifa province)",Wildfire,Forest fire,44,20022,270000,0,2010-0627,--,--
+18/11/2016,26/11/2016,Israel,ISR,"Nataf, Sha'ar Hagai (Jérusalem province), Modiin (Central district province), Haifa province",Wildfire,"Land fire (Brush, Bush, Pastur",0,60137,520000,0,2016-0442,--,--
+25/07/1983,25/07/1983,Italy,ITA,"Sardinia, Calabria",Wildfire,Forest fire,7,20,0,0,1983-0099,--,--
+/03/1990,/07/1990,Italy,ITA,"Peimont, Lombardie",Wildfire,Forest fire,0,0,880000,0,1990-0344,--,--
+/04/1990,/04/1990,Italy,ITA,,Wildfire,Forest fire,0,0,705000,0,1990-0391,--,--
+18/08/1994,18/08/1994,Italy,ITA,Sicily,Wildfire,Forest fire,1,300,0,0,1994-0197,--,--
+/07/1999,/07/1999,Italy,ITA,"Sardaigne, Calabre, Ligurie",Wildfire,Forest fire,0,0,0,0,1999-0640,--,--
+/07/2007,/08/2007,Italy,ITA,"Abruzzi, Sardegna, Sicilia, Calabria provinces, Napoli district (Campania province), ",Wildfire,Forest fire,11,0,0,0,2007-0294,--,--
+20/07/2009,27/07/2009,Italy,ITA,"Sardegna, Sicilia provinces",Wildfire,Forest fire,2,0,115000,0,2009-0271,--,--
+22/03/2002,22/03/2002,Japan,JPN,"Matsumoto city (Nagano province), Tookyoo province",Wildfire,Forest fire,0,222,0,0,2002-0181,--,--
+17/08/1997,17/08/1997,Kazakhstan,KAZ,"Kokpektynsky, Ulansky, Ziryanovsky, Kurchumsky, Zaisansky & Katon-Karagaisky",Wildfire,Forest fire,0,8000,0,0,1997-0206,--,--
+06/04/2000,06/04/2000,Korea (the Republic of),KOR,"Kangnung, Tonghae, Samchok cities (Kang-won-do province)",Wildfire,Forest fire,2,855,0,0,2000-0194,--,--
+10/03/2004,10/03/2004,Korea (the Republic of),KOR,Sokcho city (Kang-won-do province),Wildfire,Forest fire,0,2155,0,0,2004-0123,--,--
+04/04/2005,06/04/2005,Korea (the Republic of),KOR,"Yangyang, Kosong cities (Kang-won-do province)",Wildfire,Forest fire,0,2140,0,0,2005-0180,--,--
+01/10/2007,04/10/2007,Lebanon,LBN,"Bekaa, Mount Lebanon, North provinces",Wildfire,Forest fire,1,15,0,0,2007-0471,--,--
+/08/2000,/08/2000,Macedonia (the former Yugoslav Republic of),MKD,"Berovo, Bitola, Brod, Debar, Delcevo, Demir Hisar, Gevgelija, Gostivar, Kavadarci, Kicevo, Kocani, Kratovo, Kriva Palanka, Krusevo, Kumanovo, Negotino, Ohrid, Prilep, Probistip, Radovic, Resen, Skopje, Stip, Struga, Strumica, Sveti Nikole, Tetovo, Valandovo, Veles, Vinica provinces",Wildfire,Forest fire,0,0,13563,0,2000-0639,--,--
+/07/2007,/07/2007,Macedonia (the former Yugoslav Republic of),MKD,"Bitola, Tetovo, Krusevo, Veles provinces",Wildfire,Forest fire,1,1000000,0,0,2007-0368,--,--
+03/05/1995,03/05/1995,Malaysia,MYS,Palau Gaya (Borneo),Wildfire,Forest fire,0,3000,0,0,1995-0370,--,--
+21/08/1997,20/11/1997,Malaysia,MYS,,Wildfire,Forest fire,0,0,300000,0,1997-0220,--,--
+04/03/1998,30/05/1998,Malaysia,MYS,,Wildfire,Forest fire,0,0,2000,0,1998-0057,--,--
+09/08/2005,09/08/2005,Malaysia,MYS,"Port Klang city (Kelang district, Selangor province), Kuala Selangor district (Selangor province)",Wildfire,Forest fire,0,0,0,0,2005-0430,Pollution,--
+10/05/1929,10/05/1929,Mexico,MEX,Xochilapa,Wildfire,"Land fire (Brush, Bush, Pastur",60,0,0,0,1929-0001,--,--
+/07/1989,/07/1989,Mexico,MEX,Quintana Roo,Wildfire,Forest fire,0,0,83200,0,1989-0279,--,--
+01/04/1998,26/06/1998,Mexico,MEX,"Chipias, Oaxaca, Chimalapas, Puebla, Veracruz",Wildfire,Forest fire,50,0,8000,0,1998-0124,Heat wave,--
+25/10/2003,04/11/2003,Mexico,MEX,"Baja California, Chihuahua, Sonora provinces",Wildfire,Forest fire,0,0,0,0,2003-0518,--,--
+/03/2011,/05/2011,Mexico,MEX,"Acuna, Muzquiz, Ocampo, Arteaga districts (Coahuila province)",Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,2011-0161,Heat wave,--
+/04/1986,/04/1986,Mongolia,MNG,"East Gobi, Khentei Aimaks",Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1986-0045,--,--
+/05/1990,/05/1990,Mongolia,MNG,"Dornod (East), Selenge, Bulgan (North)",Wildfire,Forest fire,0,0,110000,0,1990-0615,--,--
+08/04/1996,09/05/1996,Mongolia,MNG,"Huvsgul, Bulgan, Arkhangai, Khentii, Tuv, Dornod, Uvs",Wildfire,Forest fire,25,5061,1712800,0,1996-0074,--,--
+01/09/2008,02/09/2008,Mozambique,MOZ,"Manica, Sofala, Zambezia provinces",Wildfire,--,49,3023,0,0,2008-0392,--,--
+/02/1979,/02/1979,Myanmar,MMR,,Wildfire,Forest fire,0,30000,11000,0,1979-0023,--,--
+11/04/1981,11/04/1981,Myanmar,MMR,"Taungdwingyi, central Burma",Wildfire,Forest fire,8,48588,0,0,1981-0045,--,--
+/03/1992,/03/1992,Nepal,NPL,Terai,Wildfire,Forest fire,56,50000,6200,0,1992-0138,--,--
+/03/1999,/03/1999,Nepal,NPL,,Wildfire,Forest fire,32,4000,0,0,1999-0156,--,--
+01/02/2016,02/05/2016,Nepal,NPL,,Wildfire,Forest fire,18,0,0,0,2016-0187,--,--
+19/03/1987,19/03/1987,New Zealand,NZL,Thames Valley,Wildfire,"Land fire (Brush, Bush, Pastur",0,130,0,0,1987-0568,--,--
+15/01/1991,12/03/1991,Nicaragua,NIC,North-West,Wildfire,Forest fire,0,0,80000,0,1991-0479,--,--
+/02/1999,/02/1999,Nicaragua,NIC,Atlantic Coast,Wildfire,Forest fire,0,0,0,0,1999-0133,--,--
+18/04/2002,18/04/2002,Nicaragua,NIC,"Atlantico Norte, Atlantico Sur, Boaco, Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas provinces",Wildfire,Forest fire,0,16000,0,0,2002-0237,--,--
+20/12/2006,//2006,Panama,PAN,"Miria Ubgidandu island (Kuna Yala district, Kuna Yala province), Kuna de Madungandí district (Panama province), Kuna de Wargandí district (Darien province)",Wildfire,--,0,1436,0,0,2006-0728,--,--
+23/09/1997,23/09/1997,Papua New Guinea,PNG,,Wildfire,"Land fire (Brush, Bush, Pastur",0,8000,0,0,1997-0264,--,--
+/09/2007,/09/2007,Paraguay,PRY,"San Pedro, Concepcion, Presidente Hayes, Canindeyu, Amambay provinces",Wildfire,Forest fire,8,125000,30000,0,2007-0454,--,--
+07/09/1997,07/09/1997,Peru,PER,Machu Picchu,Wildfire,Forest fire,0,1000,0,0,1997-0210,--,--
+02/04/1998,02/04/1998,Philippines (the),PHL,Quezeon & Rizal,Wildfire,Forest fire,2,300,0,0,1998-0088,--,--
+03/08/1983,03/08/1983,Poland,POL,,Wildfire,Forest fire,0,0,0,0,1983-0377,--,--
+01/07/1992,18/08/1992,Poland,POL,"Gdansk, Szczecin, Bydgoszcz, Katowice, Liegnit",Wildfire,Forest fire,35,0,0,0,1992-0218,--,--
+24/09/1983,24/09/1983,Portugal,PRT,Central region,Wildfire,Forest fire,0,0,0,0,1983-0379,--,--
+09/09/1985,09/09/1985,Portugal,PRT, Lamego region,Wildfire,Forest fire,14,0,95000,0,1985-0267,--,--
+15/06/1986,15/06/1986,Portugal,PRT,Coimbra region (Central Portugal),Wildfire,Forest fire,15,50,0,0,1986-0071,--,--
+//1991,//1991,Portugal,PRT,,Wildfire,Forest fire,0,0,0,0,1991-0723,--,--
+/09/2001,/09/2001,Portugal,PRT,"Guarda, Vila Real, Viseu provinces",Wildfire,Forest fire,0,0,0,0,2001-0558,--,--
+/08/2003,/09/2003,Portugal,PRT,"Braganca, Viseu, Viana do Castelo, Guarda, Castelo Branco, Portalegre, Santarem, Leira, Porto, Braga provinces, Amials de Cima city (in Pernes, Chamusca district, Santarem province), Vale de Serra city (Torres Novas district, Santarem province)",Wildfire,Forest fire,14,150000,1730000,6000,2003-0376,--,--
+/07/2004,/08/2004,Portugal,PRT,"Vila Real, Santarem, Faro, Viseu, Braganca provinces",Wildfire,Forest fire,2,0,0,0,2004-0383,Heat wave,--
+15/05/2005,14/07/2005,Portugal,PRT,"Porto, Castelo Branco provinces",Wildfire,Forest fire,15,136,1650000,0,2005-0367,--,--
+/01/2013,/08/2013,Portugal,PRT,"Aveiro, Viseu provinces",Wildfire,Forest fire,9,0,0,0,2013-0331,--,--
+07/07/1992,07/07/1992,Russian Federation (the),RUS,,Wildfire,Forest fire,31,0,0,0,1992-0281,--,--
+/05/1996,/05/1996,Russian Federation (the),RUS,Irkoutz (Siberia),Wildfire,Forest fire,19,600,0,0,1996-0100,--,--
+09/05/1997,09/05/1997,Russian Federation (the),RUS,Irkutsk & Chita Region,Wildfire,Forest fire,0,0,0,0,1997-0113,--,--
+14/07/1997,14/07/1997,Russian Federation (the),RUS,"Altay Territory, Siberia",Wildfire,Forest fire,14,0,0,0,1997-0194,--,--
+20/07/1998,21/10/1998,Russian Federation (the),RUS,Sakhalin Isl.,Wildfire,Forest fire,3,100683,270000,0,1998-0300,--,--
+/04/1999,/04/1999,Russian Federation (the),RUS,"Vladivostok, Kharbarovsk, Birobijan",Wildfire,Forest fire,0,0,0,0,1999-0128,--,--
+/07/1999,/07/1999,Russian Federation (the),RUS,"Central, North-Western Siberian And Far-Eastern Regions Of Russian Federation",Wildfire,Forest fire,0,0,113336,0,1999-0274,--,--
+/07/2000,/07/2000,Russian Federation (the),RUS,Koryakskiy Okrug province,Wildfire,Forest fire,0,0,0,0,2000-0218,--,--
+/05/2000,/05/2000,Russian Federation (the),RUS,"Buryatiya Rep., Irkutskaya Oblast, Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug provinces",Wildfire,Forest fire,0,0,0,0,2000-0231,--,--
+/07/2000,/07/2000,Russian Federation (the),RUS,"Komi Rep., Arkhangelskaya Oblast provinces",Wildfire,Forest fire,0,0,0,0,2000-0295,--,--
+/06/2000,/06/2000,Russian Federation (the),RUS,Khabarovskiy Kray province,Wildfire,Forest fire,0,0,0,0,2000-0514,--,--
+19/06/2000,19/06/2000,Russian Federation (the),RUS,"Amurskaya Oblast, Khabarovskiy Kray, Primorskiy Kray, Yevreyskaya A. Oblast provinces (Amour region)",Wildfire,Forest fire,0,0,0,0,2000-0553,--,--
+01/10/2001,01/10/2001,Russian Federation (the),RUS,Khabarovskiy Kray province,Wildfire,Forest fire,0,0,0,0,2001-0575,--,--
+/05/2001,/05/2001,Russian Federation (the),RUS,"Khabarovskiy Kray, Tyva Rep., Khakasiya Rep., Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug, Krasnoyarskiy Kray provinces",Wildfire,Forest fire,0,0,0,0,2001-0747,--,--
+11/05/2002,11/05/2002,Russian Federation (the),RUS,"Irkutskaya Oblast, Khabarovskiy Kray provinces",Wildfire,Forest fire,0,120,0,0,2002-0279,--,--
+/07/2002,/07/2002,Russian Federation (the),RUS,"Sakha Rep., Chukotskiy Okrug provinces",Wildfire,Forest fire,0,0,0,0,2002-0469,--,--
+/07/2002,/07/2002,Russian Federation (the),RUS,"Shatura, Dmitrov, Balashikha, Noginsk, Pavlovo-Posad cities (Moskovskaya Oblast province)",Wildfire,Forest fire,0,0,0,0,2002-0565,--,--
+/04/2003,/07/2003,Russian Federation (the),RUS,"Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug, Buryatiya Rep. provinces",Wildfire,Forest fire,0,0,0,0,2003-0198,--,--
+14/05/2004,16/05/2004,Russian Federation (the),RUS,"Kurgan, Omskaya Oblast, Novosibirskaya Oblast, Kemerovskaya Oblast, Tomskaya Oblast, Irkutskaya Oblast, Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug, Altay Rep., Krasnoyarskiy Kray provinces",Wildfire,Forest fire,9,1000,0,0,2004-0208,--,--
+/07/2010,06/08/2010,Russian Federation (the),RUS,"Nizhniy city (Krasnodarskiy Kray province), Novgorodskaya Oblast, Riazan city (Ryazanskaya Oblast province), Lipetskaya Oblast, Voronezhskaya Oblast, Belgorodskaya Oblast, Ivanovskaya Oblast, Moskva, Moskovskaya Oblast provinces",Wildfire,"Land fire (Brush, Bush, Pastur",53,5996,1800000,20000,2010-0352,Heat wave,--
+02/09/2010,03/09/2010,Russian Federation (the),RUS,Volgogradskaya Oblast region,Wildfire,Forest fire,8,1200,0,0,2010-0466,--,--
+20/04/2012,20/04/2012,Russian Federation (the),RUS,Tygda city (Amurskaya Oblast province),Wildfire,"Land fire (Brush, Bush, Pastur",2,598,0,0,2012-0098,--,--
+12/04/2015,15/04/2015,Russian Federation (the),RUS,"Khakasiya Rep., Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug provinces",Wildfire,"Land fire (Brush, Bush, Pastur",30,5977,136820,0,2015-0137,--,--
+/09/1983,/09/1983,Samoa,WSM,Northwest Savaii Isl.,Wildfire,Forest fire,0,1000,31650,0,1983-0113,--,--
+/08/2000,/08/2000,Serbia Montenegro,SCG,"Mojkovac, Pljevlja, Pluzine, Savnik, Zabljak provinces (Durmitor Massif, Piva River and Tara River in Pluzine province), Danilovgrad, Berane provinces, Bar, Budva, Cetinje, Herceg Novi, Kotor, Tivat, Ulcinj provinces (Adriatic coast) (Montenegro)",Wildfire,Forest fire,0,12,0,0,2000-0633,--,--
+02/01/2013,28/01/2013,Sierra Leone,SLE,"Blama Gbani community (Bo district, Southern province); Tiama community (Moyamba district, Southern province); Bompilia community (Bonthe district, Southern province); Rogbenk community (Port Loko district, Northern); Pujehun district (Southern province)
+",Wildfire,--,0,2257,0,0,2013-0030,--,--
+/10/2000,/10/2000,Slovakia,SVK,"Near Hrabusice city, Spisska Nova Ves district (Kosice province)",Wildfire,Forest fire,6,0,0,0,2000-0523,--,--
+07/09/1991,07/09/1991,South Africa,ZAF,"Transkei, Transvaal, Free State, Natal",Wildfire,Forest fire,5,0,0,0,1991-0047,--,--
+21/04/1998,21/04/1998,South Africa,ZAF,Plettenberg Bay,Wildfire,"Land fire (Brush, Bush, Pastur",25,0,0,0,1998-0442,--,--
+01/08/1999,01/08/1999,South Africa,ZAF,Cap Oriental,Wildfire,"Land fire (Brush, Bush, Pastur",4,3005,0,0,1999-0605,--,--
+15/01/2000,19/01/2000,South Africa,ZAF,"City of Capta Town Metropolitan Municipality (Western Cape province, Cape Town region)",Wildfire,"Land fire (Brush, Bush, Pastur",0,1250,10000,8000,2000-0017,--,--
+04/09/2001,04/09/2001,South Africa,ZAF,"Elhanzeni District Municipality, Mopani District Municipality, Vhelbe District Municipality",Wildfire,"Land fire (Brush, Bush, Pastur",20,0,0,0,2001-0500,--,--
+06/09/2001,06/09/2001,South Africa,ZAF,Kwazulu-Natal province,Wildfire,"Land fire (Brush, Bush, Pastur",11,0,0,0,2001-0508,--,--
+/07/2002,/07/2002,South Africa,ZAF,"Eastern Cape, Mpumalanga provinces",Wildfire,"Land fire (Brush, Bush, Pastur",3,1500,0,0,2002-0416,--,--
+27/07/2007,30/07/2007,South Africa,ZAF,"KwaZulu-Natal, Mpumalanga, Free State, Eastern Cape, Limpopo, Gauteng provinces",Wildfire,Forest fire,26,1600,0,0,2007-0337,--,--
+30/08/2008,03/09/2008,South Africa,ZAF,"Kwazulu-Natal, Free state",Wildfire,"Land fire (Brush, Bush, Pastur",34,25,430000,0,2008-0647,--,--
+/05/1987,/05/1987,Soviet Union,SUN,Eastern Siberia,Wildfire,Forest fire,0,0,0,0,1987-0090,--,--
+10/08/1984,10/08/1984,Spain,ESP,"Fires In La Gomera, Canary Island",Wildfire,Forest fire,17,0,0,0,1984-0278,--,--
+06/08/1985,06/08/1985,Spain,ESP,"Near Castellon De La Plana, Avila, Guadalajara, Madrid provinces",Wildfire,"Land fire (Brush, Bush, Pastur",0,300,0,0,1985-0096,--,--
+12/09/1985,12/09/1985,Spain,ESP,"Galicia, Andalusia",Wildfire,Forest fire,0,0,0,0,1985-0271,--,--
+06/08/1991,06/08/1991,Spain,ESP,Valence,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1991-0295,--,--
+06/06/1994,06/06/1994,Spain,ESP,Palma de Mallorca,Wildfire,Forest fire,0,1500,0,0,1994-0139,--,--
+04/07/1994,04/07/1994,Spain,ESP,Teruel,Wildfire,Forest fire,20,15020,0,0,1994-0155,--,--
+/07/1998,/07/1998,Spain,ESP,Catalonia,Wildfire,Forest fire,0,600,42108,0,1998-0231,--,--
+//2000,//2000,Spain,ESP,"Galicia, Castilla y Leon, Cataluna/Catalunya provinces",Wildfire,Forest fire,0,0,0,0,2000-0580,--,--
+/01/2003,/08/2003,Spain,ESP,"Cuenca district (Castilla-La Mancha province), Huelva district (Andalucia province), Caseres, Badajoz districts (Extremadura province)",Wildfire,Forest fire,5,200,0,0,2003-0372,--,--
+28/07/2004,04/08/2004,Spain,ESP,"Andalucia, Region de Murcia provinces",Wildfire,Forest fire,3,1100,3000,2000,2004-0373,--,--
+18/07/2005,18/07/2005,Spain,ESP,Guadalajara district (Castilla-La Mancha province),Wildfire,Forest fire,11,1,2050000,0,2005-0380,--,--
+04/08/2006,15/08/2006,Spain,ESP,Galicia province,Wildfire,Forest fire,4,0,659000,120000,2006-0444,--,--
+20/07/2009,24/07/2009,Spain,ESP,"Teruel district (Aragon province), Almeria district (Andalucia province), Horta de Sant Joan commune (Tarragona district, Cataluna/Catalunya province), Trevino area (Burgos district, Castilla y Leon province), Cuenca district (Castilla-La Mancha province)",Wildfire,Forest fire,6,0,0,0,2009-0271,Heat wave,Storm
+22/07/2012,27/07/2012,Spain,ESP,Girona district (Cataluna/Catalunya province),Wildfire,--,4,6,0,0,2012-0279,--,--
+19/04/1998,19/04/1998,Sudan (the),SDN,,Wildfire,"Land fire (Brush, Bush, Pastur",47,0,0,0,1998-0459,--,--
+27/07/2007,30/07/2007,Swaziland,SWZ,Pigg's Peak district (Hhohho province),Wildfire,Forest fire,2,1500,0,0,2007-0337,Storm,--
+02/10/1997,02/10/1997,"Tanzania, United Republic of",TZA,Mount Kilimanjaro,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,1997-0262,--,--
+/08/2005,/08/2005,Thailand,THA,"Satun, Phatthalung, Pattani, Yala, Narathiwat, Phuket, Songkhla provinces",Wildfire,Forest fire,0,0,0,0,2005-0430,Pollution,--
+06/09/1985,06/09/1985,Turkey,TUR,Kusadasi,Wildfire,Forest fire,13,0,0,0,1985-0278,--,--
+31/07/1996,31/07/1996,Turkey,TUR,Near Marmaris,Wildfire,Forest fire,0,500,0,0,1996-0175,--,--
+05/04/2000,05/04/2000,Turkey,TUR,"Bursa, Canakkale, Balikesir provinces",Wildfire,Forest fire,0,350,0,0,2000-0188,--,--
+/07/2000,/07/2000,Turkey,TUR,"Karacahisar, Boncuklu, Vakifli city (Soma district, Manisa province), Canakkale province",Wildfire,Forest fire,0,0,0,0,2000-0552,--,--
+01/08/2008,05/08/2008,Turkey,TUR,"Karatas (Korkuteli district, Antalya province)",Wildfire,Forest fire,2,300,0,0,2008-0318,--,--
+15/10/1918,15/10/1918,United States of America (the),USA,Minnesota Wisconsin,Wildfire,Forest fire,1000,0,100000,0,1918-0007,--,--
+20/10/1944,20/10/1944,United States of America (the),USA,"Cleveland, Ohio",Wildfire,Forest fire,121,0,0,0,1944-0013,--,--
+/10/1947,/10/1947,United States of America (the),USA,Maine,Wildfire,Forest fire,0,0,30000,0,1947-0010,--,--
+25/11/1956,25/11/1956,United States of America (the),USA,"Cleveland National Forest, Montana",Wildfire,Forest fire,11,0,0,0,1956-0017,--,--
+/09/1970,/09/1970,United States of America (the),USA,San Diego,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,100000,0,1970-0045,--,--
+17/10/1991,17/10/1991,United States of America (the),USA,"Washington, Idaho, Montana, Wyoming, Colorado",Wildfire,Forest fire,2,300,0,0,1991-0425,--,--
+21/10/1991,22/10/1991,United States of America (the),USA,Oakland ,Wildfire,Forest fire,26,0,2500000,1200000,1991-0426,--,--
+17/08/1992,17/08/1992,United States of America (the),USA,"California, Idaho, Oregon, Utah",Wildfire,Forest fire,0,990,85000,0,1992-0269,--,--
+29/09/1992,29/09/1992,United States of America (the),USA,Tahoe (California),Wildfire,Forest fire,0,0,90000,0,1992-0383,--,--
+27/10/1993,03/11/1993,United States of America (the),USA,"San Diego, Laguna Beach, Malibu, Los Angeles, Orange (California)",Wildfire,Forest fire,3,130,1000000,0,1993-0440,--,--
+27/06/1994,27/06/1994,United States of America (the),USA,Los Angeles,Wildfire,Forest fire,0,232,2000,0,1994-0149,--,--
+06/07/1994,06/07/1994,United States of America (the),USA,Colorado,Wildfire,Forest fire,13,0,0,0,1994-0154,--,--
+06/08/1994,06/08/1994,United States of America (the),USA,"California, Montana, Iadaho, Oregon, Utah, Nevada, Washington states",Wildfire,Forest fire,0,1200,0,0,1994-0192,--,--
+19/10/1996,19/10/1996,United States of America (the),USA,California,Wildfire,Forest fire,0,0,8500,0,1996-0250,--,--
+24/02/1996,24/02/1996,United States of America (the),USA,"Texas, Kensas, Oklahoma",Wildfire,"Land fire (Brush, Bush, Pastur",1,50,0,0,1996-0452,--,--
+09/08/1997,09/08/1997,United States of America (the),USA,California,Wildfire,Forest fire,0,700,2500,0,1997-0174,--,--
+14/09/1997,14/09/1997,United States of America (the),USA,California,Wildfire,Forest fire,0,300,0,0,1997-0219,--,--
+25/05/1998,05/07/1998,United States of America (the),USA,Florida,Wildfire,"Land fire (Brush, Bush, Pastur",1,40124,276000,62500,1998-0185,--,--
+31/08/1998,31/08/1998,United States of America (the),USA,San Diego county (California),Wildfire,"Land fire (Brush, Bush, Pastur",0,132,4500,0,1998-0286,--,--
+05/10/1998,05/10/1998,United States of America (the),USA,California,Wildfire,"Land fire (Brush, Bush, Pastur",1,600,600,0,1998-0306,--,--
+20/10/1998,20/10/1998,United States of America (the),USA,California,Wildfire,"Land fire (Brush, Bush, Pastur",0,365,0,0,1998-0319,--,--
+19/03/1999,19/03/1999,United States of America (the),USA,Nebraska,Wildfire,"Land fire (Brush, Bush, Pastur",1,300,0,0,1999-0094,--,--
+15/04/1999,15/04/1999,United States of America (the),USA,Florida,Wildfire,Forest fire,0,629,0,0,1999-0112,--,--
+24/08/1999,24/08/1999,United States of America (the),USA,California,Wildfire,Forest fire,0,90,92000,0,1999-0297,--,--
+26/02/2000,26/02/2000,United States of America (the),USA,"Gainesville, Alachua areas (Alachua district, Florida province), Lafayette, Gulf districts (Florida province)",Wildfire,Forest fire,0,600,0,0,2000-0128,--,--
+/05/2000,/09/2000,United States of America (the),USA,"Los Alamos, Rio Arriba, Sandoval, Santa Fe districts (New Mexico province)",Wildfire,Forest fire,0,25400,1500000,200500,2000-0240,--,--
+14/05/2000,14/05/2000,United States of America (the),USA,Sarasota district (Florida province),Wildfire,Forest fire,0,0,0,0,2000-0279,--,--
+12/06/2000,12/06/2000,United States of America (the),USA,"Park, Jefferson, Larimer districts (Colorado province)",Wildfire,Forest fire,0,1010,0,0,2000-0363,--,--
+27/06/2000,27/06/2000,United States of America (the),USA,"Hanford area (Benton district, Washington province)",Wildfire,Forest fire,0,8077,0,0,2000-0406,--,--
+/07/2000,/07/2000,United States of America (the),USA,Alaska province,Wildfire,Forest fire,0,0,0,0,2000-0450,--,--
+/07/2000,/08/2000,United States of America (the),USA,"Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, South Dakota, Texas, Utah, Washington, Wyoming, Florida, North Dakota provinces",Wildfire,Forest fire,14,1000,1000000,0,2000-0465,--,--
+/04/2001,/04/2001,United States of America (the),USA,Florida province,Wildfire,Forest fire,1,139,0,0,2001-0303,--,--
+/08/2001,/08/2001,United States of America (the),USA,"Oregon, Washington, Idaho, California, Nevada, Colorado, Arizona, Wyoming, Texas, Oklahoma provinces",Wildfire,Forest fire,0,0,0,0,2001-0451,--,--
+30/10/2001,30/10/2001,United States of America (the),USA,"Tennessee, Kentucky, West Virginia, Virginia, Georgia provinces",Wildfire,Forest fire,1,0,0,0,2001-0722,--,--
+10/02/2002,10/02/2002,United States of America (the),USA,"Fallbrok area (San Diego district, Californie province)",Wildfire,Forest fire,0,134,6600,0,2002-0092,--,--
+/03/2002,/03/2002,United States of America (the),USA,Lincoln district (New Mexico province),Wildfire,Forest fire,0,1300,5000,0,2002-0184,--,--
+/04/2002,/04/2002,United States of America (the),USA,Arizona province,Wildfire,"Land fire (Brush, Bush, Pastur",0,0,0,0,2002-0312,--,--
+/05/2002,/05/2002,United States of America (the),USA,"Georgia, Alaska provinces",Wildfire,Forest fire,0,0,0,0,2002-0331,--,--
+08/06/2002,08/06/2002,United States of America (the),USA,Colorado province,Wildfire,Forest fire,0,1572,20000,0,2002-0351,--,--
+20/06/2002,20/06/2002,United States of America (the),USA,Arizona province,Wildfire,Forest fire,0,1269,200500,0,2002-0379,--,--
+22/09/2002,22/09/2002,United States of America (the),USA,"Claremont, Glendora, La Verne areas (Los Angeles district, California province))",Wildfire,Forest fire,0,2213,0,0,2002-0618,--,--
+/07/2002,/07/2002,United States of America (the),USA,Oregon province,Wildfire,Forest fire,0,0,0,0,2002-0625,--,--
+17/06/2003,20/06/2003,United States of America (the),USA,"Summerhaven area (Pima district, Arizona province), Lemmon mount (Pima district, Arizona province)",Wildfire,Forest fire,0,750,0,0,2003-0299,--,--
+25/10/2003,04/11/2003,United States of America (the),USA,"Fontana, Rancho Cucamonga areas (San Bernardino district, California province)",Wildfire,Forest fire,14,27104,0,2000000,2003-0518,--,--
+21/10/2003,04/11/2003,United States of America (the),USA,San Bernardino district (California province),Wildfire,Forest fire,4,40,3500000,800000,2003-0786,--,--
+02/05/2004,04/05/2004,United States of America (the),USA,"Los Angeles, Riverside, San Diego, Santa Barbara districts (California province)",Wildfire,Forest fire,0,15000,0,0,2004-0196,Heat wave,--
+12/07/2004,16/07/2004,United States of America (the),USA,"Carson City district (Nevada province), Los Angeles district (California province)",Wildfire,Forest fire,0,242,0,0,2004-0348,Heat wave,Storm
+13/08/2004,14/08/2004,United States of America (the),USA,"Shasta Lake area (Shasta districts, California province)",Wildfire,Forest fire,0,245,0,0,2004-0446,--,--
+27/12/2005,04/01/2006,United States of America (the),USA,"Texas, Oklahoma provinces",Wildfire,Forest fire,5,1410,100000,0,2005-0724,--,--
+09/07/2006,14/07/2006,United States of America (the),USA,California province,Wildfire,--,1,167,16000,0,2006-0374,--,--
+26/10/2006,27/10/2006,United States of America (the),USA,"Riverside, Palm Springs cities (Riverside district, California province), San Diego district (California province)",Wildfire,"Land fire (Brush, Bush, Pastur",4,103,25000,0,2006-0576,--,--
+03/12/2006,06/12/2006,United States of America (the),USA,Ventura district (California province),Wildfire,"Land fire (Brush, Bush, Pastur",0,15,25000,0,2006-0662,--,--
+24/06/2007,02/07/2007,United States of America (the),USA,"Alpine, Amador, Calaveras, El Dorado, Mono, Placer, Tuolumne districts (California province)",Wildfire,Forest fire,0,768,0,150000,2007-0351,--,--
+21/10/2007,24/10/2007,United States of America (the),USA,"Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara, Ventura districts (California province)",Wildfire,"Land fire (Brush, Bush, Pastur",8,640064,2500000,1900000,2007-0519,Storm,--
+24/11/2007,27/11/2007,United States of America (the),USA,"Malibu area (Los Angeles district, California province)",Wildfire,Forest fire,0,10159,315000,0,2007-0579,--,--
+20/06/2008,09/07/2008,United States of America (the),USA,California province,Wildfire,Forest fire,1,300,102000,0,2008-0253,--,--
+13/11/2008,18/11/2008,United States of America (the),USA,"Los Angeles, Orange, Riverside, Santa Barbara districts (California province)",Wildfire,--,0,55020,2000000,600000,2008-0524,--,--
+05/05/2009,11/05/2009,United States of America (the),USA,Santa Barbara district (California province),Wildfire,"Land fire (Brush, Bush, Pastur",0,263,100000,0,2009-0178,--,--
+07/07/2009,27/10/2009,United States of America (the),USA,"Los Angeles, Monterey districts (California province)",Wildfire,"Land fire (Brush, Bush, Pastur",2,192,0,0,2009-0349,--,--
+09/04/2011,30/04/2011,United States of America (the),USA,Texas province,Wildfire,"Land fire (Brush, Bush, Pastur",2,1305,183000,0,2011-0140,--,--
+04/09/2011,09/09/2011,United States of America (the),USA,Bastrop district (Texas province),Wildfire,Forest fire,4,4800,1000000,450000,2011-0349,--,--
+29/05/2011,23/06/2011,United States of America (the),USA,"Arizona, Minnesota, Texas, Florida provinces",Wildfire,Forest fire,2,0,200000,0,2011-0639,--,--
+23/06/2012,10/07/2012,United States of America (the),USA,"Colorado Springs city (El Paso district, Colorado province)",Wildfire,--,2,1038,600000,450000,2012-0232,--,--
+03/08/2012,08/08/2012,United States of America (the),USA,"Cleveland, Creek, Oklahoma, Payne districts (Oklahoma province)",Wildfire,--,1,1809,200000,0,2012-0542,--,--
+30/05/2013,08/06/2013,United States of America (the),USA,Los Angeles district (California province),Wildfire,Forest fire,0,110,21400,0,2013-0209,--,--
+06/06/2013,20/06/2013,United States of America (the),USA,"Black Forest area (El Paso district, Colorado province)",Wildfire,Forest fire,2,1617,500000,450000,2013-0210,--,--
+28/06/2013,12/07/2013,United States of America (the),USA,"Yarnell area (Yavapai district, Arizona province)",Wildfire,Forest fire,19,387,0,0,2013-0212,--,--
+03/08/2013,01/09/2013,United States of America (the),USA,"Yosemite valley (Mariposa district, California province)",Wildfire,--,0,36,175000,0,2013-0315,--,--
+09/09/2013,15/09/2013,United States of America (the),USA,Shasta district (California province),Wildfire,--,1,225,10000,0,2013-0404,--,--
+11/05/2014,20/05/2014,United States of America (the),USA,"Hutchinson district (Texas province), San Diego district (California province)",Wildfire,Forest fire,2,429,100000,0,2014-0165,--,--
+22/07/2015,13/08/2015,United States of America (the),USA,"Lake, Napa, Solano, Yolo, Modoc, Colusa districts (California province)",Wildfire,--,1,129,0,0,2015-0312,--,--
+13/08/2015,31/08/2015,United States of America (the),USA,"California, Idaho, Montana, Oregon, Washington provinces",Wildfire,--,4,4508,150000,0,2015-0401,Pollution,--
+13/09/2015,20/09/2015,United States of America (the),USA,"Lake, Napa, Sonoma, Butte districts (California province)",Wildfire,"Land fire (Brush, Bush, Pastur",4,7302,1400000,960000,2015-0421,--,--
+09/09/2015,14/09/2015,United States of America (the),USA,"Amador, Calaveras (California)",Wildfire,"Land fire (Brush, Bush, Pastur",3,1425,400000,450000,2015-0613,--,--
+25/06/2016,26/06/2016,United States of America (the),USA,California province,Wildfire,Forest fire,2,891,100000,0,2016-0206,--,--
+24/07/2016,25/07/2016,United States of America (the),USA,"Los Angeles, San Francisco districts (California province)",Wildfire,Forest fire,2,420,50000,0,2016-0264,--,--
+13/08/2016,16/08/2016,United States of America (the),USA,"Lower Lake, Clearlake (Lake district, California province)",Wildfire,Forest fire,0,567,0,0,2016-0297,--,--
+28/11/2016,02/12/2016,United States of America (the),USA,"Gatlinburg city (Sevier district, Tennessee province)",Wildfire,Forest fire,14,2234,100000,0,2016-0463,--,--
+24/03/2002,12/04/2002,Viet Nam,VNM,"U Minh Thuong National Park (Kien Giang province), U Minh Ha (Ca Mau province)",Wildfire,Forest fire,0,0,0,0,2002-0197,--,--
+25/07/1983,25/07/1983,Yugoslavia,YUG,"Pelijesac, Dubrovnik",Wildfire,Forest fire,0,0,200000,0,1983-0409,--,--
+06/08/1985,06/08/1985,Yugoslavia,YUG,Korcala Isl.,Wildfire,Forest fire,0,0,0,0,1985-0295,--,--

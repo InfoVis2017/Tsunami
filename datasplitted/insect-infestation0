@@ -1,0 +1,87 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
+/09/1993,/09/1993,Afghanistan,AFG,,Insect infestation,Locust,0,0,0,0,1993-0494,--,--
+/10/1987,/10/1987,Algeria,DZA,"Tindouf, Adrar",Insect infestation,Locust,0,0,0,0,1987-0173,--,--
+/01/1988,/01/1988,Algeria,DZA,Saharan Atlas mountains,Insect infestation,--,0,0,0,0,1988-0015,--,--
+/04/2000,/04/2000,Australia,AUS,"South Australia, New South Wales, Queensland",Insect infestation,Locust,0,0,120000,0,2000-0249,--,--
+/08/2004,/08/2004,Australia,AUS,NSW,Insect infestation,Locust,0,0,0,0,2004-0432,--,--
+//1986,//1986,Botswana,BWA,,Insect infestation,Locust,0,0,0,0,1986-0013,--,--
+19/06/1991,19/06/1991,Brazil,BRA,Tucurui,Insect infestation,--,0,2000,0,0,1991-0389,--,--
+//1986,//1986,Burkina Faso,BFA,"Northern, Eastern regions",Insect infestation,Grasshopper,0,0,0,0,1986-0008,--,--
+//1987,//1987,Burkina Faso,BFA,,Insect infestation,Grasshopper,0,0,0,0,1987-0008,--,--
+/08/2004,/08/2004,Burkina Faso,BFA,,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+22/03/1988,22/03/1988,Cabo Verde,CPV,,Insect infestation,Locust,0,0,0,0,1988-0131,--,--
+/08/2004,/08/2004,Cabo Verde,CPV,,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+/01/1987,/01/1987,Cameroon,CMR,,Insect infestation,Grasshopper,0,0,0,0,1987-0012,--,--
+10/07/1998,10/07/1998,Cameroon,CMR,Northern,Insect infestation,--,0,0,1700,0,1998-0238,--,--
+//1986,//1986,Chad,TCD,Laka Chad area,Insect infestation,Grasshopper,0,0,0,0,1986-0010,--,--
+/02/1987,/02/1987,Chad,TCD,,Insect infestation,Grasshopper,0,0,0,0,1987-0593,--,--
+/06/1987,/06/1987,Chad,TCD,All regions,Insect infestation,--,0,0,0,0,1987-0594,--,--
+/05/1988,/05/1988,Chad,TCD,"Western, Central, Eastern, Northeastern prefectures",Insect infestation,Locust,0,0,0,0,1988-0180,--,--
+/07/2004,/07/2004,Chad,TCD,,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+/06/2001,/06/2001,China,CHN,From Hainan to Xinjiang provinces,Insect infestation,Locust,0,0,0,0,2001-0353,--,--
+17/05/1995,17/05/1995,Colombia,COL,Manizales,Insect infestation,--,0,0,104000,0,1995-0090,--,--
+/07/1995,/07/1995,Eritrea,ERI,,Insect infestation,Locust,0,0,0,0,1995-0409,--,--
+//1986,//1986,Ethiopia,ETH,"Eritrea, Tigray",Insect infestation,Locust,0,0,0,0,1986-0009,--,--
+//1987,//1987,Ethiopia,ETH,,Insect infestation,Locust,0,0,0,0,1987-0019,--,--
+/06/1988,/06/1988,Ethiopia,ETH,"Tigray,Eritrea",Insect infestation,Locust,0,0,0,0,1988-0243,--,--
+/12/1992,/12/1992,Ethiopia,ETH,Northern coastal plains and highlands Eritrea,Insect infestation,Locust,0,0,0,0,1992-0548,--,--
+//1986,//1986,Gambia (the),GMB,Countrywide,Insect infestation,--,0,0,0,0,1986-0021,--,--
+//1987,//1987,Gambia (the),GMB,,Insect infestation,Grasshopper,0,0,0,0,1987-0005,--,--
+/10/1988,/10/1988,Gambia (the),GMB,,Insect infestation,Locust,0,0,0,0,1988-0448,--,--
+/08/2004,/08/2004,Gambia (the),GMB,,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+/10/1978,/10/1978,Guinea-Bissau,GNB,"North, North-East regions",Insect infestation,Locust,0,0,0,0,1978-0148,--,--
+/06/1986,/06/1986,Guinea-Bissau,GNB,,Insect infestation,Grasshopper,0,0,0,0,1986-0073,--,--
+//1987,//1987,Guinea-Bissau,GNB,,Insect infestation,Grasshopper,0,0,0,0,1987-0015,--,--
+/09/1993,/09/1993,India,IND,"Gujarat, Rajasthan states",Insect infestation,Locust,0,0,0,0,1993-0569,--,--
+/01/1989,/01/1989,Jordan,JOR,,Insect infestation,Locust,0,0,0,0,1989-0005,--,--
+15/01/2009,//2009,Liberia,LBR,"Zota district (Bong County), Suakoko, Sanoyea, Salala districts",Insect infestation,--,0,500000,0,0,2009-0057,--,--
+//1944,//1944,Libya,LBY,,Insect infestation,Locust,0,0,0,0,1944-0027,--,--
+26/05/1997,26/05/1997,Madagascar,MDG,South & Southwest,Insect infestation,Locust,0,0,3500,0,1997-0202,--,--
+/10/2010,/05/2011,Madagascar,MDG,Southern,Insect infestation,--,0,2300000,0,0,2010-0704,--,--
+//1985,//1985,Mali,MLI,"Kayes, Yelimane, Nara",Insect infestation,Grasshopper,0,0,0,0,1985-0008,--,--
+//1986,//1986,Mali,MLI,"North Central region, Niger River Delta",Insect infestation,Grasshopper,0,0,0,0,1986-0181,--,--
+//1987,//1987,Mali,MLI,,Insect infestation,Grasshopper,0,0,0,0,1987-0004,--,--
+/04/1988,/04/1988,Mali,MLI,"Eastern, Western",Insect infestation,Locust,0,0,0,0,1988-0147,--,--
+/04/2004,/07/2004,Mali,MLI,North,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+//1985,//1985,Mauritania,MRT,South-East,Insect infestation,Locust,0,0,0,0,1985-0010,--,--
+/11/1987,/11/1987,Mauritania,MRT,"Southwest, North, East, South",Insect infestation,Locust,0,0,0,0,1987-0204,--,--
+/06/1988,/06/1988,Mauritania,MRT,"North, East, South",Insect infestation,Locust,0,0,0,0,1988-0241,--,--
+/07/2004,/07/2004,Mauritania,MRT,,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+/10/1987,/10/1987,Morocco,MAR,Southeastern,Insect infestation,Locust,0,0,0,0,1987-0172,--,--
+/11/1988,/11/1988,Morocco,MAR,South,Insect infestation,Locust,0,0,0,0,1988-0492,--,--
+/03/1988,/03/1988,Morocco,MAR,"Guelimine, Errachidia, Ouarzazate, Foum Zguid (Atlas Mts. Region)",Insect infestation,Locust,0,0,0,0,1988-0632,--,--
+/07/2004,/07/2004,Morocco,MAR,,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+//1988,//1988,Mozambique,MOZ,"Maputo, Niassa",Insect infestation,--,0,0,0,0,1988-0033,--,--
+//1913,//1913,Niger (the),NER,,Insect infestation,Locust,0,0,0,0,1913-0002,--,--
+//1930,//1930,Niger (the),NER,,Insect infestation,Locust,0,0,0,0,1930-0002,--,--
+/08/1986,/08/1986,Niger (the),NER,"Niamey, Dosso, Diffa",Insect infestation,Grasshopper,0,0,0,0,1986-0088,--,--
+/01/1987,/01/1987,Niger (the),NER,,Insect infestation,Grasshopper,0,0,0,0,1987-0009,--,--
+/05/1988,/05/1988,Niger (the),NER,"Diffa, Tahoua, Central Niger",Insect infestation,Locust,0,0,0,0,1988-0234,--,--
+/07/2004,/07/2004,Niger (the),NER,South and Center,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+/09/1986,/09/1986,Nigeria,NGA,Northern regions,Insect infestation,Grasshopper,0,0,0,0,1986-0108,--,--
+/08/2004,/08/2004,Nigeria,NGA,"Sokoto, Zamfara, Kebbi",Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+/07/1993,/07/1993,Pakistan,PAK,"Tharparker, Nara, Cholistan desert",Insect infestation,--,0,0,0,0,1993-0575,--,--
+/06/2000,/06/2000,Peru,PER,"Cajamarca, Lambayeque",Insect infestation,Locust,0,0,0,0,2000-0403,--,--
+04/03/1975,04/03/1975,Philippines (the),PHL,Davao Del Sur and Norte,Insect infestation,--,0,0,925,0,1975-0081,--,--
+/07/1995,/07/1995,Philippines (the),PHL,Floridablanca Pampanga,Insect infestation,--,0,200,0,0,1995-0163,--,--
+/06/2001,/06/2001,Russian Federation (the),RUS,Dagestan,Insect infestation,Locust,0,0,0,0,2001-0352,--,--
+//1986,//1986,Senegal,SEN,Northern regions,Insect infestation,Grasshopper,0,0,0,0,1986-0012,--,--
+/01/1987,/01/1987,Senegal,SEN,,Insect infestation,Grasshopper,0,0,0,0,1987-0007,--,--
+//1988,//1988,Senegal,SEN,Countrywide,Insect infestation,Locust,0,0,0,0,1988-0016,--,--
+/04/1988,/04/1988,Senegal,SEN,"Northern, Eastern regions",Insect infestation,Locust,0,0,0,0,1988-0145,--,--
+/07/2004,/07/2004,Senegal,SEN,"Matam, Bakel departments (North)",Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+//1986,//1986,Sudan (the),SDN,,Insect infestation,--,0,0,0,0,1986-0007,--,--
+//1987,//1987,Sudan (the),SDN,"Central Northern Kordofan, Northern Darfur provinces",Insect infestation,--,0,0,0,0,1987-0006,--,--
+//1988,//1988,Sudan (the),SDN,"East Sudan, Red Sea province",Insect infestation,--,0,0,0,0,1988-0019,--,--
+/07/1988,/07/1988,Sudan (the),SDN,"Darfur province, Khartoum area",Insect infestation,Locust,0,0,0,0,1988-0287,--,--
+/07/2004,/07/2004,Sudan (the),SDN,Darfur region,Insect infestation,Locust,0,0,0,0,2004-0392,--,--
+09/06/1995,09/06/1995,Tajikistan,TJK,Southern region,Insect infestation,Locust,0,0,0,0,1995-0121,--,--
+//1986,//1986,"Tanzania, United Republic of",TZA,Western,Insect infestation,Locust,0,0,0,0,1986-0011,--,--
+/01/2006,/02/2006,"Tanzania, United Republic of",TZA,"Iringa, Dodoma, Singida, Manyara, Morogoro, Lindi (Central and Southern Tanzania",Insect infestation,--,0,0,0,0,2006-0722,--,--
+15/03/1988,15/03/1988,Tunisia,TUN,"Gafsa, Sfax Axis",Insect infestation,Locust,0,0,0,0,1988-0124,--,--
+/07/1988,/07/1988,Tunisia,TUN,,Insect infestation,Locust,0,0,0,0,1988-0284,--,--
+/09/1978,/09/1978,Viet Nam,VNM,,Insect infestation,--,0,0,0,0,1978-0244,--,--
+/07/1974,/07/1974,Yemen Arab Rep,YMN,,Insect infestation,--,0,0,0,0,1974-0032,--,--
+//1987,//1987,Yemen Arab Rep,YMN,Northern Tihama,Insect infestation,Locust,0,0,0,0,1987-0013,--,--
+16/03/1979,16/03/1979,Zambia,ZMB,,Insect infestation,Locust,0,0,0,0,1979-0246,--,--
+//1986,//1986,Zambia,ZMB,"Kafue Flats, North province",Insect infestation,Locust,0,0,0,0,1986-0014,--,--

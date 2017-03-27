@@ -1,0 +1,682 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
+28/07/1971,28/07/1971,Afghanistan,AFG,Khinjan Pass,Landslide,Landslide,100,0,0,0,1971-0044,--,--
+08/04/1987,08/04/1987,Afghanistan,AFG,,Landslide,Avalanche,70,0,0,0,1987-0385,--,--
+15/06/1993,15/06/1993,Afghanistan,AFG,"Chindawal district (Kabul), Badakhstan province",Landslide,Landslide,115,1000,0,0,1993-0169,--,--
+27/03/1995,27/03/1995,Afghanistan,AFG,"Kurluk Zir Kutal (Daraim district, Badakhshan Province)",Landslide,Landslide,354,174,0,0,1995-0050,--,--
+27/03/1997,27/03/1997,Afghanistan,AFG,"Mazar-E-Sharif (city) (Balkh, Hindu Kush)",Landslide,Avalanche,100,0,0,0,1997-0322,--,--
+27/03/1998,27/03/1998,Afghanistan,AFG,Salang - Salang Tunnel Level 1 = Baghlan,Landslide,Avalanche,70,0,0,0,1998-0437,--,--
+06/02/2002,06/02/2002,Afghanistan,AFG,Salang district (Parwan province),Landslide,Avalanche,5,400,0,0,2002-0088,--,--
+13/01/2006,13/01/2006,Afghanistan,AFG,"Ghuldori village (Kohestanat district, Sar-e-Pul province) ",Landslide,Landslide,13,300000,0,0,2006-0021,--,--
+31/01/2006,31/01/2006,Afghanistan,AFG,Kohestan district (Badakhshan province),Landslide,Avalanche,15,0,0,0,2006-0045,--,--
+18/01/2009,18/01/2009,Afghanistan,AFG,"Salang mountain pass (Hindu Kush mountains, Salang district, Parwan province)",Landslide,Avalanche,10,32,0,0,2009-0033,--,--
+06/02/2010,09/02/2010,Afghanistan,AFG,"Salang mountain pass (Hindu Kush mountains, Salang district, Parwan province)",Landslide,Avalanche,169,130,0,0,2010-0048,--,--
+02/03/2010,02/03/2010,Afghanistan,AFG,Arghanjkhwa district (Badakhshan province),Landslide,Avalanche,35,0,0,0,2010-0129,--,--
+18/01/2012,18/01/2012,Afghanistan,AFG,"Arghanjkhwa, Eshkmesh, Khwahan, Kohestan, Kofab, Raghestan, Shuhada, Shahr-e-Buzorg, Yaftal-e-Sufla, Yawan districts (Badakhshan province)",Landslide,Avalanche,29,40,0,0,2012-0013,--,--
+05/03/2012,05/03/2012,Afghanistan,AFG,Shaki district (Badakhshan province),Landslide,Avalanche,37,6,0,0,2012-0067,--,--
+12/03/2012,12/03/2012,Afghanistan,AFG,Nuristan province,Landslide,Avalanche,45,0,0,0,2012-0563,--,--
+10/09/2013,10/09/2013,Afghanistan,AFG,Zebak district (Badakhshan province),Landslide,Landslide,24,1000,0,0,2013-0414,--,--
+15/02/2015,27/02/2015,Afghanistan,AFG,"Laghman, Nangarhar, Panjsher, Badakhshan, Bamyan provinces",Landslide,Avalanche,254,32985,3000,0,2015-0054,"Slide (land, mud, sn",Flood
+21/02/2015,21/02/2015,Afghanistan,AFG,Raghestan district (Badakhshan province),Landslide,Avalanche,12,50,0,0,2015-0058,--,--
+15/02/2015,15/02/2015,Afghanistan,AFG,"Yamgan district
+",Landslide,Avalanche,6,100,0,0,2015-0059,--,--
+27/04/2015,02/05/2015,Afghanistan,AFG,"Geriy Bala village (Khwahan district, Badakhshan province), Abi Barik village (Argo district, Badakhshan province), Jawzjan, Faryab, Sar-e-Pul, Baghlan, Balkh provinces",Landslide,Landslide,52,500,0,0,2015-0151,Flood,--
+11/01/1985,11/01/1985,Albania,ALB,North,Landslide,Landslide,57,26,0,0,1985-0241,--,--
+25/12/1993,25/12/1993,Algeria,DZA,Oran,Landslide,Landslide,15,696,0,0,1993-0344,--,--
+09/10/2000,09/10/2000,Angola,AGO,"Chassuala village (Saurimo district, Lunda-Sul province)",Landslide,Landslide,13,0,0,0,2000-0657,--,--
+16/08/1965,16/08/1965,Argentina,ARG,"Mendoza, Las Cuevas",Landslide,Landslide,45,0,0,0,1965-0048,--,--
+/01/1984,/01/1984,Argentina,ARG,"Vescupio, Northeast, Northwestern provinces",Landslide,Landslide,30,12014,0,0,1984-0006,--,--
+09/02/2009,10/02/2009,Argentina,ARG,"Tartagal town (Genaral Jose de San Martin district, Salta Province)",Landslide,Landslide,4,20000,15000,0,2009-0041,--,--
+25/01/2014,25/01/2014,Argentina,ARG,"El Rodeo town (Ambato district, Catamarca province)",Landslide,--,24,350,0,0,2014-0021,--,--
+24/06/2016,24/06/2016,Armenia,ARM,"Karchaghbyur city (Vardanis district, Gegharqunik province), Artik city (Artik district, Shirak province)",Landslide,Landslide,0,750,0,0,2016-0482,--,--
+27/09/1996,27/09/1996,Australia,AUS,Gracetown,Landslide,Landslide,9,101,0,0,1996-0225,--,--
+31/07/1997,31/07/1997,Australia,AUS,Thredbo,Landslide,Landslide,19,0,0,0,1997-0153,--,--
+/12/1952,/12/1952,Austria,AUT,,Landslide,Landslide,28,0,0,0,1952-0034,--,--
+11/01/1954,11/01/1954,Austria,AUT,Dalaas,Landslide,Avalanche,10,0,0,0,1954-0003,--,--
+12/01/1954,12/01/1954,Austria,AUT,"Blons, Langen Valley",Landslide,Avalanche,200,380,0,0,1954-0004,--,--
+/04/1975,/04/1975,Austria,AUT,Alps,Landslide,Landslide,15,0,0,0,1975-0026,--,--
+/02/1982,/02/1982,Austria,AUT,Near Salzburg,Landslide,Avalanche,12,0,0,0,1982-0298,--,--
+09/02/1984,09/02/1984,Austria,AUT,Swiss border,Landslide,Avalanche,30,0,0,0,1984-0243,--,--
+24/02/1999,24/02/1999,Austria,AUT,"Galtuer, Valzur",Landslide,Avalanche,50,10000,41570,0,1999-0050,--,--
+28/03/2000,28/03/2000,Austria,AUT,"Kitzsteinhorn (Zell am See, Salzburg)",Landslide,Avalanche,13,0,0,0,2000-0155,--,--
+/12/2000,/12/2000,Azerbaijan,AZE,Dashkesan city (Dashkesan district; Ganja-Gazakh province),Landslide,Avalanche,11,0,0,0,2000-0834,--,--
+29/10/1997,02/11/1997,Azores Islands,AZO,"Ribeira Quente Village, Sao Miguel",Landslide,Landslide,29,55,16300,0,1997-0272,Flood,--
+16/08/2008,16/08/2008,Bangladesh,BGD,"Chittagong city (Chittagong district, Chittagong province)",Landslide,Landslide,13,50,0,0,2008-0568,--,--
+14/06/2010,15/06/2010,Bangladesh,BGD,"Cox's Bazar, Bandarban districts (Chittagong province)",Landslide,Landslide,66,55230,0,0,2010-0231,--,--
+04/07/2011,04/07/2011,Bangladesh,BGD,"Chittagong city (Chittagong district, Chittagong province)",Landslide,Landslide,17,0,0,0,2011-0586,--,--
+18/07/2015,18/07/2015,Bangladesh,BGD,"Lalkhan Bazar area (Chittagong district, Chittagong province)",Landslide,Landslide,7,1003,0,0,2015-0411,--,--
+08/12/1992,08/12/1992,Bolivia (Plurinational State of),BOL,"llipi (Tipuani, la Paz department)",Landslide,Landslide,49,600,400000,0,1992-0161,--,--
+/02/1994,/02/1994,Bolivia (Plurinational State of),BOL,"Caranari, Larecaja, Nor y Sud Yungas, J.M. Pando, Pacajes, Munecas, Villaroel, Camacho, Loayza (La Paz Dpt.), Chapare, Toraque, Carrasco, Campero, Ayopaya ( Cochabamba Dpt.)",Landslide,Landslide,0,165000,0,0,1994-0043,--,--
+09/04/1996,09/04/1996,Bolivia (Plurinational State of),BOL,Mount Cotahuma (La Paz),Landslide,Landslide,40,0,0,0,1996-0065,--,--
+11/02/1998,11/02/1998,Bolivia (Plurinational State of),BOL,Mocotoro,Landslide,Landslide,60,23,0,0,1998-0030,--,--
+31/03/2003,31/03/2003,Bolivia (Plurinational State of),BOL,"Chima town (Larecaja province, La Paz department)",Landslide,Landslide,69,1001,0,0,2003-0153,--,--
+26/02/2011,26/02/2011,Bolivia (Plurinational State of),BOL,"La Paz city (Murillo province, La Paz department)",Landslide,Landslide,0,4000,0,0,2011-0107,--,--
+23/09/2013,23/09/2013,Bolivia (Plurinational State of),BOL,"Caranavi town (Caranavi Province, La Paz department)",Landslide,--,19,29,0,0,2013-0383,--,--
+01/01/2014,28/02/2014,Bolivia (Plurinational State of),BOL,"Trinidad town (Cercado Province, Beni department), Rurrenabaque town (General Jose Ballivi province, Beni department); Cochabamba, La Paz, Chuquisaca, Oruro, Tarija, Santa Cruz, Potosi, Pando departments",Landslide,Landslide,74,11400,200000,0,2014-0035,--,--
+10/02/2000,10/02/2000,Bosnia and Herzegovina,BIH,"Velika Broda (Zenicko-dobojski district, Federacija Bosne I Hercegovine)",Landslide,Landslide,6,403,0,0,2000-0072,--,--
+/03/1956,/03/1956,Brazil,BRA,,Landslide,Landslide,30,0,0,0,1956-0030,--,--
+/03/1956,/03/1956,Brazil,BRA,,Landslide,Landslide,36,0,0,0,1956-0033,--,--
+11/01/1966,11/01/1966,Brazil,BRA,Rio de Janeiro,Landslide,Landslide,350,4000000,27,0,1966-0019,--,--
+19/03/1967,19/03/1967,Brazil,BRA,Rio de Janeiro,Landslide,Landslide,436,0,0,0,1967-0028,--,--
+/05/1974,/05/1974,Brazil,BRA,North East (Ceara),Landslide,Landslide,91,0,0,0,1974-0024,--,--
+23/10/1974,23/10/1974,Brazil,BRA,Sao Tome,Landslide,Landslide,30,0,0,0,1974-0053,--,--
+/12/1983,/12/1983,Brazil,BRA,,Landslide,Landslide,13,40,0,0,1983-0204,--,--
+20/05/1989,20/05/1989,Brazil,BRA,"Salvador, Santo Amaro Da Purificado (Central Bahia)",Landslide,Landslide,69,78000,0,0,1989-0157,--,--
+27/04/1989,27/04/1989,Brazil,BRA,Roraima,Landslide,Landslide,30,0,0,0,1989-0439,--,--
+24/06/1989,24/06/1989,Brazil,BRA,Santa Luzia,Landslide,Landslide,31,0,0,0,1989-0446,--,--
+10/01/1991,18/01/1991,Brazil,BRA,"Minas Gerais, Rio de Janeiro",Landslide,Landslide,24,600,0,0,1991-0478,--,--
+18/03/1992,20/03/1992,Brazil,BRA,"Barraguinha (Near Belo Horizonte, Minas Gerais state)",Landslide,Landslide,30,60,0,0,1992-0042,--,--
+07/02/1995,07/02/1995,Brazil,BRA,Sao Paulo,Landslide,Landslide,42,2000,0,0,1995-0028,--,--
+31/05/1995,31/05/1995,Brazil,BRA,Salvador,Landslide,Landslide,86,0,0,0,1995-0092,--,--
+20/02/1996,20/02/1996,Brazil,BRA,"Rio de Janeiro, Sao Paulo",Landslide,Landslide,96,4000,0,0,1996-0028,--,--
+21/04/1996,21/04/1996,Brazil,BRA,Salvador City,Landslide,Landslide,26,15,0,0,1996-0077,--,--
+29/04/1996,29/04/1996,Brazil,BRA,Recife city,Landslide,Landslide,49,3090,0,0,1996-0080,--,--
+21/05/1999,21/05/1999,Brazil,BRA,Salvador,Landslide,Landslide,25,9,0,0,1999-0190,--,--
+30/07/2000,17/08/2000,Brazil,BRA,"Alagoas, Pernambuco provinces",Landslide,Landslide,60,143000,75000,0,2000-0466,--,--
+09/12/2002,12/12/2002,Brazil,BRA,"Angra Dos Reis district, Rio de Janeiro province",Landslide,Landslide,74,1500,11000,0,2002-0824,Flood,--
+21/12/2002,21/12/2002,Brazil,BRA,Teresopolis district (Rio de Janeiro province),Landslide,Landslide,13,0,0,0,2002-0830,--,--
+10/01/2007,10/01/2007,Brazil,BRA,"Mirai, Muriae districts (Minas Gerais province)",Landslide,Landslide,0,5000,0,0,2007-0015,--,--
+31/12/2009,28/01/2010,Brazil,BRA,"Iiha Grande Island (Angra dos Reis district, Rio de Janeiro province), Juiz de Fora district (Minas Gerais province)",Landslide,Landslide,74,1000,145000,0,2009-0600,Flood,Rain
+27/04/2015,27/04/2015,Brazil,BRA,"Salvador city (Salvador district, Bahia state)
+",Landslide,Landslide,15,0,0,0,2015-0157,--,--
+17/12/1965,17/12/1965,Bulgaria,BGR,Rila mountains,Landslide,Landslide,11,0,0,0,1965-0070,--,--
+29/03/2015,29/03/2015,Burundi,BDI,"Rutunga river (Muhuta district, Bujumbura rural province)",Landslide,Landslide,11,2870,0,0,2015-0109,--,--
+20/07/2003,20/07/2003,Cameroon,CMR,"Wabane village (Lebialem district, Sud - Ouest province)",Landslide,Landslide,20,100,0,0,2003-0358,Flood,--
+/02/1965,/02/1965,Chile,CHL,,Landslide,Landslide,26,0,0,0,1965-0095,--,--
+24/10/1979,24/10/1979,Chile,CHL,Puerto Monte,Landslide,Landslide,30,0,0,0,1979-0247,--,--
+29/11/1987,29/11/1987,Chile,CHL,Near Los Maitenes,Landslide,Avalanche,32,30,0,0,1987-0217,--,--
+19/06/1991,19/06/1991,Chile,CHL,Antogagasta,Landslide,Landslide,141,82811,6000,0,1991-0249,--,--
+23/03/1934,23/03/1934,China,CHN,Canton,Landslide,Landslide,500,0,0,0,1934-0005,--,--
+/06/1982,/06/1982,China,CHN,"Jiangxi, Fujian provinces",Landslide,Landslide,75,0,0,0,1982-0069,--,--
+//1982,//1982,China,CHN,,Landslide,Landslide,19,0,0,0,1982-0401,--,--
+28/05/1984,28/05/1984,China,CHN,Dongchuan(Yunnan province),Landslide,Landslide,100,40,0,0,1984-0048,--,--
+/02/1985,/02/1985,China,CHN,Shaanxi province,Landslide,Landslide,60,0,0,0,1985-0026,--,--
+01/09/1987,01/09/1987,China,CHN,Sichuan province,Landslide,Landslide,65,119,0,0,1987-0150,--,--
+10/07/1988,10/07/1988,China,CHN,Sichuan province,Landslide,Landslide,35,51000,0,0,1988-0307,--,--
+15/07/1988,15/07/1988,China,CHN,Huashan region (Shaanxi province),Landslide,Landslide,17,1000,0,0,1988-0309,--,--
+06/10/1989,06/10/1989,China,CHN,Wenzhou (Zhejiang province),Landslide,Landslide,4,5370,0,0,1989-0417,--,--
+23/09/1991,23/09/1991,China,CHN,Yunnan province,Landslide,Landslide,200,0,0,0,1991-0226,--,--
+/07/1993,/07/1993,China,CHN,"Hunan, Sichuan provinces",Landslide,Landslide,120,0,0,0,1993-0190,--,--
+/07/1994,/07/1994,China,CHN,Yunnan,Landslide,Landslide,48,0,0,0,1994-0312,--,--
+09/10/1995,09/10/1995,China,CHN,Zhejiang,Landslide,Landslide,37,0,0,0,1995-0322,--,--
+24/03/1996,24/03/1996,China,CHN,"Bomi Region (Eastern Tibet, Sichuan province)",Landslide,Avalanche,56,554,0,0,1996-0063,--,--
+31/05/1996,31/05/1996,China,CHN,"Yunnan, Laojinshan",Landslide,Landslide,226,0,0,0,1996-0128,--,--
+06/06/1996,06/06/1996,China,CHN,"Laojinshan mountain, Yunnan province",Landslide,Landslide,226,77,0,0,1996-0138,--,--
+02/12/1996,02/12/1996,China,CHN,Guizhou Province,Landslide,Landslide,23,0,0,0,1996-0297,--,--
+09/06/1997,09/06/1997,China,CHN,Sichuan Prov.,Landslide,Landslide,110,1821,0,0,1997-0122,--,--
+15/07/1997,15/07/1997,China,CHN,"Sichuan, Xingwen Level 2 - Level 1 = Sichuan, Guizhou",Landslide,Landslide,79,30,0,0,1997-0345,--,--
+01/05/1998,26/05/1998,China,CHN,"Guangdong, Sichuan, Hunana, Fujian, Zhejiang, Hubei, Gansu, Guangxi Provinces",Landslide,Landslide,100,15,890000,0,1998-0171,--,--
+16/06/1999,16/06/1999,China,CHN,Sichuan,Landslide,Landslide,23,45,0,0,1999-0197,--,--
+05/06/2000,05/06/2000,China,CHN,"Sichuan Sheng, Guizhou Sheng provinces",Landslide,Landslide,71,2000,0,0,2000-0326,--,--
+13/08/2000,13/08/2000,China,CHN,"Yingjiang Xian area (Dehong Dai and Jingpo district, Yunnan Sheng province)",Landslide,Landslide,14,27,2400,0,2000-0559,--,--
+01/05/2001,01/05/2001,China,CHN,"Wulong Xiang area (Name Unknown district, Chongqing Shi province)",Landslide,Landslide,74,0,0,0,2001-0217,--,--
+02/07/2001,02/07/2001,China,CHN,Kunming district (Yunnan Sheng province),Landslide,Landslide,19,10307,60000,0,2001-0385,--,--
+01/08/2001,01/08/2001,China,CHN,", Caohezhang village (Benxi Shi area, Benxi district, Liaoning Sheng province), Yingkou Shi area (Name Unknown district, Liaoning Sheng province)",Landslide,Landslide,34,308,0,0,2001-0421,Collapse,--
+25/09/2001,25/09/2001,China,CHN,"Mingshan Xian area (Ya'an district, Sichuan Sheng province)",Landslide,Landslide,11,1000,0,0,2001-0540,--,--
+28/09/2001,28/09/2001,China,CHN,"Yongsheng Xian area(Lijiang district, Yunnan Sheng province)",Landslide,Landslide,14,10018,0,0,2001-0573,--,--
+28/07/2001,28/07/2001,China,CHN,"Zhenyuan Yi-Hani-Lahu Zizhi area (Pu'er district, Yunnan Sheng province)",Landslide,Landslide,16,0,0,0,2001-0768,--,--
+14/06/2002,14/06/2002,China,CHN,"Shantong village (Gele Shan town, Shapingba area, Name Unknown district, Chongqing Shi province)",Landslide,Landslide,10,0,0,0,2002-0361,--,--
+/08/2002,/08/2002,China,CHN,Yunnan Sheng province,Landslide,Landslide,16,0,0,0,2002-0508,--,--
+04/10/2002,04/10/2002,China,CHN,"Yichikou village (Wuding area, Chuxiong Yi district, Yunnan Sheng province)",Landslide,Landslide,15,11,0,0,2002-0640,--,--
+15/09/2002,15/09/2002,China,CHN,"Xianfeng Xian area (Enshi Tujia and Miao, Hubei Sheng province)",Landslide,Landslide,22,0,0,0,2002-0645,--,--
+11/05/2003,11/05/2003,China,CHN,"Sansui area (Quiandongnan Miao and Dong district, Guizhou Sheng province)",Landslide,Landslide,35,0,0,0,2003-0219,--,--
+26/08/2003,30/08/2003,China,CHN,"Ziyang Shi area (Ziyang district, Sichuan Sheng province), Danba area (Garze Tibetan district, Sichuan Sheng province), Shimian area (Ya'an district, Sichuan Sheng province)",Landslide,Landslide,17,0,0,0,2003-0441,Flood,--
+05/06/2004,05/06/2004,China,CHN,"Wansheng Qu area (Name Unknown district, Chongqing Shi province)",Landslide,Landslide,21,100,0,0,2004-0293,--,--
+/07/2006,/07/2006,China,CHN,Shanxi Sheng province,Landslide,Landslide,11,0,0,0,2006-0357,--,--
+20/11/2007,20/11/2007,China,CHN,"Badong area (Enshi Tujia and Miao district, Hubei Sheng province)",Landslide,Landslide,33,1,0,0,2007-0580,Transport accident,--
+14/03/2008,14/03/2008,China,CHN,"Huocheng area (Ili Kazakh district, Xinjiang Uygur Zizhiqu province)",Landslide,Avalanche,12,0,0,0,2008-0140,--,--
+13/06/2008,13/06/2008,China,CHN,Luliang district (Shanxi Sheng province),Landslide,Landslide,19,0,0,0,2008-0241,--,--
+08/09/2008,08/09/2008,China,CHN,"Taoshi village (Xiangfen area, Linfen district, Shanxi Sheng province)",Landslide,Landslide,277,35,0,0,2008-0398,--,--
+08/07/2008,08/07/2008,China,CHN,"Long En village (Liangshan Yi district, Sichuan Sheng province)",Landslide,Landslide,15,0,0,0,2008-0596,--,--
+05/06/2009,05/06/2009,China,CHN,Wulong Xian area (Chongqing Shi province),Landslide,Landslide,72,0,0,0,2009-0218,--,--
+14/07/2009,23/07/2009,China,CHN,"Kangding area (Garze Tibetan, Sichuan Sheng province), Beichuan area (Mianyang district, Sichuan Sheng province), Wenchuan area (Ngawa Tibetan and Quiang, Sichuan Sheng province), Qingchuan area (Guangyuan, Sichuan Sheng province)",Landslide,Landslide,54,10004,139000,0,2009-0284,--,--
+22/07/2009,22/07/2009,China,CHN,Jixi district (Heilongjiang Sheng province),Landslide,Landslide,23,0,0,0,2009-0285,--,--
+06/08/2009,06/08/2009,China,CHN,"Hanyuan Xian area (Ya'an district, Sichuan Sheng province)",Landslide,Landslide,31,18,0,0,2009-0313,--,--
+17/11/2009,17/11/2009,China,CHN,"Zhongyang Xiang area (Luliang district, Shanxi Sheng province)",Landslide,Landslide,23,0,0,0,2009-0500,--,--
+30/05/2010,03/06/2010,China,CHN,Guangxi Zhuangzu Zizhiqu province,Landslide,Landslide,52,2100000,0,0,2010-0216,--,--
+28/06/2010,28/06/2010,China,CHN,"Dazhai village (Guanling Bouyi-Miao Zizhixi area, Anshun district, Guizhou Sheng province)",Landslide,Landslide,99,0,0,0,2010-0262,--,--
+27/07/2010,27/07/2010,China,CHN,"Hanyuan Xian area (Ya'an district, Sichuan Sheng province)",Landslide,Landslide,21,0,0,0,2010-0354,--,--
+07/08/2010,08/08/2010,China,CHN,"Zhouqu Xian area (Gannan Tibetan district, Gansu Sheng province)",Landslide,Landslide,1765,47200,759000,3000,2010-0377,--,--
+14/08/2010,14/08/2010,China,CHN,"Wenchuan area (Ngawa Tibetan and Qiang district, Sichuan Sheng province)",Landslide,Landslide,32,500,0,0,2010-0394,--,--
+18/08/2010,18/08/2010,China,CHN,"Puladixiang village (Gongshan Dulong-Nu Zizhixia area, Nujiang Lisu district, Yunnan Sheng province)",Landslide,Landslide,92,0,0,0,2010-0411,--,--
+06/09/2010,06/09/2010,China,CHN,"Baoshan city (Baoshan district, Yunnan Sheng province)",Landslide,Landslide,48,0,0,0,2010-0464,--,--
+10/03/2010,10/03/2010,China,CHN,"Shuanghuyu village (Zizhou area, Yulin district, Shaanxi Sheng province)",Landslide,Landslide,28,135,0,0,2010-0682,--,--
+09/05/2011,09/05/2011,China,CHN,"Luojiang area (Deyang district, Sichuan Sheng province)",Landslide,Landslide,22,0,0,0,2011-0156,--,--
+05/07/2011,05/07/2011,China,CHN,"Lueyang area (Hanzhong district, Shaanxi Sheng province)",Landslide,Landslide,18,2,0,0,2011-0268,--,--
+05/10/2012,05/10/2012,China,CHN,"Zhenhe village (Yiliang area , Kunming district, Yunnan Sheng province)",Landslide,Landslide,19,0,0,0,2012-0455,--,--
+29/03/2013,29/03/2013,China,CHN,"Mozhugongka Xian area (Lhassa district, Xizang Zizhiqu province)",Landslide,Landslide,83,0,0,0,2013-0167,--,--
+10/07/2013,10/07/2013,China,CHN,"Zhongxing village (Dujiangyan Shi area, Chengdu district, Sichuan Sheng province)",Landslide,Landslide,17,0,0,0,2013-0245,--,--
+22/04/2013,22/04/2013,China,CHN,"Sinan area (Tongren district, Guizhou Sheng province)",Landslide,Landslide,11,2,0,0,2013-0565,--,--
+27/08/2014,27/08/2014,China,CHN,"Fuquan Shi area (Qiannan Buyei and Miao, Guizhou Sheng province)",Landslide,Landslide,8,407,0,0,2014-0337,--,--
+14/09/2014,14/09/2014,China,CHN,"Dazhou, Guang'an districts (Sichuan Sheng province), Chongqing Shi province",Landslide,--,10,0,0,0,2014-0572,--,--
+13/11/2015,13/11/2015,China,CHN,"Lindong village (Lishui district, Zhejiang Sheng province) ",Landslide,Landslide,38,300,0,0,2015-0510,--,--
+04/05/2016,11/05/2016,China,CHN,"Sanming district (Fujian Sheng province), Guangxi Zhuangzu Zizhiqu, Guangdong Sheng provinces",Landslide,Landslide,66,237600,820000,0,2016-0162,--,--
+01/07/2016,01/07/2016,China,CHN,"Pianpo village (Bijie district, Guizhou Sheng province)",Landslide,Landslide,22,7,0,0,2016-0250,--,--
+07/07/2016,07/07/2016,China,CHN,Kunlun mountain (Xinjiang Uygur Zizhiqu province),Landslide,Landslide,35,0,0,0,2016-0255,--,--
+05/11/1926,05/11/1926,Colombia,COL,Pereira,Landslide,Landslide,100,0,0,0,1926-0013,--,--
+12/07/1954,12/07/1954,Colombia,COL,Medellin,Landslide,Landslide,140,0,0,0,1954-0012,--,--
+/12/1954,/12/1954,Colombia,COL,,Landslide,Landslide,47,0,0,0,1954-0064,--,--
+27/11/1965,27/11/1965,Colombia,COL,Manizales,Landslide,Landslide,32,0,0,0,1965-0065,--,--
+/12/1971,/12/1971,Colombia,COL,,Landslide,Landslide,200,0,0,0,1971-0135,--,--
+26/01/1972,26/01/1972,Colombia,COL,San Josecito,Landslide,Landslide,70,0,0,0,1972-0018,--,--
+26/06/1973,26/06/1973,Colombia,COL,San Antonio De Prado,Landslide,Landslide,16,0,0,0,1973-0029,--,--
+28/06/1973,28/06/1973,Colombia,COL,Bogota,Landslide,Landslide,200,0,0,0,1973-0030,--,--
+28/06/1974,28/06/1974,Colombia,COL,Quebrada Blanca,Landslide,Landslide,300,1000,0,0,1974-0031,--,--
+29/09/1974,29/09/1974,Colombia,COL,Medellin,Landslide,Landslide,90,0,0,0,1974-0048,--,--
+02/05/1976,02/05/1976,Colombia,COL,Near Fresno,Landslide,Landslide,13,16,0,0,1976-0036,--,--
+09/05/1977,09/05/1977,Colombia,COL,Marizales,Landslide,Landslide,0,100,0,0,1977-0069,--,--
+/04/1981,/04/1981,Colombia,COL,Northern provinces,Landslide,Landslide,65,14000,0,0,1981-0043,--,--
+/01/1982,/01/1982,Colombia,COL,,Landslide,Landslide,30,0,0,0,1982-0383,--,--
+/05/1986,/05/1986,Colombia,COL,,Landslide,Landslide,26,0,0,0,1986-0247,--,--
+/06/1986,/06/1986,Colombia,COL,,Landslide,Landslide,35,0,0,0,1986-0248,--,--
+21/06/1986,21/06/1986,Colombia,COL,,Landslide,Landslide,200,0,0,0,1986-0292,--,--
+27/09/1987,27/09/1987,Colombia,COL,Villatina (Medellin),Landslide,Landslide,640,6436,0,0,1987-0167,--,--
+16/03/1987,16/03/1987,Colombia,COL,,Landslide,Landslide,13,0,0,0,1987-0554,--,--
+03/06/1991,07/06/1991,Colombia,COL,"Ciudad Bolivar, Frontino (Antioqua Department)",Landslide,Landslide,45,0,0,0,1991-0129,--,--
+17/07/1991,17/07/1991,Colombia,COL,Between Mocoa and Pasao,Landslide,Landslide,50,0,400,0,1991-0176,--,--
+07/08/1991,07/08/1991,Colombia,COL,"Norte Sant Cesar, Serrania del Perija",Landslide,Avalanche,10,117,0,0,1991-0326,--,--
+28/11/1993,28/11/1993,Colombia,COL,Caldas,Landslide,Landslide,10,157,0,0,1993-0491,--,--
+21/12/1993,21/12/1993,Colombia,COL,Caldas,Landslide,Landslide,10,924,0,0,1993-0492,--,--
+19/06/1995,19/06/1995,Colombia,COL,"Santa Rose de Cabal, Dosquebradas",Landslide,Landslide,17,0,0,0,1995-0122,--,--
+05/05/1996,05/05/1996,Colombia,COL,Danubio,Landslide,Landslide,5,110,0,0,1996-0084,--,--
+22/11/1998,22/11/1998,Colombia,COL,La Catorce,Landslide,Landslide,104,0,0,0,1998-0452,--,--
+09/04/1999,09/04/1999,Colombia,COL,"Cienaga, Choco, Cauca, Cordoba",Landslide,Landslide,25,3000,0,0,1999-0106,--,--
+25/12/1999,25/12/1999,Colombia,COL,Narino,Landslide,Landslide,22,400,0,0,1999-0612,--,--
+05/06/2001,05/06/2001,Colombia,COL,"La Fea town (Valdivia district, Antioquia province)",Landslide,Landslide,14,0,0,0,2001-0395,--,--
+22/11/2001,22/11/2001,Colombia,COL,Filadelfia district (Caldas province),Landslide,Landslide,80,32,0,0,2001-0637,--,--
+27/10/2002,29/10/2002,Colombia,COL,"El Dorado, Canonico, San Mateo towns (Montecristo district, Bolivar province)",Landslide,Landslide,70,2000,0,0,2002-0728,--,--
+19/03/2003,19/03/2003,Colombia,COL,Manizales district (Caldas province),Landslide,Landslide,35,779,0,0,2003-0138,--,--
+31/05/2008,31/05/2008,Colombia,COL,Medellin district (Antioquia province),Landslide,Landslide,27,16,0,0,2008-0218,--,--
+07/02/2009,07/02/2009,Colombia,COL,"Altos de Cazuca (Soacha district, Cundinamarca province)",Landslide,Landslide,0,593,0,0,2009-0096,--,--
+23/07/2009,23/07/2009,Colombia,COL,Novita district (Choco province),Landslide,Landslide,30,7,0,0,2009-0637,--,--
+27/09/2010,27/09/2010,Colombia,COL,Giraldo district (Antioquia province),Landslide,Landslide,30,0,0,0,2010-0502,--,--
+05/12/2010,05/12/2010,Colombia,COL,"Bello town (Medellin district, Antioquia province)",Landslide,Landslide,145,0,0,0,2010-0625,--,--
+04/11/2011,05/11/2011,Colombia,COL,Manizales district (Caldas province),Landslide,Landslide,40,175,0,0,2011-0431,--,--
+17/05/2015,18/05/2015,Colombia,COL,"Salgar city (Antioquia), Amazonas province",Landslide,Landslide,93,348,0,0,2015-0171,Flood,--
+08/03/1968,08/03/1968,Congo (the Democratic Republic of the),COD,Mandwe (Kivu province),Landslide,Landslide,154,768,0,0,1968-0035,--,--
+28/03/1989,28/03/1989,Congo (the Democratic Republic of the),COD,South-Kivu,Landslide,Landslide,0,148,0,0,1989-0175,--,--
+25/12/2001,25/12/2001,Congo (the Democratic Republic of the),COD,Nord-Kivu province,Landslide,Landslide,12,0,0,0,2001-0709,--,--
+16/05/2010,16/05/2010,Congo (the Democratic Republic of the),COD,Nord-Kivu province,Landslide,Landslide,46,1167,0,0,2010-0199,--,--
+18/01/2014,19/01/2014,Congo (the Democratic Republic of the),COD,Bukavu district (Sud-Kivu province),Landslide,Landslide,11,0,0,0,2014-0028,--,--
+/08/1967,/08/1967,Congo (the),COG,Kivu province,Landslide,Landslide,154,668,0,0,1967-0082,--,--
+27/06/2000,27/06/2000,Costa Rica,CRI,"Miramar de Puntarenas town (Montes de Oro district, Puntarenas province)",Landslide,Landslide,7,200,0,0,2000-0374,--,--
+11/06/2009,12/06/2009,Côte dIvoire,CIV,"Attecoube, Yopugon boroughs (Abidjan district, District autonome de Abidjan province)",Landslide,Landslide,27,10006,0,0,2009-0223,--,--
+21/01/1974,21/01/1974,Czechoslovakia,CSK,Tatra montains,Landslide,Avalanche,14,0,0,0,1974-0009,--,--
+14/02/1985,14/02/1985,Czechoslovakia,CSK,Tatra Mountain,Landslide,Avalanche,10,0,0,0,1985-0248,--,--
+14/02/1931,14/02/1931,Ecuador,ECU,Huigra,Landslide,Landslide,190,0,0,0,1931-0005,--,--
+15/05/1966,15/05/1966,Ecuador,ECU,Quito-Santo Domingo road,Landslide,Landslide,50,0,0,0,1966-0043,--,--
+09/03/1971,09/03/1971,Ecuador,ECU,Quito,Landslide,Landslide,20,6,0,0,1971-0019,--,--
+/04/1973,/04/1973,Ecuador,ECU,,Landslide,Landslide,25,0,0,0,1973-0126,--,--
+11/02/1976,11/02/1976,Ecuador,ECU,Esmeraldas,Landslide,Landslide,60,0,0,0,1976-0025,--,--
+27/04/1983,27/04/1983,Ecuador,ECU,Chimborazo,Landslide,Landslide,100,0,0,0,1983-0073,--,--
+03/04/1987,03/04/1987,Ecuador,ECU,Cochancay,Landslide,Landslide,100,6000,0,0,1987-0082,--,--
+09/05/1993,09/05/1993,Ecuador,ECU,Ambija (Zamora province),Landslide,Landslide,250,45,0,0,1993-0013,--,--
+28/03/1993,03/04/1993,Ecuador,ECU,"Azuay, Canar provinces",Landslide,Landslide,200,75020,500000,15000,1993-0014,--,--
+10/11/1993,10/11/1993,Ecuador,ECU,Chimborazo,Landslide,Avalanche,10,0,0,0,1993-0586,--,--
+12/04/2000,12/04/2000,Ecuador,ECU,Quito district (Pichincha province),Landslide,Landslide,14,205,0,0,2000-0206,--,--
+14/10/2000,14/10/2000,Ecuador,ECU,"Penipe, Guano districts (Chimborazo province)",Landslide,Landslide,30,180,0,0,2000-0724,--,--
+/07/2011,/07/2011,Ecuador,ECU,"Lafama (Sucumbios district, Sucumbios province)",Landslide,Landslide,7,150,0,0,2011-0278,--,--
+24/01/2013,24/01/2013,Ecuador,ECU,"Pueblo Nuevo community (Camillo Ponce Enriquez district, Azuay province)",Landslide,Landslide,10,0,0,0,2013-0014,--,--
+23/04/2013,23/04/2013,Ecuador,ECU,"Tabete (Esmeraldas district, Esmeraldas province)",Landslide,Landslide,14,0,0,0,2013-0120,--,--
+14/06/1988,14/06/1988,El Salvador,SLV,Agua Escondida,Landslide,Landslide,22,0,0,0,1988-0265,--,--
+15/06/1993,15/06/1993,El Salvador,SLV,Santa Tecla,Landslide,Avalanche,22,0,0,0,1993-0334,--,--
+/12/1994,/12/1994,Ethiopia,ETH,,Landslide,Landslide,22,29,0,0,1994-0603,--,--
+04/07/2000,04/07/2000,Ethiopia,ETH,"Offa area (Wolayita district, SNNPR province)",Landslide,Landslide,4,165,0,0,2000-0524,--,--
+24/11/1926,24/11/1926,France,FRA,Roquebillière (Alpes-Maritimes),Landslide,Landslide,28,0,0,0,1926-0020,--,--
+13/11/1930,13/11/1930,France,FRA,"Lyon (Rhone) - Colline des Balmes, quartier Saint-Jean",Landslide,Landslide,40,0,0,0,1930-0027,--,--
+08/05/1932,08/05/1932,France,FRA,"Lyon (Rhone), cours d'Herbouville",Landslide,Landslide,30,0,0,0,1932-0013,--,--
+01/06/1961,01/06/1961,France,FRA,Clamart (Hauts-de-Seine),Landslide,Landslide,21,0,0,0,1961-0058,--,--
+16/04/1970,16/04/1970,France,FRA,"Plateau d'Assy, St Gervais (Haute-savoie), sanatorium Praz-coutant",Landslide,Avalanche,72,0,0,0,1970-0027,--,--
+05/12/1982,05/12/1982,France,FRA,Val d'Isere,Landslide,Avalanche,3,0,0,0,1982-0305,--,--
+09/07/1983,09/07/1983,France,FRA,Chamonix,Landslide,Avalanche,5,5,0,0,1983-0344,--,--
+15/02/1990,17/02/1990,France,FRA,"Tignes, Val d'Isere",Landslide,Avalanche,14,0,0,0,1990-0004,--,--
+24/01/1998,24/01/1998,France,FRA,Alps,Landslide,Avalanche,9,21,0,0,1998-0038,--,--
+09/02/1999,09/02/1999,France,FRA,Hameaux de Montroc et Du Tour,Landslide,Avalanche,11,260,10790,0,1999-0052,--,--
+19/04/2000,19/04/2000,French Guiana,GUF,Remire (Montjoly) district (Cayenne province),Landslide,Landslide,10,5,0,0,2000-0216,--,--
+17/04/1987,17/04/1987,French Polynesia,PYF,Huahine (Tahiti),Landslide,Landslide,10,0,0,0,1987-0569,--,--
+25/04/1998,25/04/1998,French Polynesia,PYF,Raiatea and Tahaa Is.,Landslide,Landslide,13,11,0,0,1998-0116,--,--
+22/12/1998,22/12/1998,French Polynesia,PYF,Tahiti,Landslide,Landslide,0,500,0,0,1998-0427,--,--
+09/01/1999,26/02/1999,Germany,DEU,,Landslide,Avalanche,5,0,6230,0,1999-0050,--,--
+26/08/1998,26/08/1998,Guatemala,GTM,"Chujuyu, Las Graditas, Pachoj",Landslide,Landslide,51,8,0,0,1998-0275,--,--
+13/09/2002,13/09/2002,Guatemala,GTM,"San Lucas Toliman, Solola districts (Solola province)",Landslide,Landslide,68,474,0,0,2002-0583,--,--
+23/04/2003,23/04/2003,Guatemala,GTM,"Cerro Cocol hill (San Pedro Sacate??quez district, San Marcos province)",Landslide,Landslide,22,220,0,0,2003-0191,--,--
+15/06/2005,16/06/2005,Guatemala,GTM,"El Calvario hill (Senahu district, Alta Verapaz province)",Landslide,Landslide,63,1535,0,0,2005-0319,--,--
+12/07/2005,13/07/2005,Guatemala,GTM,"Guatemala city (Guatemala district, Guatemala province)",Landslide,Landslide,7,1000,0,0,2005-0368,--,--
+20/06/2008,20/06/2008,Guatemala,GTM,"Guatemala city (Guatemala district, Guatemala province)",Landslide,Landslide,27,0,0,0,2008-0247,--,--
+04/09/2010,04/09/2010,Guatemala,GTM,"Chimaltenango, Quezaltenango, Escuintla, Retalhuleu, Suchitepequez, Solola, Totonicapan provinces",Landslide,Landslide,53,50696,500000,0,2010-0459,--,--
+20/09/2011,22/09/2011,Guatemala,GTM,"Manantial hill (Santa Cruz Barillas municipality, Barillas district, Huehuetenango province)",Landslide,Landslide,16,0,0,0,2011-0366,--,--
+01/10/2015,01/10/2015,Guatemala,GTM,"El Cambray III village (Santa Catarina Pinula district, Guatemala province)",Landslide,Landslide,350,1112,5000,0,2015-0444,--,--
+06/09/2016,07/09/2016,Guatemala,GTM,Villa Nueva,Landslide,Landslide,10,46,0,0,2016-0318,--,--
+06/09/2015,07/09/2015,Guinea,GIN,"Kolon Kola area (Boffa district, Boke province)",Landslide,Landslide,7,492,0,0,2015-0428,--,--
+22/10/1954,22/10/1954,Haiti,HTI,Berly,Landslide,Landslide,262,0,0,0,1954-0024,--,--
+16/10/1989,16/10/1989,Haiti,HTI,Port-Au-Prince,Landslide,Landslide,0,1060,0,0,1989-0217,--,--
+20/09/1973,20/09/1973,Honduras,HND,Cholima,Landslide,Landslide,2800,0,0,0,1973-0039,--,--
+//1966,//1966,Hong Kong,HKG,,Landslide,Landslide,64,0,0,0,1966-0010,--,--
+12/06/1968,12/06/1968,Hong Kong,HKG,,Landslide,Landslide,22,107,0,0,1968-0112,--,--
+18/06/1972,18/06/1972,Hong Kong,HKG,"Kwungton, Victoria",Landslide,Landslide,100,1000,0,0,1972-0038,--,--
+11/06/1979,11/06/1979,Hong Kong,HKG, Wong Tai Sin,Landslide,Landslide,0,200,0,0,1979-0206,--,--
+28/05/1982,28/05/1982,Hong Kong,HKG," Kwun Tong, Sai Kung, Yuen Long",Landslide,Landslide,25,2915,0,0,1982-0276,--,--
+16/06/1993,16/06/1993,Hong Kong,HKG,,Landslide,Landslide,1,65,790,0,1993-0172,--,--
+20/12/1974,20/12/1974,Iceland,ISL,Neskaupstadhur,Landslide,Landslide,12,0,0,0,1974-0060,--,--
+25/01/1983,25/01/1983,Iceland,ISL,,Landslide,Avalanche,4,0,0,0,1983-0360,--,--
+16/01/1995,16/01/1995,Iceland,ISL,Sudavik,Landslide,Avalanche,14,45,2429,0,1995-0024,--,--
+26/10/1995,26/10/1995,Iceland,ISL,Flateyri,Landslide,Avalanche,20,38,3360,0,1995-0259,--,--
+18/09/1948,18/09/1948,India,IND,Assam,Landslide,Landslide,500,0,0,0,1948-0008,--,--
+/02/1954,/02/1954,India,IND,,Landslide,Landslide,30,0,0,0,1954-0043,--,--
+/10/1956,/10/1956,India,IND,,Landslide,Landslide,27,0,0,0,1956-0047,--,--
+/06/1958,/06/1958,India,IND,,Landslide,Landslide,52,0,0,0,1958-0033,--,--
+01/10/1968,01/10/1968,India,IND,"Bihar, Bengal",Landslide,Landslide,1000,0,0,0,1968-0074,--,--
+05/11/1978,05/11/1978,India,IND, Northeastern,Landslide,Landslide,64,0,0,0,1978-0130,--,--
+/03/1979,/03/1979,India,IND,"Lahaul, Pangi",Landslide,Landslide,230,5000,0,0,1979-0030,--,--
+19/08/1979,19/08/1979,India,IND,Uttar Pradesh,Landslide,Landslide,42,112,0,0,1979-0079,--,--
+25/06/1980,25/06/1980,India,IND,Uttar Pradesh,Landslide,Landslide,150,0,0,0,1980-0055,--,--
+/09/1983,/09/1983,India,IND,Sikkim,Landslide,Landslide,67,0,0,0,1983-0117,--,--
+16/11/1986,16/11/1986,India,IND,Jammu and Kashmir State,Landslide,Avalanche,65,200,0,0,1986-0134,--,--
+/07/1986,/07/1986,India,IND,"Uttar Pradesh, Himachal Pradesh",Landslide,Landslide,88,2500000,0,0,1986-0294,--,--
+15/03/1988,15/03/1988,India,IND,"Jammu and Kashmir, Ladakh",Landslide,Avalanche,250,0,0,0,1988-0125,--,--
+/07/1988,/07/1988,India,IND,"Uttar Pradesh, Haryana, Himachal Pradesh, Pendjab states",Landslide,Landslide,255,0,0,0,1988-0293,--,--
+07/06/1989,07/06/1989,India,IND,,Landslide,Landslide,41,0,0,0,1989-0365,--,--
+16/09/1990,16/09/1990,India,IND,Sikkim,Landslide,Landslide,30,0,0,0,1990-0406,--,--
+09/08/1992,09/08/1992,India,IND,Aizawl (Mizoram state),Landslide,Landslide,60,0,0,0,1992-0332,--,--
+23/09/1993,23/09/1993,India,IND,Bombay,Landslide,Landslide,20,25,0,0,1993-0208,--,--
+16/01/1995,16/01/1995,India,IND,Kashmir province,Landslide,Avalanche,200,5250,0,0,1995-0006,--,--
+03/06/1995,03/06/1995,India,IND,Mizoram State,Landslide,Landslide,40,14285,4500,0,1995-0118,--,--
+12/09/1995,12/09/1995,India,IND,Kulla (Himachal Pradesh),Landslide,Landslide,400,1100000,0,0,1995-0202,--,--
+30/09/1996,30/09/1996,India,IND,"Karnataka, Andhra Pradesh, Maharashtra",Landslide,Landslide,48,0,0,0,1996-0208,--,--
+09/06/1997,09/06/1997,India,IND,Gangtok (city) Level 1 = Sikkim,Landslide,Landslide,28,30,0,0,1997-0124,--,--
+06/08/1997,06/08/1997,India,IND,Darjeeling Hills Level 1 = West Bengal,Landslide,Landslide,23,2000,0,0,1997-0165,--,--
+05/03/1998,05/03/1998,India,IND,Himachal Pradesh,Landslide,Landslide,26,0,0,0,1998-0061,--,--
+03/06/1998,03/06/1998,India,IND,Assam,Landslide,Landslide,48,150,0,0,1998-0178,--,--
+17/08/1998,17/08/1998,India,IND,"Malpa village (Pithoragrah district, Uttar Pradesh state)",Landslide,Landslide,239,200000,0,0,1998-0253,--,--
+19/08/1998,19/08/1998,India,IND,Mansuna village (Uttar Pradesh state),Landslide,Landslide,37,0,0,0,1998-0262,--,--
+31/03/1998,31/03/1998,India,IND,Sikkim,Landslide,Avalanche,24,6,0,0,1998-0439,--,--
+/06/2000,/06/2000,India,IND,"Moradabad, Bijnor districts (Uttar Pradesh province), Uttarakhand province",Landslide,Landslide,43,0,0,0,2000-0358,--,--
+12/07/2000,12/07/2000,India,IND,"Ghatkopar village (Mumbai Suburban district, Maharashtra province)",Landslide,Landslide,58,7038,0,0,2000-0415,--,--
+11/08/2000,11/08/2000,India,IND,"Pithoragarh, Naini Tal districts (Uttarakhand province)",Landslide,Landslide,86,0,0,0,2000-0498,--,--
+16/07/2001,16/07/2001,India,IND,Rudra Prayag district (Uttarakhand province),Landslide,Landslide,27,0,0,0,2001-0414,--,--
+14/08/2001,14/08/2001,India,IND,Chamba district (Himachal Pradesh province),Landslide,Landslide,16,0,0,0,2001-0501,--,--
+09/11/2001,09/11/2001,India,IND,"Amboori village (Thiruvananthapuram district, Kerala province)",Landslide,Landslide,55,0,0,0,2001-0618,--,--
+03/03/2003,03/03/2003,India,IND,Administrative unit not available district (Jammu and Kashmir province),Landslide,Avalanche,25,0,0,0,2003-0151,--,--
+15/02/2005,21/02/2005,India,IND,Administrative unit not available districts (Jammu and Kashmir province),Landslide,Avalanche,250,5000,50000,0,2005-0090,--,--
+24/08/2005,25/08/2005,India,IND,"Guwahati city (Kamrup district, Assam province)",Landslide,Landslide,12,20,0,0,2005-0457,--,--
+08/02/2008,08/02/2008,India,IND,Administrative unit not available districts (Jammu and Kashmir province),Landslide,Landslide,37,0,0,0,2008-0062,--,--
+08/08/2009,08/08/2009,India,IND,Pithoragarh district (Uttarakhand province),Landslide,Landslide,45,0,0,0,2009-0315,--,--
+03/09/2009,03/09/2009,India,IND,"Lal, Bahadur, Shastri, Nagar slums (Mumbai Suburban district, Maharashtra province)",Landslide,Landslide,10,0,0,0,2009-0383,--,--
+08/02/2010,08/02/2010,India,IND,Administrative unit not available district (Jammu and Kashmir province),Landslide,Avalanche,17,0,0,0,2010-0052,--,--
+30/07/2014,30/07/2014,India,IND,"Malin village (Pune district, Maharashtra province)",Landslide,Landslide,151,200,0,0,2014-0270,--,--
+02/06/2015,29/06/2015,India,IND,"Barpeta, Sonitpur, Goalpara, Dhemaji, Lakhimpur, Tinsukia, Darrang, Nalbari, Jorhat, Kamrup, Dibrugarh, Nagaon, Bongaigaon districts (Assam province)
+
+",Landslide,Landslide,3,9000,0,0,2015-0226,--,--
+03/02/2016,03/02/2016,India,IND,Jammu and Kashmir (Administrative unit not available) (Siachen glacier) ,Landslide,Avalanche,10,0,0,0,2016-0049,--,--
+22/05/2016,22/05/2016,India,IND,Uttarakhand province,Landslide,Landslide,10,5,0,0,2016-0195,--,--
+/04/1955,/04/1955,Indonesia,IDN,,Landslide,Landslide,405,0,0,0,1955-0040,--,--
+29/05/1979,29/05/1979,Indonesia,IDN,Ciherang,Landslide,Landslide,23,6,0,0,1979-0262,--,--
+/12/1980,/12/1980,Indonesia,IDN,Talaga,Landslide,Landslide,100,3010,0,0,1980-0105,--,--
+06/11/1981,06/11/1981,Indonesia,IDN,Jogjakarta,Landslide,Landslide,0,6000,0,0,1981-0096,--,--
+10/01/1982,10/01/1982,Indonesia,IDN,North Sumatra,Landslide,Landslide,50,0,0,0,1982-0023,--,--
+/06/1982,/06/1982,Indonesia,IDN,South Sumatra,Landslide,Landslide,225,3000,0,0,1982-0067,--,--
+//1983,//1983,Indonesia,IDN,,Landslide,Landslide,21,0,0,0,1983-0524,--,--
+06/02/1988,06/02/1988,Indonesia,IDN,Java,Landslide,Landslide,43,0,0,0,1988-0080,--,--
+16/01/1989,16/01/1989,Indonesia,IDN,"Solok, Sawahlunto Sijunjung (Riau province, West Sumatra)",Landslide,Landslide,6,11601,341,0,1989-0026,--,--
+16/01/1991,16/01/1991,Indonesia,IDN,Java,Landslide,Landslide,33,0,0,0,1991-0010,--,--
+08/10/1992,08/10/1992,Indonesia,IDN,"Tasikmalaya, Ciamis, Garut districts (West Java)",Landslide,Landslide,75,37000,5400,0,1992-0148,--,--
+03/10/1996,03/10/1996,Indonesia,IDN,Batam Isl.,Landslide,Landslide,23,4,0,0,1996-0222,--,--
+07/01/1999,07/01/1999,Indonesia,IDN,Bali Isl.,Landslide,Landslide,33,2,0,0,1999-0007,--,--
+09/12/1999,09/12/1999,Indonesia,IDN,Dberang Pallinggam (Sumatra),Landslide,Landslide,56,0,0,0,1999-0589,--,--
+22/02/2000,24/02/2000,Indonesia,IDN,Brebes district (Jawa Tengah province),Landslide,Landslide,34,0,11600,0,2000-0082,--,--
+24/06/2000,24/06/2000,Indonesia,IDN,"Banggai city (Banggai Kepulauan district, Sulawesi Tengah province)",Landslide,Landslide,0,520,0,0,2000-0469,--,--
+29/10/2000,01/11/2000,Indonesia,IDN,"Cilacap, Banyumas districts (Jawa Tengah province)",Landslide,Landslide,40,56210,43000,0,2000-0701,--,--
+05/11/2000,07/11/2000,Indonesia,IDN,"Purworejo, Purbalingga, Kebumen districts (Jawa Tengah province)",Landslide,Landslide,52,19,0,0,2000-0721,--,--
+08/02/2001,12/02/2001,Indonesia,IDN,"Cipanas village (Lebak district, Banten province)",Landslide,Landslide,122,23000,10000,0,2001-0041,--,--
+22/01/2001,22/01/2001,Indonesia,IDN,"Sangihe chains (Kepulauan-sangihe district, Sulawesi Utara province)",Landslide,Landslide,63,0,0,0,2001-0046,--,--
+30/10/2001,30/10/2001,Indonesia,IDN,"Seling village (Kebumen district, Jawa Tengah province)",Landslide,Landslide,0,310,0,0,2001-0651,--,--
+23/10/2001,23/10/2001,Indonesia,IDN,"Ayah area (Kebumen district, Jawa Tengah province)",Landslide,Landslide,0,600,0,0,2001-0652,--,--
+11/12/2002,11/12/2002,Indonesia,IDN,"Pacet village (Mojokerto district, Jawa Timur province)",Landslide,Landslide,32,5,0,0,2002-0769,--,--
+29/01/2003,29/01/2003,Indonesia,IDN,"Nenggeng, Budi Aten, Bojong Jambu villages (Kadungora area, Garut district, Jawa Barat province)",Landslide,Landslide,21,1760,0,0,2003-0053,--,--
+31/01/2003,31/01/2003,Indonesia,IDN,"Cantilan village (Kuningan district, Jawa Barat province)",Landslide,Landslide,10,20,0,0,2003-0060,--,--
+18/03/2003,18/03/2003,Indonesia,IDN,"Makale, Sa'dan Balusu areas (Tanatoraja district, Sulawesi Selatan province)",Landslide,Landslide,12,0,0,0,2003-0144,--,--
+31/03/2003,02/04/2003,Indonesia,IDN,"Ende, Sikka, Kupang, Flores Timur districts (Nusatenggara Timur province)",Landslide,Landslide,76,229548,3961,0,2003-0155,Flood,--
+23/01/2004,30/01/2004,Indonesia,IDN,"Purworejo, Loano, Bagelen villages (Purworejo district, Jawa Tengah province)",Landslide,Landslide,29,0,3500,0,2004-0061,Flood,--
+27/03/2004,27/03/2004,Indonesia,IDN,"Manimbahoi sub-district (Gowa district, Sulawesi Selatan province)",Landslide,Landslide,33,5000,0,0,2004-0129,--,--
+22/04/2004,22/04/2004,Indonesia,IDN,"Bandung city (Bandung district, Jawa Barat province)",Landslide,Landslide,13,7,0,0,2004-0173,--,--
+23/04/2004,23/04/2004,Indonesia,IDN,Kota Pasaman district (Sumatera Barat province),Landslide,Landslide,44,11,0,0,2004-0177,Transport accident,--
+21/02/2005,21/02/2005,Indonesia,IDN,Bandung district (Jawa Barat province),Landslide,Landslide,143,0,5000,0,2005-0089,--,--
+02/09/2005,02/09/2005,Indonesia,IDN,Kota Padang district (Sumatera Barat province),Landslide,Landslide,25,10,0,0,2005-0487,--,--
+01/01/2006,04/01/2006,Indonesia,IDN,"Sijeruk village (Banjarnegara district, Jawa Tengah province)",Landslide,Landslide,156,8313,27000,0,2006-0007,--,--
+22/01/2006,27/01/2006,Indonesia,IDN,"Lombok Barat, Lombok Tengah, Lombok Timur, Kota Mataram districts (Nusatenggara Barat province), Belu, Timor Tengah Selatan, Timor Tengah Utara, Kupang, Rotendao, Kota Kupang districts (Nusatenggara Timur province), Bali province",Landslide,Landslide,11,3000,10943,0,2006-0069,--,--
+15/12/2006,15/12/2006,Indonesia,IDN,Solok district (Sumatera Barat province),Landslide,Landslide,17,0,0,0,2006-0668,--,--
+09/01/2007,09/01/2007,Indonesia,IDN,Padangpariaman district (Sumatera Barat province),Landslide,Landslide,11,0,0,0,2007-0011,--,--
+12/01/2007,14/01/2007,Indonesia,IDN,"Tahuna, Dumuhung, Soa Taloara villages (Kepulauan-sangihe district, Sulawesi Utara province)",Landslide,Landslide,32,3990,0,0,2007-0016,Flood,--
+05/05/2008,05/05/2008,Indonesia,IDN,"Puncakjaya, Mimika districts (Papua province)",Landslide,Landslide,21,0,0,0,2008-0189,--,--
+18/01/2009,18/01/2009,Indonesia,IDN,"Buwun Mas village (Central Sekotong sub-district, Lombok Barat, Nusatenggara Barat province)",Landslide,Landslide,15,5,0,0,2009-0049,--,--
+08/11/2009,08/11/2009,Indonesia,IDN,Kota Palopo district (Sulawesi Selatan province),Landslide,Landslide,14,0,0,0,2009-0480,--,--
+12/10/2010,12/10/2010,Indonesia,IDN,Sulawesi Tengah province,Landslide,Landslide,13,18,0,0,2010-0533,--,--
+06/05/2011,06/05/2011,Indonesia,IDN,Garut district (Jawa Barat province),Landslide,Landslide,19,4,0,0,2011-0153,--,--
+30/11/2011,30/11/2011,Indonesia,IDN,Nias district (Sumatera Utara province),Landslide,Landslide,34,0,0,0,2011-0493,--,--
+24/05/2012,27/05/2012,Indonesia,IDN,"Kel Karang Panjang, Kel Kudamati villages (Kota Ambon district, Malaku province)",Landslide,Landslide,20,215,0,0,2012-0249,--,--
+24/05/2012,24/05/2012,Indonesia,IDN,"Pangradin village (Jasinga sub-district, Bogor district, West Java province)",Landslide,Landslide,12,0,0,0,2012-0250,--,--
+25/01/2013,27/01/2013,Indonesia,IDN,"Agam district (Sumatera Barat province), Kerinci district (Jambi province)",Landslide,Landslide,21,3,0,0,2013-0022,--,--
+25/03/2013,25/03/2013,Indonesia,IDN,"Cililin village (Bandung district, Jawa Barat province)",Landslide,Landslide,13,0,0,0,2013-0086,--,--
+28/01/2014,28/01/2014,Indonesia,IDN,Jombang district (Jawa Timur province),Landslide,Landslide,19,0,0,0,2014-0034,--,--
+12/12/2014,20/12/2014,Indonesia,IDN,"Sampang village (Jemblung area, Banjarnegara district, Jawa Tengah province)",Landslide,Landslide,108,3900,0,0,2014-0483,--,--
+28/03/2015,28/03/2015,Indonesia,IDN,"Cimerak hamlet (Tegalpanjang village, Sukabumi district, Jawa Barat province)",Landslide,Rockfall,12,55,0,0,2015-0112,--,--
+06/05/2015,06/05/2015,Indonesia,IDN,"Banten, Daerah Istimewa Yogyakarta, Jawa Barat, Jawa Tengah, Jawa Timur provinces",Landslide,Landslide,13,0,0,0,2015-0181,--,--
+03/12/2015,03/12/2015,Indonesia,IDN,"Lebong Tandai (Bengkulu Utara district, Bengkulu province)",Landslide,Landslide,20,105,0,0,2015-0524,--,--
+15/05/2016,15/05/2016,Indonesia,IDN,"Sibolangit (Deli Serdang district, Sumatera Utara province, Sumatra Isl.)",Landslide,Landslide,15,0,0,0,2016-0156,--,--
+17/06/2016,21/06/2016,Indonesia,IDN,"Banjarnegara district (Jawa Tengah province, Java Isl.), Sumatera Barat, Sumatera Selatan, Sumatera Utara provinces",Landslide,Landslide,62,0,25000,0,2016-0216,--,--
+27/01/1970,27/01/1970,Iran (Islamic Republic of),IRN,North East of Teheran,Landslide,Landslide,43,100,0,0,1970-0014,--,--
+16/02/1990,16/02/1990,Iran (Islamic Republic of),IRN,Near Sar Dasht,Landslide,Avalanche,21,0,0,0,1990-0321,--,--
+14/01/1998,14/01/1998,Iran (Islamic Republic of),IRN,Northern Iran (no better info),Landslide,Avalanche,32,40,0,0,1998-0012,--,--
+26/02/2003,26/02/2003,Iran (Islamic Republic of),IRN,"Chalus district (Mazandaran province), Karaj district (Tehran provinces)",Landslide,Avalanche,20,4,0,0,2003-0787,--,--
+30/12/1970,30/12/1970,Israel,ISR,Neot Hakikar,Landslide,Landslide,20,13,0,0,1970-0071,--,--
+11/02/1922,11/02/1922,Italy,ITA,Sicily,Landslide,Landslide,100,0,0,0,1922-0002,--,--
+/11/1948,/11/1948,Italy,ITA,,Landslide,Landslide,25,0,0,0,1948-0026,--,--
+25/10/1954,25/10/1954,Italy,ITA,Salerno,Landslide,Landslide,297,5466,0,0,1954-0058,--,--
+17/09/1960,17/09/1960,Italy,ITA,Loveno,Landslide,Landslide,12,0,0,0,1960-0059,--,--
+09/10/1963,09/10/1963,Italy,ITA,"Vajont dam, Longarone (Belluno, Podova)",Landslide,Landslide,1917,0,0,0,1963-0032,--,--
+/04/1975,/04/1975,Italy,ITA,Alps,Landslide,Landslide,12,0,0,0,1975-0025,--,--
+14/12/1982,14/12/1982,Italy,ITA,Ancona,Landslide,Landslide,0,4000,700000,0,1982-0132,--,--
+22/05/1983,22/05/1983,Italy,ITA,Lombardy province,Landslide,Landslide,0,0,0,0,1983-0368,--,--
+28/07/1987,28/07/1987,Italy,ITA,"Valtellina, Sant'Antonio, Morignone",Landslide,Landslide,44,3189,625000,0,1987-0119,--,--
+17/07/1987,17/07/1987,Italy,ITA,Tartano,Landslide,Landslide,13,3000,0,0,1987-0597,--,--
+08/08/1996,08/08/1996,Italy,ITA,Cortina D'ampezzo,Landslide,Landslide,0,100,0,0,1996-0177,--,--
+01/05/1998,07/05/1998,Italy,ITA,Campania Region,Landslide,Landslide,160,3682,28700,0,1998-0119,"Slide (land, mud, sn",--
+09/01/1999,28/02/1999,Italy,ITA,,Landslide,Avalanche,1,0,5510,0,1999-0052,--,--
+30/04/2006,30/04/2006,Italy,ITA,"Ischia town (Napoli province, Campania region)",Landslide,Landslide,4,159,0,0,2006-0219,--,--
+22/11/2011,22/11/2011,Italy,ITA,"Saponara town (Messina Province, Sicilia Region)",Landslide,Landslide,3,1,0,0,2011-0495,--,--
+04/11/1909,04/11/1909,Jamaica,JAM,"St Thomas, St Andrew",Landslide,Landslide,53,0,0,0,1909-0016,--,--
+01/09/1923,01/09/1923,Japan,JPN,Nebukawa,Landslide,Landslide,200,0,0,0,1923-0007,--,--
+/04/1955,/04/1955,Japan,JPN,,Landslide,Landslide,73,0,0,0,1955-0039,--,--
+/02/1956,/02/1956,Japan,JPN,,Landslide,Landslide,40,0,0,0,1956-0029,--,--
+18/07/1964,18/07/1964,Japan,JPN,West Coast,Landslide,Landslide,108,0,0,0,1964-0042,--,--
+05/07/1972,05/07/1972,Japan,JPN,Oimawashi,Landslide,Landslide,80,0,0,0,1972-0043,--,--
+16/04/1974,16/04/1974,Japan,JPN,Okuura,Landslide,Landslide,17,0,0,0,1974-0021,--,--
+/08/1975,/08/1975,Japan,JPN,,Landslide,Landslide,30,0,0,0,1975-0140,--,--
+//1981,//1981,Japan,JPN,,Landslide,Landslide,40,0,0,0,1981-0306,--,--
+24/07/1983,24/07/1983,Japan,JPN,Western Honshu,Landslide,Landslide,117,25088,0,0,1983-0098,--,--
+//1983,//1983,Japan,JPN,,Landslide,Landslide,70,0,0,0,1983-0525,--,--
+//1984,//1984,Japan,JPN,,Landslide,Landslide,14,0,0,0,1984-0410,--,--
+10/07/1986,10/07/1986,Japan,JPN,,Landslide,Landslide,20,0,0,0,1986-0293,--,--
+26/01/1986,26/01/1986,Japan,JPN,Maseguchi,Landslide,Avalanche,13,0,0,0,1986-0395,--,--
+//1989,//1989,Japan,JPN,,Landslide,Landslide,18,0,0,0,1989-0583,--,--
+07/07/1993,07/07/1993,Japan,JPN,Kagoshima City,Landslide,Landslide,27,35,0,0,1993-0185,--,--
+06/08/1993,06/08/1993,Japan,JPN,Kagoshina,Landslide,Landslide,56,35,210000,0,1993-0192,--,--
+06/12/1996,06/12/1996,Japan,JPN,Central Region,Landslide,Landslide,14,3,0,0,1996-0299,--,--
+10/07/1997,10/07/1997,Japan,JPN,Harihara (Kyushu),Landslide,Landslide,21,15,0,0,1997-0145,--,--
+12/08/1998,12/08/1998,Japan,JPN,Gifu Prefecture,Landslide,Landslide,0,130,0,0,1998-0254,--,--
+20/07/2009,20/07/2009,Japan,JPN,"Yamaguti, Tottori provinces",Landslide,Landslide,16,400,0,0,2009-0275,--,--
+26/07/2009,27/07/2009,Japan,JPN,Hukuoka province,Landslide,Landslide,28,0,0,0,2009-0276,--,--
+20/08/2014,20/08/2014,Japan,JPN,"Hirosimasi_Asaminamiku, Hirosimasi_Asakitaku districts (Hirosima province)",Landslide,Landslide,82,67,38000,30900,2014-0271,--,--
+14/03/2004,14/03/2004,Kazakhstan,KAZ,Talgar district (Almatinskaya province),Landslide,Landslide,48,0,0,0,2004-0108,--,--
+30/04/2002,30/04/2002,Kenya,KEN,"Meru Central district (Eastern province), Muranga district (Central province)",Landslide,Landslide,16,0,0,0,2002-0248,--,--
+10/08/2007,13/08/2007,Kenya,KEN,"Kuvasali village (Kakamega didstrict, Western province)",Landslide,Landslide,20,6,0,0,2007-0356,--,--
+08/11/2008,08/11/2008,Kenya,KEN,"Chepkogoh village (West Pokot district, Rift Valley province)",Landslide,Landslide,10,20,0,0,2008-0513,--,--
+30/04/2010,30/04/2010,Kenya,KEN,"Kitony village (Marakwet district, Rift Valley province)",Landslide,Landslide,10,0,0,0,2010-0186,--,--
+/03/1956,/03/1956,Korea (the Republic of),KOR,,Landslide,Landslide,103,0,0,0,1956-0031,--,--
+24/06/1963,24/06/1963,Korea (the Republic of),KOR,,Landslide,Landslide,116,0,0,0,1963-0015,--,--
+07/08/1976,07/08/1976,Korea (the Republic of),KOR,Chonju,Landslide,Landslide,25,0,100000,0,1976-0053,--,--
+04/07/1981,04/07/1981,Korea (the Republic of),KOR,,Landslide,Landslide,0,0,0,0,1981-0255,--,--
+07/07/1984,07/07/1984,Korea (the Republic of),KOR,,Landslide,Landslide,47,4000,40000,0,1984-0059,--,--
+/07/1988,/07/1988,Korea (the Republic of),KOR,,Landslide,Landslide,25,0,0,0,1988-0295,--,--
+21/08/1993,21/08/1993,Korea (the Republic of),KOR,"Kangwon-Don, Kyongsang-Do",Landslide,Landslide,11,1688,108700,0,1993-0197,--,--
+26/07/1996,26/07/1996,Korea (the Republic of),KOR,North Korea Border,Landslide,Landslide,19,0,0,0,1996-0167,--,--
+26/07/2011,27/07/2011,Korea (the Republic of),KOR,"Chuncheon city (Kang-won-do province), Bangbae-dong area (Seoul province), Dongducheon area (Kyongii-do province)",Landslide,Landslide,59,2026,0,0,2011-0274,Broken Dam/Burst ban,--
+14/04/1994,14/04/1994,Kyrgyzstan,KGZ,"Osh, Jalal-Abad Region",Landslide,Landslide,111,58500,36000,0,1994-0038,--,--
+09/03/1994,09/03/1994,Kyrgyzstan,KGZ,Usgen (Tosoi),Landslide,Landslide,51,0,0,0,1994-0303,--,--
+02/05/2002,02/05/2002,Kyrgyzstan,KGZ,"Alai, Zhangi-Savai villages (Alay district, Osh province)",Landslide,Landslide,0,1002,1500,0,2002-0309,--,--
+20/04/2003,20/04/2003,Kyrgyzstan,KGZ,"Kara-Taryk village (Ozgon district, Osh province)",Landslide,Landslide,38,211,0,0,2003-0177,--,--
+17/04/2004,17/04/2004,Kyrgyzstan,KGZ,"Kara-Sogot village (Kara-Suu district, Osh province)",Landslide,Landslide,5,0,0,0,2004-0179,--,--
+26/04/2004,26/04/2004,Kyrgyzstan,KGZ,Alay district (Osh province),Landslide,Landslide,33,96,0,0,2004-0192,--,--
+05/08/2004,05/08/2004,Kyrgyzstan,KGZ,"Khan Tengri mount (Ak-Suu district, Ysyk-Kol province)",Landslide,Avalanche,11,2,0,0,2004-0387,--,--
+03/06/2010,03/06/2010,Kyrgyzstan,KGZ,"Suzak, Bazar-Korgon districts (Jalal-Abad province), Kara-Kulja, Ozgon, Kara-Suu districts (Osh province)",Landslide,Landslide,0,8350,0,0,2010-0272,--,--
+30/06/1995,30/06/1995,Malaysia,MYS,Genting Highlands (Near Kuala Lumpur),Landslide,Landslide,20,23,0,0,1995-0142,--,--
+30/08/1996,30/08/1996,Malaysia,MYS,Pos Dipang (Perak State),Landslide,Landslide,50,262,0,0,1996-0197,--,--
+31/01/2002,31/01/2002,Malaysia,MYS,Simunjan district (Sarawak province),Landslide,Landslide,10,0,0,0,2002-0064,--,--
+21/05/2011,21/05/2011,Malaysia,MYS,Ulu Langat district (Selangor province),Landslide,Landslide,16,6,0,0,2011-0175,--,--
+18/10/1954,18/10/1954,Mexico,MEX,Atenguigue,Landslide,Landslide,100,0,0,0,1954-0023,--,--
+19/10/1969,19/10/1969,Mexico,MEX,Morelia,Landslide,Landslide,18,0,0,0,1969-0105,--,--
+11/08/1983,11/08/1983,Mexico,MEX,Xicola,Landslide,Landslide,50,0,0,0,1983-0107,--,--
+26/06/1997,26/06/1997,Mexico,MEX,"Huautla De Jimenez, Oaxaca",Landslide,Landslide,12,0,0,0,1997-0138,--,--
+28/09/1998,28/09/1998,Mexico,MEX,Tenextepango (Morelos State),Landslide,Landslide,12,120,0,0,1998-0001,--,--
+17/07/2003,18/07/2003,Mexico,MEX,"Santa Maria Chilchotla, Santa Ana Ateixtlahuaca, Eloxochitlan municipalities (Teotitlan district, Oaxaca province)",Landslide,Landslide,10,200,0,0,2003-0436,--,--
+02/08/2006,02/08/2006,Mexico,MEX,"Santa Maria Chilchotla municipality (Teotitlan district, Oaxaca state)",Landslide,Landslide,11,0,0,0,2006-0407,--,--
+06/09/2006,06/09/2006,Mexico,MEX,"Chalchihuitillo village (Mezquital district, Durango province)",Landslide,Landslide,10,0,0,0,2006-0498,--,--
+06/11/2007,06/11/2007,Mexico,MEX,"San Juan Grijalva village (Ostuacan district, Chiapas province)",Landslide,Landslide,16,0,0,0,2007-0537,Tsunami/Tidal wave,--
+17/09/2008,18/09/2008,Mexico,MEX,"Huautla de Jimenez municipality (Teotitlan district, Oaxaca state)",Landslide,Landslide,22,0,0,0,2008-0433,--,--
+21/09/2010,21/09/2010,Mexico,MEX,Villa Guerrero district (Mexico province),Landslide,Landslide,27,0,0,0,2010-0496,--,--
+28/09/2010,29/09/2010,Mexico,MEX,"Santa Maria Tlahuitoltepec municipality (Mixe district, Oaxaca province) ; Oaxaca, Chiapas provinces",Landslide,Landslide,44,0,0,0,2010-0510,--,--
+/04/1982,/04/1982,Morocco,MAR,Fez,Landslide,Landslide,1,12216,0,0,1982-0045,--,--
+21/01/1998,21/01/1998,Mozambique,MOZ,Milange district (Zambezia province),Landslide,Landslide,87,2500,0,0,1998-0019,--,--
+14/09/2005,15/09/2005,Myanmar,MMR,Myeik district (Taninthayi province),Landslide,Landslide,17,16,0,0,2005-0533,Flood,--
+04/07/2009,04/07/2009,Myanmar,MMR,"Hpakant area (Myitkyina district, Kachin province)",Landslide,Landslide,24,1351,0,0,2009-0251,--,--
+17/06/2010,17/06/2010,Myanmar,MMR,"Maungdaw, Buthidaung districts (Rakhine province)",Landslide,Landslide,68,145000,0,0,2010-0231,"Slide (land, mud, sn",--
+03/05/2013,03/05/2013,Myanmar,MMR,"Kalaw area (Tuanggyi district, Shan (S) province)",Landslide,Landslide,16,0,0,0,2013-0160,--,--
+09/10/2015,09/10/2015,Myanmar,MMR,"Tonzang village (Falam district, Chin state)",Landslide,Landslide,21,900,0,0,2015-0449,--,--
+11/10/2015,11/10/2015,Myanmar,MMR,"Hpasawng village (Bawlake district, Kayar province)",Landslide,Landslide,17,300,0,0,2015-0455,--,--
+23/05/2016,23/05/2016,Myanmar,MMR,Hpakant region (Kachin province),Landslide,Landslide,42,15,0,0,2016-0224,--,--
+27/09/1970,27/09/1970,Nepal,NPL,Lete,Landslide,Landslide,21,0,0,0,1970-0052,--,--
+07/08/1972,07/08/1972,Nepal,NPL,,Landslide,Landslide,105,0,0,0,1972-0047,--,--
+/08/1975,/08/1975,Nepal,NPL,Kathmandu,Landslide,Landslide,125,75000,0,0,1975-0044,--,--
+04/06/1976,04/06/1976,Nepal,NPL,Pahire Phedi,Landslide,Landslide,150,0,0,0,1976-0040,--,--
+//1983,//1983,Nepal,NPL,,Landslide,Landslide,21,0,0,0,1983-0526,--,--
+20/09/1988,20/09/1988,Nepal,NPL,Myagi District,Landslide,Avalanche,106,0,0,0,1988-0381,--,--
+12/09/1989,12/09/1989,Nepal,NPL,Bhajang district,Landslide,Landslide,49,0,0,0,1989-0463,--,--
+08/07/1993,08/07/1993,Nepal,NPL,Okhaldunga District,Landslide,Landslide,28,200,0,0,1993-0186,--,--
+10/06/1995,10/06/1995,Nepal,NPL,"Baglung, Lamjung, Soluklumbu, Okhaldhunga, Gumil, Arghakhanchi, Dailekh, Rukum, Sankhuwasabha, Dolkha, Kaski, Jajarkot",Landslide,Landslide,85,534,0,0,1995-0104,--,--
+11/11/1995,11/11/1995,Nepal,NPL,"Manag, Panchathar districts",Landslide,Avalanche,95,0,0,0,1995-0278,--,--
+10/08/1997,10/08/1997,Nepal,NPL,"Level 2 = Sagarmath, Koshi, Mechi",Landslide,Landslide,20,0,0,0,1997-0171,--,--
+/06/2001,/06/2001,Nepal,NPL,"Koshi district (Eastern province), Bagmati, Janakpur districts (Central province), Gandaki, Lumbini districts (Western province), Mahakali district (Far Western province)",Landslide,Landslide,144,21019,0,0,2001-0298,--,--
+15/07/2002,15/08/2002,Nepal,NPL,"Kathmandu, Kavrepalanchock, Sindhupalchowk, Lalitpur areas (Bagmati district, Central province), Dhanusha, Mahottari areas (Janakpur district, Central province), Chitwan, Makwanpur areas (Narayani district, Central province), Bhojpur, Dhankuta areas (Koshi district, Eastern province), Taplejung area (Mechi district, Eastern province), Khotang area (Sagarmatha district, Eastern province), Syangja area (Gandaki district, Western province)",Landslide,Landslide,472,265865,0,0,2002-0428,Flood,--
+20/10/2005,20/10/2005,Nepal,NPL,Gandaki district (Western province),Landslide,Avalanche,18,0,0,0,2005-0821,--,--
+03/08/2006,03/08/2006,Nepal,NPL,"Yarsa village (Rasuwa area, Bagmati district, Central province)",Landslide,Landslide,10,0,0,0,2006-0409,--,--
+26/08/2006,13/09/2006,Nepal,NPL,"Banke, Bardiya areas (Bheri district, Mid Western province), Achham, Kailali areas (Seti district, Far Western province), Chitwan, Makwanpur areas (Narayani district, Central province), Tanahun area (Gandaki district, Western province), Tehrathum area (Koshi district, Eastern province), Nawalparasi area (Lumbini district, Western province)",Landslide,Landslide,147,80000,0,0,2006-0473,Flood,--
+28/07/2009,28/07/2009,Nepal,NPL,"Sankhuwasabha area (Koshi district, Eastern province)",Landslide,Landslide,10,0,0,0,2009-0305,--,--
+15/07/2011,15/07/2011,Nepal,NPL,"Rukum area (Rapti district, Mid Western province), Nuwakot area (Bagmati district, Central province)",Landslide,Landslide,16,0,0,0,2011-0510,--,--
+20/07/2011,20/07/2011,Nepal,NPL,"Narjamandap village (Nuwakot area, Bagmati district, Central province), Rasuwa area (Bagmati district, Central province), Parsyang village (Pokhara Sumetropolis area, Kaski sub-district, Gandaki district, Western province), Khotang area (Sagarmatha district, Eastern province)",Landslide,Landslide,13,0,0,0,2011-0543,--,--
+23/09/2012,23/09/2012,Nepal,NPL,Gandaki district (Western province),Landslide,Avalanche,11,0,0,0,2012-0589,--,--
+18/04/2014,18/04/2014,Nepal,NPL,Sagarmatha district (Eastern province),Landslide,Avalanche,16,0,0,0,2014-0124,--,--
+02/08/2014,02/08/2014,Nepal,NPL,"Jure, Mankha villages (Sindhupalchowk area, Bagmati district, Central province)",Landslide,Landslide,156,476,15000,0,2014-0296,--,--
+06/06/2015,11/06/2015,Nepal,NPL,"Taplejung area (Mechi district, Eastern province)",Landslide,Landslide,36,18,0,0,2015-0226,"Slide (land, mud, sn",Flood
+29/07/2015,/08/2015,Nepal,NPL,"Kaski area (Gandaki district, Western province), Myagdi area (Dhawalagiri district, Western province), Chitwan area (Narayani district, Central province), Taplejung area (Mechi district, Eastern province)",Landslide,Landslide,29,18,0,0,2015-0306,--,--
+06/08/1979,06/08/1979,New Zealand,NZL,Abbortford (Dunedin),Landslide,Landslide,0,600,2466,0,1979-0181,--,--
+24/06/2004,28/06/2004,Nicaragua,NIC,"Rio Blanco district (Matagalpa province), Puerto Cabezaz district (Atlantico Norte province) ; Atlantico Norte, Atlantico Sur provinces",Landslide,Landslide,29,5769,0,0,2004-0280,--,--
+/12/1988,/12/1988,Nigeria,NGA,Anambra state,Landslide,Landslide,0,1500,0,0,1988-0523,--,--
+23/09/2000,23/09/2000,Nigeria,NGA,"Amakor, Nanka villages (Orumba North district, Anambra province)",Landslide,Landslide,17,300,0,0,2000-0634,--,--
+20/12/2000,20/12/2000,Nigeria,NGA,"Atakumosa West, Atakumosa East districts (Osun province)",Landslide,Landslide,15,0,0,0,2000-0819,--,--
+//1936,//1936,Norway,NOR,Loen (North Fjord),Landslide,Landslide,73,0,0,0,1936-0001,--,--
+16/12/1959,16/12/1959,Pakistan,PAK,Lowarai Pass,Landslide,Avalanche,48,0,0,0,1959-0017,--,--
+11/03/1983,11/03/1983,Pakistan,PAK,Phuban (Astor Valley),Landslide,Avalanche,95,100,0,0,1983-0053,--,--
+18/04/1983,18/04/1983,Pakistan,PAK,Central and North regions,Landslide,Landslide,0,0,0,0,1983-0439,--,--
+06/02/1991,06/02/1991,Pakistan,PAK,Kashmir,Landslide,Avalanche,25,0,0,0,1991-0027,--,--
+29/03/1992,01/04/1992,Pakistan,PAK,"Neelum valley, Mansehra district",Landslide,Avalanche,55,200,0,0,1992-0187,"Slide (land, mud, sn",Rain
+14/03/1993,14/03/1993,Pakistan,PAK,Baday Serai (Swat district),Landslide,Avalanche,36,309,0,0,1993-0017,--,--
+24/03/1993,24/03/1993,Pakistan,PAK,"Gultar, Thalestal (Near Chota Deeosai, Skardu district)",Landslide,Avalanche,22,5,0,0,1993-0018,--,--
+16/03/1996,16/03/1996,Pakistan,PAK,Kel (Cachemire),Landslide,Avalanche,44,0,0,0,1996-0348,--,--
+13/03/1998,13/03/1998,Pakistan,PAK,Kashmir = Jamnu and Kashmir (IN1),Landslide,Landslide,13,3000,0,0,1998-0064,--,--
+10/07/2001,10/07/2001,Pakistan,PAK,"Chitta Katha village (Mansehra District district, North-West Frontier province)",Landslide,Landslide,15,0,0,0,2001-0328,--,--
+/07/2001,/07/2001,Pakistan,PAK,"Karachi city (Karachi South District district, Sindh province), Hyderabad city (Hyderabad District district, Sindh province), Sukkur city (Sukkur District district, Sindh province)",Landslide,Landslide,16,12,0,0,2001-0766,--,--
+02/05/2003,02/05/2003,Pakistan,PAK,"Ronala village (Kohistan District district, North-West Frontier province)",Landslide,Landslide,12,0,0,0,2003-0240,--,--
+27/12/2005,27/12/2005,Pakistan,PAK,"Dassu town (Kohistan District district, North-West Frontier province)",Landslide,Avalanche,24,0,0,0,2005-0714,--,--
+03/07/2006,04/07/2006,Pakistan,PAK,"Ghaeel village (Kalam area, Swat District district, North-West Frontier province)",Landslide,Landslide,29,5,0,0,2006-0345,--,--
+05/01/2007,05/01/2007,Pakistan,PAK,"Administrative unit not available district (Jammu and Kashmir province)
+
+",Landslide,Landslide,20,2,0,0,2007-0007,--,--
+21/03/2007,21/03/2007,Pakistan,PAK,"Administrative unit not available district (Jammu and Kashmir province), Lower Dir District, Upper Dir District districts (North-West Frontier province)",Landslide,Landslide,80,0,0,0,2007-0093,--,--
+30/03/2007,02/04/2007,Pakistan,PAK,Chitral District district (North-West Frontier province),Landslide,Avalanche,43,3,0,0,2007-0128,--,--
+04/01/2010,04/01/2010,Pakistan,PAK,Administrative unit not available district (Jammu and Kashmir province),Landslide,Landslide,19,26700,18000,0,2010-0012,--,--
+18/02/2010,18/02/2010,Pakistan,PAK,"Saidan Gutlo, Mula Khail Gutlo, Gujri Bek, Kachar, Seri, Gutlo Bawon, Pari Mula Khail, Bawon Soya Khail, Karon Mula Khail, Haran, Atta Abad, Kundian villages (Kohistan District district, North-West Frontier province)",Landslide,Avalanche,31,3705,0,0,2010-0073,--,--
+07/04/2012,07/04/2012,Pakistan,PAK,Administrative unit not available district (Jammu and Kashmir province),Landslide,Avalanche,135,0,0,0,2012-0084,--,--
+30/11/2012,30/11/2012,Pakistan,PAK,Administrative unit not available district (Jammu and Kashmir province),Landslide,Landslide,18,0,0,0,2012-0511,--,--
+21/03/1971,21/03/1971,Papua New Guinea,PNG,Telefumin,Landslide,Landslide,100,0,0,0,1971-0022,--,--
+18/11/1979,18/11/1979,Papua New Guinea,PNG,Highlands,Landslide,Landslide,13,0,0,0,1979-0261,--,--
+24/02/1991,24/02/1991,Papua New Guinea,PNG,Chimbu province,Landslide,Landslide,200,5000,0,0,1991-0059,--,--
+24/12/1996,24/12/1996,Papua New Guinea,PNG,Wajunda Village,Landslide,Landslide,38,8,0,0,1996-0280,--,--
+02/04/2002,02/04/2002,Papua New Guinea,PNG,"Wantoat village (Markham area, Kaiapit district, Morobe province)",Landslide,Landslide,36,174,0,0,2002-0190,--,--
+03/05/2003,03/05/2003,Papua New Guinea,PNG,Southern Highlands province,Landslide,Landslide,13,21,0,0,2003-0208,--,--
+01/08/2003,01/08/2003,Papua New Guinea,PNG,"Namatanai, Konos districts (New Ireland province)",Landslide,Landslide,0,600,0,0,2003-0386,--,--
+20/01/2006,18/04/2006,Papua New Guinea,PNG,"Kwasang 2 village (Mumeng district, Morobe province)",Landslide,Landslide,14,10000,0,0,2006-0059,--,--
+27/04/2006,30/04/2006,Papua New Guinea,PNG,"Kuma village (Mendi district, Southern Highlands province)",Landslide,Landslide,1,300,0,0,2006-0222,"Slide (land, mud, sn",--
+26/05/2009,26/05/2009,Papua New Guinea,PNG,"Zongefifi village (Sialum area, Finschhafen district, Morobe province)",Landslide,Landslide,19,0,0,0,2009-0211,--,--
+24/01/2012,24/01/2012,Papua New Guinea,PNG,"Tumbi village (Tari district, Southern Highlands province)",Landslide,Landslide,60,0,0,0,2012-0052,--,--
+/12/1941,/12/1941,Peru,PER,Huaray,Landslide,Landslide,5000,0,0,0,1941-0004,--,--
+/10/1950,/10/1950,Peru,PER,,Landslide,Landslide,130,0,0,0,1950-0032,--,--
+/03/1962,/03/1962,Peru,PER,,Landslide,Landslide,41,0,0,0,1962-0025,--,--
+18/03/1971,18/03/1971,Peru,PER,Chungar,Landslide,Landslide,600,0,0,0,1971-0020,--,--
+25/04/1973,25/04/1973,Peru,PER,Andes,Landslide,Landslide,500,0,0,0,1973-0025,--,--
+25/04/1974,25/04/1974,Peru,PER,Mayunmarca,Landslide,Landslide,310,13500,21700,0,1974-0022,--,--
+31/12/1981,31/12/1981,Peru,PER,Yanacocha,Landslide,Landslide,70,0,0,0,1981-0115,--,--
+28/03/1982,28/03/1982,Peru,PER,Cuzco,Landslide,Landslide,200,30000,0,0,1982-0040,--,--
+/01/1983,/01/1983,Peru,PER,"Piura, Tumbes",Landslide,Landslide,364,700000,988800,0,1983-0005,--,--
+/03/1983,/03/1983,Peru,PER,,Landslide,Landslide,232,0,0,0,1983-0333,--,--
+/03/1984,/03/1984,Peru,PER,Lima,Landslide,Landslide,7,0,3000,0,1984-0026,--,--
+/02/1985,/02/1985,Peru,PER,Esat of Lima,Landslide,Landslide,0,0,0,0,1985-0237,--,--
+07/04/1985,07/04/1985,Peru,PER,Colcabamba department,Landslide,Landslide,150,4000,0,0,1985-0239,--,--
+09/03/1986,09/03/1986,Peru,PER,North Peru,Landslide,Landslide,40,366,0,0,1986-0041,--,--
+09/01/1987,09/01/1987,Peru,PER,Chuschi (Ayacucho State),Landslide,Landslide,25,385,0,0,1987-0050,--,--
+04/12/1987,04/12/1987,Peru,PER,San Juan Ubirique (Junin area),Landslide,Landslide,70,0,0,0,1987-0225,--,--
+03/02/1988,03/02/1988,Peru,PER,"Apurimac, Cusco, Madre de dios, Huanugo provinces",Landslide,Landslide,80,6025,0,0,1988-0101,--,--
+27/02/1990,27/02/1990,Peru,PER,San Miguel,Landslide,Landslide,33,0,0,0,1990-0336,--,--
+07/01/1995,07/01/1995,Peru,PER,Puno,Landslide,Landslide,20,0,0,0,1995-0329,--,--
+20/02/1997,20/02/1997,Peru,PER,"Cuzco (Canchis & La Convencion Provinces), San Martin (Rioja, Moyobamba & Lamas provinces), Madre de Dios, Amazonas, Arequipan Puno (Puno province, and Taraco and Pusi disticts)",Landslide,Landslide,300,30000,0,0,1997-0027,--,--
+14/01/1998,14/01/1998,Peru,PER,Santa Teresa,Landslide,Landslide,14,2600,0,0,1998-0014,--,--
+29/01/1998,29/01/1998,Peru,PER,Near Choco,Landslide,Avalanche,31,7,0,0,1998-0039,--,--
+08/11/1999,08/11/1999,Peru,PER,Sicsi,Landslide,Landslide,40,1200,0,0,1999-0563,--,--
+16/09/2000,16/09/2000,Peru,PER,"Arma village (La Convenci?n district, Cusco province)",Landslide,Landslide,11,0,0,0,2000-0586,--,--
+28/10/2001,28/10/2001,Peru,PER,"Jachahuanca village (Junin district, Junin province)",Landslide,Landslide,20,150,0,0,2001-0604,--,--
+10/04/2004,10/04/2004,Peru,PER,"Machu Picchu (Urubamba district, Cuzco province)",Landslide,Landslide,11,76,0,0,2004-0156,Flood,--
+02/03/2009,02/03/2009,Peru,PER,"Huanchumay village (Carabaya district, Puno province)",Landslide,Rockfall,33,0,0,0,2009-0086,--,--
+12/04/2009,16/04/2009,Peru,PER,"Retamas (Pataz district) Aricapampa, Chamanacucho (Sanchez Carrion district) (La Libertad province)",Landslide,Landslide,20,0,0,0,2009-0143,--,--
+05/05/2009,05/05/2009,Peru,PER,"Chamanacucho municipality (Sanchez Carrion district, La Libertad province)",Landslide,Landslide,33,162,0,0,2009-0152,--,--
+16/12/2009,16/12/2009,Peru,PER,"Ayachuco, Carmen Alto municipality (Huamanga district, Ayacucho province)",Landslide,Landslide,59,1153,0,0,2009-0569,--,--
+01/04/2010,06/04/2010,Peru,PER,"Ancash, Cajamarca provinces ; Huanuco, Ambo districts (Huanuco province), Trujillo district (La Libertad province)",Landslide,Landslide,68,1054,0,0,2010-0156,--,--
+17/10/2012,17/10/2012,Peru,PER,"El Porvenir (Picota district, San Martin province)",Landslide,Landslide,22,0,0,0,2012-0386,--,--
+/01/1960,/01/1960,Philippines (the),PHL,,Landslide,Landslide,40,0,0,0,1960-0047,--,--
+13/08/1978,13/08/1978,Philippines (the),PHL,Subic,Landslide,Landslide,22,7,0,0,1978-0169,--,--
+/10/1981,/10/1981,Philippines (the),PHL,,Landslide,Landslide,200,0,0,0,1981-0293,--,--
+04/04/1988,04/04/1988,Philippines (the),PHL,Davao Oriental,Landslide,Landslide,24,0,0,0,1988-0558,--,--
+22/05/1988,22/05/1988,Philippines (the),PHL,Davao del Sur,Landslide,Landslide,30,0,0,0,1988-0559,--,--
+/05/1989,/05/1989,Philippines (the),PHL,Mindanao/Monkayo,Landslide,Landslide,13,1200,0,0,1989-0154,--,--
+16/09/1989,16/09/1989,Philippines (the),PHL,Muntinlupa,Landslide,Landslide,14,77,0,0,1989-0193,--,--
+//1989,//1989,Philippines (the),PHL,,Landslide,Landslide,72,0,0,0,1989-0584,--,--
+07/09/1993,07/09/1993,Philippines (the),PHL,Kimatu,Landslide,Landslide,21,0,0,0,1993-0295,--,--
+05/02/1994,05/02/1994,Philippines (the),PHL,Davao Del Norte Province,Landslide,Landslide,4,5103,0,0,1994-0021,--,--
+19/09/1994,24/09/1994,Philippines (the),PHL,Mont Pinatubo area (Luzon),Landslide,Landslide,23,68740,24000,0,1994-0211,--,--
+17/09/1996,17/09/1996,Philippines (the),PHL,South,Landslide,Landslide,12,0,0,0,1996-0204,--,--
+28/11/1996,28/11/1996,Philippines (the),PHL,Catanduanes (Mindanao),Landslide,Landslide,33,8,0,0,1996-0372,--,--
+/04/1999,/04/1999,Philippines (the),PHL,South of Philippines,Landslide,Landslide,19,0,0,0,1999-0127,--,--
+10/05/1999,10/05/1999,Philippines (the),PHL,Compostela Valley (Mindanao Isl.),Landslide,Landslide,10,45,0,0,1999-0172,--,--
+13/09/1999,13/09/1999,Philippines (the),PHL,Nord du pays,Landslide,Landslide,13,0,0,0,1999-0312,--,--
+04/08/1999,04/08/1999,Philippines (the),PHL,Manilla,Landslide,Landslide,58,0,0,0,1999-0732,--,--
+10/07/2000,10/07/2000,Philippines (the),PHL,Metropolitan Manila district (National Capital region (NCR) province),Landslide,Subsidence,287,2838,0,0,2000-0414,--,--
+19/12/2003,07/01/2004,Philippines (the),PHL,"Liloan, San Francisco, Maasin, Punta, San Ricardo areas (Southern Leyte district, Region VIII (Easter, Visayas) province), Bohol district (Region VII (Central Visayas) province), Misamis Oriental district (Region X (Northern Mindanao), Compostela district (Region XI (Davao Region) province), South Cotabato district (Region XII (Soccsksargen) province), Agusan del Sur, Agusan del Norte, Surigao del Sur, Surigao de Norte districts (Region XIII (Caraga) province)",Landslide,Landslide,255,217988,7000,0,2003-0610,Flood,--
+13/12/2004,13/12/2004,Philippines (the),PHL,"Tinambac area (Camarines Sur district, Region V (Bicol region) province)",Landslide,Landslide,8,6,0,0,2004-0634,--,--
+14/02/2006,14/02/2006,Philippines (the),PHL,"Sogod area (Southern Leyte district, Region VIII (Eastern Visayas) province)",Landslide,Landslide,11,7525,0,0,2006-0087,--,--
+17/02/2006,17/02/2006,Philippines (the),PHL,"Guinsaugon village (Southern Leyte, Region VIII (Eastern Visayas) province)",Landslide,Landslide,1126,5926,2203,0,2006-0096,--,--
+13/08/2006,13/08/2006,Philippines (the),PHL,"Kapatagan area (Lanao Del Norte district, Region X (Northern Mindanao) province), Pagadian area (Zamboanga Del Sur district, Rgion IX (Zamboanga Peninsula) province)",Landslide,Avalanche,6,1200,0,0,2006-0439,--,--
+06/09/2008,06/09/2008,Philippines (the),PHL,"Maco city (Compostela district, Region XI (Davao Region) province)",Landslide,Landslide,24,5028,0,0,2008-0393,--,--
+18/05/2009,18/05/2009,Philippines (the),PHL,"Magapispis, Sitio Boringot, Brgy Napnapan, Sitio Gumayan, Brgy Kingking villages (Compostela district, Region XI (Davao Region) province)",Landslide,Landslide,10,16,0,0,2009-0192,--,--
+01/01/2010,01/01/2010,Philippines (the),PHL,"Cagdiana area (Dinagat district, Region XIII (Caraga) province)",Landslide,Landslide,2,927,78,0,2010-0031,--,--
+22/04/2011,22/04/2011,Philippines (the),PHL,"Pantukan area (Compostela district, Region XI (Davao Region) province)",Landslide,Landslide,24,574,0,0,2011-0141,--,--
+04/07/2011,04/07/2011,Philippines (the),PHL,Bukidnon district (Region X (Northern Mindanao) province),Landslide,Landslide,5,5,0,0,2011-0244,--,--
+05/08/2011,05/08/2011,Philippines (the),PHL,"Asinan village (Zambales district, Region III (Central Luzon) province)",Landslide,Landslide,0,310,0,0,2011-0305,--,--
+05/01/2012,05/01/2012,Philippines (the),PHL,"Napnapan village (Compostela district, Region XI (Davao Region) province)",Landslide,Landslide,75,23,0,0,2012-0002,--,--
+//1981,//1981,Puerto Rico,PRI,,Landslide,Landslide,26,0,0,0,1981-0302,--,--
+/10/1985,/10/1985,Puerto Rico,PRI,,Landslide,Landslide,100,0,0,0,1985-0354,--,--
+/01/1980,/01/1980,Réunion,REU,"Grand-Ilet, Cirque de Salazie, Reunion",Landslide,Landslide,10,0,0,0,1980-0365,--,--
+/03/1999,/03/1999,Romania,ROU,,Landslide,Landslide,0,330,0,0,1999-0085,--,--
+28/01/1993,28/01/1993,Russian Federation (the),RUS,Caucasus Mountain,Landslide,Avalanche,239,0,0,0,1993-0111,--,--
+28/09/1995,28/09/1995,Russian Federation (the),RUS,Nazran Region,Landslide,Landslide,17,0,0,0,1995-0239,--,--
+29/12/1996,29/12/1996,Russian Federation (the),RUS,"South, Caucasus Mountains",Landslide,Avalanche,0,300,0,0,1996-0294,--,--
+19/01/2000,19/01/2000,Russian Federation (the),RUS,Transcaucasian (Severnaya Osetiya-alaniya Rep. Province),Landslide,Avalanche,20,0,0,0,2000-0164,--,--
+19/07/2000,19/07/2000,Russian Federation (the),RUS,Tymauz village (Kabardino-Balkaria Rep. province),Landslide,Landslide,7,508,0,0,2000-0457,--,--
+20/09/2002,20/09/2002,Russian Federation (the),RUS,Nijni Karmadon town (Severnaya Osetiya-alaniya Rep. Province),Landslide,Avalanche,122,0,0,0,2002-0602,--,--
+11/01/2005,11/01/2005,Russian Federation (the),RUS,Kamtchatka peninsula (Kamchatskaya Oblast Province),Landslide,Avalanche,9,0,0,0,2005-0025,--,--
+28/11/2006,30/11/2006,Rwanda,RWA,Rulindo district (North/Amajyaruguru province),Landslide,Landslide,24,2000,0,0,2006-0646,--,--
+26/03/2010,31/03/2010,Rwanda,RWA,"Murambi, Kubukoko, Knebwe areas (Rubavu district, West/Iburengerazuba province)",Landslide,Landslide,14,5937,0,0,2010-0146,--,--
+16/05/2010,16/05/2010,Rwanda,RWA,Nyabihu district (West/Iburengerazuba province),Landslide,Landslide,7,0,0,0,2010-0199,--,--
+07/05/2016,08/05/2016,Rwanda,RWA,"Gakenke district (North/Amajyaruguru province), Muhanga district (South/Amajyepfo province), Rubavu district (West/Iburengerazuba province), Ngororero districts (West/Iburengerazuba province)",Landslide,Landslide,49,2000,0,0,2016-0164,--,--
+/10/1996,/10/1996,Saint Lucia,LCA,,Landslide,Landslide,0,175,0,0,1996-0327,--,--
+09/08/2010,09/08/2010,Sierra Leone,SLE,Western Area Urb district (Western province),Landslide,Landslide,16,5,0,0,2010-0389,--,--
+28/11/1996,28/11/1996,South Africa,ZAF,Dealesville,Landslide,Landslide,34,0,0,0,1996-0275,--,--
+//1949,//1949,Soviet Union,SUN,Khait (Tadzhikistan),Landslide,Landslide,12000,0,0,0,1949-0001,--,--
+13/03/1961,13/03/1961,Soviet Union,SUN,Kiev,Landslide,Landslide,145,0,0,0,1961-0002,--,--
+10/07/1974,10/07/1974,Soviet Union,SUN,Pamir Mountains,Landslide,Avalanche,13,0,0,0,1974-0036,--,--
+09/01/1987,09/01/1987,Soviet Union,SUN,Schamuschi (Georgia),Landslide,Avalanche,26,0,0,0,1987-0377,--,--
+20/04/1989,20/04/1989,Soviet Union,SUN,Adzharia (Georgia),Landslide,Landslide,46,2500,0,0,1989-0151,--,--
+10/03/1989,20/04/1989,Soviet Union,SUN,Caucasus (Georgia),Landslide,Landslide,52,0,423000,0,1989-0435,Flood,--
+07/08/1996,09/08/1996,Spain,ESP,Near Biesca (Pyrenées),Landslide,Landslide,84,129,20000,0,1996-0178,--,--
+/07/1974,/07/1974,Sri Lanka,LKA,,Landslide,Landslide,27,0,0,0,1974-0158,--,--
+/10/1977,/10/1977,Sri Lanka,LKA,,Landslide,Landslide,27,0,0,0,1977-0241,--,--
+08/10/1993,08/10/1993,Sri Lanka,LKA,Kodigama,Landslide,Landslide,65,130,0,0,1993-0216,--,--
+02/10/2014,02/10/2014,Sri Lanka,LKA,Southern province,Landslide,Landslide,7,400,0,0,2014-0402,--,--
+28/10/2014,29/10/2014,Sri Lanka,LKA,"Koslanda area (Badulla district, Uva province)",Landslide,--,38,330,0,0,2014-0434,--,--
+29/10/2014,29/10/2014,Sri Lanka,LKA,"Haldummulla area (Badulla district, Uva province)",Landslide,Landslide,196,1067,0,0,2014-0548,--,--
+30/11/1977,30/11/1977,Sweden,SWE,Goteborg,Landslide,Landslide,13,50,11000,0,1977-0139,--,--
+/02/1951,/02/1951,Switzerland,CHE,,Landslide,Avalanche,92,0,20000,0,1951-0029,--,--
+30/08/1965,30/08/1965,Switzerland,CHE,Saas-Fee,Landslide,Avalanche,90,0,0,0,1965-0051,--,--
+28/01/1968,28/01/1968,Switzerland,CHE,Alps,Landslide,Avalanche,20,22,0,0,1968-0027,--,--
+24/02/1970,24/02/1970,Switzerland,CHE,Reckingen,Landslide,Avalanche,30,48,0,0,1970-0018,--,--
+/04/1975,/04/1975,Switzerland,CHE,Alps,Landslide,Avalanche,13,0,0,0,1975-0024,--,--
+//1988,//1988,Switzerland,CHE,,Landslide,Avalanche,0,2000,0,0,1988-0693,--,--
+21/02/1999,21/02/1999,Switzerland,CHE,"Evolene (Herens Valley, Valais)",Landslide,Avalanche,30,0,685000,200000,1999-0263,--,--
+13/10/2000,13/10/2000,Switzerland,CHE,Gondo town (Valais Province),Landslide,Landslide,16,1500,330000,165000,2000-0672,--,--
+31/08/2002,31/08/2002,Switzerland,CHE,Lutzenberg (Appenzell Ausser-Rhoden Province),Landslide,Landslide,3,50,0,0,2002-0558,--,--
+14/11/2002,14/11/2002,Switzerland,CHE,"Graubunden, Uri, Ticino, Geneve, Vaud Provinces",Landslide,Landslide,1,231,180000,30000,2002-0743,"Slide (land, mud, sn",--
+02/10/2002,02/10/2002,Syrian Arab Republic,SYR,"Aleppo city (Jebel_Saman district, Aleppo province)",Landslide,Landslide,80,23,0,0,2002-0632,--,--
+25/05/1986,25/05/1986,Taiwan (Province of China),TWN,Near Chusan,Landslide,Landslide,14,134,0,0,1986-0066,--,--
+13/05/1992,24/05/1992,Tajikistan,TJK,Kandak,Landslide,Landslide,243,0,24100,0,1992-0199,--,--
+07/05/1993,08/05/1993,Tajikistan,TJK,Dushambe city (Kofarnikhon district),Landslide,Landslide,5,75357,149000,0,1993-0023,"Slide (land, mud, sn",--
+19/11/1997,19/11/1997,Tajikistan,TJK,Col D'Ansob,Landslide,Avalanche,40,0,0,0,1997-0277,--,--
+23/02/1998,23/02/1998,Tajikistan,TJK, Dzhamiat Rokhaty,Landslide,Avalanche,11,0,0,0,1998-0056,--,--
+20/05/2001,20/05/2001,Tajikistan,TJK,Varzob district (Tadzhikistan Territories province),Landslide,Landslide,1,165,600,0,2001-0717,--,--
+26/02/2003,26/02/2003,Tajikistan,TJK,"Chorvodor village (Kulyab district, Khatlon province)",Landslide,Landslide,0,181,0,0,2003-0115,--,--
+13/04/2003,25/04/2003,Tajikistan,TJK,"Dushambe city (Leninskiy district, Tadzhikistan Territories province)",Landslide,Landslide,1,6000,41000,0,2003-0189,--,--
+03/02/2005,03/02/2005,Tajikistan,TJK,"Degdonak (Darbanskiy district, Tadzhikistan Territories province)",Landslide,Avalanche,16,1953,0,0,2005-0063,--,--
+26/01/2006,02/02/2006,Tajikistan,TJK,"Darvoz area (Kalay-Humbskiy district, Badakhshoni Kuni province), Khorog, Shugnan villages (Shugnanskiy district, Badakhshoni Kuni province), Vanchskiy, Roshtkala, Rushanskiy districts (Badakhshoni Kuni province), Dushambe city (Leninskiy district, Tadzhikistan Territories province), Faysabadskiy, Jirgatalskiy districts (Tadzhikistan Territories province), Vahshskiy district (Khatlon province)
+",Landslide,Avalanche,21,728,0,0,2006-0053,--,--
+24/04/2006,08/05/2006,Tajikistan,TJK,"Temumalik area (Baljuan district, Khatlon province) , Jomi area (Bokhtar district, Khatlon province), Yavan village (Yvanskiy district, Khatlon province), Muminobod, Shurabad, Dangara districts (Khatlon province)",Landslide,Landslide,1,13000,0,0,2006-0256,"Slide (land, mud, sn",--
+22/12/2007,22/12/2007,Tajikistan,TJK,"Douchanbe area (Leninskiy district, Tadzhikistan Territories province)",Landslide,Avalanche,16,0,0,0,2007-0617,--,--
+03/04/2015,03/04/2015,Tajikistan,TJK,"Douchanbe area (Leninskiy district, Tadzhikistan Territories province)",Landslide,Landslide,10,0,0,0,2015-0119,--,--
+22/01/2001,22/01/2001,"Tanzania, United Republic of",TZA,"Mtanga village (Kigoma Rural district, Kigoma province)",Landslide,Landslide,13,150,0,0,2001-0047,--,--
+02/08/1994,02/08/1994,Thailand,THA,North and Central provinces,Landslide,Landslide,9,10000,0,0,1994-0174,--,--
+03/09/2002,03/09/2002,Thailand,THA,"Ban Sala refugee camp (Mae Sariang district, Mae Hong Son province)",Landslide,Landslide,35,33000,0,0,2002-0562,--,--
+18/10/2004,18/10/2004,Thailand,THA,"Baan Huay Nam Khiew village (Muang Krabi district, Krabi province)",Landslide,Landslide,3,110,0,0,2004-0547,--,--
+12/11/2004,12/11/2004,Trinidad and Tobago,TTO,Delaford city (east Tobago),Landslide,Landslide,2,1200,0,0,2004-0588,--,--
+12/09/1976,12/09/1976,Turkey,TUR,Ordu province,Landslide,Landslide,40,0,0,0,1976-0170,--,--
+/02/1976,/02/1976,Turkey,TUR,,Landslide,Landslide,27,0,0,0,1976-0180,--,--
+27/03/1980,27/03/1980,Turkey,TUR,Ayvazhau village (Kayseri province),Landslide,Landslide,40,0,0,0,1980-0353,--,--
+23/06/1988,23/06/1988,Turkey,TUR,Catak (Trabzon province),Landslide,Landslide,64,620,0,0,1988-0273,--,--
+18/01/1993,18/01/1993,Turkey,TUR,Ozengeli,Landslide,Avalanche,135,0,0,0,1993-0081,--,--
+10/07/1995,13/07/1995,Turkey,TUR,"Ankara, Istanbul, Senirkent",Landslide,Landslide,74,12046,26000,0,1995-0147,"Slide (land, mud, sn",--
+10/11/2001,10/11/2001,Turkey,TUR,"Camlihemsin, Cayeli, Ardesen districts (Rize province)",Landslide,Landslide,9,600,0,0,2001-0616,--,--
+17/03/2005,17/03/2005,Turkey,TUR,"Sugozu village (Koyulhisar district, Sivas province)",Landslide,Landslide,15,9,0,0,2005-0119,--,--
+25/01/2009,25/01/2009,Turkey,TUR,"Zigana area (Torul district, Gumushane province)",Landslide,Avalanche,11,6,0,0,2009-0054,--,--
+21/11/2009,22/11/2009,Turkey,TUR,"Trabzon city (Merkez district, Trabzon province), Giresun city (Merkez district, Giresun province)",Landslide,Landslide,4,0,0,0,2009-0507,"Slide (land, mud, sn",--
+27/08/2010,27/08/2010,Turkey,TUR,"Gundogdu village (Merkez district, Rize province)",Landslide,Landslide,13,206,0,0,2010-0438,--,--
+28/01/2013,28/01/2013,Turkey,TUR,Sirnak province,Landslide,Landslide,7,0,0,0,2013-0016,--,--
+23/11/1997,23/11/1997,Uganda,UGA, Mbale Region,Landslide,Landslide,20,0,0,0,1997-0280,--,--
+03/11/2001,03/11/2001,Uganda,UGA,"Ntandi trading center (Bwamba district, Bundibugyo province)",Landslide,Landslide,11,3366,0,0,2001-0650,--,--
+25/02/2010,01/03/2010,Uganda,UGA,"Himumtu, Mazimasa, Kachonga, Butalega Rural, Butaleja Town areas (Bunyole district, Butaleja province), Nametsi, Kubehwo, Namangasa, Namasheti, Bumayoka villages (Manjiya district, Bududa province), Amudat, Amuria, Budaka, Bukwo, Kapchorwa, Katakwi, Kibuku, Manafwa, Mbale, Moroto, Nakapiripirit, Napak, Pallisa, Sironko provinces",Landslide,Landslide,388,12795,0,0,2010-0084,--,--
+24/06/2012,24/06/2012,Uganda,UGA,"Namanga, Bunakasala villages (Bududa district, Manjiya province)",Landslide,Landslide,18,3432,0,0,2012-0215,--,--
+10/05/2016,10/05/2016,Uganda,UGA,"Humya, Bukhonzo villages",Landslide,Landslide,15,1000,0,0,2016-0148,--,--
+21/10/1966,21/10/1966,United Kingdom of Great Britain and Northern Irela,GBR,"Aberfan, Wales",Landslide,Landslide,140,0,0,0,1966-0083,--,--
+02/03/1938,02/03/1938,United States of America (the),USA,,Landslide,Landslide,200,0,0,0,1938-0001,--,--
+//1972,//1972,United States of America (the),USA,West Virginia,Landslide,Landslide,400,0,0,0,1972-0011,--,--
+20/02/1994,20/02/1994,United States of America (the),USA,Malibu (California),Landslide,Landslide,0,125,0,0,1994-0045,--,--
+25/12/2003,26/12/2003,United States of America (the),USA,San Bernardino district (California province),Landslide,Landslide,15,15,0,0,2003-0633,--,--
+22/03/2014,22/03/2014,United States of America (the),USA,"Oso village (Snohomish district, Washington province)",Landslide,Landslide,43,150,20000,0,2014-0095,--,--
+24/11/1999,24/11/1999,Uzbekistan,UZB,Col du Kamchik,Landslide,Avalanche,24,0,0,0,1999-0703,--,--
+//1988,//1988,Vanuatu,VUT,,Landslide,Landslide,1,3000,0,0,1988-0694,--,--
+/05/1962,/05/1962,Venezuela (Bolivarian Republic of),VEN,,Landslide,Landslide,30,0,0,0,1962-0026,--,--
+/04/1981,/04/1981,Venezuela (Bolivarian Republic of),VEN,Caracas,Landslide,Landslide,20,4000,0,0,1981-0044,--,--
+06/09/1987,06/09/1987,Venezuela (Bolivarian Republic of),VEN,"Aragua, Maracay",Landslide,Landslide,96,17000,800,0,1987-0156,--,--
+07/10/1994,07/10/1994,Venezuela (Bolivarian Republic of),VEN,Tachira state,Landslide,Landslide,18,518,0,0,1994-0340,--,--
+25/07/1992,25/07/1992,Viet Nam,VNM,Ha Tuyen (Cao Bang province),Landslide,Avalanche,200,38000,0,0,1992-0313,"Slide (land, mud, sn",--
+15/07/1994,31/07/1994,Viet Nam,VNM,Lai Chau province,Landslide,Landslide,21,1034,2300,0,1994-0187,"Slide (land, mud, sn",--
+22/07/2000,22/07/2000,Viet Nam,VNM,"Ban Sai village (Sa Pa district, Lao Cai province)",Landslide,Landslide,33,22,0,0,2000-0439,--,--
+03/10/2000,03/10/2000,Viet Nam,VNM,Sin Ho district (Lai Chau province),Landslide,Landslide,40,17,0,0,2000-0680,--,--
+13/09/2004,13/09/2004,Viet Nam,VNM,Bat Xat district (Lao Cai province),Landslide,Landslide,23,0,0,0,2004-0472,--,--
+06/11/2009,06/11/2009,Viet Nam,VNM,Bac Tra My district (Quang Nam province),Landslide,Landslide,13,1,0,0,2009-0476,--,--
+28/12/2005,29/12/2005,Yemen,YEM,"Al-Dhafir village (Bani Matar District, Sana'a Governorate)",Landslide,Landslide,65,11,0,0,2005-0709,--,--
+27/08/2009,27/08/2009,Yemen,YEM,"Modawar village (Al Mahwait district, Al Mahwit province)",Landslide,Landslide,11,0,0,0,2009-0346,--,--
+22/05/2016,22/05/2016,Yemen,YEM,"Al-Lassbah village (Al-Shamayteen mountain region, Taez province)",Landslide,Landslide,20,20,0,0,2016-0196,--,--
+22/02/2010,22/02/2010,Zambia,ZMB,Mpulungu district (Northern province),Landslide,Landslide,9,150,0,0,2010-0070,--,--

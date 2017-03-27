@@ -1,0 +1,1400 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
+25/03/1998,08/05/1998,Afghanistan,AFG,Rustaq district (province of Takar),Epidemic,Viral disease,12,7,0,0,1998-0141,--,--
+/07/1998,02/09/1998,Afghanistan,AFG,"Kabul, Bamyan, Uruzgan, Baghlan, Laghman, Takhar, Samagan, Kunduz, Badakhshan and Ghazni, Herat provinces",Epidemic,Bacterial disease,173,15776,0,0,1998-0267,--,--
+/01/1999,26/02/1999,Afghanistan,AFG,"Jasthak, Darwaz District, - Badakshan Province",Epidemic,Viral disease,135,6300,0,0,1999-0465,--,--
+29/05/1999,12/07/1999,Afghanistan,AFG,"Kabul province (central region), Southern region, Kunduz Province (north-eastern province)",Epidemic,Bacterial disease,0,14402,0,0,1999-0466,--,--
+/01/2000,/01/2000,Afghanistan,AFG,"Darra Souf, Jaghuri, Zindajan, Ghorian Districts, Badakshan, Kunduz, Heart",Epidemic,Viral disease,507,0,0,0,2000-0054,--,--
+/05/2000,11/07/2000,Afghanistan,AFG,Gulran district (Herat Province),Epidemic,Viral disease,16,11,0,0,2000-0305,--,--
+/08/2000,13/09/2000,Afghanistan,AFG,"Southern, Western and Northern regions (Kandahar, Badghis and Jawzjan provinces respectively)",Epidemic,Bacterial disease,19,1604,0,0,2000-0564,--,--
+/09/2000,/09/2000,Afghanistan,AFG,Yakawlang,Epidemic,--,15,613,0,0,2000-0623,--,--
+01/06/2001,25/07/2001,Afghanistan,AFG,"Norhtern region (Khulm, Aibak), north-east region (Faizabad, Kunduz), eastern region, southern region and south-east region.",Epidemic,Bacterial disease,114,4385,0,0,2001-0331,--,--
+01/12/2001,01/12/2001,Afghanistan,AFG,Taiwara-Ghor province,Epidemic,--,40,40,0,0,2001-0777,--,--
+/03/2002,/03/2002,Afghanistan,AFG,Youmgan Valley,Epidemic,Viral disease,60,0,0,0,2002-0139,--,--
+28/03/2002,28/03/2002,Afghanistan,AFG,Waras district (Bamyan province),Epidemic,--,82,31,0,0,2002-0188,--,--
+10/04/2002,10/04/2002,Afghanistan,AFG,Uruzgan province,Epidemic,--,2500,0,0,0,2002-0206,--,--
+/01/2002,28/05/2002,Afghanistan,AFG,"Kabul, Jalalabad",Epidemic,Parasitic disease,0,200000,0,0,2002-0295,--,--
+/07/2002,/07/2002,Afghanistan,AFG,Taiwana district (Ghor province),Epidemic,--,35,0,0,0,2002-0419,--,--
+01/07/2002,17/07/2002,Afghanistan,AFG,Kabul,Epidemic,--,3,6688,0,0,2002-0436,--,--
+24/10/2002,24/10/2002,Afghanistan,AFG,Badakhshan,Epidemic,--,100,0,0,0,2002-0666,--,--
+01/09/2002,22/01/2003,Afghanistan,AFG,"Aghram, Kuf sub-district, Darwaz, Khawahan districts (Badakshan province)",Epidemic,Bacterial disease,17,115,0,0,2002-0703,--,--
+25/06/2005,19/09/2005,Afghanistan,AFG,"Kabul, Kandahar, Herat, Takhar, Konar, Badakhsthan, Konduz, Baghlan, Nimruz, Nangarha, Jowzjan, and 15 other provinces",Epidemic,Bacterial disease,0,3245,0,0,2005-0326,--,--
+06/10/2008,//2008,Afghanistan,AFG,"Laghman, Nooristan, Nangarhar (East), Samangan, Faryab (North), Nimruz (West)",Epidemic,Bacterial disease,17,1100,0,0,2008-0602,--,--
+/04/1996,/09/1996,Albania,ALB,,Epidemic,Viral disease,7,66,0,0,1996-0229,--,--
+/07/2002,/07/2002,Albania,ALB,Gjinokastru,Epidemic,--,0,226,0,0,2002-0417,--,--
+24/04/1991,24/04/1991,Algeria,DZA,Tenia City,Epidemic,Bacterial disease,0,204,0,0,1991-0163,--,--
+/03/1997,/03/1997,Algeria,DZA,"Oued Rhiou, Wilama of Relizane",Epidemic,Bacterial disease,1,364,0,0,1997-0481,--,--
+/06/1987,/06/1987,Angola,AGO,Luanda,Epidemic,Bacterial disease,59,673,0,0,1987-0105,--,--
+/01/1989,/01/1989,Angola,AGO,"Luanda, Benguela",Epidemic,Bacterial disease,766,15525,0,0,1989-0143,--,--
+//1995,//1995,Angola,AGO,,Epidemic,Bacterial disease,0,1007,0,0,1995-0480,--,--
+01/01/1998,06/08/1998,Angola,AGO,"Luanda Norte, Biè, Malange, Huambo province",Epidemic,Bacterial disease,115,1113,0,0,1998-0235,--,--
+/08/1999,/10/1999,Angola,AGO,Yambala (Benguela Province),Epidemic,Bacterial disease,147,253,0,0,1999-0467,--,--
+01/01/1999,27/04/1999,Angola,AGO,Luanda,Epidemic,Viral disease,41,620,0,0,1999-0468,--,--
+/08/2000,/08/2000,Angola,AGO,"Bie, Lunda Sul, Benguela",Epidemic,Bacterial disease,18,117,0,0,2000-0571,--,--
+/05/2001,02/10/2001,Angola,AGO,"Balombo municipality (Benguela province), Cunene, Lunda Sul and Cuando Cubango provinces",Epidemic,Bacterial disease,30,332,0,0,2001-0427,--,--
+/05/2001,/05/2001,Angola,AGO,"Benguela, Cuando, Cubango, Cunene provinces",Epidemic,Bacterial disease,9,88,0,0,2001-0519,--,--
+13/10/2004,06/09/2005,Angola,AGO,"Uige, Luanda, Cabinda, Malange, Kuanza Norte, Kuanza Sul, Malanje, Zaire provinces",Epidemic,Viral disease,329,45,0,0,2004-0737,--,--
+13/02/2006,08/02/2007,Angola,AGO,"Luanda, Bengo, Kwanza Norte, Benguela , Huambo, Malanje, Namibe, Bie, Huila, Kwanza Sul, Uige, Zaire, Lunda-Norte, Cabinda, Namibe, Kuando Kubango provinces",Epidemic,Bacterial disease,2354,57570,0,0,2006-0187,--,--
+24/10/2006,/11/2006,Angola,AGO,"Huila, Uige provinces",Epidemic,Bacterial disease,68,0,0,0,2006-0636,--,--
+01/01/2007,31/12/2007,Angola,AGO,"Luanda, Cabinda, Benguela, Kwanza Norte, Bengo, Huambo, Malanje, Zaire, Huila, Kuanza Sul, Bié, Uige, Luanda-Norte, Namibe, Kuando Kubango provinces",Epidemic,Bacterial disease,515,17875,0,0,2007-0056,--,--
+02/10/2007,29/11/2007,Angola,AGO,Cacuaco municipality,Epidemic,--,0,468,0,0,2007-0659,--,--
+01/01/2008,30/11/2008,Angola,AGO,Cunene province,Epidemic,Bacterial disease,229,9942,0,0,2008-0105,--,--
+01/01/2008,17/05/2009,Angola,AGO,"Uige, Luanda, Kwanza Norte, Malanje, Kwanza Sul, Huila, Cunene",Epidemic,Bacterial disease,134,7495,0,0,2008-0511,--,--
+/03/2009,/03/2009,Angola,AGO,"Okanguati, Opuwo areas (Cunene province)",Epidemic,Bacterial disease,9,143,0,0,2009-0093,--,--
+/01/2009,/12/2009,Angola,AGO,"Sumbe, Porto Amboim, Mussende district",Epidemic,Bacterial disease,107,25795,0,0,2009-0657,--,--
+05/12/2015,31/07/2016,Angola,AGO,"Cabinda, Cuanza Sul, Huambo, Huila, Uige, Bengo, Benguela, Bie, Cuando Cubango, Luanda Norte, Cunene, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Zaire provinces",Epidemic,Viral disease,364,3748,0,0,2015-0579,--,--
+/01/1919,/01/1919,Anguilla,AIA,,Epidemic,Viral disease,0,0,0,0,1919-0007,--,--
+/01/1920,/01/1920,Anguilla,AIA,,Epidemic,Viral disease,0,0,0,0,1920-0012,--,--
+/01/1921,/01/1921,Anguilla,AIA,,Epidemic,Viral disease,0,0,0,0,1921-0005,--,--
+/01/1922,/01/1922,Anguilla,AIA,,Epidemic,Viral disease,0,0,0,0,1922-0010,--,--
+/01/1923,/01/1923,Anguilla,AIA,,Epidemic,Viral disease,0,0,0,0,1923-0017,--,--
+/02/1992,/02/1992,Argentina,ARG,,Epidemic,Bacterial disease,67,3883,0,0,1992-0041,--,--
+/03/2009,/04/2009,Argentina,ARG,"Salta, Catamarca, Jujuy, Tucuman (Chaco province); Buenos Aires province, Corrientes, Jujuy, Sante Fe",Epidemic,Viral disease,6,13366,0,0,2009-0128,--,--
+26/02/2003,01/04/2003,Australia,AUS,,Epidemic,Viral disease,0,6,0,0,2002-0858,--,--
+/08/1978,/08/1978,Bahrain,BHR,,Epidemic,Bacterial disease,111,0,0,0,1978-0096,--,--
+//1918,//1918,Bangladesh,BGD,,Epidemic,Viral disease,393000,0,0,0,1918-0001,--,--
+/09/1977,/09/1977,Bangladesh,BGD,,Epidemic,Bacterial disease,260,10461,0,0,1977-0109,--,--
+/05/1978,/05/1978,Bangladesh,BGD,,Epidemic,Bacterial disease,129,0,0,0,1978-0061,--,--
+/09/1982,/09/1982,Bangladesh,BGD,"North, East, South",Epidemic,Bacterial disease,2696,173460,0,0,1982-0098,--,--
+/11/1983,/11/1983,Bangladesh,BGD,,Epidemic,Bacterial disease,500,0,0,0,1983-0141,--,--
+/04/1984,/04/1984,Bangladesh,BGD,,Epidemic,Parasitic disease,950,0,0,0,1984-0033,--,--
+/03/1985,/03/1985,Bangladesh,BGD,,Epidemic,--,400,0,0,0,1985-0038,--,--
+/11/1985,/11/1985,Bangladesh,BGD,,Epidemic,--,500,0,0,0,1985-0129,--,--
+/08/1986,/08/1986,Bangladesh,BGD,Northeastern regions,Epidemic,--,165,52000,0,0,1986-0091,--,--
+/11/1987,/11/1987,Bangladesh,BGD,Dhamrai,Epidemic,--,100,1000,0,0,1987-0203,--,--
+/12/1987,/12/1987,Bangladesh,BGD,"Chittagong, Cox's Bazar",Epidemic,--,100,200,0,0,1987-0220,--,--
+27/09/1987,27/09/1987,Bangladesh,BGD,"Rangpur, Netrokona, Gaibandha, Noagaon, Kurigram, Jamlpur, Cox's Bazar, Chittagong, Noahkali districts",Epidemic,--,550,600000,0,0,1987-0572,--,--
+11/08/1989,11/08/1989,Bangladesh,BGD,,Epidemic,--,20,0,0,0,1989-0557,--,--
+/04/1991,/04/1991,Bangladesh,BGD,Patueklali (Barisal division),Epidemic,--,1000,1500000,0,0,1991-0086,--,--
+/09/1991,/09/1991,Bangladesh,BGD,North Bangladesh,Epidemic,--,1700,108000,0,0,1991-0357,--,--
+/04/1992,/04/1992,Bangladesh,BGD,North,Epidemic,--,200,0,0,0,1992-0289,--,--
+/08/1993,/08/1993,Bangladesh,BGD,"Banderban, Sylhet, Brahmanbaria, Hobiganj, Moulvi Bazar, Sunamganj, Cox's Bazar, Feni, Comilla, Pabna, Sirajganj, Chittagong, Chittagong Hill districts",Epidemic,--,38,5660,0,0,1993-0046,--,--
+/05/1995,/05/1995,Bangladesh,BGD,Noakhali district,Epidemic,--,50,1236,0,0,1995-0088,--,--
+/03/1995,/03/1995,Bangladesh,BGD,"Sunamganj, Chittagong and Cox's Bazar",Epidemic,Parasitic disease,350,20000,0,0,1995-0407,--,--
+/07/1996,/07/1996,Bangladesh,BGD,Kurigram District,Epidemic,--,20,10000,0,0,1996-0035,--,--
+31/05/1997,31/05/1997,Bangladesh,BGD,Chittagong,Epidemic,--,64,14330,0,0,1997-0133,--,--
+08/07/1998,30/09/1998,Bangladesh,BGD,Dhaka,Epidemic,--,151,185000,0,0,1998-0246,--,--
+/03/2000,/03/2000,Bangladesh,BGD,Barisal,Epidemic,--,0,3352,0,0,2000-0184,--,--
+/07/2000,/07/2000,Bangladesh,BGD,"Dhaka, Chittagong, Rajshahi",Epidemic,Viral disease,21,522,0,0,2000-0467,--,--
+/10/2000,/10/2000,Bangladesh,BGD,Southwestern districts,Epidemic,--,10,22340,0,0,2000-0665,--,--
+/06/2002,/06/2002,Bangladesh,BGD,"Bandarban, Rangamati, Khagrachari hill districts",Epidemic,Parasitic disease,96,49904,0,0,2002-0383,--,--
+04/01/2004,08/02/2004,Bangladesh,BGD,"Manikganj, Rajbari, Jaipurhat, Naogang, Faridpur districts (Goalanda Upazilla) ",Epidemic,Viral disease,14,42,0,0,2004-0049,--,--
+04/02/2004,20/04/2004,Bangladesh,BGD,Faridpur district,Epidemic,Viral disease,18,12,0,0,2004-0174,--,--
+29/07/2007,09/10/2007,Bangladesh,BGD,,Epidemic,Bacterial disease,54,236558,0,0,2007-0509,--,--
+30/07/2007,09/10/2007,Bangladesh,BGD,,Epidemic,Viral disease,32,48352,0,0,2007-0510,--,--
+/01/1995,/01/1995,Belarus,BLR,,Epidemic,Bacterial disease,13,282,0,0,1995-0319,--,--
+26/11/1997,26/11/1997,Belarus,BLR,Gomel City,Epidemic,Bacterial disease,0,605,0,0,1997-0507,--,--
+/01/1945,/01/1945,Belgium,BEL,"Liege's province, Bruxelles",Epidemic,Viral disease,0,104,0,0,1945-0009,--,--
+/03/1976,/03/1976,Benin,BEN,,Epidemic,Viral disease,1,7,0,0,1976-0027,--,--
+01/01/1987,01/01/1987,Benin,BEN,"Atacora, Borgou, Zou provinces",Epidemic,Bacterial disease,24,56,0,0,1987-0010,--,--
+22/12/1987,22/12/1987,Benin,BEN,"Tanguieta, Cobly, Materi districts (Atacora province)",Epidemic,Bacterial disease,41,347,0,0,1987-0231,--,--
+/02/1989,/02/1989,Benin,BEN,"Atacora, Borgou",Epidemic,Bacterial disease,228,2411,0,0,1989-0010,--,--
+01/07/1996,20/10/1996,Benin,BEN,Kerou district (Atacora) and Borgou,Epidemic,Viral disease,65,21,0,0,1996-0211,--,--
+/04/1997,/04/1997,Benin,BEN,North,Epidemic,Bacterial disease,47,226,0,0,1997-0488,--,--
+15/03/1998,15/03/1998,Benin,BEN,"Borgou, Atacora departments",Epidemic,Bacterial disease,78,527,0,0,1998-0137,--,--
+/07/1999,/07/1999,Benin,BEN,Allada District,Epidemic,--,9,241,0,0,1999-0469,--,--
+/03/2000,/03/2000,Benin,BEN,"Sinende, Gogounou, Borgou district",Epidemic,Bacterial disease,15,95,0,0,2000-0183,--,--
+/02/2000,/02/2000,Benin,BEN,Atacora and Borgou districts,Epidemic,Bacterial disease,36,435,0,0,2000-0198,--,--
+16/10/2000,16/10/2000,Benin,BEN,"Alibori, Borgou, Atacora, Donga departments",Epidemic,Bacterial disease,300,7232,0,0,2000-0878,--,--
+/01/2001,/01/2001,Benin,BEN,,Epidemic,Bacterial disease,57,2119,0,0,2001-0509,--,--
+27/08/2001,27/08/2001,Benin,BEN,"Atacora, Donga, Borgou, Alibori",Epidemic,Bacterial disease,21,109,0,0,2001-0635,--,--
+01/01/2001,25/03/2001,Benin,BEN,"Atacora, Donda, Borgou, Alibori departments",Epidemic,Bacterial disease,300,7532,0,0,2001-0667,--,--
+/01/2002,/01/2002,Benin,BEN,,Epidemic,Bacterial disease,50,452,0,0,2002-0261,--,--
+01/01/2003,15/11/2003,Benin,BEN,"Atlantique, Borgou departments",Epidemic,Bacterial disease,3,265,0,0,2003-0554,--,--
+06/06/2005,04/09/2005,Benin,BEN,"Cotonou, Oueme region",Epidemic,Bacterial disease,4,206,0,0,2005-0596,--,--
+/01/2008,/02/2008,Benin,BEN,"Atacora, Donha, Alibori, Borgou counties",Epidemic,Bacterial disease,29,269,0,0,2008-0230,--,--
+22/09/2008,02/10/2008,Benin,BEN,"Malanville, Karimana, Djougou, Bassilla, Cotonou",Epidemic,Bacterial disease,2,527,0,0,2008-0449,--,--
+21/07/2008,15/08/2008,Benin,BEN,"Enagmon, Kpakpakame, Avotrou",Epidemic,Bacterial disease,2,192,0,0,2008-0605,--,--
+//2010,/03/2010,Benin,BEN,,Epidemic,Viral disease,16,104,0,0,2010-0131,--,--
+15/01/2010,08/02/2010,Benin,BEN,"Bo,ou, Adjohoun, Dangbo, Aguegues villages",Epidemic,Bacterial disease,2,133,0,0,2010-0145,--,--
+/10/2010,/10/2010,Benin,BEN,"Cotonou, ensemble du pays",Epidemic,Bacterial disease,7,800,0,0,2010-0541,--,--
+/08/2013,31/12/2013,Benin,BEN,"Acomey-Calavi, Allada, Cotonou, Grand-Popo, Porto-Novo, Seme-Kppjdi, So-Ava, Toviklin",Epidemic,Bacterial disease,6,486,0,0,2013-0487,--,--
+16/08/2016,03/09/2016,Benin,BEN,"Cotonou, Savalou, So-Ava, Abomey-Calavi, Dassa, Abomey-Zou, Parakou, Ze",Epidemic,Bacterial disease,9,281,0,0,2016-0448,--,--
+/09/1985,/03/1986,Bhutan,BTN,,Epidemic,Bacterial disease,41,247,0,0,1985-0037,--,--
+//1992,//1992,Bhutan,BTN,,Epidemic,Bacterial disease,0,494,0,0,1992-0551,--,--
+/02/1969,/02/1969,Bolivia (Plurinational State of),BOL,"Magdalena, Beni region",Epidemic,Viral disease,16,24,0,0,1969-0048,--,--
+/11/1969,/11/1969,Bolivia (Plurinational State of),BOL,"Cochabamba, Sucre",Epidemic,Viral disease,2,53,0,0,1969-0108,--,--
+01/01/1989,01/01/1989,Bolivia (Plurinational State of),BOL,Cochabamba,Epidemic,Viral disease,67,97,0,0,1989-0020,--,--
+/01/1991,/01/1991,Bolivia (Plurinational State of),BOL,,Epidemic,Bacterial disease,329,17665,0,0,1991-0694,--,--
+01/01/1997,16/01/1997,Bolivia (Plurinational State of),BOL,"Yacuiba (Tarija province), Beni, Potosi, Santa Cruz provinces",Epidemic,Bacterial disease,6,717,0,0,1997-0536,--,--
+/01/1997,/02/1997,Bolivia (Plurinational State of),BOL,"Cochabamba, Beni, Santa Cruz departments",Epidemic,Viral disease,12,17,0,0,1997-0537,--,--
+//1998,31/03/1998,Bolivia (Plurinational State of),BOL,"La Paz, El Alto, Valles y Tropico de la Paz",Epidemic,Bacterial disease,5,165,0,0,1998-0570,--,--
+/01/1999,/06/1999,Bolivia (Plurinational State of),BOL,Santa Cruz department,Epidemic,--,33,68,0,0,1999-0716,--,--
+/02/2007,/02/2007,Bolivia (Plurinational State of),BOL,,Epidemic,Viral disease,1,228,0,0,2007-0065,--,--
+/01/2008,/02/2008,Bolivia (Plurinational State of),BOL,"Cochabamba, Pando, Santa Cruz, Beni",Epidemic,Viral disease,0,204,0,0,2008-0049,--,--
+/10/2008,17/06/2009,Bolivia (Plurinational State of),BOL,"Santa Cruz de la Sierra, Beni, Cochabamba, Chuquisaca, La Paz, Oruro, Pando, Potosi, Tarija",Epidemic,Viral disease,27,6998,0,0,2008-0660,--,--
+/11/2010,/12/2011,Bolivia (Plurinational State of),BOL,"Trinidad, Guayaramerin, Santa Ana, Riberalta, San Ignacio de Moxos, San Borja, Magdalena, La Paz, Santa Cruz, Beni, Chuquisaca, Cochabamba, Oruro, Pando, Potosi, Tarija, Yacapani, San Juan de Yacapani, San Carlos",Epidemic,Viral disease,29,25236,0,0,2010-0680,--,--
+29/08/2000,29/08/2000,Bosnia and Herzegovina,BIH,Tensaj,Epidemic,Viral disease,0,400,0,0,2000-0673,--,--
+/05/1988,/05/1988,Botswana,BWA,Countrywide,Epidemic,Parasitic disease,183,14618,0,0,1988-0182,--,--
+/01/2006,/04/2006,Botswana,BWA,"Francistown, S/Palapye, Boteti, Tutume, Bobirwa, Phikwe, Kweneng East, Kanye, Lobatse, N/West, Mahalapye, Goodhope",Epidemic,--,470,22264,0,0,2006-0134,--,--
+01/11/2008,24/05/2009,Botswana,BWA,"Ngamiland, Central, Kweneng, Southern states",Epidemic,Bacterial disease,2,15,0,0,2008-0511,--,--
+01/01/1974,01/01/1974,Brazil,BRA,Sao Paulo,Epidemic,Bacterial disease,1500,30000,0,0,1974-0127,--,--
+/07/1975,/07/1975,Brazil,BRA,"Pernambuco, Recife (North East areas)",Epidemic,Bacterial disease,0,107,0,0,1975-0068,--,--
+/05/1984,/05/1984,Brazil,BRA,Northeast Brazil,Epidemic,--,300,0,0,0,1984-0039,--,--
+/08/1986,/08/1986,Brazil,BRA,,Epidemic,Viral disease,0,34722,0,0,1986-0087,--,--
+/02/1988,/02/1988,Brazil,BRA,Rio de Janeiro state,Epidemic,Bacterial disease,0,170,0,0,1988-0704,--,--
+/04/1991,/04/1991,Brazil,BRA,Northeast,Epidemic,Bacterial disease,196,15240,0,0,1991-0135,--,--
+/01/1995,/01/1995,Brazil,BRA,,Epidemic,Viral disease,2,112939,0,0,1995-0219,--,--
+30/12/1997,30/12/1997,Brazil,BRA,,Epidemic,Viral disease,0,25900,0,0,1997-0512,--,--
+/05/1998,/05/1998,Brazil,BRA,"Minas Gerais, Espiritu Santo, Paraiba, Sergipe, Rio de Janeiro",Epidemic,Viral disease,0,213932,0,0,1998-0148,--,--
+/02/1998,22/10/1998,Brazil,BRA,Itaituba and Floresta Municipalities (Para State) and Alto Alegre and Mucajai Municipalities (Roraima State),Epidemic,Viral disease,13,32,0,0,1998-0590,--,--
+12/11/1998,23/11/1998,Brazil,BRA,"Cortez municipality (Mata-Sul region, Pernambuco state)",Epidemic,Bacterial disease,0,376,0,0,1998-0591,--,--
+/03/1999,31/03/1999,Brazil,BRA,Paranagua (Parana state),Epidemic,--,3,235,0,0,1999-0718,--,--
+01/01/2002,25/04/2002,Brazil,BRA,Rio de Janeiro state,Epidemic,Viral disease,57,317730,0,0,2002-0154,--,--
+/03/2008,/11/2008,Brazil,BRA,"Rio de Janeiro, Angra do Reis, Campos dos Goytacasez, Nova Iguacu, Duque de Caxias municipalities",Epidemic,Viral disease,123,162701,0,0,2008-0065,--,--
+//2009,31/03/2009,Brazil,BRA,"Acre, Roraima, Espiritu Santo, Bahia, Mato Grosso, Minas Gerais states",Epidemic,Viral disease,23,126139,0,0,2009-0128,--,--
+/01/2011,//2011,Brazil,BRA,,Epidemic,Viral disease,0,942153,0,0,2010-0680,--,--
+01/01/1969,01/01/1969,Burkina Faso,BFA,Nationwide,Epidemic,Viral disease,304,4550,0,0,1969-0004,--,--
+/10/1969,/10/1969,Burkina Faso,BFA,Ouagadougou and border,Epidemic,Viral disease,130,0,0,0,1969-0099,--,--
+/02/1979,/02/1979,Burkina Faso,BFA,Sahelian zones,Epidemic,Bacterial disease,241,1612,0,0,1979-0020,--,--
+01/01/1981,01/01/1981,Burkina Faso,BFA,,Epidemic,Bacterial disease,441,3801,0,0,1981-0001,--,--
+/12/1981,/12/1981,Burkina Faso,BFA,,Epidemic,Bacterial disease,650,6212,0,0,1981-0102,--,--
+//1983,//1983,Burkina Faso,BFA,,Epidemic,Viral disease,237,386,0,0,1983-0537,--,--
+01/01/1984,01/01/1984,Burkina Faso,BFA,Ouagadougou area,Epidemic,Bacterial disease,0,1000,0,0,1984-0002,--,--
+26/07/1991,26/07/1991,Burkina Faso,BFA,,Epidemic,Bacterial disease,37,0,0,0,1991-0233,--,--
+07/02/1996,/02/1996,Burkina Faso,BFA,"Bam, Bazega, Bougouriba, Boulgou, Boulkiemde, Chn-Yo, Ouahigouya, Comoe, Ganzourgou, Gnagna, Gourma, Houet, Kadiogo, Kenedougou, Kossi, Koutitenga, Mouhoun, Nahouri, Namentenga, Oubritenga, Oudalan, Passore, Poni, Sanguie, Sanmatenga, Seno, Sissili, Soum, Sourou, Tapoa, Yatenga, Zounwe",Epidemic,Bacterial disease,4071,40506,0,0,1996-0057,--,--
+/11/1996,28/01/1997,Burkina Faso,BFA,,Epidemic,Bacterial disease,64,461,0,0,1996-0210,--,--
+/02/1997,/02/1997,Burkina Faso,BFA,,Epidemic,Bacterial disease,2274,17996,0,0,1997-0487,--,--
+/09/1998,/09/1998,Burkina Faso,BFA,,Epidemic,Bacterial disease,26,441,0,0,1998-0339,--,--
+01/01/2001,15/04/2001,Burkina Faso,BFA,"Dano, Koupela, Bogandé, Gaoua, Ouagadougou",Epidemic,Bacterial disease,1525,9372,0,0,2001-0063,--,--
+14/07/2001,16/09/2001,Burkina Faso,BFA,Ourgaye district (Tenkodogo region),Epidemic,Bacterial disease,6,308,0,0,2001-0533,--,--
+/12/2001,15/05/2002,Burkina Faso,BFA,"Diegougou, Pissy, Yako, Pama, Kaya Koupéla, Nanoro, Pô, Boussé, Houndé, Léo/TO, Réo, Ziniaré, Dori, Paul VI, Saponé, Sect 30, Zorgho, Kombissiri, Fada",Epidemic,Bacterial disease,1447,11140,0,0,2001-0791,--,--
+01/01/2003,20/04/2003,Burkina Faso,BFA,"Ouagadougou, Manga, Bogande, Pama, Po, Bousla, Bousse, Zabre, Zorgho, Batie, Leo",Epidemic,Bacterial disease,1058,7146,0,0,2003-0040,--,--
+01/01/2004,21/03/2004,Burkina Faso,BFA,"Diébougou, Barsalogho, Zabre",Epidemic,Bacterial disease,527,2783,0,0,2004-0110,--,--
+08/08/2005,04/09/2005,Burkina Faso,BFA,Ouagadougou ,Epidemic,Bacterial disease,9,606,0,0,2005-0480,--,--
+01/01/2006,23/04/2006,Burkina Faso,BFA,"Banfora, Barsologo, Borono, Bousse, Dande, Dano,Diebougou, Djibo, Bobo-Dioulasso, Gaoua, Gourcy, Kaya, Koungoussi, Solenzo districts - nation wide",Epidemic,Bacterial disease,784,7402,0,0,2006-0133,--,--
+01/01/2007,08/04/2007,Burkina Faso,BFA,"Ouargaye, Banfora, Batié, Boulsa, Dano, Houndé, Sapouy, Nanoro, Titao, Kombissiri, Fada, Bousse, Leo, Yako, Sapone, Pama, Ouaga, Tengodogo Nanoro districts",Epidemic,Bacterial disease,1490,20765,0,0,2007-0062,--,--
+/01/2008,/07/2008,Burkina Faso,BFA,"Sapouy,Gaoua, Mangodar, Banfofa, Batié, Baromo, DIébougou, Houndé, Kaya, Nanoro, Orodara, Réo, Séguénéga, Titao, Toma districts",Epidemic,Bacterial disease,250,2000,0,0,2008-0076,--,--
+/12/2008,/06/2009,Burkina Faso,BFA,"Bogodogo, Fada, Sindou districts",Epidemic,Viral disease,300,51000,0,0,2008-0663,--,--
+/02/2009,26/04/2009,Burkina Faso,BFA,"Solenzo, Toma, Manni, Batié health districts",Epidemic,Viral disease,389,2892,0,0,2009-0082,--,--
+01/01/2010,31/05/2010,Burkina Faso,BFA,"Seguenega, Bittou, Pouytenga, Djibo, Barsalogo, Sapone districts",Epidemic,Viral disease,841,5960,0,0,2010-0131,--,--
+/06/1978,/06/1978,Burundi,BDI,,Epidemic,Bacterial disease,54,1530,0,0,1978-0072,--,--
+/09/1992,/09/1992,Burundi,BDI,Ruyigi province,Epidemic,Bacterial disease,220,2068,0,0,1992-0244,--,--
+/01/1997,06/05/1997,Burundi,BDI,"Karama, Burina, Gifugwe, Gasi, Rutovu, Ntabo and Kabezi (Bujulbura Province), Gitega Province, Murumvya Province",Epidemic,Bacterial disease,0,23889,0,0,1997-0497,--,--
+/01/1997,13/01/1997,Burundi,BDI,Rumonge,Epidemic,Bacterial disease,21,461,0,0,1997-0535,--,--
+/01/1999,/05/1999,Burundi,BDI,"All provinces e.g. Karusi, Rutoke, Mutoyi",Epidemic,Parasitic disease,51,616034,0,0,1999-0470,--,--
+20/11/1999,20/11/1999,Burundi,BDI,Bujumbura (Kabezi & Ruziba Camps),Epidemic,Bacterial disease,29,400,0,0,1999-0632,--,--
+/09/2000,/09/2000,Burundi,BDI,"Bujumbura, Bubanza, Bururi, Cibitoki, Makamba, Mwara",Epidemic,Viral disease,0,8000,0,0,2000-0239,--,--
+/05/2000,/06/2000,Burundi,BDI,Bururi province,Epidemic,Bacterial disease,0,100,0,0,2000-0393,--,--
+/10/2000,/10/2000,Burundi,BDI,"Mwaro, Gitega, Karuzi, Ngozi, Cibitoke provinces",Epidemic,Parasitic disease,308,722591,0,0,2000-0823,--,--
+17/06/2002,22/08/2002,Burundi,BDI,"Bujumbura, Citiboke, Bubanza",Epidemic,Bacterial disease,13,781,0,0,2002-0452,--,--
+/07/2002,/07/2002,Burundi,BDI,Cibitoke province,Epidemic,--,6,448,0,0,2002-0458,--,--
+06/07/2002,22/09/2002,Burundi,BDI,"Ngozi, Muyinga, Kirundo, Ruyigi, Gitega, Karuzi",Epidemic,Bacterial disease,68,934,0,0,2002-0504,--,--
+/12/2003,10/02/2004,Burundi,BDI,"Bubamza, Bujumbura, Bururi, Citiboke provinces",Epidemic,Bacterial disease,6,230,0,0,2003-0725,--,--
+05/08/2011,14/09/2011,Burundi,BDI,"Nyanza Lac (Makamba province); Rumonge (Bururi province); Citiboke, Bujumbura town, Bujumbura Rural provinces; Bubanza, Makamba",Epidemic,Bacterial disease,12,600,0,0,2011-0357,--,--
+03/08/2016,08/09/2016,Burundi,BDI,"Bujumbura Rural, Kabezi District, Cibitoke",Epidemic,Bacterial disease,1,193,0,0,2016-0460,--,--
+/11/1994,/11/1995,Cabo Verde,CPV,All nine inhabited islands,Epidemic,Bacterial disease,245,12344,0,0,1994-0788,--,--
+30/09/2009,29/11/2009,Cabo Verde,CPV,"Brava, Fogo, Maio, and Santiago Islands",Epidemic,Viral disease,6,20147,0,0,2009-0495,--,--
+/03/1992,/03/1992,Cambodia,KHM,,Epidemic,Parasitic disease,0,380000,0,0,1992-0043,--,--
+/06/1992,/06/1992,Cambodia,KHM,Kompong Province,Epidemic,Bacterial disease,50,400,0,0,1992-0261,--,--
+/01/1997,/01/1998,Cambodia,KHM,Phnom Penh,Epidemic,Viral disease,3,227,0,0,1997-0548,--,--
+14/06/1998,29/06/1998,Cambodia,KHM,"Khaal Spean, Baliley and Kilo Leek Buon villages (Banteay Meanchey province)",Epidemic,Bacterial disease,15,69,0,0,1998-0234,--,--
+/07/1998,/07/1998,Cambodia,KHM,All country,Epidemic,Viral disease,475,15000,0,0,1998-0352,--,--
+16/04/1999,16/05/1999,Cambodia,KHM,Rottanakiri Province (north eastern),Epidemic,Bacterial disease,56,874,0,0,1999-0471,--,--
+16/02/2005,10/04/2007,Cambodia,KHM,"Luc Son town (Kampot province), Phnom Penh",Epidemic,Viral disease,7,0,0,0,2004-0515,--,--
+//2006,//2006,Cambodia,KHM,,Epidemic,Viral disease,0,4368,0,0,2006-0749,--,--
+/07/2007,/07/2007,Cambodia,KHM,"Kandal, Kampong Cham, Siem Riep, Takeo, Phnom Penh, Kampong Speu, Prey Veng",Epidemic,Viral disease,182,17000,0,0,2007-0274,--,--
+/07/1988,/07/1988,Cameroon,CMR,,Epidemic,Bacterial disease,39,340,0,0,1988-0288,--,--
+/01/1989,/01/1989,Cameroon,CMR,,Epidemic,Bacterial disease,100,550,0,0,1989-0146,--,--
+25/09/1990,25/09/1990,Cameroon,CMR,"Mayo Sava, Mayo Tsanaga departments",Epidemic,Viral disease,118,172,0,0,1990-0124,--,--
+//1991,//1991,Cameroon,CMR,North and Far North provinces,Epidemic,Bacterial disease,308,1343,0,0,1991-0261,--,--
+26/02/1992,26/02/1992,Cameroon,CMR,Far North Province,Epidemic,Bacterial disease,731,7865,0,0,1992-0153,--,--
+/02/1993,/02/1993,Cameroon,CMR,Far North and North provinces,Epidemic,Bacterial disease,513,4070,0,0,1993-0500,--,--
+/06/1996,/06/1996,Cameroon,CMR,"Kolofata, Kousseri, Fotokol, Blangoua, Mayo-Sava, Logone, Maltam, Mora, Chari, Diamaré departments (Far North Cameroon), Pitoa, Biberni, Garoua city (Northern Cameroon)",Epidemic,Bacterial disease,378,2825,0,0,1996-0214,--,--
+/11/1997,/11/1997,Cameroon,CMR,Eastern Cameroon,Epidemic,Bacterial disease,49,242,0,0,1997-0486,--,--
+/11/1997,/04/1998,Cameroon,CMR,,Epidemic,--,60,237,0,0,1997-0546,--,--
+15/01/1998,15/01/1998,Cameroon,CMR,Northern province (near Tchad border),Epidemic,Bacterial disease,126,980,0,0,1998-0142,--,--
+/06/1998,/10/1998,Cameroon,CMR,"Kousseri and urban Maroua (Extreme Nord province), Garoua (Nord province) and Douala (Littoral province)",Epidemic,Bacterial disease,113,1106,0,0,1998-0341,--,--
+01/01/1999,01/01/1999,Cameroon,CMR,,Epidemic,Bacterial disease,14,105,0,0,1999-0472,--,--
+/01/2000,/01/2000,Cameroon,CMR,"Bameda, Buea",Epidemic,Bacterial disease,22,65,0,0,2000-0160,--,--
+01/01/2001,25/02/2001,Cameroon,CMR,"Wum, Mbengwi, Bafut, Bamenda, Ndop districts",Epidemic,Bacterial disease,28,387,0,0,2001-0050,--,--
+25/06/2001,25/06/2001,Cameroon,CMR,Kousseri town,Epidemic,Bacterial disease,3,155,0,0,2001-0428,--,--
+01/01/2004,09/06/2004,Cameroon,CMR,"Douala, Mbouda, Kousséri, Foumbot, Littoral and West regions",Epidemic,Bacterial disease,46,2924,0,0,2004-0048,--,--
+03/01/2005,/05/2005,Cameroon,CMR,"Douala, Littoral, West and South-West provinces",Epidemic,Bacterial disease,42,1400,0,0,2005-0050,--,--
+12/03/2006,24/04/2006,Cameroon,CMR,Bafoussam,Epidemic,Bacterial disease,8,71,0,0,2006-0381,--,--
+15/09/2009,01/08/2010,Cameroon,CMR,"Meri, Mogobe, Makary, Kousseri, Mada, Koza, Guere, Mokolo, Hina, Kolofata, Roua, Kar Hay, Yagoua, Tokombéré",Epidemic,Bacterial disease,109,1456,0,0,2009-0491,--,--
+/05/2010,/08/2010,Cameroon,CMR,"Lake Chad Basin; Centre, Extreme Nord, LIttoral, Nord, Ouest, Sud Ouest",Epidemic,Bacterial disease,515,7869,0,0,2010-0418,--,--
+/01/2011,14/10/2011,Cameroon,CMR,,Epidemic,Bacterial disease,639,16706,0,0,2011-0299,--,--
+24/04/2014,12/08/2014,Cameroon,CMR,"Bourha, Goufley, Mogode, Mokolo, Hina, Roua, Kosa, Kousseri, Maroua riral, Mindif",Epidemic,Bacterial disease,77,1680,0,0,2014-0371,--,--
+18/08/2014,28/08/2014,Cameroon,CMR,"Guider, Mayo-Oulo, Figuil, Pitoa, Bibémi, Touboro, Garou I, Gaoua II, Gashiga, Golombé, Rey Bouba, Tcholiré",Epidemic,Bacterial disease,34,376,0,0,2014-0401,--,--
+01/01/2015,/11/2015,Cameroon,CMR,Mokolo district (Mayo-Tsanaga Division),Epidemic,Viral disease,0,858,0,0,2015-0509,--,--
+/01/1918,/01/1918,Canada,CAN,Natiuonwide,Epidemic,Viral disease,50000,2000000,0,0,1918-0015,--,--
+/01/1953,/01/1953,Canada,CAN,Nationwide,Epidemic,Viral disease,481,8000,0,0,1953-0030,--,--
+/01/1991,/01/1991,Canada,CAN,Eastern Canada,Epidemic,Bacterial disease,18,171,0,0,1991-0407,--,--
+/01/1992,/01/1992,Canada,CAN,Quebec province,Epidemic,Bacterial disease,17,0,0,0,1992-0088,--,--
+/04/2001,/04/2001,Canada,CAN,"Saskatchewan, Alberta",Epidemic,Parasitic disease,1,399,0,0,2001-0203,--,--
+/09/2002,12/10/2002,Canada,CAN,"Alberta, Ontario, Quebec",Epidemic,Viral disease,2,139,0,0,2002-0687,--,--
+23/02/2003,12/06/2003,Canada,CAN,"Ontario, British Columbia",Epidemic,Viral disease,43,208,0,0,2002-0858,--,--
+12/03/1992,12/03/1992,Central African Republic,CAF,"Bouzom, Paqua, Bouar",Epidemic,Bacterial disease,56,418,0,0,1992-0154,--,--
+26/10/1999,/01/2000,Central African Republic,CAF,"Vakaga, Bamingui-Bangoran, Haute Katto, Ouham Pende",Epidemic,--,14,86,0,0,1999-0712,--,--
+/03/2000,/03/2000,Central African Republic,CAF,"Ouaham-Pende, Haute Kotto, Bangui",Epidemic,Bacterial disease,108,712,0,0,2000-0182,--,--
+/05/2000,/05/2000,Central African Republic,CAF,Oudda-Djalle,Epidemic,Viral disease,300,1700,0,0,2000-0341,--,--
+/07/2000,/07/2000,Central African Republic,CAF,Basse-Kotto,Epidemic,Bacterial disease,40,160,0,0,2000-0461,--,--
+18/02/2001,30/03/2001,Central African Republic,CAF,Paoua,Epidemic,Bacterial disease,343,1473,0,0,2001-0120,--,--
+22/07/2002,22/07/2002,Central African Republic,CAF,Bangui,Epidemic,Viral disease,6,727,0,0,2002-0658,--,--
+16/06/2003,29/10/2003,Central African Republic,CAF,"Paoua, Bosum",Epidemic,Bacterial disease,23,379,0,0,2003-0491,--,--
+/09/2011,14/10/2011,Central African Republic,CAF,"Ombella-Mpoko, Lobaye (Limbo region); Sékia, Bokélo, Mondoli, Monza, Bokassi, Nzinga, Sedale",Epidemic,Bacterial disease,16,172,0,0,2011-0290,--,--
+/01/2013,/04/2013,Central African Republic,CAF,"Ngaoundaye, Abba and Carnot, Begoua, Mbalki",Epidemic,Viral disease,0,63,0,0,2013-0141,--,--
+05/07/2016,20/09/2016,Central African Republic,CAF,"Mourou-Fleuve village (NDjoukou district, Kemo province); Zawara, Danga, Massamba (Damara district); Bangui ",Epidemic,Bacterial disease,21,266,0,0,2016-0300,--,--
+/05/1971,/05/1971,Chad,TCD,,Epidemic,Bacterial disease,2312,7476,0,0,1971-0028,--,--
+01/01/1988,01/01/1988,Chad,TCD,N'djamena + South,Epidemic,Bacterial disease,433,6794,0,0,1988-0011,--,--
+/05/1991,/05/1991,Chad,TCD,,Epidemic,Bacterial disease,1262,12204,0,0,1991-0262,--,--
+03/06/1996,14/07/1996,Chad,TCD,N'Djamena region,Epidemic,Bacterial disease,94,1317,0,0,1996-0117,--,--
+29/12/1997,22/03/1998,Chad,TCD,"Bokoro district, N'djamena",Epidemic,Bacterial disease,239,2835,0,0,1997-0494,--,--
+/01/2000,/01/2000,Chad,TCD,"Logone Occidental, Logone Oriental, Moyen Chari, Mayo-Kebi",Epidemic,Bacterial disease,602,4500,0,0,2000-0131,--,--
+25/12/2000,25/03/2001,Chad,TCD," Logone Occidental, Moyen-Chari, Logone Oriental, Guéra, Tandjile, Mayokebbi prefecture",Epidemic,Bacterial disease,607,5173,0,0,2000-0876,--,--
+26/06/2001,04/09/2001,Chad,TCD,"Amreguebe, Ridina, Diguel, Abena, Chagoua, Farcha, Walia (Ndjamena district), Massakory, Bongo, Mondou, Bousso, Lere, Mao, Bol, Mousson, Mandelao, Guitte districts",Epidemic,Bacterial disease,113,3444,0,0,2001-0370,--,--
+24/11/2003,05/01/2004,Chad,TCD,Moundou,Epidemic,Bacterial disease,11,131,0,0,2003-0675,--,--
+14/06/2004,09/09/2004,Chad,TCD,"N'djamena, Chari, Baguirmi, Kanem, Lac, Mongo",Epidemic,Bacterial disease,123,2895,0,0,2004-0395,--,--
+17/07/2004,17/09/2004,Chad,TCD,"Goz. Amer, Djabal (Goz. Beida district)",Epidemic,Viral disease,21,672,0,0,2004-0411,--,--
+03/01/2005,15/05/2005,Chad,TCD,"Batha, Ndjamena, Chari-Baguirmi, Moyen-Chari, Tandjile, Ouaddai, Wadi Fara",Epidemic,Viral disease,115,6000,0,0,2005-0220,--,--
+13/06/2006,30/06/2006,Chad,TCD,"Hadjer Lamis department, Barassola, Tinassoroum, Bol Local (Lake Chad regions)",Epidemic,Bacterial disease,20,216,0,0,2006-0639,--,--
+01/01/2008,01/10/2008,Chad,TCD,"Dogdore, Bredjing camps",Epidemic,Viral disease,22,1755,0,0,2008-0448,--,--
+/01/2009,/04/2009,Chad,TCD,,Epidemic,Viral disease,102,871,0,0,2009-0150,--,--
+/01/2010,15/03/2010,Chad,TCD,"Laokassi, Goundi, Sarh, Béré, Bébidjia, Doba, Donomanaga districts",Epidemic,Viral disease,115,1090,0,0,2010-0131,--,--
+/01/2010,22/03/2010,Chad,TCD,Ndjamena,Epidemic,Viral disease,32,2499,0,0,2010-0137,--,--
+/06/2010,21/09/2010,Chad,TCD,"Lac, Mayo Kebbi districts",Epidemic,Bacterial disease,92,1730,0,0,2010-0400,--,--
+18/03/2011,20/03/2011,Chad,TCD,"Sarh, Moundou, Gounougaya, Bikin, Koumra (Logone Occidental, Moyen Chari)",Epidemic,Viral disease,124,2085,0,0,2011-0181,--,--
+09/08/2011,14/10/2011,Chad,TCD,"Flanga, Gounougaya, Bongor, Guelendeng, N'Djam Est, N'Djam Centre, N'Djam Sud, Massaquete, Massakory, Bokoro, Lai, Kelo, Bere, Dourbali, Mandalia, Bousso, Massenya, Lere, Paia, Mao, Amtiman, Aboudia, BOL, Ngouri, Moussoro, Mongo, Bitkine, Mangaime, Benoye, Abeche, Melfi, Yao, Oumhadjer districts",Epidemic,Bacterial disease,433,16038,0,0,2011-0333,--,--
+/01/2012,25/03/2012,Chad,TCD,"Oumhadjer, Massakory, Lere, Amdam, Aboudea, Amtiman, Donamanga, Bebeto, Koumra, Moissala districts",Epidemic,Viral disease,88,1708,0,0,2012-0108,--,--
+13/06/1991,13/06/1991,Chile,CHL,,Epidemic,Bacterial disease,1,40,0,0,1991-0136,--,--
+//1909,//1909,China,CHN,,Epidemic,Bacterial disease,1500000,0,0,0,1909-0001,--,--
+//1910,//1910,China,CHN,Manchuria,Epidemic,Bacterial disease,60000,0,0,0,1910-0001,--,--
+/04/1987,/04/1987,China,CHN,Shandong province,Epidemic,Viral disease,0,1000,0,0,1987-0077,--,--
+01/01/1988,01/01/1988,China,CHN,Shanghai,Epidemic,Viral disease,0,2000,0,0,1988-0012,--,--
+/07/1991,/07/1991,China,CHN,"Anhui, Sichuan, Jiangsu provinces",Epidemic,Bacterial disease,1075,0,0,0,1991-0186,--,--
+17/07/2002,17/07/2002,China,CHN,Mishan city (Heilongjiang province),Epidemic,--,0,1000,0,0,2002-0435,--,--
+16/11/2002,03/06/2003,China,CHN,"Guangdong, Beijing, Shanxi, Guangxi, Hunan, Sichuan, Shanghai, Funjian, Inner Mongolia province",Epidemic,Viral disease,349,4978,0,0,2002-0858,--,--
+/01/2002,/11/2002,China,CHN,,Epidemic,Bacterial disease,20,674,0,0,2002-0871,--,--
+01/01/2005,04/06/2007,China,CHN,"Anhui, Hunan, Guangxi, Liaoning, Jiangxi, Fujian, Sichuan provinces",Epidemic,Viral disease,16,9,0,0,2004-0515,--,--
+24/06/2005,20/08/2005,China,CHN,"Ziyang City area (Sichuan province), Guangdong, Hainan, Jiangsu provinces",Epidemic,Bacterial disease,38,168,0,0,2005-0411,--,--
+/03/1991,/03/1991,Colombia,COL,"Narino, Cauca, Valle departments",Epidemic,Bacterial disease,350,14137,0,0,1991-0137,--,--
+/01/1996,/01/1996,Colombia,COL,,Epidemic,Bacterial disease,62,3000,0,0,1996-0213,--,--
+/04/2012,/06/2012,Colombia,COL,,Epidemic,Viral disease,0,23235,0,0,2012-0094,--,--
+/07/2013,/10/2013,Colombia,COL,"valle de Cauca, Tolima, Santander, Cesar, meta, England, Norte de santander, Atlantic, Bolivar, Cordoba, Putumayo, Barrranquilla, Casanare, Huila, Magdalena, Sucre, Arauca, Quindiio, Vaupes, Vichada, Boyaca, Caqueta, Caldas, La Guajira",Epidemic,Viral disease,91,1171,0,0,2013-0500,--,--
+/02/1989,/02/1989,Comoros (the),COM,Anjouan,Epidemic,Bacterial disease,3,450,0,0,1989-0003,--,--
+16/02/1998,/08/1998,Comoros (the),COM,Grande Comore and Mayotte islands,Epidemic,Bacterial disease,40,3200,0,0,1998-0592,--,--
+11/11/1999,17/12/1999,Comoros (the),COM,"Domoni, Anjouan Island",Epidemic,Bacterial disease,14,140,0,0,1999-0633,--,--
+12/03/2005,12/03/2005,Comoros (the),COM,Moroni (Ngazidja),Epidemic,Viral disease,0,1358,0,0,2005-0139,--,--
+//2006,//2006,Comoros (the),COM,,Epidemic,Viral disease,0,924,0,0,2005-0754,--,--
+/03/2007,/09/2007,Comoros (the),COM,"Moroni, Fombouni, Foumbouni, Ouzioini, Mitsamiouli, Oichili, Mbeni, Mitsoudje (Grande Comore Isl.), Fomboni, Wanani, Nioumachioi (Moheli), Anjouan Isl.",Epidemic,Bacterial disease,29,1490,0,0,2007-0437,--,--
+/09/1976,/09/1976,Congo (the Democratic Republic of the),COD,Equator province,Epidemic,Viral disease,245,262,0,0,1976-0059,--,--
+/06/1978,/06/1978,Congo (the Democratic Republic of the),COD,Uvira,Epidemic,Bacterial disease,0,0,0,0,1978-0078,--,--
+/09/1987,/09/1987,Congo (the Democratic Republic of the),COD,Along Zaire River,Epidemic,Bacterial disease,450,0,0,0,1987-0152,--,--
+/08/1987,/08/1987,Congo (the Democratic Republic of the),COD,Bolobo,Epidemic,Bacterial disease,48,0,0,0,1987-0528,--,--
+/03/1991,/03/1991,Congo (the Democratic Republic of the),COD,Kivu Region,Epidemic,Viral disease,500,0,0,0,1991-0095,--,--
+19/05/1995,19/05/1995,Congo (the Democratic Republic of the),COD,Kikwit,Epidemic,Viral disease,233,0,0,0,1995-0087,--,--
+29/03/1996,29/05/1996,Congo (the Democratic Republic of the),COD,Kinshasa,Epidemic,Bacterial disease,179,821,0,0,1996-0055,--,--
+16/11/1996,13/12/1996,Congo (the Democratic Republic of the),COD,Sake (Goma),Epidemic,Bacterial disease,23,1133,0,0,1996-0312,--,--
+18/12/1997,06/01/1998,Congo (the Democratic Republic of the),COD,Kapalata Camp (Haut-Zaire Province),Epidemic,Bacterial disease,54,800,0,0,1997-0313,--,--
+04/06/1997,04/06/1997,Congo (the Democratic Republic of the),COD,,Epidemic,Viral disease,0,100,0,0,1997-0485,--,--
+/02/1997,/10/1997,Congo (the Democratic Republic of the),COD,Katako-Kombe and Lodja (Kasai Oriental),Epidemic,Viral disease,0,511,0,0,1997-0543,--,--
+/01/1998,19/05/1998,Congo (the Democratic Republic of the),COD,BUnia (ORiental province) and BUkavu (Sud-Kivu province),Epidemic,Bacterial disease,746,9605,0,0,1998-0133,--,--
+02/01/1998,25/01/1998,Congo (the Democratic Republic of the),COD,"Tembo, Kikwit, Kingwagala and Kahemba (Bandunda Region close to Angola)",Epidemic,Bacterial disease,32,114,0,0,1998-0134,--,--
+/04/1998,/04/1998,Congo (the Democratic Republic of the),COD,"South Kivu, North Kivu, Oriental province",Epidemic,Bacterial disease,115,3962,0,0,1998-0145,--,--
+/10/1998,/10/1998,Congo (the Democratic Republic of the),COD,Shabunda (South Kivu),Epidemic,Bacterial disease,30,0,0,0,1998-0334,--,--
+19/09/1998,04/12/1998,Congo (the Democratic Republic of the),COD,Bobozo Camp (Kananga),Epidemic,Bacterial disease,79,203,0,0,1998-0336,--,--
+/01/1999,/05/1999,Congo (the Democratic Republic of the),COD,Durba (Watsa Zone),Epidemic,Viral disease,3,72,0,0,1999-0474,--,--
+15/01/2000,15/01/2000,Congo (the Democratic Republic of the),COD,"Aketi, Oriental Province",Epidemic,--,16,62,0,0,2000-0120,--,--
+/01/2000,/01/2000,Congo (the Democratic Republic of the),COD,"Durba, Watsa District (Orientale Province)",Epidemic,Viral disease,10,1,0,0,2000-0133,--,--
+/02/2001,/02/2001,Congo (the Democratic Republic of the),COD,Goma,Epidemic,Bacterial disease,8,677,0,0,2001-0127,--,--
+/05/2001,/05/2001,Congo (the Democratic Republic of the),COD,Kalemie region,Epidemic,--,66,1488,0,0,2001-0231,--,--
+02/08/2001,02/01/2002,Congo (the Democratic Republic of the),COD,"Katana, Bukavu, Idjwi (South Kivu province)",Epidemic,Bacterial disease,104,893,0,0,2001-0555,--,--
+/07/2001,/07/2001,Congo (the Democratic Republic of the),COD,"Reti, Ituri province",Epidemic,Bacterial disease,41,384,0,0,2001-0556,--,--
+01/10/2001,01/10/2001,Congo (the Democratic Republic of the),COD,"Lubumbashi, Ankoro, Kabalo, Kongolo and Kalemie (Katanga Province)",Epidemic,Bacterial disease,72,851,0,0,2001-0610,--,--
+17/11/2001,17/11/2001,Congo (the Democratic Republic of the),COD,"Bosongo, Mbisingando (Kasai Occidental province)",Epidemic,Viral disease,20,243,0,0,2001-0658,--,--
+01/11/2001,14/03/2002,Congo (the Democratic Republic of the),COD,Katanga province,Epidemic,Bacterial disease,502,6099,0,0,2001-0775,--,--
+01/10/2001,01/10/2001,Congo (the Democratic Republic of the),COD,"Susinga, Karawa (North Equateur), Baringa, Likukuma, Toenga, Dongila, Yakoma (Equateur)",Epidemic,Viral disease,25,459,0,0,2001-0776,--,--
+/02/2002,/02/2002,Congo (the Democratic Republic of the),COD,"Mai-Ndombe, Bandundu province",Epidemic,Bacterial disease,39,66,0,0,2002-0384,--,--
+/01/2002,/01/2002,Congo (the Democratic Republic of the),COD,"Kinshasa, Kongolo",Epidemic,Viral disease,24,4000,0,0,2002-0523,--,--
+/07/2002,/05/2003,Congo (the Democratic Republic of the),COD,"Malemba Nkulu, Kabala, Butombe, Songwe, Twite-Mwanza (Katanga province and Estern Kasai province",Epidemic,Bacterial disease,67,2636,0,0,2002-0597,--,--
+16/10/2002,20/10/2002,Congo (the Democratic Republic of the),COD,"Babamka, Bakamaleka, Kambanga, Tshilunde, Tshilenge, Katende, Miabi (Mbuji-Mayi, Kasai-Oriental province)",Epidemic,Bacterial disease,41,353,0,0,2002-0685,--,--
+/10/2002,22/11/2002,Congo (the Democratic Republic of the),COD,"Djolu, Bili, Bosobolo, Gbadolite, Gemena, Karawa (Equateur province)",Epidemic,Viral disease,18,1245,0,0,2002-0742,--,--
+01/10/2002,01/10/2002,Congo (the Democratic Republic of the),COD,North Kivu,Epidemic,Bacterial disease,17,57,0,0,2002-0763,--,--
+20/12/2002,20/12/2002,Congo (the Democratic Republic of the),COD,"Pinga, Mangina (North Kivu province), Equateur, Bandundu provinces",Epidemic,Viral disease,0,140,0,0,2002-0833,--,--
+/12/2002,/12/2002,Congo (the Democratic Republic of the),COD,"Thuapa (Equateur province), Inongo (Bandundu province)",Epidemic,Viral disease,2000,500000,0,0,2002-0837,--,--
+/12/2002,15/01/2003,Congo (the Democratic Republic of the),COD,Kinshasa,Epidemic,Viral disease,296,30878,0,0,2002-0872,--,--
+/06/2003,08/06/2003,Congo (the Democratic Republic of the),COD,"Sud Kivu, Katanga, Kasai Oriental",Epidemic,Bacterial disease,380,13072,0,0,2003-0264,--,--
+17/09/2003,01/12/2003,Congo (the Democratic Republic of the),COD,Mbuji-Mayi (Kasai Oriental),Epidemic,Bacterial disease,369,7145,0,0,2003-0572,--,--
+24/12/2003,24/12/2003,Congo (the Democratic Republic of the),COD,Lomela (Kasai Oriental),Epidemic,--,37,184,0,0,2003-0643,--,--
+/02/2004,/02/2004,Congo (the Democratic Republic of the),COD,Basankusu (Equateur province),Epidemic,Viral disease,300,0,0,0,2004-0060,--,--
+31/05/2004,12/07/2004,Congo (the Democratic Republic of the),COD,Kinshasa,Epidemic,--,77,2599,0,0,2004-0376,--,--
+/01/2004,/05/2004,Congo (the Democratic Republic of the),COD,Ituri,Epidemic,Bacterial disease,58,984,0,0,2004-0396,--,--
+27/09/2004,11/01/2005,Congo (the Democratic Republic of the),COD,Kinshasa,Epidemic,Bacterial disease,214,42564,0,0,2004-0604,--,--
+15/12/2004,15/03/2005,Congo (the Democratic Republic of the),COD,"Dingila, Zobia (Bas-Uele district, Oriental province)",Epidemic,Bacterial disease,57,73,0,0,2004-0703,--,--
+17/01/2005,30/01/2005,Congo (the Democratic Republic of the),COD,"Bukavu, Uvira (Lake Kivu area)",Epidemic,Bacterial disease,34,2152,0,0,2005-0058,--,--
+01/01/2005,08/05/2005,Congo (the Democratic Republic of the),COD,"Kafé, Tchomia, Tché (Ituri)",Epidemic,Bacterial disease,29,1420,0,0,2005-0186,--,--
+29/07/2005,05/09/2005,Congo (the Democratic Republic of the),COD,Maniema province,Epidemic,Bacterial disease,38,1300,0,0,2005-0508,--,--
+/01/2006,/01/2006,Congo (the Democratic Republic of the),COD,North Katanga,Epidemic,Bacterial disease,34,770,0,0,2006-0060,--,--
+06/01/2006,31/01/2006,Congo (the Democratic Republic of the),COD,"Uvira, Fizzi (South Kivu)",Epidemic,Bacterial disease,13,948,0,0,2006-0144,--,--
+/04/2006,/04/2006,Congo (the Democratic Republic of the),COD,Tandembelo (Bandundu province),Epidemic,Bacterial disease,20,16,0,0,2006-0186,--,--
+13/05/2006,18/06/2006,Congo (the Democratic Republic of the),COD,Ituri (Oriental province),Epidemic,Bacterial disease,19,81,0,0,2006-0290,--,--
+31/07/2006,08/10/2006,Congo (the Democratic Republic of the),COD,Haut Uele district (Oriental province),Epidemic,Bacterial disease,42,584,0,0,2006-0551,--,--
+/07/2006,/10/2006,Congo (the Democratic Republic of the),COD,Equateur province,Epidemic,Viral disease,13,341,0,0,2006-0558,--,--
+/10/2006,/11/2006,Congo (the Democratic Republic of the),COD,"Kadutu, Bagira, Ibanda (Bukavu)",Epidemic,Bacterial disease,10,246,0,0,2006-0730,--,--
+01/01/2007,24/02/2007,Congo (the Democratic Republic of the),COD,"Adi, Adja, Ariwara, Aru, Laybo (Orientale province)",Epidemic,Bacterial disease,6,47,0,0,2007-0114,--,--
+/06/2007,02/10/2007,Congo (the Democratic Republic of the),COD,"Mkewa, Luebo, Kampungu, Laluamba (Western Kasai)",Epidemic,Viral disease,166,372,0,0,2007-0456,--,--
+/12/2009,06/12/2009,Congo (the Democratic Republic of the),COD,Kisangani,Epidemic,Viral disease,17,100,0,0,2009-0538,--,--
+01/01/2009,16/11/2009,Congo (the Democratic Republic of the),COD,South Kivu,Epidemic,Bacterial disease,102,10070,0,0,2009-0541,--,--
+01/01/2009,16/11/2009,Congo (the Democratic Republic of the),COD,North Kivu,Epidemic,Bacterial disease,61,5639,0,0,2009-0542,--,--
+/10/2009,/11/2009,Congo (the Democratic Republic of the),COD,Manono district (Katanga province),Epidemic,--,29,100,0,0,2009-0546,--,--
+/01/2010,22/03/2010,Congo (the Democratic Republic of the),COD,"South Kivu, North Kivu, Katanga",Epidemic,Bacterial disease,31,3984,0,0,2010-0138,--,--
+/01/2010,22/03/2010,Congo (the Democratic Republic of the),COD,Katanga,Epidemic,Viral disease,25,358,0,0,2010-0139,--,--
+/01/2011,/03/2011,Congo (the Democratic Republic of the),COD,Katanga province,Epidemic,Viral disease,33,6524,0,0,2011-0089,--,--
+03/01/2011,22/01/2012,Congo (the Democratic Republic of the),COD,"Bandundu, Equateur, Kinshasa, P. Orientale, Maniema, Ituri, North Kivu, South Kivu; Katanga",Epidemic,Bacterial disease,603,22233,0,0,2011-0290,--,--
+/03/2012,/04/2012,Congo (the Democratic Republic of the),COD,"Logo, Angumu, Mahagi, Nyarambe (Bunia, Orientale province)",Epidemic,Bacterial disease,40,600,0,0,2012-0081,--,--
+/07/2012,/07/2012,Congo (the Democratic Republic of the),COD,"Kadima, Kamubangwa, Mulimi, Kahongo, Kitule, Lukundula, Pongo (Kabalo, Katanga)",Epidemic,Viral disease,20,201,0,0,2012-0217,--,--
+17/08/2012,19/10/2012,Congo (the Democratic Republic of the),COD,Haut-Uélé district (Province Orientale),Epidemic,Viral disease,36,33,0,0,2012-0324,--,--
+01/01/2012,26/08/2012,Congo (the Democratic Republic of the),COD,"Orientale, North Kivu, South Kivu, Katanga, Equateur, Bas-Congo, Bandundu, Kinshasa",Epidemic,Bacterial disease,512,22792,0,0,2012-0357,--,--
+11/08/2014,05/11/2014,Congo (the Democratic Republic of the),COD,"HGR Boende, Lokolia, Watsi-Kengo, Boende moke, Lokula, Mondombe, Ikanamongo Village (Equateur province,Djera region).",Epidemic,Viral disease,49,17,0,0,2014-0526,--,--
+/01/2016,11/05/2016,Congo (the Democratic Republic of the),COD,"Kongo Central, Kinshasa provinces, Ndjili, Kinshasa; Matadi, Kongo
+(Central province)",Epidemic,Viral disease,0,551,0,0,2016-0419,--,--
+//2016,31/10/2016,Congo (the Democratic Republic of the),COD,Tanganyika province,Epidemic,Viral disease,55,2087,0,0,2016-0439,--,--
+27/11/1997,05/02/1998,Congo (the),COG,Pointe-Noire,Epidemic,Bacterial disease,83,485,0,0,1997-0547,--,--
+/09/1999,/09/1999,Congo (the),COG,Kisangani,Epidemic,Bacterial disease,15,99,0,0,1999-0473,--,--
+/01/2000,/01/2000,Congo (the),COG,Lekana District,Epidemic,Viral disease,24,0,0,0,2000-0053,--,--
+/11/2001,21/03/2002,Congo (the),COG,"Kelle, Mbomo districts",Epidemic,Viral disease,19,13,0,0,2001-0731,--,--
+31/12/2002,06/05/2003,Congo (the),COG,"Mbomo, Kelle Ambomi, Ongonda, Ndjoukou, Campement Mvoula, Mbomo (Western Cuvette region)",Epidemic,Viral disease,128,15,0,0,2002-0854,--,--
+12/10/2003,24/12/2003,Congo (the),COG,"Mbomo, Mbanza districts (Cuvette Ouest Department)",Epidemic,Viral disease,29,2,0,0,2003-0553,--,--
+25/04/2005,15/06/2005,Congo (the),COG,"Etoumbi, Mbomo, Kelle (Cuvette Ouest region)",Epidemic,Viral disease,10,2,0,0,2005-0288,--,--
+04/12/2006,04/04/2007,Congo (the),COG,"Point-Noire, Kouilou, Brazzaville",Epidemic,Bacterial disease,50,3030,0,0,2006-0719,--,--
+05/06/2008,25/06/2008,Congo (the),COG,"Moundi village (Loudima, Bouenza division)",Epidemic,Bacterial disease,1,103,0,0,2008-0300,--,--
+/02/2008,17/08/2008,Congo (the),COG,"Louetete, Loudima districts",Epidemic,Bacterial disease,25,527,0,0,2008-0301,--,--
+17/10/2010,22/11/2010,Congo (the),COG,"Pointe-Noire, Niari, Bouenza, Kouilou, Brazzaville, Likouala",Epidemic,Viral disease,219,524,0,0,2010-0593,--,--
+14/06/2011,27/12/2011,Congo (the),COG,"Brazzaville, Cuvette, Likouala, Plateaux, Sangha, Pool",Epidemic,Bacterial disease,32,708,0,0,2011-0290,--,--
+/05/2011,/07/2011,Congo (the),COG,"Brazzaville, Pointe Noire, Pool",Epidemic,Viral disease,0,9424,0,0,2011-0292,--,--
+/06/2011,/06/2011,Congo (the),COG,"Pointe Noire, Bouenza",Epidemic,Viral disease,33,687,0,0,2011-0294,--,--
+12/01/2012,/02/2012,Congo (the),COG,"Betou, Liranga, Dzondo, Bouanela, Etima, Congo Malembe, Boboukou, Mombenzele, Impfondo",Epidemic,Bacterial disease,5,57,0,0,2012-0047,--,--
+/04/2013,/06/2013,Congo (the),COG,,Epidemic,Bacterial disease,16,1071,0,0,2013-0508,--,--
+/12/1990,/12/1990,Cook Islands (the),COK,,Epidemic,Viral disease,7,1200,0,0,1990-0701,--,--
+/01/1997,15/02/1997,Cook Islands (the),COK,Rarotonga,Epidemic,Viral disease,0,123,0,0,1997-0538,--,--
+/05/2009,18/06/2009,Cook Islands (the),COK,"Arorangi, Nikao/Tepuka, Avarua, Tupapa, Titikaveka, Ngatangiia, Matavera, Avatiu, Takuvaine, Tutakimoa",Epidemic,Viral disease,0,1247,0,0,2009-0200,--,--
+/01/1995,/01/1995,Costa Rica,CRI,,Epidemic,Viral disease,0,4786,0,0,1995-0309,--,--
+/07/2013,/07/2013,Costa Rica,CRI,Pacific coastal villages,Epidemic,Viral disease,3,12000,0,0,2013-0493,--,--
+20/10/1970,20/10/1970,Côte dIvoire,CIV,,Epidemic,Bacterial disease,120,1500,0,0,1970-0057,--,--
+/01/1991,/01/1991,Côte dIvoire,CIV,,Epidemic,Bacterial disease,16,50,0,0,1991-0421,--,--
+18/09/1995,12/11/1995,Côte dIvoire,CIV,"Guiglo, Tabou. Departement du Nord, du Sud, de l'Ouest et du Centre.",Epidemic,Bacterial disease,150,2027,0,0,1995-0225,--,--
+23/03/2001,08/10/2001,Côte dIvoire,CIV,"Daloa, Issia, Danane, Divo, Lakota, Gagnoa, Duekoue, Abidjan districts",Epidemic,Viral disease,21,203,0,0,2001-0426,--,--
+/05/2001,21/09/2001,Côte dIvoire,CIV,Entire country,Epidemic,Bacterial disease,175,2977,0,0,2001-0429,--,--
+/01/2002,/01/2002,Côte dIvoire,CIV,,Epidemic,Bacterial disease,43,244,0,0,2002-0256,--,--
+/01/2002,14/07/2002,Côte dIvoire,CIV,"Abidjan, Aboisso, Duekoue, Adzope, Bondoukou, Boundiali, Dimbokro, Ferkessedougou, Korhogo, Man, San Pedro, Seguela, Toouba",Epidemic,Bacterial disease,19,562,0,0,2002-0451,--,--
+22/12/2002,05/01/2003,Côte dIvoire,CIV,Tableguikou-gly (Divot district),Epidemic,Bacterial disease,15,55,0,0,2002-0832,--,--
+/01/2005,/03/2005,Côte dIvoire,CIV,Bouna region,Epidemic,Bacterial disease,40,210,0,0,2005-0138,--,--
+25/02/2006,25/02/2006,Côte dIvoire,CIV,"Séguéla, Korogo, Boundiali, Bouaké, Tingrela",Epidemic,Bacterial disease,40,90,0,0,2006-0135,--,--
+/01/2006,/08/2006,Côte dIvoire,CIV,"Abidjan, westen part of the country",Epidemic,Bacterial disease,2,361,0,0,2006-0488,--,--
+/01/2007,17/02/2007,Côte dIvoire,CIV,,Epidemic,Bacterial disease,30,150,0,0,2007-0062,--,--
+/01/2008,/02/2008,Côte dIvoire,CIV,Border with Burkina Faso,Epidemic,Bacterial disease,44,0,0,0,2008-0076,--,--
+//1993,//1993,Cuba,CUB,Countrywide,Epidemic,--,0,49358,0,0,1993-0572,--,--
+/01/1997,16/06/1997,Cuba,CUB,Santiago de Cuba,Epidemic,Viral disease,3,823,0,0,1997-0503,--,--
+01/01/1970,01/01/1970,Cyprus,CYP,,Epidemic,Bacterial disease,0,0,0,0,1970-0006,--,--
+05/07/1996,21/08/1996,Cyprus,CYP,"Limassol, Larnaca, Nicosia, Paphos and Famagusta",Epidemic,Bacterial disease,0,280,0,0,1996-0113,--,--
+22/11/1994,22/11/1994,Djibouti,DJI,"Djibouti city, Holhol, Ali Addeh, Tadjoura districts",Epidemic,Bacterial disease,10,239,0,0,1994-0508,--,--
+/11/1997,24/11/1997,Djibouti,DJI,Djibouti,Epidemic,Bacterial disease,29,827,0,0,1997-0527,--,--
+/12/1998,/12/1998,Djibouti,DJI,"Tadjourah, Ali Sabieh, Dikhil districts",Epidemic,Parasitic disease,43,2000,0,0,1998-0567,--,--
+/06/2000,/06/2000,Djibouti,DJI,"Djibouti, Ali-Sabieh districts",Epidemic,Bacterial disease,4,419,0,0,2000-0432,--,--
+/01/2007,/11/2007,Djibouti,DJI,"Djibouti city, Dikhil, Tadjourah, Obock, As Eyla, Yoboki, Tafj",Epidemic,Bacterial disease,6,562,0,0,2007-0724,--,--
+//1978,//1978,Dominican Republic (the),DOM,,Epidemic,Viral disease,0,0,0,0,1978-0156,--,--
+15/03/1992,15/03/1992,Dominican Republic (the),DOM,Moca,Epidemic,Bacterial disease,20,0,0,0,1992-0402,--,--
+/01/1995,/01/1995,Dominican Republic (the),DOM,,Epidemic,Viral disease,2,1252,0,0,1995-0310,--,--
+/06/1999,/06/1999,Dominican Republic (the),DOM,"Puerto Plata, Santo Domingo",Epidemic,Viral disease,16,0,0,0,1999-0475,--,--
+/01/2009,/10/2009,Dominican Republic (the),DOM,,Epidemic,Viral disease,25,3270,0,0,2009-0565,--,--
+/12/2010,/10/2011,Dominican Republic (the),DOM,"Santo Domingo (Santo Domingo Norte and Este); Santiago (Navarrette, Janico, Santiago), Elias Pina (Banica), San Juan (San Juan de la Maguana), Valverde (Mao), Espaillat, La Vega",Epidemic,Bacterial disease,130,17321,0,0,2010-0557,--,--
+07/12/2011,14/12/2011,Dominican Republic (the),DOM,Bonao municipality,Epidemic,Bacterial disease,1,220,0,0,2011-0528,--,--
+12/04/2012,16/04/2012,Dominican Republic (the),DOM,"Tambori (Santiago province); San Victor, Moca (Espaillat); Puerto Plata, la Vega, Valverde, Montecristi, Duarrte",Epidemic,Bacterial disease,167,26090,0,0,2012-0167,--,--
+/08/1967,/08/1967,Ecuador,ECU,Guayaquil areas,Epidemic,Viral disease,36,528,0,0,1967-0053,--,--
+/05/1969,/05/1969,Ecuador,ECU,Playas area,Epidemic,Viral disease,400,40000,0,0,1969-0068,--,--
+01/01/1977,01/01/1977,Ecuador,ECU,West portions of Quito,Epidemic,Bacterial disease,0,300,0,0,1977-0001,--,--
+13/06/1991,13/06/1991,Ecuador,ECU,"Azuay, Chimborazo, El Oro, Esmeraldas, Guayas, Imbabura, Loja, Los Rios, Pichincha, Arci, Manabi, Canar, Bolivar, Tunguraha",Epidemic,Bacterial disease,343,15131,0,0,1991-0138,--,--
+/01/1992,/01/1992,Ecuador,ECU,,Epidemic,Bacterial disease,200,0,0,0,1992-0460,--,--
+/01/1995,/01/1995,Ecuador,ECU,,Epidemic,Viral disease,0,3399,0,0,1995-0311,--,--
+/05/1998,/05/1998,Ecuador,ECU,Chimborazo,Epidemic,Bacterial disease,12,0,0,0,1998-0147,--,--
+01/01/1998,31/03/1998,Ecuador,ECU,Loja Province,Epidemic,Bacterial disease,1,11,0,0,1998-0570,--,--
+/03/2000,/03/2000,Ecuador,ECU,"Guayas, Los Rios provinces",Epidemic,Parasitic disease,0,100000,0,0,2000-0204,--,--
+/03/2000,/03/2000,Ecuador,ECU,,Epidemic,Viral disease,8,220,0,0,2000-0205,--,--
+/01/2002,02/08/2002,Ecuador,ECU,Galapos Isl.,Epidemic,Viral disease,0,100,0,0,2002-0503,--,--
+//2010,//2010,Ecuador,ECU,,Epidemic,Viral disease,4,4000,0,0,2010-0702,--,--
+/04/2012,/05/2012,Ecuador,ECU,,Epidemic,Viral disease,11,6967,0,0,2012-0095,--,--
+/09/1947,/09/1947,Egypt,EGY,Nationwide,Epidemic,Bacterial disease,10276,0,0,0,1947-0007,--,--
+01/01/2006,//2007,Egypt,EGY,"Al Qalyoubia, Gharbia, Kefr El Sheikh, Al Minufiyah, El Menya, Gharbiya , Cairo, Giza, Minya, Dakahleya, Lalyubeya, Beni Suef, Qina, Beheira governorates",Epidemic,Viral disease,15,23,0,0,2004-0515,--,--
+10/06/2004,31/07/2004,Egypt,EGY,Hurghada,Epidemic,Viral disease,0,120,0,0,2004-0711,--,--
+/06/1969,/06/1969,El Salvador,SLV,South West to North West,Epidemic,Viral disease,12,19,0,0,1969-0073,--,--
+/06/1991,/06/1991,El Salvador,SLV,,Epidemic,Bacterial disease,155,5625,0,0,1991-0394,--,--
+/01/1992,/01/1992,El Salvador,SLV,,Epidemic,Bacterial disease,0,350,0,0,1992-0092,--,--
+/01/1995,/01/1995,El Salvador,SLV,,Epidemic,Viral disease,5,9296,0,0,1995-0312,--,--
+/12/1998,/12/1998,El Salvador,SLV,,Epidemic,Viral disease,0,1670,0,0,1998-0573,--,--
+14/09/2000,14/09/2000,El Salvador,SLV,,Epidemic,Viral disease,24,211,0,0,2000-0882,--,--
+01/01/2002,06/07/2002,El Salvador,SLV,"Cabanas, Cuscatlan, Libertad, Santa Ana, San Salvador departments",Epidemic,Viral disease,6,2399,0,0,2002-0371,--,--
+21/06/2003,19/07/2003,El Salvador,SLV,Country wide,Epidemic,--,304,50000,0,0,2003-0379,--,--
+/01/2009,/11/2009,El Salvador,SLV,,Epidemic,Viral disease,7,4598,0,0,2009-0562,--,--
+//2014,/10/2014,El Salvador,SLV,,Epidemic,Viral disease,4,12783,0,0,2014-0422,--,--
+13/12/2004,14/03/2005,Equatorial Guinea,GNQ,"Bata, Malabo",Epidemic,--,15,946,0,0,2004-0702,--,--
+01/01/1970,01/01/1970,Ethiopia,ETH,,Epidemic,Bacterial disease,500,4000,0,0,1970-0007,--,--
+12/05/1980,12/05/1980,Ethiopia,ETH,SW Gamo Gofo,Epidemic,Parasitic disease,157,25000,0,0,1980-0130,--,--
+//1981,//1981,Ethiopia,ETH,,Epidemic,Bacterial disease,990,50000,0,0,1981-0055,--,--
+/01/1985,/01/1985,Ethiopia,ETH,,Epidemic,Bacterial disease,1101,4815,0,0,1985-0152,--,--
+/02/1988,/02/1988,Ethiopia,ETH,Addis Ababa,Epidemic,Bacterial disease,15,165,0,0,1988-0068,--,--
+/09/1988,/09/1988,Ethiopia,ETH,"Addis Abeba, Asab, Arsi, Bale, Eritrea, Gamogofa, Gojjam, Gondar, Hararghe, Illubador, Kaffa, Sidam, Wellega, Wollo, Shoa, Tigay",Epidemic,Bacterial disease,7385,41139,0,0,1988-0619,--,--
+/02/1999,/03/1999,Ethiopia,ETH,Kobo area (North Wollo zone) and Tigray Region,Epidemic,Bacterial disease,9,276,0,0,1999-0476,--,--
+/01/2000,/01/2000,Ethiopia,ETH,"Deghabour, Feik",Epidemic,--,27,100,0,0,2000-0055,--,--
+01/01/2000,31/03/2000,Ethiopia,ETH,"Kobo district (Amhara Region), Alamata District (Tigray Region), Gambella Region",Epidemic,Bacterial disease,14,149,0,0,2000-0134,--,--
+/05/2000,/05/2000,Ethiopia,ETH,Whama Region (Afar region),Epidemic,--,51,0,0,0,2000-0253,--,--
+/03/2000,17/08/2000,Ethiopia,ETH,Addis Ababa,Epidemic,Bacterial disease,19,855,0,0,2000-0489,--,--
+/11/2000,/11/2000,Ethiopia,ETH,"Amhara, Gambella, Somali, Tigray, Southern, Oromia, Diredawa, Benshangul, Harari regions",Epidemic,Bacterial disease,311,5929,0,0,2000-0879,--,--
+/01/2001,31/05/2001,Ethiopia,ETH,"Amhara, Gambella, Somali, Tigray, Diredawa Regional Administration, Oromia and southern region",Epidemic,Bacterial disease,311,5955,0,0,2001-0643,--,--
+10/09/2001,03/02/2002,Ethiopia,ETH,"woredas of Dale and Sheedina (Sidama Sone of the Southern Nations, Nationalities and Peoples (SNNPR))",Epidemic,Bacterial disease,118,2211,0,0,2001-0790,--,--
+15/01/2002,15/01/2002,Ethiopia,ETH,Kurmuk district (Benishangul-Gumuz regional state),Epidemic,Viral disease,12,0,0,0,2002-0030,--,--
+/04/2005,/04/2005,Ethiopia,ETH,"Tigray, Afar, Benshangul-Gumuz, Oromiya regions",Epidemic,Bacterial disease,40,433,0,0,2005-0195,--,--
+/07/2005,/12/2005,Ethiopia,ETH,"Afar, Somali regions",Epidemic,Viral disease,34,531,0,0,2005-0735,--,--
+15/04/2006,22/04/2006,Ethiopia,ETH,"Gambella, Oromiya regions, Guji zone, Southern Nations Nationalities and Poeple Region, Addis ",Epidemic,--,132,10966,0,0,2006-0433,--,--
+15/04/2006,19/02/2007,Ethiopia,ETH,"Oromiya, Amhara, Somali, Tigray, Southern Nation Nationalities, People Region, Afar, Addis Abeba city",Epidemic,--,219,21882,0,0,2006-0552,--,--
+/09/2008,/10/2008,Ethiopia,ETH,"Amhara, SNNP, Tigray, Afar, Oromiya regions",Epidemic,Bacterial disease,20,3134,0,0,2008-0471,--,--
+/08/2009,/09/2009,Ethiopia,ETH,"Oromiya, Amhara, Addis Abeba, Southern Nations Nationalities and People's Region (SNNPR), Afar, Somali states",Epidemic,Bacterial disease,135,13652,0,0,2009-0368,--,--
+01/01/2010,22/03/2010,Ethiopia,ETH,Oromia region,Epidemic,Bacterial disease,16,967,0,0,2010-0140,--,--
+/07/2013,22/07/2013,Ethiopia,ETH,South Omo,Epidemic,Viral disease,55,141,0,0,2013-0329,--,--
+/07/2013,22/07/2013,Ethiopia,ETH,"South Omo, Arbaminch zones",Epidemic,Viral disease,55,141,0,0,2013-0371,--,--
+14/10/2013,/12/2013,Ethiopia,ETH,"Wrader, Kprahe, Gode, Adfer, Liben",Epidemic,Viral disease,0,6,0,0,2013-0399,--,--
+/04/1992,/04/1992,France,FRA,,Epidemic,Bacterial disease,20,0,0,0,1992-0359,--,--
+21/03/2003,03/06/2003,France,FRA,,Epidemic,Viral disease,1,6,0,0,2002-0858,--,--
+/04/1988,/04/1988,Gabon,GAB,Libreville,Epidemic,Bacterial disease,0,132,0,0,1988-0149,--,--
+//1994,//1994,Gabon,GAB,,Epidemic,Viral disease,20,0,0,0,1994-0647,--,--
+13/07/1996,18/01/1997,Gabon,GAB,"Makokou region, Libreville, Booué area",Epidemic,Viral disease,45,15,0,0,1996-0029,--,--
+/11/2001,06/05/2002,Gabon,GAB,Ogooué-Ivindo province (Zadie department),Epidemic,Viral disease,50,10,0,0,2001-0662,--,--
+/12/2004,/12/2004,Gabon,GAB,"Oyem, Libreville",Epidemic,Viral disease,1,100,0,0,2004-0668,--,--
+10/05/2007,01/07/2007,Gabon,GAB,"Libreville, Owendo",Epidemic,Viral disease,0,17900,0,0,2007-0453,--,--
+10/04/2010,22/06/2010,Gabon,GAB,"Franceville, Lastourville, Koulamoutou (Oggoue Lolo, Haut Ogooué)",Epidemic,Viral disease,0,443,0,0,2010-0271,--,--
+/04/2010,/10/2010,Gabon,GAB,,Epidemic,Viral disease,0,108,0,0,2010-0529,--,--
+/10/1978,/10/1978,Gambia (the),GMB,,Epidemic,Viral disease,200,0,0,0,1978-0121,--,--
+08/02/1997,08/02/1997,Gambia (the),GMB,,Epidemic,Bacterial disease,120,793,0,0,1997-0492,--,--
+/11/2000,26/03/2001,Gambia (the),GMB,Upper River division,Epidemic,Bacterial disease,21,116,0,0,2000-0880,--,--
+/02/2014,22/12/2014,Gambia (the),GMB,"Banjul Municipality, Central River, Kanifing Municipality, Lower River, North Bnak, Upper River, West Coast",Epidemic,Viral disease,0,0,0,0,2014-0090,--,--
+01/02/2002,01/02/2002,Germany,DEU,Coburg (Southern Bavaria),Epidemic,Viral disease,0,600,0,0,2002-0168,--,--
+09/03/2003,06/05/2003,Germany,DEU,,Epidemic,Viral disease,0,9,0,0,2002-0858,--,--
+01/01/1977,01/01/1977,Ghana,GHA,,Epidemic,Bacterial disease,0,6558,0,0,1977-0011,--,--
+/02/1984,/02/1984,Ghana,GHA,Upper East Region,Epidemic,Bacterial disease,103,1500,0,0,1984-0020,--,--
+/05/1988,/05/1988,Ghana,GHA,"Volta, Upper East, Upper West",Epidemic,Bacterial disease,15,138,0,0,1988-0186,--,--
+/01/1989,/01/1989,Ghana,GHA,North,Epidemic,Bacterial disease,0,19,0,0,1989-0163,--,--
+16/10/1991,16/10/1991,Ghana,GHA,East Gonja,Epidemic,Bacterial disease,20,0,0,0,1991-0469,--,--
+/11/1996,13/03/1997,Ghana,GHA,"Bawku East, Bolgatanga districts (Upper East Region), East Mamprusi district (Northern region), Bawku West, Kassena-Nankan districts (Upper East region), Gushegu-Karaga, Tamale, West Mampruse, Yendi districts (Northern Region)",Epidemic,Bacterial disease,411,3757,0,0,1996-0210,--,--
+18/04/1997,/04/1997,Ghana,GHA,Bolgatanga District (Upper East Region),Epidemic,Bacterial disease,26,159,0,0,1997-0483,--,--
+/10/1998,/10/1998,Ghana,GHA,"Upper East, Ashanti, Eastern, Volta, Western, central, Greater Accra regions",Epidemic,Bacterial disease,67,1546,0,0,1998-0340,--,--
+/01/1999,/01/1999,Ghana,GHA,Accra,Epidemic,Bacterial disease,9,231,0,0,1999-0477,--,--
+/08/1999,31/08/1999,Ghana,GHA,Builsa District (Upper East region),Epidemic,Bacterial disease,9,260,0,0,1999-0478,--,--
+/10/1999,/10/1999,Ghana,GHA,Kumasi,Epidemic,--,6,705,0,0,1999-0479,--,--
+/01/2001,/01/2001,Ghana,GHA,,Epidemic,Bacterial disease,0,733,0,0,2001-0272,--,--
+01/04/2001,01/04/2001,Ghana,GHA,"Greater Accra, Volta, Western regions",Epidemic,Bacterial disease,12,408,0,0,2001-0372,--,--
+/11/2005,/12/2005,Ghana,GHA,"Accra, Ashanti, Central, Eastern, Northern, Western, Upper East regions",Epidemic,Bacterial disease,40,2248,0,0,2005-0663,--,--
+//2010,02/03/2010,Ghana,GHA,"North, Upper East, Upper West",Epidemic,Viral disease,27,100,0,0,2010-0131,--,--
+/09/2011,14/10/2011,Ghana,GHA,,Epidemic,Bacterial disease,101,10002,0,0,2011-0333,--,--
+01/01/2012,01/09/2012,Ghana,GHA,,Epidemic,Bacterial disease,38,4975,0,0,2012-0358,--,--
+01/01/2012,16/07/2012,Ghana,GHA,"Builsa, KND, KNW, Bawku M., Bolga M, Bongo, Garu, Talensi N",Epidemic,Viral disease,38,466,0,0,2012-0415,--,--
+08/01/2013,21/01/2013,Ghana,GHA,"Obuasi Municipality district, Ejura/Sekyedumase district (Ashanti region)",Epidemic,Bacterial disease,18,560,0,0,2013-0010,--,--
+/06/2014,/06/2015,Ghana,GHA,"Accra Metro Total, Ada East, Ada West, Adentan, Ashaiman, Ga Central, Ga East, Ga South, Ga West, Knope Katamango, La Dadekotopon, La Nkwatanang, Ledzokuku-Krowor, Ningo Prampram, Shai Osudoku, Tema municipalities (Greater Accra); Nsawam Adoagyiri, Kwahu West, New Juaben, Akwapim North, West Akim, Fanteakwa, Lower Manya Krobo (Eastern region); Adsanti South, Kumasi metro, Asante Akim Central districts (Ashnati region); Sekondi Takoradi metropolis (Western region)",Epidemic,Bacterial disease,249,56469,0,0,2014-0282,--,--
+/12/2015,10/02/2016,Ghana,GHA,,Epidemic,Viral disease,85,465,0,0,2015-0580,--,--
+21/10/2016,/11/2016,Ghana,GHA,"Cape Coast Municipal, Abura Asebu Kwamankese, Komenda Edina Eguafo Abrem, Twifo Hermang, Asekuma Odoben Brakwa, Mfantseman districts",Epidemic,Bacterial disease,0,172,0,0,2016-0394,--,--
+/08/2010,/08/2010,Guadeloupe,GLP,,Epidemic,Viral disease,0,33000,0,0,2010-0436,--,--
+/06/1969,/06/1969,Guatemala,GTM,Countrywide,Epidemic,Viral disease,4,8,0,0,1969-0072,--,--
+/01/1990,/01/1990,Guatemala,GTM,,Epidemic,Viral disease,200,0,0,0,1990-0569,--,--
+/07/1991,/07/1991,Guatemala,GTM,,Epidemic,Bacterial disease,180,26800,0,0,1991-0671,--,--
+/01/1992,/01/1992,Guatemala,GTM,,Epidemic,Bacterial disease,206,0,0,0,1992-0459,--,--
+/01/1995,/01/1995,Guatemala,GTM,,Epidemic,Viral disease,0,3402,0,0,1995-0313,--,--
+04/11/1998,04/11/1998,Guatemala,GTM,"Guatemala City, Chinaltenango, Zacapa, Baja Verapaz, Retalhuleu",Epidemic,Bacterial disease,17,1345,0,0,1998-0370,--,--
+/07/2002,/07/2002,Guatemala,GTM,"Suchitepequez, Quetzaltenango, Jalapa, Peten, Santa Rosa, Guatemala, Baja Verapaz, Huehuetenango, Escuintla, San Marcos, El Progreso",Epidemic,Viral disease,1,2042,0,0,2002-0516,--,--
+01/08/2013,27/01/2013,Guatemala,GTM,"Ratalhuleu, San Rosa, Guatemala Sur, Zacapa, Izabal, Jutipan Quetzaltenango, Escuintla, Jutlapa, Peten, Chiquimula",Epidemic,Viral disease,8,1977,0,0,2013-0307,--,--
+/01/2015,/07/2015,Guatemala,GTM,"Santa Rosa, Quetzaltenango, Zacapa, San Marcos, Retalhuleu, Jutiapa",Epidemic,Viral disease,0,15211,0,0,2015-0355,--,--
+/02/1987,/02/1987,Guinea,GIN,Salambande,Epidemic,--,18,30,0,0,1987-0055,--,--
+24/06/1994,24/06/1994,Guinea,GIN,Conakry,Epidemic,Bacterial disease,311,24000,0,0,1994-0621,--,--
+/09/1999,/09/1999,Guinea,GIN,Conakri,Epidemic,Bacterial disease,12,123,0,0,1999-0480,--,--
+12/10/2000,27/12/2000,Guinea,GIN,"Mamou, Labé, Tougué, Mali, Koubia, Kankan, Kindia districts. 15 districts in northwestern.",Epidemic,Viral disease,190,322,0,0,2000-0693,--,--
+06/08/2001,23/09/2001,Guinea,GIN,N'zerekore region,Epidemic,Bacterial disease,12,143,0,0,2001-0518,--,--
+/01/2002,/01/2002,Guinea,GIN,,Epidemic,Bacterial disease,23,123,0,0,2002-0257,--,--
+01/01/2003,23/01/2003,Guinea,GIN,"Macenta, Kerouane prefectures",Epidemic,Viral disease,24,43,0,0,2003-0055,--,--
+/06/2004,/10/2004,Guinea,GIN,"Kindia, Conakry, Siguiri, Mandiana, Boffa, Coyah, Kaloum, Matam, Matoto, Ratoma",Epidemic,Bacterial disease,100,1092,0,0,2004-0437,--,--
+11/04/2005,30/10/2005,Guinea,GIN,"Conakry, Boke, Boffa, Coyah, Forecariah, Kindia, Pita prefectures",Epidemic,Bacterial disease,72,1884,0,0,2005-0484,--,--
+01/01/2006,31/03/2006,Guinea,GIN,Mandiana prefecture (Kankan region),Epidemic,Bacterial disease,18,125,0,0,2006-0185,--,--
+/01/2006,22/10/2006,Guinea,GIN,"Gueckedou, Kissidougou, N'zerekore, Lola districst of Farnah and Conakry",Epidemic,Bacterial disease,111,173,0,0,2006-0324,--,--
+/01/2007,/08/2007,Guinea,GIN,,Epidemic,Bacterial disease,90,2410,0,0,2007-0423,--,--
+02/02/2012,01/09/2012,Guinea,GIN,"Conakry, Forecariah, Boffa, Boké, Mamou, Dubreka, Coyah, Kindia, Fria, Kankan, Kerouané",Epidemic,Bacterial disease,105,5523,0,0,2012-0287,--,--
+/12/2013,/12/2013,Guinea,GIN,Matoto district (Conakry region),Epidemic,Viral disease,0,143,0,0,2013-0570,--,--
+00/02/2014,29/12/2015,Guinea,GIN,"Conakry, Gueckedou, Macenta, Dabola, Kissidougou, Dinguiraye, Telimele, Boffa, Kouroussa",Epidemic,Viral disease,2544,3814,0,0,2014-0090,--,--
+25/09/1987,25/09/1987,Guinea-Bissau,GNB,"Bissau, Mansoa, Safim, Orango",Epidemic,Bacterial disease,68,6000,0,0,1987-0165,--,--
+04/11/1994,04/11/1994,Guinea-Bissau,GNB,Bissay City,Epidemic,Bacterial disease,195,8631,0,0,1994-0622,--,--
+/10/1996,/10/1996,Guinea-Bissau,GNB,Bissau and Gabu districts,Epidemic,Bacterial disease,961,26967,0,0,1996-0443,--,--
+/01/1997,/01/1997,Guinea-Bissau,GNB,,Epidemic,Bacterial disease,781,22299,0,0,1997-0204,--,--
+/01/1999,05/04/1999,Guinea-Bissau,GNB,"Oio, Batafa and Gabu Regions",Epidemic,Bacterial disease,404,2169,0,0,1999-0481,--,--
+/10/2004,19/11/2004,Guinea-Bissau,GNB,Bijagos archipelago,Epidemic,Bacterial disease,3,199,0,0,2004-0736,--,--
+06/06/2005,22/11/2005,Guinea-Bissau,GNB,"Bissau, Biombo, Cacheu, Oio, Bijagos, Bolama, Quinira, Sao Domingos, Tombalia, Gafu and Bafat",Epidemic,Bacterial disease,399,25111,0,0,2005-0373,--,--
+/05/2008,19/11/2008,Guinea-Bissau,GNB,"Bissau, Biombo, Bijagos, Oio",Epidemic,Bacterial disease,221,14004,0,0,2008-0446,--,--
+/12/1963,/12/1963,Haiti,HTI,,Epidemic,Parasitic disease,0,2724,0,0,1963-0038,--,--
+/04/2003,/05/2003,Haiti,HTI,Grand Bois area,Epidemic,Viral disease,40,200,0,0,2003-0268,--,--
+22/10/2010,15/12/2011,Haiti,HTI,"Artibonite, Centre, Grande Anse, Nippes, North, North West, North East, West, South, South East",Epidemic,Bacterial disease,6908,513997,0,0,2010-0557,--,--
+26/10/2012,06/11/2012,Haiti,HTI,,Epidemic,Bacterial disease,21,2224,0,0,2012-0411,--,--
+31/10/2012,08/11/2012,Haiti,HTI,,Epidemic,Bacterial disease,29,3593,0,0,2012-0501,--,--
+31/05/2014,16/08/2014,Haiti,HTI,"St Marc, Verettes, Gonaives, l'Estere, Desdunes, Gros Morne, Marchands Dessalines, Petite RiviÃ¨re de l'Art, Grande Saline, St Michel de l'attalaye, Anse Rouge, Ennery, Marmelade (Artibonite); Hinche, Thomassique, Mirebalais, Boucan Carre, Lascahohas, Saut d'eau, Belladere, Thomonde, Cerca La Source, Maissade, Savanette (Centre); Corail, Jeremie, Abricot, Dame Marie, Anse d'Ainault, Pestel (Grand'Anse); Petite Riviere des Nippes, Anse a Veau, l'Azile, Fond-des-Negres, Arnault, Paillant, Miragoane, Trou de Nippes (Nippes); Grande Riviere du Nord, Cap-Haitien, Plaine du Nord, Quartier Morin, Limbe, Milot, Plaisance, Pilate, St Raphael, Pignon (Nord); Ouanaminthe, Trou du Nord, Fort Liberte, Terrier Rouge, Mont Organise (Nord-Est); Port-de-Paix, St Louis du Nord, Anse A Foleur, Ile de la Tortue, Jean Rabel, Bombardopolis, Chansolme, Bassin Bleu (Nord-Ouest); Delmas, Port-au-Prince, Carrefour, CRoix des Bouquets, Arcahaie, Petite Goave, Petion Ville, Gantier, Cabaret, Cite Soleil, Anse a Galet, Tabarre, Leogane, Kenskoff, Fonds Verette Ouest); Aquin, Les Cayes, Cavaillon, St Louis du Sud, Les Anglais, Port Salut, Torbeck, Coteaux, Ile a Vache, Chantal, Port-a-Piment, Camp Perrin (Sud), Marigot, Cote de Fer, Belle Anse, Anse a Pitre, Bainet, La Vallee, Jacqmel, Thiotte (Sud-Est)",Epidemic,Viral disease,0,39343,0,0,2014-0200,--,--
+//2015,/08/2015,Haiti,HTI,,Epidemic,Bacterial disease,170,20000,0,0,2015-0366,--,--
+/10/2016,/10/2016,Haiti,HTI," Sud, Grand'Anse deprtaments",Epidemic,Bacterial disease,0,6096,0,0,2016-0404,--,--
+/08/1965,/08/1965,Honduras,HND,San Pedro Sula area,Epidemic,Viral disease,7,170,0,0,1965-0045,--,--
+05/09/1969,05/09/1969,Honduras,HND,,Epidemic,Viral disease,0,0,0,0,1969-0092,--,--
+/01/1995,/01/1995,Honduras,HND,,Epidemic,Viral disease,5,15998,0,0,1995-0314,--,--
+//1998,/12/1998,Honduras,HND,,Epidemic,Bacterial disease,17,1372,0,0,1998-0570,--,--
+04/12/1998,04/12/1998,Honduras,HND,,Epidemic,Viral disease,0,1080,0,0,1998-0571,--,--
+01/01/2002,29/06/2002,Honduras,HND,"Valle, La Paz, Choluteca, Olancho, Cortes, Francisco, Morazan, Olancho, Comayagua, El Paraiso, Yoro, Santa Barbara, Copan regions",Epidemic,Viral disease,8,4530,0,0,2002-0418,--,--
+/01/2009,/11/2009,Honduras,HND,Tegucigalpa,Epidemic,Viral disease,7,11771,0,0,2009-0557,--,--
+/01/2010,/09/2010,Honduras,HND,"Tegucigalpa (Fransico Morazan department); San Pedro Sula (Cortes department); El Progresso, La Ceiba, Olanchito, Yoro, Catacamas, Choluteca, Danli, El Paraiso",Epidemic,Viral disease,67,27000,0,0,2010-0268,--,--
+/07/2013,/07/2013,Honduras,HND,"Tegucigalpa, San Pedro Sula, Juticalpa, Comayagua, Copan, La Ceiba; Choluteca, Choloma, La Paz, Catacamas, TEla, Marcovia, Danli, Santa Barbara, SAn Marcos de Ocotepeque, Trujillo, Cortes",Epidemic,Viral disease,27,34128,0,0,2013-0493,--,--
+15/02/2003,31/05/2003,Hong Kong,HKG,Hong Kong,Epidemic,Viral disease,299,1456,0,0,2002-0858,--,--
+//1907,//1907,India,IND,,Epidemic,Bacterial disease,1300000,0,0,0,1907-0001,--,--
+//1920,//1920,India,IND,,Epidemic,Bacterial disease,2000000,0,0,0,1920-0001,--,--
+//1920,//1920,India,IND,,Epidemic,Bacterial disease,500000,0,0,0,1920-0002,--,--
+//1924,//1924,India,IND,,Epidemic,Bacterial disease,300000,0,0,0,1924-0001,--,--
+//1926,//1926,India,IND,,Epidemic,Viral disease,423000,0,0,0,1926-0001,--,--
+01/01/1967,01/01/1967,India,IND,,Epidemic,Viral disease,3029,13576,0,0,1967-0004,--,--
+01/01/1977,01/01/1977,India,IND,,Epidemic,Bacterial disease,0,9091,0,0,1977-0012,--,--
+01/01/1978,01/01/1978,India,IND,Tamil Nadu,Epidemic,Viral disease,45,0,0,0,1978-0012,--,--
+/06/1978,/06/1978,India,IND,Uttar Pradesh,Epidemic,Viral disease,48,1000,0,0,1978-0074,--,--
+/10/1978,/10/1978,India,IND,West Bengal,Epidemic,Bacterial disease,113,0,0,0,1978-0122,--,--
+/10/1978,/10/1978,India,IND,Uttar Pradesh,Epidemic,Viral disease,2000,0,0,0,1978-0123,--,--
+13/08/1979,13/08/1979,India,IND,Bihar,Epidemic,Bacterial disease,215,0,0,0,1979-0266,--,--
+/07/1980,/07/1980,India,IND,Madhya Pradesh,Epidemic,Bacterial disease,390,0,0,0,1980-0061,--,--
+/09/1980,/09/1980,India,IND,Northern,Epidemic,Viral disease,400,0,0,0,1980-0086,--,--
+21/08/1980,21/08/1980,India,IND,Uttar Pradesh,Epidemic,Bacterial disease,250,0,0,0,1980-0316,--,--
+/10/1982,/10/1982,India,IND,West Bengal,Epidemic,Viral disease,118,0,0,0,1982-0109,--,--
+/06/1984,/06/1984,India,IND, Uttar Pradesh,Epidemic,Bacterial disease,60,0,0,0,1984-0053,--,--
+/05/1984,/05/1984,India,IND,W Bengal State,Epidemic,Parasitic disease,3290,27000,0,0,1984-0316,--,--
+/05/1984,/05/1984,India,IND,"Gujarat, Karnataka States",Epidemic,Viral disease,1160,0,0,0,1984-0317,--,--
+01/01/1985,01/01/1985,India,IND,Western,Epidemic,Viral disease,55,456,0,0,1985-0007,--,--
+/03/1985,/03/1985,India,IND,"Delhi, Haryana, Uttar Pradesh, Rajasthan, Sikkim, Gujarat, Jammu and Kashmir, West Bengal, Chandigarh, Kerala, Orissa",Epidemic,Bacterial disease,799,6133,0,0,1985-0037,--,--
+/10/1985,/10/1985,India,IND,Eastern Uttar Pradesh,Epidemic,Viral disease,1000,0,0,0,1985-0115,--,--
+01/01/1986,01/01/1986,India,IND,New Delhi,Epidemic,Bacterial disease,55,600,0,0,1986-0019,--,--
+/06/1986,/06/1986,India,IND,South Bihar,Epidemic,Viral disease,210,11000,0,0,1986-0072,--,--
+19/01/1987,19/01/1987,India,IND,Kashmir,Epidemic,Viral disease,90,0,0,0,1987-0570,--,--
+/06/1988,/06/1988,India,IND,Delhi,Epidemic,Bacterial disease,466,0,0,0,1988-0238,--,--
+/07/1988,/07/1988,India,IND,Gujarat state,Epidemic,Bacterial disease,445,0,0,0,1988-0297,--,--
+/11/1988,/11/1988,India,IND,Along Nepal/Uttar Pradesh border,Epidemic,Viral disease,3000,0,0,0,1988-0496,--,--
+//1989,//1989,India,IND,,Epidemic,Viral disease,200,0,0,0,1989-0591,--,--
+/08/1990,/08/1990,India,IND,Bihar,Epidemic,--,90,18000,0,0,1990-0590,--,--
+/09/1990,/09/1990,India,IND,Gujarat,Epidemic,Parasitic disease,58,0,0,0,1990-0626,--,--
+/10/1991,/10/1991,India,IND,"Nagaon, Morigon districts (Assam)",Epidemic,Bacterial disease,185,0,0,0,1991-0691,--,--
+28/09/1994,28/09/1994,India,IND,"Surat (Gujarat state), Beed (Maharashtra state)",Epidemic,Bacterial disease,53,5150,0,0,1994-0219,--,--
+04/10/1996,28/11/1996,India,IND,New Delhi,Epidemic,Viral disease,354,8423,0,0,1996-0223,--,--
+15/07/1997,11/09/1997,India,IND,"Valsad, Chikali and Gandevi (Valsad district) and Vyara and Mahuva taluks (Surat district)",Epidemic,Bacterial disease,48,413,0,0,1997-0504,--,--
+10/12/1997,10/12/1997,India,IND,Lucknow (city) Level 1 = Uttar Pradesh,Epidemic,Viral disease,0,210,0,0,1997-0509,--,--
+//1997,//1997,India,IND,Kahool,Epidemic,Viral disease,32,267,0,0,1997-0550,--,--
+/07/1998,/07/1998,India,IND,"Assam, Adilabad, Karimnaga - Level 1 = Andhra Pradesh, West Bangal",Epidemic,Bacterial disease,679,14632,0,0,1998-0232,--,--
+/08/1998,/08/1998,India,IND,Level 1 = Uttar Pradesh,Epidemic,Viral disease,128,606,0,0,1998-0333,--,--
+06/03/1999,06/03/1999,India,IND,"Khanpur, Jhalawar district, Level 1 = Delhi & Rajahastan",Epidemic,Viral disease,0,285,0,0,1999-0482,--,--
+/10/1999,/10/1999,India,IND,Masarkal,Epidemic,Parasitic disease,1,499,0,0,1999-0483,--,--
+/09/1999,/09/1999,India,IND,"Tehri Garhwal Disrict, Level 1 = Uttar Pradesh",Epidemic,--,11,75,0,0,1999-0484,--,--
+/11/1999,/11/1999,India,IND,Orissa,Epidemic,--,69,77880,0,0,1999-0564,--,--
+/09/1999,06/12/1999,India,IND,Andhra Pradesh,Epidemic,Viral disease,200,765,0,0,1999-0649,--,--
+/05/2000,/05/2000,India,IND,"Gonda, Banda districts (Uttar Pradesh)",Epidemic,Viral disease,84,1055,0,0,2000-0306,--,--
+/05/2000,/05/2000,India,IND,Delhi,Epidemic,Bacterial disease,0,192,0,0,2000-0308,--,--
+/07/2000,/07/2000,India,IND,"Mumbai, Thane districts",Epidemic,Bacterial disease,27,79,0,0,2000-0459,--,--
+/08/2000,/08/2000,India,IND,Uttar Pradesh,Epidemic,Viral disease,34,116,0,0,2000-0568,--,--
+/10/2000,/10/2000,India,IND,West Bengal,Epidemic,--,51,0,0,0,2000-0698,--,--
+12/10/2000,12/10/2000,India,IND,Andhra Pradesh state,Epidemic,Viral disease,14,64,0,0,2000-0709,--,--
+26/10/2000,26/10/2000,India,IND,Supaul district (Bihar),Epidemic,Viral disease,13,287,0,0,2000-0795,--,--
+31/08/2000,31/08/2000,India,IND,Nawadah district (Bihar),Epidemic,Viral disease,19,58,0,0,2000-0874,--,--
+01/02/2001,01/02/2001,India,IND,Siliguri (West Bengal),Epidemic,--,28,42,0,0,2001-0061,--,--
+18/06/2001,18/06/2001,India,IND,"Mumbai, Thane",Epidemic,Bacterial disease,16,83,0,0,2001-0330,--,--
+07/07/2001,/08/2001,India,IND,Orissa State,Epidemic,Bacterial disease,33,34078,0,0,2001-0409,--,--
+/08/2001,/08/2001,India,IND,Orissa state,Epidemic,Parasitic disease,12,24686,0,0,2001-0438,--,--
+12/03/2002,12/03/2002,India,IND,Mandi district,Epidemic,Viral disease,0,200,0,0,2002-0156,--,--
+01/05/2002,01/05/2002,India,IND,Assam,Epidemic,Parasitic disease,50,4950,0,0,2002-0301,--,--
+13/08/2002,13/08/2002,India,IND,Assam,Epidemic,Viral disease,86,0,0,0,2002-0534,--,--
+01/09/2002,01/09/2002,India,IND,Saharanpur (Uttar Pradesh),Epidemic,--,44,0,0,0,2002-0759,--,--
+25/04/2003,06/05/2003,India,IND,,Epidemic,Viral disease,0,3,0,0,2002-0858,--,--
+01/06/2003,09/11/2003,India,IND,Delhi,Epidemic,Viral disease,0,2185,0,0,2003-0540,--,--
+18/05/2005,21/06/2005,India,IND,"Delhi, Haryana, Chandigarh, Uttar Pradesh, Uttaranchal",Epidemic,Bacterial disease,48,405,0,0,2005-0268,--,--
+29/07/2005,13/09/2005,India,IND,"Uttar Pradesh, Bihar",Epidemic,Viral disease,296,939,0,0,2005-0479,--,--
+28/08/2005,30/08/2005,India,IND,Maharashtra state,Epidemic,Bacterial disease,66,0,0,0,2005-0481,--,--
+01/07/2005,10/11/2005,India,IND,Uttar Pradesh and Bihar states,Epidemic,Viral disease,296,1145,0,0,2005-0631,--,--
+/12/2005,/04/2006,India,IND,"Andhra Prasdesh, Maharashtra, Karnataka states",Epidemic,Viral disease,0,153324,0,0,2005-0754,--,--
+/01/2009,/10/2009,India,IND,Uttar Pradesh,Epidemic,Viral disease,311,1521,0,0,2009-0403,--,--
+//1909,//1909,Indonesia,IDN,,Epidemic,Bacterial disease,40,0,0,0,1909-0002,--,--
+01/01/1968,01/01/1968,Indonesia,IDN,Bojalali (Central Java),Epidemic,Bacterial disease,40,94,0,0,1968-0003,--,--
+01/01/1977,01/01/1977,Indonesia,IDN,Jakarta,Epidemic,Bacterial disease,37,29942,0,0,1977-0013,--,--
+/12/1977,/12/1977,Indonesia,IDN,East Java,Epidemic,Bacterial disease,80,0,0,0,1977-0138,--,--
+/03/1978,/03/1978,Indonesia,IDN,Simelu Island,Epidemic,Bacterial disease,82,0,0,0,1978-0038,--,--
+/07/1978,/07/1978,Indonesia,IDN,Jakarta,Epidemic,Bacterial disease,11,70,0,0,1978-0088,--,--
+/10/1982,/10/1982,Indonesia,IDN,Central Java,Epidemic,Bacterial disease,39,200,0,0,1982-0108,--,--
+/03/1983,/03/1983,Indonesia,IDN,Lampung Province,Epidemic,Parasitic disease,120,0,0,0,1983-0050,--,--
+/12/1984,/12/1984,Indonesia,IDN,Cilicap district (Central Java),Epidemic,Parasitic disease,105,4000,0,0,1984-0118,--,--
+01/01/1986,01/01/1986,Indonesia,IDN,Sulawesi,Epidemic,Parasitic disease,0,500000,0,0,1986-0016,--,--
+/08/1986,/08/1986,Indonesia,IDN,West Sumatra,Epidemic,Bacterial disease,59,700,0,0,1986-0089,--,--
+/12/1990,/12/1990,Indonesia,IDN,Moluccan Isl.,Epidemic,Bacterial disease,50,0,0,0,1990-0239,--,--
+/03/1991,/03/1991,Indonesia,IDN,Aceh province (North Sumatra),Epidemic,Bacterial disease,55,6000,0,0,1991-0084,--,--
+/04/1991,/04/1991,Indonesia,IDN,"Aceh province (North Sumatra), Kalimatan",Epidemic,--,115,9000,0,0,1991-0154,--,--
+/01/1991,/01/1991,Indonesia,IDN,,Epidemic,Bacterial disease,48,0,0,0,1991-0668,--,--
+15/01/1991,15/01/1991,Indonesia,IDN,Java,Epidemic,Viral disease,41,0,0,0,1991-0669,--,--
+/08/1991,/08/1991,Indonesia,IDN,Sumatra Centrale,Epidemic,Bacterial disease,35,0,0,0,1991-0672,--,--
+/01/1996,/01/1996,Indonesia,IDN,Java Isl.,Epidemic,Viral disease,117,5373,0,0,1996-0123,--,--
+04/06/1997,04/06/1997,Indonesia,IDN,Kalimatan,Epidemic,Viral disease,47,0,0,0,1997-0484,--,--
+05/11/1997,05/11/1997,Indonesia,IDN,Irian Jaya,Epidemic,Bacterial disease,150,0,0,0,1997-0502,--,--
+/01/1998,/01/1998,Indonesia,IDN,"Irian Java, Maluku",Epidemic,--,672,0,0,0,1998-0045,--,--
+13/05/1998,13/05/1998,Indonesia,IDN,N.A. on the source,Epidemic,Viral disease,777,32665,0,0,1998-0143,--,--
+02/03/1999,02/03/1999,Indonesia,IDN,"Flores Island, Level 1 = Nusa Tenggara Timur",Epidemic,Bacterial disease,1,267,0,0,1999-0485,--,--
+/03/1999,/03/1999,Indonesia,IDN,"South central Timor, Talahar Regency, Level 1 = Nusa Tenggara Timur",Epidemic,--,10,627,0,0,1999-0486,--,--
+//1999,//1999,Indonesia,IDN,,Epidemic,Viral disease,45,3751,0,0,1999-0651,--,--
+/01/2000,/01/2000,Indonesia,IDN,Jakarta,Epidemic,Viral disease,10,1516,0,0,2000-0108,--,--
+/05/2000,/05/2000,Indonesia,IDN,Ngada district (Flores Isl.),Epidemic,Viral disease,15,203,0,0,2000-0320,--,--
+10/01/2002,10/01/2002,Indonesia,IDN,"Alor, Manggarai, Sikka, Belu",Epidemic,Bacterial disease,17,757,0,0,2002-0031,--,--
+06/04/2003,17/04/2003,Indonesia,IDN,,Epidemic,Viral disease,0,2,0,0,2002-0858,--,--
+01/01/2004,30/04/2004,Indonesia,IDN,"Aceh, Jambi, Banten, West Java, Central Java, Yogyakarta, East Java, South Kalimatan, Bali, West Nusa Tenggara, East Nusa Tenggara (Java, Sumatra)",Epidemic,Viral disease,658,58301,0,0,2004-0093,--,--
+01/01/2005,14/08/2007,Indonesia,IDN,"Banten, Jakarta, West Java, Lampung",Epidemic,Viral disease,87,21,0,0,2004-0515,--,--
+/06/2005,31/01/2006,Indonesia,IDN,"Banten, Lampung (West, east and Central Java), DKI Jakarta, Sumatra (North and South), Aceh (NAD), Riau, Madura Isl., Probolinggo district",Epidemic,Viral disease,0,329,0,0,2005-0374,--,--
+/02/2007,/02/2007,Indonesia,IDN,Jakarta,Epidemic,--,22,357,0,0,2007-0067,--,--
+/07/2007,/07/2007,Indonesia,IDN,,Epidemic,Viral disease,365,34542,0,0,2007-0274,--,--
+/02/2007,/03/2007,Indonesia,IDN,"Jakarta, Bogor, Depok, Tangerang, Bekasi ",Epidemic,Viral disease,16,312,0,0,2007-0651,--,--
+/07/1965,/07/1965,Iran (Islamic Republic of),IRN,East and North East Provinces,Epidemic,Bacterial disease,288,2500,0,0,1965-0039,--,--
+/09/1978,/09/1978,Iran (Islamic Republic of),IRN,Gonbad,Epidemic,Bacterial disease,8,0,0,0,1978-0112,--,--
+02/05/2000,02/05/2000,Iran (Islamic Republic of),IRN,"Dol Avkurt camps, Kandil Montain",Epidemic,--,76,0,0,0,2000-0285,--,--
+/08/1978,/08/1978,Iraq,IRQ,,Epidemic,Bacterial disease,1,51,0,0,1978-0183,--,--
+04/06/1997,04/06/1997,Iraq,IRQ,,Epidemic,Bacterial disease,0,185,0,0,1997-0499,--,--
+28/04/2003,29/06/2003,Iraq,IRQ,"Basra, Missan, Samawah Governorate",Epidemic,Bacterial disease,0,0,0,0,2003-0269,--,--
+01/01/2006,01/03/2006,Iraq,IRQ,"Al Suleimaniyah, Al Amara, Erbil, Wasit",Epidemic,Viral disease,2,0,0,0,2004-0515,--,--
+14/08/2007,03/10/2007,Iraq,IRQ,"Kirkuk, Tikrit, Mosul, Basra, Baghdad, Dahuk",Epidemic,Bacterial disease,24,4696,0,0,2007-0495,--,--
+07/08/2008,27/11/2008,Iraq,IRQ,"Muthana, Kerbala, Missan, Baghdad, Babil, Kerbala, Najaf, Diala, Basra, Anbar, Diwanyia, Wasit, Erbil provinces",Epidemic,Bacterial disease,11,892,0,0,2008-0411,--,--
+15/09/2015,31/10/2015,Iraq,IRQ,"Najaf, Diwaniya, Baghdad, Babylon, Baghdad, Basrah, Diwaniya, Erbil, Kerbala, Missan, Muthana, Najaf, Salah al-Din, Sulaymaniyah, Thigar and Wassit",Epidemic,Bacterial disease,0,2217,0,0,2015-0481,--,--
+01/01/2000,29/07/2000,Ireland,IRL,north Dublin city,Epidemic,Viral disease,2,1374,0,0,2000-0488,--,--
+27/02/2003,27/02/2003,Ireland,IRL,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+/08/2000,19/09/2000,Israel,ISR,"Jerusalem, Tel Aviv, Golan",Epidemic,Viral disease,12,139,0,0,2000-0593,--,--
+/06/2002,/06/2002,Italy,ITA,Campania,Epidemic,Viral disease,3,9997,0,0,2002-0357,--,--
+12/03/2003,20/04/2003,Italy,ITA,,Epidemic,Viral disease,0,4,0,0,2002-0858,--,--
+13/01/1900,13/01/1900,Jamaica,JAM,Porus,Epidemic,Viral disease,30,0,0,0,1900-0007,--,--
+/10/1932,/10/1932,Jamaica,JAM,Eastern St Thomas,Epidemic,Bacterial disease,16,0,0,0,1932-0008,--,--
+/06/1977,/06/1977,Jamaica,JAM,,Epidemic,Viral disease,0,0,0,0,1977-0074,--,--
+/12/1990,/12/1990,Jamaica,JAM,Savannah-La-Mar,Epidemic,Bacterial disease,0,300,0,0,1990-0594,--,--
+06/11/2006,02/02/2007,Jamaica,JAM,"City Kingston, Sydenham, St Catherine Parish, Clarendon, St THomas",Epidemic,Parasitic disease,3,280,0,0,2006-0721,--,--
+/06/1977,/06/1977,Japan,JPN,Arita,Epidemic,Bacterial disease,1,74,0,0,1977-0075,--,--
+/02/1978,/02/1978,Japan,JPN,Countrywide,Epidemic,Viral disease,0,2000000,0,0,1978-0031,--,--
+08/10/1997,08/10/1997,Japan,JPN,"Tokyo,Yokohama,Nagoya (cities)",Epidemic,Bacterial disease,0,460,0,0,1997-0500,--,--
+/07/1981,/07/1981,Jordan,JOR,,Epidemic,Bacterial disease,4,715,0,0,1981-0061,--,--
+09/12/1998,09/12/1998,Kazakhstan,KAZ,Ust-kamenogorsk,Epidemic,Bacterial disease,7,593,0,0,1998-0555,--,--
+//1999,//1999,Kazakhstan,KAZ,,Epidemic,--,0,166,0,0,1999-0674,--,--
+/01/2000,/01/2000,Kazakhstan,KAZ,Kyzylzhar district,Epidemic,Viral disease,0,114,0,0,2000-0370,--,--
+/10/1991,/10/1991,Kenya,KEN,West Pokot district,Epidemic,Bacterial disease,26,200,0,0,1991-0420,--,--
+/01/1994,/01/1994,Kenya,KEN,"Kisii, Nyamira, Narok, Kuria districts",Epidemic,Parasitic disease,1000,6500000,0,0,1994-0627,--,--
+26/10/1997,26/10/1997,Kenya,KEN,,Epidemic,Bacterial disease,237,13476,0,0,1997-0514,--,--
+25/06/1997,28/10/1997,Kenya,KEN,"Nyatike Division (Migori District), Rachuonyo, Suba, Homa Bay and Kisumu District (Nyuanza province) and Molo (Nakuru)",Epidemic,Bacterial disease,140,2360,0,0,1997-0542,--,--
+/01/1997,/12/1998,Kenya,KEN,"Migori, Rachuonyo, Suba, Homa Bay, Nyando, Kisumu districts",Epidemic,Bacterial disease,555,17200,0,0,1997-0551,--,--
+/12/1997,/01/1998,Kenya,KEN,,Epidemic,Viral disease,300,0,0,0,1997-0554,--,--
+27/12/1998,19/01/1999,Kenya,KEN,"Nyanza, Eastern, Rift Valley and Nairobi provinces",Epidemic,Bacterial disease,27,1025,0,0,1998-0597,--,--
+/06/1999,/06/1999,Kenya,KEN,"Kisii, Mt. Elgon, south Western highlands",Epidemic,Parasitic disease,563,306352,0,0,1999-0487,--,--
+/12/1999,/12/1999,Kenya,KEN,Garissa District,Epidemic,Parasitic disease,14,786,0,0,1999-0628,--,--
+/01/1999,/12/1999,Kenya,KEN,,Epidemic,--,1237,22432,0,0,1999-0715,--,--
+/01/2000,/01/2000,Kenya,KEN,"Takaba Division, Mandera District",Epidemic,--,10,40,0,0,2000-0061,--,--
+06/01/2000,06/01/2000,Kenya,KEN,Nakuru District,Epidemic,Bacterial disease,3,189,0,0,2000-0062,--,--
+20/02/2000,20/02/2000,Kenya,KEN,"Nyando district, Nyanza district",Epidemic,Bacterial disease,16,229,0,0,2000-0197,--,--
+/06/2000,/06/2000,Kenya,KEN,"Wajir, Mandera, Garissa districts",Epidemic,Viral disease,7,221,0,0,2000-0506,--,--
+/08/2000,/08/2000,Kenya,KEN,Nyakach (Nyando district),Epidemic,--,14,42,0,0,2000-0565,--,--
+/02/2001,/03/2001,Kenya,KEN,Embu town,Epidemic,Bacterial disease,9,102,0,0,2001-0062,--,--
+01/06/2001,01/06/2001,Kenya,KEN,Wajir district,Epidemic,Bacterial disease,14,222,0,0,2001-0371,--,--
+/08/2001,/08/2001,Kenya,KEN,Meru North district (Eastern province),Epidemic,--,12,24,0,0,2001-0554,--,--
+/12/2001,/12/2001,Kenya,KEN,Igoji division (Meru Central district),Epidemic,Parasitic disease,5,395,0,0,2001-0721,--,--
+15/05/2004,14/07/2004,Kenya,KEN,Bungoma,Epidemic,Bacterial disease,8,141,0,0,2004-0271,--,--
+01/12/2005,15/02/2006,Kenya,KEN,"West Pokot (Kachelpa, Allale regions)",Epidemic,Bacterial disease,12,45,0,0,2005-0755,--,--
+/11/2005,/04/2006,Kenya,KEN,"Nairobi, Wajir, Ijara, Tana River, Isiolo, Marsabit, Mandera, Moyale",Epidemic,Viral disease,41,1600,0,0,2005-0813,--,--
+01/01/2006,28/01/2006,Kenya,KEN,"Kachelpam, Allale, Kasei, Chepareria divisions (West-Pokot)",Epidemic,Bacterial disease,15,59,0,0,2006-0136,--,--
+/05/2006,/05/2006,Kenya,KEN,"Kotulo area (El Wak Division), Rhamu Division (Mandera province)",Epidemic,Parasitic disease,13,0,0,0,2006-0322,--,--
+30/11/2006,12/03/2007,Kenya,KEN,"Garissa, Ijara, Wajir (North Eastern province), Kilifi, Lamu, Tana River, Taita Taveta (Coastal province), Isiolo (Eastern province), Kirinyanga, Maragua, Thika (Central province), Kajiado (Rifht Valley)",Epidemic,Viral disease,155,529,0,0,2006-0750,--,--
+/02/2008,/02/2008,Kenya,KEN,Mandera district,Epidemic,Bacterial disease,43,0,0,0,2008-0100,--,--
+/01/2009,21/05/2009,Kenya,KEN,"Busia, Bungoma, Siaya, Tinderet, Naivasha, Roongo, Kisumu West ,Kajiado, Moyale, Laisamis, Wajir North, Isiolo, Garissa districts",Epidemic,Bacterial disease,201,10048,0,0,2009-0202,--,--
+23/11/2009,09/12/2009,Kenya,KEN,"Kapedo, Lokori areas (East Pokot district)",Epidemic,Bacterial disease,24,193,0,0,2009-0549,--,--
+13/11/2009,14/12/2009,Kenya,KEN,"East Pokot, Turkana East",Epidemic,Bacterial disease,26,205,0,0,2009-0576,--,--
+01/01/2010,26/05/2010,Kenya,KEN,"Marakwet, Tharaka, Kwale, Msambweni, Mombasa, Kilindini, Central Pokot, West Pokot, Narok, Langata, Kajiado, Malindi, Kilifi, ",Epidemic,Bacterial disease,46,2834,0,0,2010-0141,--,--
+27/12/2010,14/04/2011,Kenya,KEN,"Rift valley, Coast and NortthEsatern provinces",Epidemic,Viral disease,11,1046,0,0,2010-0700,--,--
+26/12/2014,28/05/2015,Kenya,KEN,"Homa Bay, Migori, Bomet, Embu, Kiambu, Kirinyaga, Mombasa, Muranga, Nakuru, Nairobi, Kisii",Epidemic,Bacterial disease,72,3459,0,0,2014-0582,--,--
+/09/1977,/09/1977,Kiribati,KIR,,Epidemic,Bacterial disease,17,352,0,0,1977-0113,--,--
+/07/1996,/07/1996,Korea (the Democratic People's Republic of),PRK,West coast and Yanggang province,Epidemic,Bacterial disease,0,200,0,0,1996-0125,--,--
+/11/2006,/02/2007,Korea (the Democratic People's Republic of),PRK,"Kimhyongjik county (Ryanggang province), nationwide",Epidemic,Viral disease,4,3000,0,0,2006-0726,--,--
+/09/1969,/09/1969,Korea (the Republic of),KOR,Countrywide,Epidemic,Bacterial disease,137,1538,0,0,1969-0088,--,--
+19/08/1998,19/08/1998,Korea (the Republic of),KOR,North Kyongsang province,Epidemic,Bacterial disease,0,350,0,0,1998-0559,--,--
+/03/2000,/01/2001,Korea (the Republic of),KOR,Kyungbuk province,Epidemic,Viral disease,6,39531,0,0,2000-0877,--,--
+25/04/2003,10/05/2003,Korea (the Republic of),KOR,,Epidemic,Viral disease,0,3,0,0,2002-0858,--,--
+/05/2015,/06/2015,Korea (the Republic of),KOR,,Epidemic,Viral disease,36,185,0,0,2015-0409,--,--
+09/04/2003,09/04/2003,Kuwait,KWT,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+13/03/1997,13/03/1997,Kyrgyzstan,KGZ,,Epidemic,Bacterial disease,22,336,0,0,1997-0498,--,--
+07/09/1998,21/09/1998,Kyrgyzstan,KGZ,Osh Oblast,Epidemic,Viral disease,0,458,0,0,1998-0593,--,--
+/03/2010,25/05/2010,Kyrgyzstan,KGZ,,Epidemic,Viral disease,0,141,0,0,2010-0392,--,--
+//1985,//1985,Lao People's Democratic Republic (the),LAO,,Epidemic,--,0,0,0,0,1985-0168,--,--
+/03/1987,/03/1987,Lao People's Democratic Republic (the),LAO,Vientiane + surrounding provinces,Epidemic,Viral disease,63,2000,0,0,1987-0065,--,--
+15/03/1992,15/03/1992,Lao People's Democratic Republic (the),LAO,Sekong province,Epidemic,Viral disease,143,0,0,0,1992-0461,--,--
+10/10/1994,10/10/1994,Lao People's Democratic Republic (the),LAO,,Epidemic,Bacterial disease,500,8000,0,0,1994-0602,--,--
+/02/1995,/02/1995,Lao People's Democratic Republic (the),LAO,,Epidemic,Bacterial disease,34,244,0,0,1995-0053,--,--
+/06/2000,/06/2000,Lao People's Democratic Republic (the),LAO,Houaphanh,Epidemic,--,44,0,0,0,2000-0392,--,--
+/01/2000,/01/2000,Lao People's Democratic Republic (the),LAO,"Savannakhet, Kham Muane, Savannakhet provinces",Epidemic,--,0,9685,0,0,2000-0857,--,--
+/02/2007,/03/2007,Lao People's Democratic Republic (the),LAO,,Epidemic,Viral disease,2,0,0,0,2004-0515,--,--
+/01/2013,/08/2013,Lao People's Democratic Republic (the),LAO,,Epidemic,Viral disease,77,36000,0,0,2013-0367,--,--
+21/08/2000,21/08/2000,Latvia,LVA,Riga,Epidemic,Bacterial disease,0,102,0,0,2000-0566,--,--
+/04/1974,/04/1974,Lesotho,LSO,"Teytey, Roma, Mohales",Epidemic,Bacterial disease,0,500,0,0,1974-0018,--,--
+/11/1999,15/01/2000,Lesotho,LSO,Mohale's hoek district (southern),Epidemic,--,28,1862,0,0,1999-0720,--,--
+07/01/2000,07/01/2000,Lesotho,LSO,"Mafeteng, Mohale's Hoek, Quthing, Thaba-Tseka",Epidemic,Bacterial disease,28,1834,0,0,2000-0060,--,--
+01/01/1980,01/01/1980,Liberia,LBR,,Epidemic,Bacterial disease,466,1887,0,0,1980-0007,--,--
+/12/1995,/02/1996,Liberia,LBR,"Tubmanburg (Boma county), Salala (Bong county), Greenville (Sinoe county), Buchanan",Epidemic,Viral disease,9,359,0,0,1995-0459,--,--
+12/04/1996,18/04/1996,Liberia,LBR,Barclay Military Camp,Epidemic,Bacterial disease,56,0,0,0,1996-0073,--,--
+/05/1998,26/06/1998,Liberia,LBR,Nimba and Margibi Counties.,Epidemic,--,12,560,0,0,1998-0233,--,--
+/01/1999,/01/1999,Liberia,LBR,Nimba County,Epidemic,Bacterial disease,39,0,0,0,1999-0489,--,--
+/05/2000,/05/2000,Liberia,LBR,"Maryland, Grand Kru counties",Epidemic,Bacterial disease,3,112,0,0,2000-0322,--,--
+/06/2000,/06/2000,Liberia,LBR,"Nimba, Grand Kru counties",Epidemic,Viral disease,10,0,0,0,2000-0365,--,--
+01/07/2002,01/09/2002,Liberia,LBR,Monrovia (Montserado County),Epidemic,Bacterial disease,0,661,0,0,2002-0581,--,--
+25/06/2003,28/09/2003,Liberia,LBR,"Monrovia, Buchanan",Epidemic,Bacterial disease,0,17561,0,0,2003-0309,--,--
+/08/2003,/08/2003,Liberia,LBR,Monrovia,Epidemic,--,0,1857,0,0,2003-0543,--,--
+02/08/2005,13/08/2005,Liberia,LBR,Sinoe County,Epidemic,Bacterial disease,29,674,0,0,2005-0507,--,--
+21/03/2014,14/01/2016,Liberia,LBR,"Montserrado, Lofa, Margibi, Nimba, Bong, Bomi",Epidemic,Viral disease,4810,10682,0,0,2014-0090,--,--
+05/05/2003,05/05/2003,Macao,MAC,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+30/11/2002,30/11/2002,Macedonia (the former Yugoslav Republic of),MKD,Kumanavo,Epidemic,--,0,200,0,0,2002-0771,--,--
+24/03/1999,/03/2000,Madagascar,MDG,"Toliary, Toamasina, Fianarantsoa, Mahajanga, Antanarivo and Antsiranana Provinces",Epidemic,Bacterial disease,860,15173,0,0,1999-0490,--,--
+/12/1999,/12/1999,Madagascar,MDG,"Mahajanga, Antananarivo, Antsiranana, Toliary Province",Epidemic,--,121,3055,0,0,1999-0710,--,--
+04/07/2002,29/08/2002,Madagascar,MDG,"Ikongo, Ambatofotsy, Tolongoina, Ambolomadinika districts (Fianarantsoa province) Mahajanga, Toamasina, Antanarivo, Toliara provinces",Epidemic,Viral disease,671,21975,0,0,2002-0477,--,--
+/01/2008,29/06/2008,Madagascar,MDG,"Alaotra Mangoro, Analamanga, Itasy, Vakinakaratra, Anosy regions",Epidemic,Viral disease,20,520,0,0,2008-0345,--,--
+/10/2009,15/02/2010,Madagascar,MDG,"Mananjary, Irondro",Epidemic,Viral disease,0,702,0,0,2009-0634,--,--
+05/10/2013,13/01/2014,Madagascar,MDG,"Beranimbo village (Ampatakamaeroreny municipality); Ikongo district (Vatpvavy Fitovinany region); Tsiraonomandidy distrci (Antananarivo province); Ikalamavony (Fianarantsoa province); Analamanga, Vakinankarata, Bongolava, Itasy, Amoron? I Mania, Haute Mahatsiatra, Vatovavy, Analanjirofo, Boeny, Betsiboka, Sofia, Alaotra Mangora, Sava, Diana",Epidemic,Viral disease,113,660,0,0,2013-0559,--,--
+/10/1989,/10/1989,Malawi,MWI,,Epidemic,Bacterial disease,35,444,0,0,1989-0166,--,--
+/01/1992,/01/1992,Malawi,MWI,,Epidemic,--,0,0,0,0,1992-0473,--,--
+23/12/1997,23/12/1997,Malawi,MWI,"Nasanje, Chikwawa and Ntchisi Districts (southern region)",Epidemic,Bacterial disease,0,582,0,0,1997-0511,--,--
+/12/1997,/12/1997,Malawi,MWI,,Epidemic,Bacterial disease,10,40,0,0,1997-0513,--,--
+/01/2000,/01/2000,Malawi,MWI,,Epidemic,Bacterial disease,83,3323,0,0,2000-0301,--,--
+/03/2001,/03/2001,Malawi,MWI,Lilongwe region,Epidemic,Bacterial disease,20,1500,0,0,2001-0108,--,--
+28/10/2001,28/10/2001,Malawi,MWI,Southern regions districts,Epidemic,Bacterial disease,502,17352,0,0,2001-0778,--,--
+28/10/2001,09/03/2002,Malawi,MWI,"Lake Chilwa, Mangochi district",Epidemic,Bacterial disease,609,21414,0,0,2001-0787,--,--
+/02/2002,/02/2002,Malawi,MWI,,Epidemic,--,175,0,0,0,2002-0137,--,--
+01/05/2002,26/08/2002,Malawi,MWI,Nkhotakota,Epidemic,Bacterial disease,41,773,0,0,2002-0566,--,--
+16/01/2006,18/05/2006,Malawi,MWI,"Blantyre, Mangochi, Dedza, Balaka, Salima",Epidemic,Bacterial disease,20,852,0,0,2006-0054,--,--
+15/11/2008,24/05/2009,Malawi,MWI,"Blantyre, Lilongwe, Machinga districts",Epidemic,Bacterial disease,113,5269,0,0,2008-0511,--,--
+/12/2009,/08/2010,Malawi,MWI,"Blantyre, Zomba, Thyolo, Mwanza, Lilongwe",Epidemic,Viral disease,62,11461,0,0,2009-0656,--,--
+/02/2015,/06/2015,Malawi,MWI,"8 districts (Nsanje, Chikwawa, Mwanza, Blantyre, Dedza)",Epidemic,Bacterial disease,11,693,0,0,2014-0530,--,--
+/05/1968,/05/1968,Malaysia,MYS,West Malaysia,Epidemic,Bacterial disease,2,5,0,0,1968-0044,--,--
+/05/1977,/05/1977,Malaysia,MYS,,Epidemic,Bacterial disease,0,50,0,0,1977-0065,--,--
+//1991,//1991,Malaysia,MYS,Kuala Lumpur + other areas,Epidemic,Viral disease,263,3750,0,0,1991-0771,--,--
+/05/1996,13/07/1996,Malaysia,MYS,"Federal Territory, Selangor, Perak, Johor, Pahang.",Epidemic,Viral disease,13,4800,0,0,1996-0123,--,--
+11/05/1996,31/05/1996,Malaysia,MYS,"Penang, Kedah",Epidemic,Bacterial disease,0,607,0,0,1996-0127,--,--
+05/11/1997,05/11/1997,Malaysia,MYS,"Sibu,Sarikey,Kuching Level 1 = Sarawak",Epidemic,Bacterial disease,17,0,0,0,1997-0501,--,--
+/01/1997,15/04/1998,Malaysia,MYS,all states,Epidemic,Viral disease,50,19544,0,0,1997-0541,--,--
+13/04/1997,03/07/1997,Malaysia,MYS,"Sibu, Sarikei and Kuching Divisions (Sarawak)",Epidemic,--,28,2140,0,0,1997-0553,--,--
+/09/1998,/04/1999,Malaysia,MYS,"Perak, Negeri Sembilan, Malaya Peninsula",Epidemic,Viral disease,105,160,0,0,1998-0578,--,--
+/01/2000,/01/2000,Malaysia,MYS,Sarawak,Epidemic,--,2,480,0,0,2000-0159,--,--
+/10/2000,/10/2000,Malaysia,MYS,"Johor, Selangar, Penang, Kedah, Terengganu states",Epidemic,Viral disease,2,508,0,0,2000-0694,--,--
+14/03/2003,22/04/2003,Malaysia,MYS,,Epidemic,Viral disease,2,3,0,0,2002-0858,--,--
+/07/2007,/07/2007,Malaysia,MYS,,Epidemic,Viral disease,56,0,0,0,2007-0274,--,--
+/03/1978,/03/1978,Maldives,MDV,Widespread,Epidemic,Bacterial disease,219,11258,0,0,1978-0037,--,--
+/06/2011,28/06/2011,Maldives,MDV,,Epidemic,Viral disease,4,1289,0,0,2011-0291,--,--
+01/01/1969,01/01/1969,Mali,MLI,Bamako Area,Epidemic,Bacterial disease,500,4000,0,0,1969-0003,--,--
+/10/1969,/10/1969,Mali,MLI,Kati-Faladie area,Epidemic,Viral disease,13,23,0,0,1969-0102,--,--
+01/01/1979,01/01/1979,Mali,MLI,Koro region,Epidemic,Bacterial disease,30,80,0,0,1979-0002,--,--
+/02/1981,/02/1981,Mali,MLI,,Epidemic,Bacterial disease,412,4153,0,0,1981-0028,--,--
+/06/1984,/06/1984,Mali,MLI,"Gao, Segou, Timbuktu, Mopti regions",Epidemic,Bacterial disease,1022,4502,0,0,1984-0054,--,--
+/09/1987,/09/1987,Mali,MLI,Bamako & rural areas,Epidemic,Viral disease,145,305,0,0,1987-0151,--,--
+/10/1987,/10/1987,Mali,MLI,Western,Epidemic,Bacterial disease,57,0,0,0,1987-0176,--,--
+/06/1988,/06/1988,Mali,MLI,Bamako,Epidemic,Bacterial disease,47,159,0,0,1988-0245,--,--
+/11/1996,31/01/1997,Mali,MLI,,Epidemic,Bacterial disease,26,180,0,0,1996-0210,--,--
+/02/1996,15/03/1996,Mali,MLI,Dioila and Bamako Districts,Epidemic,Bacterial disease,319,2028,0,0,1996-0489,--,--
+/06/1997,/06/1997,Mali,MLI,,Epidemic,Bacterial disease,1098,9666,0,0,1997-0490,--,--
+/01/2002,/01/2002,Mali,MLI,,Epidemic,Bacterial disease,33,282,0,0,2002-0258,--,--
+14/08/2003,18/02/2004,Mali,MLI,"Koulikoro, Segou, Mopti, Bamako, Tombouctou, Sikasso regions (along Niger River)",Epidemic,Bacterial disease,106,1216,0,0,2003-0562,--,--
+20/06/2005,11/12/2005,Mali,MLI,"Communes of Kheri-Kaffo, Kéméni-Tambo, Sony, Tafacirga (Kayes region)",Epidemic,Bacterial disease,20,138,0,0,2005-0372,--,--
+07/10/2005,13/12/2005,Mali,MLI,"Bafoulabé, Yanfolila and Sélingué districts (Kayes region)",Epidemic,Viral disease,23,30,0,0,2005-0621,--,--
+01/01/2006,/04/2006,Mali,MLI,"Bamako, Koulikoro, Sikasso, Mopti, Segou regions",Epidemic,Bacterial disease,9,151,0,0,2006-0131,--,--
+//2009,05/04/2009,Mali,MLI,,Epidemic,Viral disease,10,86,0,0,2009-0087,--,--
+/09/2011,14/10/2011,Mali,MLI,,Epidemic,Bacterial disease,49,1190,0,0,2011-0333,--,--
+24/10/2014,18/01/2015,Mali,MLI,"Bamako, Kayes, Koulikoro, Sikasso",Epidemic,Viral disease,6,7,0,0,2014-0090,--,--
+01/12/2000,01/12/2000,Marshall Islands (the),MHL,"Ebeye Isl., Kwajalein Atoll, Lae Atoll",Epidemic,Bacterial disease,6,218,0,0,2000-0832,--,--
+/02/2010,/08/2010,Martinique,MTQ,,Epidemic,Viral disease,13,29200,0,0,2010-0436,--,--
+/02/1982,/02/1982,Mauritania,MRT,Guidimaka,Epidemic,Viral disease,5,12,0,0,1982-0028,--,--
+/10/1987,/10/1987,Mauritania,MRT,Seven Regions Threatened,Epidemic,Viral disease,35,178,0,0,1987-0171,--,--
+/08/1988,/08/1988,Mauritania,MRT,"Gorgol, Brakna Gui Dimakha, Nouakchott",Epidemic,Bacterial disease,38,575,0,0,1988-0343,--,--
+25/08/1996,25/08/1996,Mauritania,MRT,,Epidemic,Bacterial disease,46,0,0,0,1996-0216,--,--
+15/09/1998,25/10/1998,Mauritania,MRT,"Hodh El Gharbi, Aioun aera",Epidemic,Viral disease,6,344,0,0,1998-0558,--,--
+20/07/2005,23/10/2005,Mauritania,MRT,"Nouakchott, Brakna, Guidimakha, Traza, Elmina, Arafat, Dar Naim, Ksar, Sebkha districts",Epidemic,Bacterial disease,55,2585,0,0,2005-0491,--,--
+01/01/1980,01/01/1980,Mauritius,MUS,Widespread,Epidemic,Bacterial disease,0,108,0,0,1980-0002,--,--
+/01/2006,/03/2006,Mauritius,MUS,,Epidemic,Viral disease,0,2553,0,0,2005-0754,--,--
+20/07/1991,20/07/1991,Mexico,MEX,"Tabasco, Chiapas, Guerrero, Yucatan, Tula Valley",Epidemic,Bacterial disease,52,5000,0,0,1991-0179,--,--
+/01/1995,/01/1995,Mexico,MEX,,Epidemic,Viral disease,16,6525,0,0,1995-0220,--,--
+/10/2009,/12/2009,Mexico,MEX,"Tabasco, Veracruz, Quintana Roo, Nayarit, Jalisco, Guerrero",Epidemic,Viral disease,0,41687,0,0,2009-0594,--,--
+17/04/2000,21/08/2000,Micronesia (Federated States of),FSM,"Kitti, Nett, Kolonia, Madolenihmw municipalities (Pohnpei State)",Epidemic,Bacterial disease,19,3431,0,0,2000-0241,--,--
+/08/1999,/08/1999,Moldova (the Republic of),MDA,Kishnev District,Epidemic,Bacterial disease,0,1647,0,0,1999-0492,--,--
+/08/1996,/08/1996,Mongolia,MNG,Selenge & Central Provinces,Epidemic,Bacterial disease,8,108,0,0,1996-0184,--,--
+31/03/2003,06/05/2003,Mongolia,MNG,,Epidemic,Viral disease,0,9,0,0,2002-0858,--,--
+01/05/2008,10/09/2008,Mongolia,MNG,"Ulaanbaatar, Sukhbaatar, Khentii, Dornod provinces (Eastern region), Selenge province (Orkhon-Selenge region), Dornogobi province (Southern region), Uvurhangai (Khangai region)",Epidemic,Viral disease,0,3151,0,0,2008-0272,--,--
+/12/1966,/12/1966,Morocco,MAR,"Meknes, Fez",Epidemic,Bacterial disease,200,2942,0,0,1966-0089,--,--
+/04/1980,/04/1980,Mozambique,MOZ,,Epidemic,Bacterial disease,10,200,0,0,1980-0040,--,--
+/01/1983,/01/1983,Mozambique,MOZ,"Maputo, Gaza, Inhambane, Manica, Sofala, Zambezi",Epidemic,Bacterial disease,189,5679,0,0,1983-0020,--,--
+/04/1990,/04/1990,Mozambique,MOZ,,Epidemic,Bacterial disease,106,0,0,0,1990-0138,--,--
+/11/1990,/11/1990,Mozambique,MOZ,Northwestern,Epidemic,Bacterial disease,588,4000,0,0,1990-0257,--,--
+/01/1992,/01/1992,Mozambique,MOZ,,Epidemic,Bacterial disease,587,225673,0,0,1992-0166,--,--
+13/08/1997,/07/1998,Mozambique,MOZ,"Maputo City, Maputo, Gaza, Inhambane, Manica, Sofala, Tete, Zambezia provinces",Epidemic,Bacterial disease,619,26783,0,0,1997-0288,--,--
+04/06/1997,04/06/1997,Mozambique,MOZ,,Epidemic,Bacterial disease,18,83,0,0,1997-0495,--,--
+/06/1997,21/11/1997,Mozambique,MOZ,Mutarara District (Tete Province),Epidemic,Bacterial disease,0,335,0,0,1997-0544,--,--
+15/09/1998,15/09/1998,Mozambique,MOZ,Cabo Delgado Province,Epidemic,Bacterial disease,100,600,0,0,1998-0388,--,--
+25/01/1998,09/02/1998,Mozambique,MOZ,Beira,Epidemic,Bacterial disease,109,2000,0,0,1998-0594,--,--
+/01/2000,/01/2000,Mozambique,MOZ,"Catembe (Maputo province), Sofala Provinces, Beira, Chimoio (Manica province)",Epidemic,--,11,1810,0,0,2000-0110,--,--
+/03/2000,/03/2000,Mozambique,MOZ,Maputo,Epidemic,Parasitic disease,0,16773,0,0,2000-0242,--,--
+/08/2001,/08/2001,Mozambique,MOZ,Mocuba district (Zambezia province),Epidemic,Bacterial disease,7,611,0,0,2001-0551,--,--
+01/01/2002,17/06/2002,Mozambique,MOZ,"Pemba, Namuno, Mocimboa da praia, Quissanga, Macomia districts (Cabo Delgado province)",Epidemic,Bacterial disease,17,2028,0,0,2002-0385,--,--
+01/01/2003,15/06/2003,Mozambique,MOZ,Sofala province,Epidemic,Bacterial disease,14,2798,0,0,2003-0054,--,--
+24/02/2003,15/06/2003,Mozambique,MOZ,"Sabie district (Maputo province, South regions)",Epidemic,Bacterial disease,31,4124,0,0,2003-0589,--,--
+20/12/2003,18/03/2004,Mozambique,MOZ,"Maputo, Inhambane, Gaza, Sofala, Zambezia, Nampula, Inhambane, Tete provinces",Epidemic,Bacterial disease,85,15237,0,0,2003-0674,--,--
+07/04/2003,15/06/2003,Mozambique,MOZ,Gaza province,Epidemic,Bacterial disease,29,1975,0,0,2003-0679,--,--
+/01/2006,18/05/2006,Mozambique,MOZ,"Marromeu, Caia, Dondo, Beira (Sofala province), Chimoio, Manica (Manica province), Maganja da Costa, Quelimane City (Zambezia province), Monapo, Malema, Meconta, Isle of Mozambique (Nampula province)",Epidemic,Bacterial disease,27,5692,0,0,2006-0080,--,--
+/10/2007,/10/2008,Mozambique,MOZ,"Tete, Mutarara district vapital, Vila nova, Bawe, Traquino",Epidemic,Bacterial disease,78,7547,0,0,2007-0721,--,--
+01/11/2008,/11/2009,Mozambique,MOZ,"Guro district (Manica province), Tete City, Chiuta, Changar, Macanga (Tete province); Zambezia , Niassa, Cabo Delgado, Nampula, Maputo, Sofala, Inhambane, Gaza provinces",Epidemic,Bacterial disease,155,19310,0,0,2008-0543,--,--
+05/05/2009,08/03/2010,Mozambique,MOZ,"Neno, Tsangano districts",Epidemic,Viral disease,43,466,0,0,2009-0543,--,--
+/01/2009,/11/2009,Mozambique,MOZ,"Zambesia, Cano Delgado, Nampula, Manica provinces",Epidemic,Bacterial disease,155,19310,0,0,2009-0661,--,--
+01/01/2010,13/03/2010,Mozambique,MOZ,"Gurue, Milane, Namarroi districts (Zambezia province); Pemba, Macomia, Mecufi; Montenuez, Chiure districts (Cabo Delgado province), Cuamba, Mecanhelas districts (Niassa province); Nhamatanda districts (Sofala province); Nampula city, Melama, Mecuburri districts (Nampula province); Mecuburi provinces",Epidemic,Bacterial disease,44,3188,0,0,2010-0142,--,--
+/01/2011,/01/2011,Mozambique,MOZ,"Ancuabe, Pemba, Montepuez, Metuge, Chiure districts (Cabo Delgado); Erati, Memba, Meconta, Mossuril, Mongicual, Nacaroa, Monapo (Nampula); Chimoio city (Manica)",Epidemic,Bacterial disease,13,325,0,0,2011-0182,--,--
+28/01/2013,13/02/2013,Mozambique,MOZ,Cabo Delgado province,Epidemic,Bacterial disease,2,317,0,0,2013-0053,--,--
+25/12/2014,02/03/2015,Mozambique,MOZ,"Tete (city),Moatize, Mutarara, Caia, Quelimane (city), Cuamba, Lalaua, Mecuburi, Nampula (city), Murrupula, Meconta, Memba, Lichinga (city), Lago.",Epidemic,Bacterial disease,43,5118,0,0,2014-0530,--,--
+//1963,//1963,Myanmar,MMR,,Epidemic,Bacterial disease,0,0,0,0,1963-0004,--,--
+01/01/1983,01/01/1983,Myanmar,MMR,Rangoon,Epidemic,Bacterial disease,10,800,0,0,1983-0017,--,--
+/07/2007,/07/2007,Myanmar,MMR,,Epidemic,Viral disease,30,0,0,0,2007-0274,--,--
+22/08/2016,22/08/2016,Myanmar,MMR,"Lahe, Nanyun cities",Epidemic,Viral disease,34,0,0,0,2016-0444,--,--
+/05/1988,/05/1988,Namibia,NAM,,Epidemic,Parasitic disease,100,0,0,0,1988-0192,--,--
+/09/2000,/09/2000,Namibia,NAM,"Nankudu, Engela districts",Epidemic,Bacterial disease,14,58,0,0,2000-0758,--,--
+/01/2001,/01/2001,Namibia,NAM,Oshana region,Epidemic,Parasitic disease,134,12098,0,0,2001-0183,--,--
+07/05/2006,08/08/2006,Namibia,NAM,"Aranos (Mariental), Windhoek, Engela, Okahaon Oshakati (Oshana), Okahandja (Otjozondjupa)",Epidemic,Viral disease,10,47,0,0,2006-0321,--,--
+/02/2007,/02/2007,Namibia,NAM,"Kunene, Omusati",Epidemic,Bacterial disease,7,250,0,0,2007-0076,--,--
+22/10/2008,17/04/2009,Namibia,NAM,"Opuwo, Okangwati districts (Kunene region)",Epidemic,Bacterial disease,9,203,0,0,2008-0543,--,--
+/11/2013,//2013,Namibia,NAM,Windhoek (Katutura area),Epidemic,Bacterial disease,17,518,0,0,2013-0573,--,--
+/11/1963,/11/1963,Nepal,NPL,,Epidemic,Viral disease,1000,5000,0,0,1963-0033,--,--
+24/09/1967,24/09/1967,Nepal,NPL,Naura village,Epidemic,Bacterial disease,17,24,0,0,1967-0061,--,--
+//1982,//1984,Nepal,NPL,Kathmandu valley,Epidemic,Bacterial disease,0,1475,0,0,1982-0407,--,--
+/08/1990,/08/1990,Nepal,NPL,Katmandu + 11 districts,Epidemic,Bacterial disease,150,3800,0,0,1990-0086,--,--
+15/06/1991,15/06/1991,Nepal,NPL,Katmandu valley,Epidemic,--,1334,45341,0,0,1991-0670,--,--
+/04/1992,/04/1992,Nepal,NPL,Northwestern & Central Regions,Epidemic,--,640,50000,0,0,1992-0257,--,--
+//1995,//1995,Nepal,NPL,,Epidemic,Viral disease,126,772,0,0,1995-0458,--,--
+/09/1996,27/09/1996,Nepal,NPL,Terai Region,Epidemic,Viral disease,118,697,0,0,1996-0217,--,--
+15/04/1997,26/09/1997,Nepal,NPL,"Bankey district, Bardiya, Jhapa, Chitwan, Rupandehi, Kailali, Nawalparasi, Morang, Surkhet, Dang, Kanchanpur, Makanpur, Gorka, Saptari, Tanahu, Mahotari, Sindhuli, Siraha, Sunsari and Dhanusha",Epidemic,Viral disease,84,1364,0,0,1997-0508,--,--
+/03/1998,/03/1998,Nepal,NPL,Hulma District - Level 2 = Karnali,Epidemic,Viral disease,133,0,0,0,1998-0149,--,--
+/01/1998,/01/1998,Nepal,NPL,"Biratnagar(city) Morang - Level 2 = Koshi, Nepalgunj (city?) Bankey - Level 2 = Bheril, Bara - Level 2 = Narayani",Epidemic,Viral disease,52,300,0,0,1998-0270,--,--
+18/07/1999,18/07/1999,Nepal,NPL,Kailali District - Seti Province,Epidemic,Viral disease,150,944,0,0,1999-0493,--,--
+/07/2000,/07/2000,Nepal,NPL,,Epidemic,Viral disease,69,592,0,0,2000-0567,--,--
+/05/2000,/05/2000,Nepal,NPL,"Argakhachi, Lalitpur, Morang, Baitadi, Bhojpur, Gorkha, Baglung, Makawanpur, Dailekh, Ilam, Lamjung, Sarlahi, Parsa, Jhapa, Panchthar, Sunsari, Tarahthum, Dolakha, Kailali, Taplejung, Tanahu, Salyan, Kaski, Siraha, Saptari, Rautahat, Dhading, Darchula, Banke districts",Epidemic,Viral disease,250,0,0,0,2000-0858,--,--
+/01/2001,/01/2001,Nepal,NPL,Laprak village (Gorkha district),Epidemic,Viral disease,13,0,0,0,2001-0024,--,--
+/06/2001,/06/2001,Nepal,NPL,Doti district,Epidemic,--,13,242,0,0,2001-0283,--,--
+27/09/2002,27/09/2002,Nepal,NPL,Makwanpur,Epidemic,--,32,0,0,0,2002-0634,--,--
+01/05/2009,23/08/2009,Nepal,NPL,"Achham, Baitadi, Bahjang, Jumla, Kalikot, Kanchanpur, Pyuthan, Rolpa, Jajarkot, Rukum, Dailekh, Salyan, Doti, Surkhet, Dolpa, Dailekh, Dang, Bajura, Dadeldhura, Makwanpur, Dhading, Kailali, Sarlahi districts",Epidemic,Bacterial disease,314,58874,0,0,2009-0259,--,--
+/04/2010,/12/2010,Nepal,NPL,"Sankhuwsava, Saptari, Khotang, Udayapur, Dhanusha, Mahottari, Sariahi, Paesa, Bara, Dolakha, Myagdi, Kapilvastu, Nawalparais, Banke, Humla, Jumla, Mugu, Dolpa, Kalikot, Jajarkot, Doti, Baitadi, Achham, Rautahat, Bajhang, Bajura, Bhojpur, Jhapa, Siraha, Okhaldhunga, Rasuwa, Nuwakot, Chitwan, Ramechap, Rukum, Rolpa, Sindhupalchok, Dhading, Makwanpur, Kavre, Sindhuli, Gorkha, Lamjung, Arghakhanchi, Palpa, Tanahu, Syangja, Taplejung, Parbat, Bardiya, Surkhet, Dailekh, Salyan, Pyuthan, Dang, Dadeldhura, Kailali, Panchthar, Terhathum, Sunsari, Morang, Ilam, Dhankuta, Solukhumbu, Kathmandu, Bhaktapur, Lalitpur, Kaski, Baglung, Manag, Mustang, Rupandehi, Kanchanpur, Darchula, Gulmi districts ( Mid-and far-western regions)",Epidemic,Bacterial disease,65,3972,0,0,2010-0207,--,--
+28/07/2010,14/08/2010,Nepal,NPL,Nepalgunj,Epidemic,Bacterial disease,8,1400,0,0,2010-0434,--,--
+12/02/1999,18/03/1999,Netherlands (the),NLD,Bokenkarspel,Epidemic,Parasitic disease,13,200,0,0,1999-0494,--,--
+/03/2003,/03/2003,New Caledonia,NCL,,Epidemic,Viral disease,0,437,0,0,2003-0145,--,--
+/11/1918,/11/1918,New Zealand,NZL,,Epidemic,Viral disease,6700,0,0,0,1918-0019,--,--
+20/04/2003,20/04/2003,New Zealand,NZL,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+/04/1967,/04/1967,Nicaragua,NIC,Managua,Epidemic,--,53,444,0,0,1967-0030,--,--
+01/01/1969,01/01/1969,Nicaragua,NIC,,Epidemic,Viral disease,0,0,7,0,1969-0011,--,--
+01/01/1991,01/01/1991,Nicaragua,NIC,,Epidemic,Bacterial disease,2,381,0,0,1991-0695,--,--
+/01/1995,/01/1995,Nicaragua,NIC,,Epidemic,Viral disease,2,10926,0,0,1995-0218,--,--
+/11/1995,/11/1995,Nicaragua,NIC,,Epidemic,Bacterial disease,16,2480,0,0,1995-0426,--,--
+/11/1998,/11/1998,Nicaragua,NIC,"Chinandega, Managua, Esteli, Matagalpa, Madriz",Epidemic,Bacterial disease,7,605,0,0,1998-0556,--,--
+04/11/1998,04/11/1998,Nicaragua,NIC,"Chinandega, Managua, Esteli, Matagalpa, Corazo,, Masaya, Leon, Granada",Epidemic,Bacterial disease,0,1504,0,0,1998-0557,--,--
+01/01/1998,31/03/1998,Nicaragua,NIC,border area,Epidemic,Bacterial disease,0,3,0,0,1998-0570,--,--
+01/11/1998,01/11/1998,Nicaragua,NIC,,Epidemic,Viral disease,0,1244,0,0,1998-0572,--,--
+/01/2009,30/10/2009,Nicaragua,NIC,,Epidemic,Viral disease,8,2050,0,0,2009-0563,--,--
+16/10/2010,16/10/2010,Nicaragua,NIC,,Epidemic,Bacterial disease,16,395,0,0,2010-0595,--,--
+/07/2013,/07/2013,Nicaragua,NIC,,Epidemic,Viral disease,3,1310,0,0,2013-0493,--,--
+//1923,//1923,Niger (the),NER,,Epidemic,Bacterial disease,100000,0,0,0,1923-0002,--,--
+/10/1969,/10/1969,Niger (the),NER,Southern & Western border,Epidemic,Viral disease,2,5,0,0,1969-0100,--,--
+01/01/1970,01/01/1970,Niger (the),NER,,Epidemic,Bacterial disease,319,2677,0,0,1970-0003,--,--
+/11/1984,/11/1984,Niger (the),NER,,Epidemic,Bacterial disease,0,0,0,0,1984-0147,--,--
+/08/1989,/08/1989,Niger (the),NER,"Maradi, Niamey",Epidemic,Bacterial disease,19,131,0,0,1989-0171,--,--
+/01/1989,/01/1989,Niger (the),NER,,Epidemic,Bacterial disease,167,1654,0,0,1989-0172,--,--
+/03/1991,/03/1991,Niger (the),NER,"Dosso, Tahoua, Zinder, Maradi, Diffa, Agadez",Epidemic,Viral disease,2618,87816,0,0,1991-0092,--,--
+//1991,//1991,Niger (the),NER,"Diffa, Miradi, Tahqua, Zinder departments",Epidemic,Bacterial disease,224,2331,0,0,1991-0187,--,--
+03/03/1995,03/03/1995,Niger (the),NER,,Epidemic,Bacterial disease,3022,63691,0,0,1995-0427,--,--
+01/01/1996,16/04/1996,Niger (the),NER,South-West,Epidemic,Bacterial disease,676,6518,0,0,1996-0059,--,--
+//1996,//1996,Niger (the),NER,,Epidemic,Bacterial disease,206,3957,0,0,1996-0492,--,--
+/02/1997,/02/1997,Niger (the),NER,,Epidemic,Bacterial disease,251,1908,0,0,1997-0491,--,--
+//1997,//1997,Niger (the),NER,,Epidemic,Bacterial disease,11,248,0,0,1997-0552,--,--
+/06/1999,30/07/1999,Niger (the),NER,Boboye district (Dosso departement),Epidemic,Bacterial disease,10,159,0,0,1999-0495,--,--
+/01/1999,/01/1999,Niger (the),NER,Zinder state,Epidemic,Bacterial disease,39,582,0,0,1999-0496,--,--
+06/03/2000,06/03/2000,Niger (the),NER,"Niamey, Kirni N'Konni, Téra",Epidemic,Bacterial disease,128,1067,0,0,2000-0158,--,--
+/05/2000,/05/2000,Niger (the),NER,"Diffa, Zinder, Dosso",Epidemic,Bacterial disease,15,63,0,0,2000-0321,--,--
+26/08/2000,26/08/2000,Niger (the),NER,"Nadara, Tahoua region",Epidemic,--,47,21,0,0,2000-0563,--,--
+02/01/2001,08/04/2001,Niger (the),NER,"Gaya, Madoua districts, Dosso, Tahoua regions",Epidemic,Bacterial disease,321,3693,0,0,2001-0126,--,--
+/06/2001,/06/2001,Niger (the),NER,"Maradi, Tahoua districts",Epidemic,Viral disease,237,44276,0,0,2001-0364,--,--
+27/08/2001,27/08/2001,Niger (the),NER,Tillaberi region,Epidemic,Bacterial disease,15,98,0,0,2001-0550,--,--
+01/01/2002,21/04/2002,Niger (the),NER,"Bilma, Loga, Guidan-Roumdji, Madaoua, Dakoro (Maradi), Matameye (Zinder), Filingué",Epidemic,Bacterial disease,308,3210,0,0,2002-0205,--,--
+09/06/2002,22/07/2002,Niger (the),NER,"Gaya district (Dosso region, south of country)",Epidemic,Bacterial disease,8,96,0,0,2002-0874,--,--
+/02/2003,09/03/2003,Niger (the),NER,"Matameye, Magaria, Aguié, Madarounfa, Madaoua, Tahoua, Mirriah districts",Epidemic,Bacterial disease,195,1861,0,0,2003-0130,--,--
+/01/2004,02/05/2004,Niger (the),NER,"Niamey, Tahoua, Tillaberi, Dosso",Epidemic,Viral disease,149,20000,0,0,2004-0161,--,--
+03/05/2004,17/05/2004,Niger (the),NER,Tillaberi region,Epidemic,Bacterial disease,5,132,0,0,2004-0229,--,--
+13/07/2005,02/10/2005,Niger (the),NER,"Bouza, Birni Konni, Madaoua (Tahoua and Tilaberi regions)",Epidemic,Bacterial disease,44,387,0,0,2005-0483,--,--
+01/01/2006,26/03/2006,Niger (the),NER,"Madaroumfa, Guidan Roumdji , Say, Dogon Doutchi districts",Epidemic,Bacterial disease,44,570,0,0,2006-0132,--,--
+01/01/2006,18/09/2006,Niger (the),NER,"Dosso, Maradi, Zinder, Tillaberib",Epidemic,Bacterial disease,18,214,0,0,2006-0512,--,--
+01/01/2008,08/12/2008,Niger (the),NER,"Tahoua, Dosso, Zinder, Maradi, Tillaberi",Epidemic,Bacterial disease,111,1991,0,0,2008-0235,--,--
+01/01/2008,/10/2008,Niger (the),NER,"Keita, Birni districts, Maradi, Guidan Roumdji",Epidemic,Bacterial disease,62,814,0,0,2008-0447,--,--
+/01/2009,05/04/2009,Niger (the),NER,"Zinder, Maradi, Agadez, Dosso, Diffa",Epidemic,Viral disease,169,4513,0,0,2009-0087,--,--
+01/01/2010,22/03/2010,Niger (the),NER,"Agadez, Madarounda, Zinder, Maradi districts",Epidemic,Viral disease,87,977,0,0,2010-0131,--,--
+/08/2010,/08/2010,Niger (the),NER,,Epidemic,Bacterial disease,16,240,0,0,2010-0400,--,--
+/09/2011,14/10/2011,Niger (the),NER,"Tillabery, Maradi Zinder, Diffa, Niamey, Dosso, Tahoua",Epidemic,Bacterial disease,48,2130,0,0,2011-0333,--,--
+01/01/2012,17/10/2012,Niger (the),NER,"Tera, Tillaberi, Kollo, Say, Ouallam districts (Tillabéri region)",Epidemic,Bacterial disease,81,4433,0,0,2012-0359,--,--
+05/10/2012,17/10/2012,Niger (the),NER,"Birni N'konni, Madaoua districts (Tahoua region)",Epidemic,Bacterial disease,16,441,0,0,2012-0389,--,--
+12/12/2014,20/12/2014,Niger (the),NER,Chetimari (Diffa region),Epidemic,Bacterial disease,8,183,0,0,2014-0515,--,--
+31/12/2014,02/05/2015,Niger (the),NER,"Niamey I, Niamey II, Niamey III (Niamey and Doutchi district); Gaya (Dosso district);",Epidemic,Viral disease,145,1456,0,0,2014-0573,--,--
+/04/2015,/04/2015,Niger (the),NER,"Agadez, Maradi, Zinder",Epidemic,Viral disease,6,3370,0,0,2015-0200,--,--
+/08/2016,21/11/2016,Niger (the),NER,"Tahoua, Tassara, Tilia, Madaoua, Abalak, Keita",Epidemic,Viral disease,33,235,0,0,2016-0447,--,--
+/10/1969,/10/1969,Nigeria,NGA,Plateau Province and Adj.,Epidemic,Viral disease,2000,80000,0,0,1969-0101,--,--
+/03/1986,/03/1986,Nigeria,NGA,Bauchi & Kano states,Epidemic,Bacterial disease,73,200,0,0,1986-0039,--,--
+/11/1986,/11/1986,Nigeria,NGA,"Oju, Ogoja (Benue state), Abakaliki (Anambra state) Imo states",Epidemic,Viral disease,1000,1200,0,0,1986-0127,--,--
+/05/1987,/05/1987,Nigeria,NGA,Bauchi state,Epidemic,Viral disease,89,0,0,0,1987-0092,--,--
+/10/1987,/10/1987,Nigeria,NGA,Cross River state,Epidemic,Viral disease,100,120,0,0,1987-0177,--,--
+/01/1987,/01/1987,Nigeria,NGA,,Epidemic,Viral disease,89,0,0,0,1987-0523,--,--
+/04/1987,/04/1987,Nigeria,NGA,"Oyo, Ondo, Ogun, Kwara, Bendel states",Epidemic,Viral disease,214,0,0,0,1987-0525,--,--
+/09/1987,/09/1987,Nigeria,NGA,,Epidemic,Bacterial disease,38,0,0,0,1987-0529,--,--
+01/01/1989,01/01/1989,Nigeria,NGA,"Imo, Bendel states",Epidemic,Viral disease,29,41,0,0,1989-0269,--,--
+/01/1990,/01/1990,Nigeria,NGA,,Epidemic,Viral disease,60,0,0,0,1990-0570,--,--
+06/05/1991,06/05/1991,Nigeria,NGA,"Bauchi State, Kaduna",Epidemic,Bacterial disease,7289,10000,0,0,1991-0153,--,--
+/04/1991,/04/1991,Nigeria,NGA,Ika Area (Bendel State),Epidemic,Viral disease,400,1200,0,0,1991-0348,--,--
+/02/1992,/02/1992,Nigeria,NGA,Cross River,Epidemic,Bacterial disease,100,0,0,0,1992-0457,--,--
+/02/1996,27/03/1996,Nigeria,NGA,"Sokoto, Kebbi, Kaduna, Bauchi, Jigawa, Kano, Niger, Borno, Adamawa, Benue, Cross River, Enugu, Katsina, Kwara, Plateau, Taraba",Epidemic,Bacterial disease,4346,30212,0,0,1996-0058,--,--
+19/02/1996,19/07/1996,Nigeria,NGA,"Borno, Kano, Kebbi, Oyo, Niger, Taraba, Yobe states.",Epidemic,Bacterial disease,1193,12374,0,0,1996-0112,--,--
+08/04/1998,08/04/1998,Nigeria,NGA,Adamawa stata,Epidemic,Bacterial disease,39,211,0,0,1998-0139,--,--
+/09/1999,/09/1999,Nigeria,NGA,Borno State,Epidemic,--,350,1650,0,0,1999-0497,--,--
+/06/1999,/06/1999,Nigeria,NGA,Bornu State,Epidemic,--,30,0,0,0,1999-0498,--,--
+/07/1999,/07/1999,Nigeria,NGA,Enugu State,Epidemic,Bacterial disease,25,119,0,0,1999-0499,--,--
+/10/1999,/10/1999,Nigeria,NGA,"Jigawa, Kebbi States",Epidemic,--,22,86,0,0,1999-0500,--,--
+24/03/1999,06/05/1999,Nigeria,NGA,"Kano, Adamawa, Edo",Epidemic,Bacterial disease,89,1122,0,0,1999-0501,--,--
+/01/2000,/01/2000,Nigeria,NGA,Ogun state,Epidemic,--,12,0,0,0,2000-0109,--,--
+/05/2000,/05/2000,Nigeria,NGA,Ondo state,Epidemic,--,60,40,0,0,2000-0273,--,--
+/05/2000,/05/2000,Nigeria,NGA,Kano state,Epidemic,Bacterial disease,27,1215,0,0,2000-0431,--,--
+/02/2001,/02/2001,Nigeria,NGA,"Ekpoma, Edo state",Epidemic,--,16,1,0,0,2001-0092,--,--
+/03/2001,/03/2001,Nigeria,NGA,"Enugu, Niger, Katsina, Kano states",Epidemic,Bacterial disease,340,0,0,0,2001-0141,--,--
+/01/2001,/01/2001,Nigeria,NGA,Kano state,Epidemic,Viral disease,84,340,0,0,2001-0201,--,--
+10/10/2001,10/10/2001,Nigeria,NGA,"Kwara, Akwa Ibom, Kano state",Epidemic,--,24,125,0,0,2001-0609,--,--
+14/11/2001,26/11/2001,Nigeria,NGA,"Kano, Akwa Ibom, Kwara and Jigawa states",Epidemic,Bacterial disease,80,2170,0,0,2001-0626,--,--
+06/03/2002,06/03/2002,Nigeria,NGA,"Kano, Jigawa states",Epidemic,--,120,2880,0,0,2002-0136,--,--
+15/02/2002,15/02/2002,Nigeria,NGA,Ebonyi,Epidemic,Bacterial disease,14,100,0,0,2002-0138,--,--
+01/08/2002,01/08/2002,Nigeria,NGA,"Gulma, Gombe, Jos (Kebby state)",Epidemic,--,72,750,0,0,2002-0476,--,--
+02/12/2002,02/12/2002,Nigeria,NGA,"Ndi Obasi Oso-Edda LGA, Ebonyi State",Epidemic,Viral disease,14,0,0,0,2002-0760,--,--
+02/12/2002,02/12/2002,Nigeria,NGA,Katsina-Ala LGA (Benue State),Epidemic,--,11,9,0,0,2002-0761,--,--
+21/11/2002,21/11/2002,Nigeria,NGA,Kano state,Epidemic,Bacterial disease,12,164,0,0,2002-0762,--,--
+31/10/2002,31/10/2002,Nigeria,NGA,"Ilupeju-Ekiti, Ekiti state",Epidemic,--,12,0,0,0,2002-0792,--,--
+02/04/2004,02/04/2004,Nigeria,NGA,Jigawa state,Epidemic,Bacterial disease,46,281,0,0,2004-0162,--,--
+15/10/2004,23/11/2004,Nigeria,NGA,"Kano, Jigawa states",Epidemic,Bacterial disease,76,1316,0,0,2004-0578,--,--
+16/09/2004,18/11/2004,Nigeria,NGA,Edo state,Epidemic,Bacterial disease,50,300,0,0,2004-0617,--,--
+03/02/2005,16/03/2005,Nigeria,NGA,Kusa (Oyo state),Epidemic,--,46,200,0,0,2005-0105,--,--
+28/02/2005,23/03/2005,Nigeria,NGA,"Adamawa, Kano, Jigawa, Bauchi, Yobe, Sokoto, Kaduna, Katsina, Gombe, Taraba states",Epidemic,Viral disease,561,23575,0,0,2005-0134,--,--
+11/04/2005,20/04/2005,Nigeria,NGA,Makurdi (Benue state),Epidemic,--,100,0,0,0,2005-0221,--,--
+16/05/2005,24/05/2005,Nigeria,NGA,Ngala town (Borno state),Epidemic,Bacterial disease,12,98,0,0,2005-0306,--,--
+/12/2007,09/12/2007,Nigeria,NGA,Sokoto and Kaduna,Epidemic,Viral disease,200,0,0,0,2007-0656,--,--
+/09/2008,/09/2008,Nigeria,NGA,"Katsina, Zamfara, Bauchi, Kano states (North)",Epidemic,Bacterial disease,97,0,0,0,2008-0424,--,--
+/03/2008,/03/2008,Nigeria,NGA,"Madurdi, Oturkpo towns (Benue State)",Epidemic,Bacterial disease,35,0,0,0,2008-0425,--,--
+/11/2008,/12/2008,Nigeria,NGA,,Epidemic,--,46,66,0,0,2008-0572,--,--
+01/01/2009,05/04/2009,Nigeria,NGA,"Gombe, Jogawa, Kano, Katsina states",Epidemic,Viral disease,1701,35255,0,0,2009-0087,--,--
+/06/2009,/06/2009,Nigeria,NGA,Adamawa state,Epidemic,Bacterial disease,20,0,0,0,2009-0338,--,--
+//2010,24/03/2010,Nigeria,NGA,"Nuachi, Gombe, Adamawa, Yobe, Borno, Taraba states",Epidemic,Viral disease,156,1500,0,0,2010-0131,--,--
+23/07/2010,/09/2010,Nigeria,NGA,"Borno, Bauchi, Jigawa, Rivers, Cross River, Taraba, Kaduna, Adamawa, Gombe, Kastina, Yobe states",Epidemic,Bacterial disease,1716,41787,0,0,2010-0400,--,--
+27/06/2011,14/10/2011,Nigeria,NGA,"Plateau, Bauchi, Taraba, Adamawa, Kaduna, Yobe, Nasarawa, Oyo, Kogi",Epidemic,Bacterial disease,694,21382,0,0,2011-0315,--,--
+11/01/2012,20/01/2012,Nigeria,NGA,"Ebonyl, Nasarawa, Plateau, Yobe, Lagos, Edo, Taraba states",Epidemic,Viral disease,10,29,0,0,2012-0032,--,--
+/03/2014,20/04/2015,Nigeria,NGA,,Epidemic,Viral disease,8,21,0,0,2014-0090,--,--
+/04/2014,/12/2014,Nigeria,NGA,"Bauchi state, Bauhci Metropolis, Tafawa alewa Local Government Area (LGA)",Epidemic,Bacterial disease,755,35996,0,0,2014-0439,--,--
+/01/2015,/04/2015,Nigeria,NGA,"Anambra, Kano, Rivers, Ebonyi states",Epidemic,Bacterial disease,97,2108,0,0,2015-0225,--,--
+/05/1999,/05/1999,Niue,NIU,,Epidemic,Viral disease,1,297,0,0,1999-0502,--,--
+/04/1968,/04/1968,Pakistan,PAK,Multan District,Epidemic,Bacterial disease,37,1075,0,0,1968-0037,--,--
+02/09/1998,02/09/1998,Pakistan,PAK,Murree (Swat district),Epidemic,Bacterial disease,83,9917,0,0,1998-0269,--,--
+/03/2000,/03/2000,Pakistan,PAK,"Tharparkar, Sindh Province",Epidemic,--,95,0,0,0,2000-0119,--,--
+/06/2000,/06/2000,Pakistan,PAK,Punjab province,Epidemic,--,4,246,0,0,2000-0307,--,--
+/09/2000,/09/2000,Pakistan,PAK,Loralai district (Baluchistan province),Epidemic,Viral disease,10,12,0,0,2000-0675,--,--
+01/11/2001,12/02/2002,Pakistan,PAK,"Sindh, Northerwest Frontier provinces",Epidemic,Parasitic disease,0,5000,0,0,2001-0727,--,--
+//2002,//2002,Pakistan,PAK,"Malik, Moro",Epidemic,--,10,25,0,0,2002-0302,--,--
+16/10/2004,16/10/2004,Pakistan,PAK,Goth Nek Mohammed (Karachi),Epidemic,--,2,100,0,0,2004-0725,--,--
+/10/2005,/10/2005,Pakistan,PAK,Kasmir,Epidemic,Bacterial disease,22,111,0,0,2005-0634,--,--
+/12/2005,/12/2005,Pakistan,PAK,Cachemire,Epidemic,--,20,0,0,0,2005-0722,--,--
+/03/1983,/03/1983,"Palestine, State of",PSE,,Epidemic,--,0,943,0,0,1983-0048,--,--
+/10/1964,/10/1964,Panama,PAN,,Epidemic,Viral disease,0,1200,0,0,1964-0054,--,--
+13/09/1991,13/09/1991,Panama,PAN,Darien province,Epidemic,Bacterial disease,43,2057,0,0,1991-0405,--,--
+30/11/1992,30/11/1992,Panama,PAN,,Epidemic,Bacterial disease,57,0,0,0,1992-0280,--,--
+/01/1995,/01/1995,Panama,PAN,,Epidemic,Viral disease,1,2124,0,0,1995-0217,--,--
+01/06/2002,01/06/2002,Panama,PAN,Chiriqui,Epidemic,Bacterial disease,0,173,0,0,2002-0399,--,--
+04/02/1998,04/02/1998,Papua New Guinea,PNG,,Epidemic,Viral disease,114,0,0,0,1998-0136,--,--
+01/11/2001,01/11/2001,Papua New Guinea,PNG,"Dogura, Salamo, Daio, Hagita, Samarai, Alotau, Waterluma, Gamadodo (Milne Bay province)",Epidemic,Viral disease,0,1395,0,0,2001-0531,--,--
+01/01/2002,01/01/2002,Papua New Guinea,PNG,Western Highlands,Epidemic,Viral disease,122,2215,0,0,2002-0303,--,--
+24/12/2002,24/12/2002,Papua New Guinea,PNG,Hengonofi area,Epidemic,Viral disease,20,0,0,0,2002-0815,--,--
+18/07/2009,06/11/2009,Papua New Guinea,PNG,"Tewai-Siassi, Finschafen, Huon, Nawae, Kabwum, Lae, Wasu (Morobe province); Goroka, Daulo (Eastern Highlands); Mt Hagen (Western Highlands); Madang (Madang); Angoram (East Sepik)",Epidemic,Bacterial disease,47,863,0,0,2009-0357,--,--
+22/08/2009,18/12/2009,Papua New Guinea,PNG,"Menyamya district (Morobe province); Goroka, Daulo; Obura Wonenara, Lufa (Eastern Highlands); Madang (Madang), Angoram (East Speik)",Epidemic,Bacterial disease,83,1611,0,0,2009-0358,--,--
+11/09/2009,18/12/2009,Papua New Guinea,PNG,Menyamya,Epidemic,Viral disease,62,4917,0,0,2009-0369,--,--
+/02/1999,/04/2000,Paraguay,PRY,"Asunción, Central, Amabay, Alto Paraná",Epidemic,Viral disease,0,2273,0,0,1999-0741,--,--
+//2006,/04/2007,Paraguay,PRY,"Asuncion, Central, Alto Parana, Itapua, Neembucu, Concepcion, Amambay, Cordillera, Guaira, Paraguari",Epidemic,Viral disease,17,100000,0,0,2006-0727,--,--
+28/01/2008,/04/2008,Paraguay,PRY,"Alto Paraná, Itapúa, Central, San pedro, Asuncíon",Epidemic,Viral disease,0,1837,0,0,2008-0065,--,--
+/02/2008,/04/2008,Paraguay,PRY,"San Pedro, San Lorenzo , Laurelty, Caaguazú departments",Epidemic,Viral disease,8,16,0,0,2008-0137,--,--
+/12/2008,11/07/2009,Paraguay,PRY,"Concepcion, San Pedro, Cordillera, Guairá, Caaguazú, Caazapá, Itapúa, Misiones, Paraguarí, A. Paraná, Central, Neembucú, Amambay, Canindeyú, Pte.Hayes, A. Paraguay, Boquerón, Asunción departments",Epidemic,Viral disease,0,4104,0,0,2008-0661,--,--
+/01/2009,06/03/2009,Paraguay,PRY,,Epidemic,Viral disease,8,24,0,0,2009-0564,--,--
+/01/2011,//2011,Paraguay,PRY,,Epidemic,Viral disease,0,13681,0,0,2010-0680,--,--
+/01/2011,/06/2011,Paraguay,PRY,"Alto Parana, Metropolitan Areas of Asuncion, Concepcion, Amambay, San Pedro, Cordillera, Paraguari, Central, Guaira, Caazapa, Caaguazu, Canindeyu, Itapua, Neembuco, Misiones, Presidente Hayes, Alto Paraguay, Boqueron",Epidemic,Viral disease,44,16264,0,0,2011-0112,--,--
+/05/1977,/05/1977,Peru,PER,,Epidemic,Viral disease,26,0,0,0,1977-0067,--,--
+/02/1988,/02/1988,Peru,PER,Ancash,Epidemic,Viral disease,200,0,0,0,1988-0063,--,--
+/10/1988,/10/1988,Peru,PER,,Epidemic,Viral disease,30,0,0,0,1988-0454,--,--
+31/01/1991,31/01/1991,Peru,PER,"La Libertad, Lambayeque, Ancash, Piura, Tumbes, Lima-Callao, Ica, Cajamarca, Arequipa, Puno, Apurimac, Huancavelica, Huanuco, Junin, Loreto, Moquegua, Tacna, Amazonas, San Martin, Ayacucho, Pasco, Ucayali departments",Epidemic,Bacterial disease,1726,283353,0,0,1991-0035,--,--
+18/08/1991,18/08/1991,Peru,PER,,Epidemic,--,8000,0,0,0,1991-0217,--,--
+/01/1992,/01/1992,Peru,PER,,Epidemic,Bacterial disease,690,0,0,0,1992-0448,--,--
+01/01/1997,31/01/1997,Peru,PER,"Arequipa, Lima, La Libertad, Lambayeque, Ancash and Cuzco",Epidemic,Bacterial disease,1,174,0,0,1997-0549,--,--
+/04/1998,/04/1998,Peru,PER,Tumbes & Piura Departments,Epidemic,Bacterial disease,0,18900,0,0,1998-0105,--,--
+/04/1998,/04/1998,Peru,PER,"Tumbes, Piura, Lambayeque & Lima Departments",Epidemic,Parasitic disease,0,12000,0,0,1998-0560,--,--
+01/01/1998,31/02/1998,Peru,PER,"Arequipa, Lima, La Libertad, Lambayeque, ancash and Cuzco departments",Epidemic,Bacterial disease,16,2863,0,0,1998-0570,--,--
+/01/2009,/11/2009,Peru,PER,,Epidemic,Viral disease,0,14151,0,0,2009-0564,--,--
+/12/2010,31/05/2011,Peru,PER,"Loreto, Madre Dios, Amazonas, San Martin, Ucayali, Tumbes, Piura, Lambayeque, La Libertad, Cajamarca, Ancash, Huanuco, Junin, Cerro de Pasco, Lima",Epidemic,Viral disease,13,31703,0,0,2010-0680,--,--
+/10/2012,26/11/2012,Peru,PER,"Calleria, Yarinacocha, Mananty districts (Coronel province, Ucayali department)",Epidemic,Viral disease,11,20106,0,0,2012-0599,--,--
+/09/1977,/09/1977,Philippines (the),PHL,Benguet,Epidemic,Bacterial disease,7,15,0,0,1977-0114,--,--
+11/03/1977,11/03/1977,Philippines (the),PHL,Palawan,Epidemic,Parasitic disease,50,666,0,0,1977-0162,--,--
+23/03/1977,23/03/1977,Philippines (the),PHL,Davao City,Epidemic,Viral disease,18,0,0,0,1977-0164,--,--
+/05/1978,/05/1978,Philippines (the),PHL,East Samar,Epidemic,Viral disease,17,0,0,0,1978-0065,--,--
+/09/1990,/09/1990,Philippines (the),PHL,Bicol,Epidemic,Viral disease,21,200,0,0,1990-0625,--,--
+15/03/1992,15/03/1992,Philippines (the),PHL,,Epidemic,Viral disease,70,0,0,0,1992-0294,--,--
+/01/1996,14/07/1996,Philippines (the),PHL,,Epidemic,Viral disease,26,1459,0,0,1996-0123,--,--
+15/05/1996,30/05/1996,Philippines (the),PHL,"Baganga, Davao Oriental Province",Epidemic,Bacterial disease,4,214,0,0,1996-0129,--,--
+03/09/1998,03/09/1998,Philippines (the),PHL,N.A. on the source,Epidemic,Viral disease,202,11000,0,0,1998-0271,--,--
+/09/1999,/09/1999,Philippines (the),PHL,Pangasinan Province,Epidemic,Viral disease,10,402,0,0,1999-0503,--,--
+18/11/2000,18/11/2000,Philippines (the),PHL,Zamboanga,Epidemic,--,1,664,0,0,2000-0783,--,--
+25/02/2003,05/05/2003,Philippines (the),PHL,,Epidemic,Viral disease,2,12,0,0,2002-0858,--,--
+01/10/2004,28/01/2005,Philippines (the),PHL,"Bagio city, Mt Province, Ifugao (Luzon)",Epidemic,Bacterial disease,32,98,0,0,2004-0673,--,--
+01/01/2010,/11/2010,Philippines (the),PHL,"National Capital, Ilocos, Cagayan Valley, Cordillera Administrative Region, Central Luzon, Calabarzon, Mimaropa, Bicol, Western Visayas, Eastern Visayas, Zamboanga Peninsula, Nordern Mindanao, Davao, Soccsksargen, Autonomos Region of Muslim Mindanao, Caraga",Epidemic,Viral disease,737,123939,0,0,2010-0391,--,--
+11/10/2011,18/10/2011,Philippines (the),PHL,"Tinoto, Massim (Sarangani province)",Epidemic,Bacterial disease,3,254,0,0,2011-0393,--,--
+01/01/2011,/08/2011,Philippines (the),PHL,"Cavite, Laguna, Batangas, Rizal, Quezon provinces",Epidemic,Viral disease,33,6778,0,0,2011-0545,--,--
+01/03/2011,18/04/2011,Philippines (the),PHL,Palawan,Epidemic,Bacterial disease,20,563,0,0,2011-0563,--,--
+/01/2012,/07/2012,Philippines (the),PHL,"Catanduanes, Camarines Sur, Sorsogon, Albay, Camarines Norte, Masbate provinces (Bicol)",Epidemic,Bacterial disease,30,3158,0,0,2012-0201,--,--
+28/03/2005,05/02/2006,Réunion,REU,,Epidemic,Viral disease,0,157000,0,0,2005-0754,--,--
+30/07/1996,15/10/1996,Romania,ROU,"Bucharest, Dolj, Galati and Constanta District",Epidemic,Bacterial disease,0,527,0,0,1996-0219,--,--
+/06/1999,/06/1999,Romania,ROU,"Suceava, Iasi, Bacau, Neamt, Constanta, Botosan",Epidemic,Bacterial disease,0,4743,0,0,1999-0504,--,--
+19/03/2003,19/03/2003,Romania,ROU,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+19/06/1995,19/06/1995,Russian Federation (the),RUS,Baltic States,Epidemic,Bacterial disease,0,150000,0,0,1995-0125,--,--
+17/12/1997,17/12/1997,Russian Federation (the),RUS,"Bashkiria,Orenburg",Epidemic,Viral disease,0,4538,0,0,1997-0510,--,--
+/09/1999,/09/1999,Russian Federation (the),RUS,Volgograd Region,Epidemic,Viral disease,33,526,0,0,1999-0505,--,--
+/12/1999,/12/1999,Russian Federation (the),RUS,"Primorskiy (Chuguyevka village, Partizansk town)",Epidemic,Viral disease,0,239,0,0,1999-0648,--,--
+/01/2000,/01/2000,Russian Federation (the),RUS,Tatarstan,Epidemic,Viral disease,0,564,0,0,2000-0052,--,--
+/01/2000,/01/2000,Russian Federation (the),RUS,Orenburg region,Epidemic,Viral disease,0,124,0,0,2000-0284,--,--
+/06/2000,/06/2000,Russian Federation (the),RUS,Irkutsk,Epidemic,--,0,100,0,0,2000-0342,--,--
+/09/2000,/09/2000,Russian Federation (the),RUS,Chechnya,Epidemic,Viral disease,0,2000,0,0,2000-0710,--,--
+/12/2000,/12/2000,Russian Federation (the),RUS,Serpukhov,Epidemic,Viral disease,0,154,0,0,2000-0864,--,--
+05/05/2003,05/05/2003,Russian Federation (the),RUS,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+/06/1978,/06/1978,Rwanda,RWA,E. Shore Lake Kivu,Epidemic,Bacterial disease,0,2000,0,0,1978-0079,--,--
+/07/1978,/07/1978,Rwanda,RWA,Southern,Epidemic,Bacterial disease,17,0,0,0,1978-0182,--,--
+//1991,//1991,Rwanda,RWA,Northeast,Epidemic,Bacterial disease,32,214,0,0,1991-0769,--,--
+16/11/1996,13/12/1996,Rwanda,RWA,Runda transit camp,Epidemic,Bacterial disease,10,106,0,0,1996-0313,--,--
+06/11/1998,06/11/1998,Rwanda,RWA,Cyanguru communes bordering South Kivu,Epidemic,Bacterial disease,55,2951,0,0,1998-0369,--,--
+01/09/1999,06/10/1999,Rwanda,RWA,"Kayenzi, Nyabikenke and Rutobwe (Gitarama and Kigali Prefecture)",Epidemic,Bacterial disease,44,29,0,0,1999-0506,--,--
+/01/1999,/01/1999,Rwanda,RWA,"Ruhengeri Province, Ngamara plateau",Epidemic,Bacterial disease,27,319,0,0,1999-0507,--,--
+14/10/1999,31/10/1999,Rwanda,RWA,"Ruhengeri health region (Cyabingo, Kigombe and Nyakinama communes)",Epidemic,--,5,140,0,0,1999-0631,--,--
+/07/2000,22/08/2000,Rwanda,RWA,Kabgayi district (Gitarana prefecture),Epidemic,Bacterial disease,10,164,0,0,2000-0520,--,--
+24/06/2002,18/09/2002,Rwanda,RWA,"Butare, Kibongo , Kibuye, Umatara provinces",Epidemic,Bacterial disease,83,636,0,0,2002-0505,--,--
+15/06/2004,15/07/2004,Rwanda,RWA,"Bukamba, Kinigi, Gasiza (Ruhengeri district)",Epidemic,Bacterial disease,4,540,0,0,2004-0341,--,--
+/01/2006,10/01/2006,Rwanda,RWA,"Kubuga, Kigali city, Bugsera (Gashora, Nyamata)",Epidemic,Bacterial disease,35,300,0,0,2006-0022,--,--
+01/01/1986,01/01/1986,Sao Tome and Principe,STP,,Epidemic,Parasitic disease,150,0,0,0,1986-0020,--,--
+06/06/1989,06/06/1989,Sao Tome and Principe,STP,"Aguas Grande, Mezochi Lobata, Cantaggio, Cave",Epidemic,Bacterial disease,31,1063,0,0,1989-0124,--,--
+06/10/2005,16/12/2005,Sao Tome and Principe,STP,"Mezochi, Agua Grande, Lobata Sao Tome Island",Epidemic,Bacterial disease,25,1349,0,0,2005-0630,--,--
+/03/2000,27/04/2000,Saudi Arabia,SAU,,Epidemic,Bacterial disease,57,168,0,0,2000-0213,--,--
+11/09/2000,17/10/2000,Saudi Arabia,SAU,Jizan region (southwestern),Epidemic,Viral disease,76,329,0,0,2000-0592,--,--
+09/02/2001,22/03/2001,Saudi Arabia,SAU,,Epidemic,Bacterial disease,35,74,0,0,2001-0125,--,--
+23/10/1965,23/10/1965,Senegal,SEN,Diourbel region,Epidemic,Viral disease,60,150,0,0,1965-0061,--,--
+/12/1978,/12/1978,Senegal,SEN,"Dakar, Cap Vert province",Epidemic,Bacterial disease,5,298,0,0,1978-0136,--,--
+/10/1984,/10/1984,Senegal,SEN,,Epidemic,Bacterial disease,0,0,0,0,1984-0152,--,--
+/07/1985,/07/1985,Senegal,SEN,,Epidemic,Bacterial disease,300,3100,0,0,1985-0160,--,--
+/08/1995,15/03/1996,Senegal,SEN,"Louga, Mbacke and Touba Departments (Diourbel Region), Fatick Department (Sine-Saloum Region), St. Louis Department (Fleuve Region) and THies Department (Thies Region)",Epidemic,Bacterial disease,188,3031,0,0,1995-0478,--,--
+23/10/1998,28/02/1999,Senegal,SEN,"Kaolack, Fatick and Kolda, Diourbel",Epidemic,Bacterial disease,372,2709,0,0,1998-0138,--,--
+/01/2002,/01/2002,Senegal,SEN,,Epidemic,Bacterial disease,7,121,0,0,2002-0259,--,--
+27/08/2002,28/11/2002,Senegal,SEN,"Dakar, Diourbel, Kolda, Tambacounda, Louga, Thies, Fatick regions",Epidemic,Viral disease,11,60,0,0,2002-0718,--,--
+05/10/2004,/03/2005,Senegal,SEN,"Pikine, Guédiawaye, Thiaroye, Colobane (Dakar), Bambey (Diourbel region), Darou Mousty (Louga region)",Epidemic,Bacterial disease,6,861,0,0,2004-0546,--,--
+01/01/2005,23/09/2005,Senegal,SEN,"Fatick, Dakar, Kolda, Louga, Tambacounda, Touba, Mbacké, Bambey districts (Diourbel region)",Epidemic,Bacterial disease,303,23022,0,0,2005-0176,--,--
+03/08/2007,30/10/2007,Senegal,SEN,"Dakar, Diourbel, Fatick, Kaolack, Louga, Saint Louis, Thies",Epidemic,Bacterial disease,16,2825,0,0,2007-0660,--,--
+08/03/2014,13/10/2014,Senegal,SEN,"KÃÂ©dougou, Kolda, SÃÂ©dhiou, Tambacounda, Ziguinchor",Epidemic,Viral disease,0,1,0,0,2014-0090,--,--
+/08/1999,27/04/2000,Serbia Montenegro,SCG,"Pec, Djakovica region (Kosovo)",Epidemic,--,0,699,0,0,1999-0722,--,--
+01/11/2001,06/02/2002,Serbia Montenegro,SCG,"Lypjan, Ferizaj, Prishtina, Drenas, Kastriot, F.Kosove, Podujeve, Skenderaj, Shtime, Gjilan (Kosovo)",Epidemic,Bacterial disease,0,170,0,0,2001-0730,--,--
+/01/2006,/03/2006,Seychelles,SYC,,Epidemic,Viral disease,0,5461,0,0,2005-0754,--,--
+/01/2016,12/07/2016,Seychelles,SYC,"English river, Anse Royal, Anse Etoile, Beau Vallon, Point La Rue",Epidemic,Viral disease,0,253,0,0,2016-0302,--,--
+/12/1985,/12/1985,Sierra Leone,SLE,"Kambia, Port Loko, Tonkolili + 4 other districts",Epidemic,Bacterial disease,352,3000,0,0,1985-0135,--,--
+01/01/1996,26/07/1996,Sierra Leone,SLE,Kailahum and Kenema Districts,Epidemic,Viral disease,73,173,0,0,1996-0130,--,--
+/11/1996,/11/1996,Sierra Leone,SLE,,Epidemic,Viral disease,43,310,0,0,1996-0270,--,--
+/11/1996,31/04/1997,Sierra Leone,SLE,Kenema District,Epidemic,Viral disease,110,470,0,0,1996-0491,--,--
+06/03/1997,06/03/1997,Sierra Leone,SLE,,Epidemic,Bacterial disease,15,24,0,0,1997-0493,--,--
+30/12/1997,30/12/1997,Sierra Leone,SLE,Koinadugu district,Epidemic,Viral disease,36,2000,0,0,1997-0519,--,--
+09/09/1998,23/09/1998,Sierra Leone,SLE,Freetown,Epidemic,Bacterial disease,55,1770,0,0,1998-0268,--,--
+01/09/1999,06/09/1999,Sierra Leone,SLE,Freetown,Epidemic,Bacterial disease,1,134,0,0,1999-0509,--,--
+06/12/1999,04/02/2000,Sierra Leone,SLE,many area of the country,Epidemic,--,132,3094,0,0,1999-0721,--,--
+/06/2000,/06/2000,Sierra Leone,SLE,"Bajaila, Pujehun",Epidemic,--,38,0,0,0,2000-0369,--,--
+13/12/2001,13/12/2001,Sierra Leone,SLE,"Krubola, Fakunia (Koinadugu district)",Epidemic,Bacterial disease,12,3,0,0,2001-0720,--,--
+/10/2003,/10/2003,Sierra Leone,SLE,"Tonkolili, Bombali, Kenema, Koinadugu, Porto LOko, Kambia, Kono districts",Epidemic,Viral disease,10,90,0,0,2003-0565,--,--
+02/08/2004,30/08/2004,Sierra Leone,SLE,"Freetown, Western area, Port Loko, Kambia districts",Epidemic,Bacterial disease,56,633,0,0,2004-0437,--,--
+/06/2008,/06/2008,Sierra Leone,SLE,"Freetown, Lungi, Kambia",Epidemic,Bacterial disease,170,1746,0,0,2008-0258,--,--
+01/01/2012,08/01/2013,Sierra Leone,SLE,"Western Area, Port Loko, Kambia, Pujehun, Bo, Bomabli, Moyamba, Tonkolili, Bonthe, Kono, Kenema, Koinadugu",Epidemic,Bacterial disease,300,23009,0,0,2012-0295,--,--
+10/03/2014,/08/2015,Sierra Leone,SLE,Kailahun; Buedu (Kono district),Epidemic,Viral disease,3956,14124,0,0,2014-0090,--,--
+/03/1999,/03/1999,Singapore,SGP,,Epidemic,Viral disease,1,11,0,0,1998-0578,--,--
+/09/2000,/09/2000,Singapore,SGP,Singapore,Epidemic,Viral disease,2,2022,0,0,2000-0674,--,--
+25/02/2003,05/05/2003,Singapore,SGP,Singapore,Epidemic,Viral disease,33,205,0,0,2002-0858,--,--
+/01/2013,/04/2013,Solomon Islands,SLB,"Guadalcanal, Gizo provinces",Epidemic,Viral disease,3,1970,0,0,2013-0509,--,--
+08/10/2016,/11/2016,Solomon Islands,SLB,"Guadalcanal (including Honiara), Malaita, Isabel provinces",Epidemic,Viral disease,0,1212,0,0,2016-0392,--,--
+/03/1965,/03/1965,Somalia,SOM,"Nationwide, Galaciao",Epidemic,--,0,0,0,0,1965-0013,--,--
+01/01/1977,01/01/1977,Somalia,SOM,,Epidemic,Viral disease,0,2671,0,0,1977-0019,--,--
+22/03/1985,31/03/1985,Somalia,SOM,Hargeisa (NorthWest Somalia),Epidemic,Bacterial disease,1262,4815,0,0,1985-0045,--,--
+01/01/1986,01/01/1986,Somalia,SOM,"South, Northwest",Epidemic,Bacterial disease,1307,7093,0,0,1986-0005,--,--
+/03/1994,/03/1994,Somalia,SOM,,Epidemic,--,100,17000,0,0,1994-0018,--,--
+/11/1996,04/06/1997,Somalia,SOM,"Mogadishu, Merca, Middle Shabelle and Galgaduud Regions",Epidemic,Bacterial disease,247,5557,0,0,1996-0490,--,--
+13/06/1997,13/06/1997,Somalia,SOM,,Epidemic,Bacterial disease,0,1044,0,0,1997-0515,--,--
+/10/1997,/10/1997,Somalia,SOM,Southwest of Mogadishu,Epidemic,Viral disease,500,0,0,0,1997-0521,--,--
+17/02/1998,17/02/1998,Somalia,SOM,Districts In The Southern Part,Epidemic,Bacterial disease,248,6704,0,0,1998-0049,--,--
+/12/1998,30/04/1999,Somalia,SOM,"Bay, Lower Shabelle, Upper and Lower Juba, Baidoa, Kismayo, Mogadishu",Epidemic,Bacterial disease,233,7860,0,0,1998-0599,--,--
+/08/1999,/08/1999,Somalia,SOM,Bosaso Town,Epidemic,Bacterial disease,15,175,0,0,1999-0511,--,--
+01/01/2000,21/04/2000,Somalia,SOM,"Mogadishu, Bay, Lower Juba, Lower Shabelle and Mudug",Epidemic,Bacterial disease,230,2232,0,0,2000-0058,--,--
+/02/2000,/02/2000,Somalia,SOM,"Janale, Golweyna (Shabelle Region)",Epidemic,--,54,0,0,0,2000-0087,--,--
+/04/2000,/04/2000,Somalia,SOM,Gedo region,Epidemic,--,390,0,0,0,2000-0221,--,--
+14/10/2000,15/11/2000,Somalia,SOM,"Boroma, Adwal region, Somaliland",Epidemic,Bacterial disease,14,258,0,0,2000-0757,--,--
+13/10/2001,28/01/2002,Somalia,SOM,Hargeisa town,Epidemic,Bacterial disease,33,111,0,0,2001-0728,--,--
+20/02/2002,20/02/2002,Somalia,SOM,Shabeellaha region,Epidemic,Viral disease,30,0,0,0,2002-0169,--,--
+12/04/2002,12/04/2002,Somalia,SOM,"Banadir (Mogasdishu), Lower Shabelle (Merka), Middle Shabelle (Jilib and Haranka), Hiraan (Belet Weyne), Bari (Bossasso) regions",Epidemic,Bacterial disease,63,1191,0,0,2002-0221,--,--
+23/10/2005,14/11/2005,Somalia,SOM,"Zeilla district (Awdal region, Somaliland)",Epidemic,Viral disease,13,0,0,0,2005-0632,--,--
+12/07/2005,24/03/2006,Somalia,SOM,"Gov. Banadir (incl. Mogadishu), Lower Shabelle, Sool, LOwer JUba, Mudug region, Southeren and Northeastern Somalia",Epidemic,Viral disease,0,199,0,0,2005-0710,--,--
+/05/2006,/05/2006,Somalia,SOM,"Waamo, Saa'nole villages (Afmadow district)",Epidemic,--,12,80,0,0,2006-0243,--,--
+/06/2006,/06/2006,Somalia,SOM,Afmadow district,Epidemic,--,20,0,0,0,2006-0317,--,--
+/12/2006,/12/2006,Somalia,SOM,Middle Shabella region,Epidemic,Parasitic disease,21,0,0,0,2006-0665,--,--
+/09/2006,/11/2006,Somalia,SOM,"Puntland (including Nugal region), Jilib (Lower Juba region), Marerey (Middle Juba region)",Epidemic,--,40,5733,0,0,2006-0670,--,--
+19/12/2006,20/02/2007,Somalia,SOM,"Afgoi, Afmado, Balad, Bardare, Beletweyne, Garbahare, Jalalaxsi, Jilib, Kismayo, Lower Juba, Luuq, Mahas, Warsheikh, Salagale",Epidemic,Viral disease,51,63,0,0,2006-0750,--,--
+/07/2007,//2007,Somalia,SOM,,Epidemic,Bacterial disease,1133,35687,0,0,2007-0508,--,--
+/02/2008,/02/2008,Somalia,SOM,Belet Hawo (Southwestern),Epidemic,Bacterial disease,13,663,0,0,2008-0100,--,--
+19/08/2000,16/04/2001,South Africa,ZAF,"Lower Umfolozi districts, Eshowe/Nkandla area, KwaDukuza/Stanger area, Ugu Region/South Coast (KwaZulu-Natal province)",Epidemic,Bacterial disease,181,86107,0,0,2000-0649,--,--
+14/02/2002,14/02/2002,South Africa,ZAF,Eastern cape,Epidemic,--,11,256,0,0,2002-0112,--,--
+07/03/2002,07/03/2002,South Africa,ZAF,KwaZulu Natal,Epidemic,--,1,169,0,0,2002-0155,--,--
+01/01/2002,01/01/2002,South Africa,ZAF,"Eastern Cape, KwaZulu Natal, Northern provinces",Epidemic,Bacterial disease,72,12927,0,0,2002-0189,--,--
+03/04/2003,03/04/2003,South Africa,ZAF,,Epidemic,Viral disease,1,0,0,0,2002-0858,--,--
+01/01/2004,17/03/2004,South Africa,ZAF,"Nkomazi , Mbombela, Umjindi (Mpumalanga province)",Epidemic,Bacterial disease,5,174,0,0,2004-0077,--,--
+15/11/2008,31/05/2009,South Africa,ZAF,"Vhembe district (Limpopo province); Mpumalanga, Gauteng provinces",Epidemic,Bacterial disease,65,12752,0,0,2008-0511,--,--
+14/10/2013,/10/2013,South Sudan,SSD,,Epidemic,Viral disease,0,3,0,0,2013-0399,--,--
+29/04/2014,03/06/2014,South Sudan,SSD,"Juba, Jonglei, Upper Nile",Epidemic,Bacterial disease,22,586,0,0,2014-0191,--,--
+23/04/2014,17/08/2014,South Sudan,SSD,"Juba, Torit",Epidemic,Bacterial disease,127,5900,0,0,2014-0235,--,--
+28/05/2015,05/09/2015,South Sudan,SSD,Juba county (Central Equatoria); Bor (Jonglei state),Epidemic,Bacterial disease,47,1818,0,0,2015-0301,--,--
+/01/2016,20/10/2016,South Sudan,SSD,"Imatong (Torit), Eastern Lakes, Jubek (Juba), Terekeka, Jonglei(Bor), Western Bieh, Northern Liech, Southern Liech, Nimule, Awerial and Bentiu POC ",Epidemic,Bacterial disease,38,2539,0,0,2016-0289,--,--
+//1917,//1917,Soviet Union,SUN,Nationwide,Epidemic,--,2500000,0,0,0,1917-0002,--,--
+//1923,//1923,Soviet Union,SUN,Nationwide,Epidemic,Parasitic disease,0,18000000,0,0,1923-0001,--,--
+/02/1997,/02/1997,Spain,ESP,,Epidemic,Bacterial disease,0,1383,0,0,1997-0540,--,--
+01/07/2001,18/07/2001,Spain,ESP,Murcia,Epidemic,Bacterial disease,2,751,0,0,2001-0329,--,--
+26/03/2003,26/03/2003,Spain,ESP,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+01/01/1967,01/01/1967,Sri Lanka,LKA,Nationwide,Epidemic,Parasitic disease,2,200000,0,0,1967-0011,--,--
+01/01/1977,01/01/1977,Sri Lanka,LKA,,Epidemic,Bacterial disease,0,728,0,0,1977-0020,--,--
+/11/1987,/11/1987,Sri Lanka,LKA,,Epidemic,Viral disease,53,0,0,0,1987-0202,--,--
+/09/1997,13/11/1998,Sri Lanka,LKA,Colombo,Epidemic,Bacterial disease,36,1695,0,0,1997-0545,--,--
+/10/1999,/10/1999,Sri Lanka,LKA,"Colombo, Kegalle, Badulla, Matara, Wellawaya (cities) Level 1 = Sabaragamuwa, Southern, Uva, Western",Epidemic,--,1,5936,0,0,1999-0711,--,--
+25/09/2000,25/09/2000,Sri Lanka,LKA,Matara,Epidemic,Viral disease,2,113,0,0,2000-0728,--,--
+28/07/2004,28/07/2004,Sri Lanka,LKA,"Columbo, Kandy, Gampaha, Kalutara, Kurunegala",Epidemic,Viral disease,88,15000,0,0,2004-0377,--,--
+/01/2009,18/11/2009,Sri Lanka,LKA,"Kandy, Colombo, Gampaha, Kalutara, Keaglle, Kurunegala, Rathnapura, Hambantota, Batticoloa, Matara, Anuradhapura, Matale, districts",Epidemic,Viral disease,346,35007,0,0,2009-0250,--,--
+/01/2011,02/12/2011,Sri Lanka,LKA,Western province,Epidemic,Viral disease,167,26343,0,0,2011-0497,--,--
+//1940,//1940,Sudan (the),SDN,South Kordofan,Epidemic,Viral disease,1500,15000,0,0,1940-0031,--,--
+//1950,//1951,Sudan (the),SDN,,Epidemic,Bacterial disease,0,72162,0,0,1950-0033,--,--
+/04/1965,/04/1965,Sudan (the),SDN,Khartoum province,Epidemic,Bacterial disease,0,2300,0,0,1965-0017,--,--
+08/03/1966,08/03/1966,Sudan (the),SDN,Nationwide,Epidemic,Bacterial disease,0,0,0,0,1966-0033,--,--
+/09/1976,/09/1976,Sudan (the),SDN,West Equatoria province,Epidemic,Viral disease,150,299,0,0,1976-0060,--,--
+/08/1987,/08/1987,Sudan (the),SDN,Blue Nile province,Epidemic,--,60,0,0,0,1987-0142,--,--
+//1988,//1989,Sudan (the),SDN,"Khartoum, Central region",Epidemic,Bacterial disease,2770,38805,0,0,1988-0004,--,--
+/11/1988,/11/1988,Sudan (the),SDN,Eastern Sudan,Epidemic,Parasitic disease,0,0,0,0,1988-0495,--,--
+/03/1991,/03/1991,Sudan (the),SDN,South,Epidemic,Bacterial disease,12,0,0,0,1991-0094,--,--
+04/06/1996,04/06/1996,Sudan (the),SDN,South,Epidemic,Bacterial disease,700,1800,0,0,1996-0126,--,--
+27/05/1998,27/05/1998,Sudan (the),SDN,Um Kuraa (Gedaref state),Epidemic,--,39,3,0,0,1998-0150,--,--
+01/08/1998,01/08/1998,Sudan (the),SDN,"Wau, Bahr El Ghazal province",Epidemic,--,1373,0,0,0,1998-0274,--,--
+/07/1998,/09/1998,Sudan (the),SDN,"Kashipo village, Boma Eastern Equatoria. Meyon (southern Sudan)",Epidemic,--,107,2000,0,0,1998-0335,--,--
+01/12/1998,19/05/1999,Sudan (the),SDN,"Northern, Western ",Epidemic,Bacterial disease,1600,20400,0,0,1998-0598,--,--
+/01/1999,/01/1999,Sudan (the),SDN,"Kutum, Kebkabya & El fasher, North Dafur State",Epidemic,Bacterial disease,45,256,0,0,1999-0512,--,--
+14/04/1999,14/04/1999,Sudan (the),SDN,"Malakal, Upper Nile Sate",Epidemic,Bacterial disease,210,2811,0,0,1999-0513,--,--
+/03/1999,27/04/1999,Sudan (the),SDN,"Padak, Mading, Wanding, Lankien, Akobo and Burmat, Jonglei region",Epidemic,--,102,892,0,0,1999-0717,--,--
+01/01/2000,31/03/2000,Sudan (the),SDN,"Juba (Bahr el Jebel State), Upper Nile, Khartoum, Sennar, White Nile, Gezira, South Kordofan, Gedaref states",Epidemic,Bacterial disease,186,2363,0,0,2000-0100,--,--
+05/02/2002,05/02/2002,Sudan (the),SDN,"Ikotos, Isoke, Padak, Gizen, Nuba",Epidemic,Bacterial disease,49,281,0,0,2002-0170,--,--
+01/10/2002,01/10/2002,Sudan (the),SDN,"Eastern Upper Nile state, Southern Sudan",Epidemic,Parasitic disease,0,1000,0,0,2002-0717,--,--
+11/05/2003,15/05/2003,Sudan (the),SDN,"Imatong, Ikotos districts, Torry county, Southern part of Eastern Equatoria",Epidemic,Viral disease,27,178,0,0,2003-0272,--,--
+15/05/2004,30/06/2004,Sudan (the),SDN,"North Darfur, Abu Shoak camp",Epidemic,Bacterial disease,11,1340,0,0,2004-0329,--,--
+22/05/2004,17/09/2004,Sudan (the),SDN,West Darfur,Epidemic,Viral disease,87,6774,0,0,2004-0410,--,--
+22/01/2005,02/02/2005,Sudan (the),SDN,"Blue Nile, Gadarif, Gezira, Kordofan, White Nile states",Epidemic,Bacterial disease,124,3579,0,0,2005-0082,--,--
+/09/2005,17/12/2005,Sudan (the),SDN,"Dilling, Abu Jubaiyah, Abyei, Bara, Kadugli, Lagawa, Sheikan, Talodi, Rashad (Nuba mountain area, State of Southern Kordofan)",Epidemic,Viral disease,144,439,0,0,2005-0616,--,--
+03/12/2005,03/05/2006,Sudan (the),SDN,"Twic, Wau, Tanj, Gogerial counties (Bahr Al Gazal state), Unity State",Epidemic,Bacterial disease,382,3436,0,0,2005-0762,--,--
+01/01/2006,03/02/2006,Sudan (the),SDN,"Kassala, Blue Nile, Khartoum, Sennar, West Darfur, Gederef states",Epidemic,Bacterial disease,24,554,0,0,2006-0076,--,--
+28/01/2006,24/09/2006,Sudan (the),SDN,"Cental Equatria, East Equatria, Western Equatria, Upper Nile, Jonglei, Lakes, Unity, Northern Bahr el Ghazel, Yei, Juba, Kajo-Kegi, Jebel Lado, Pibor, Bor, Terekeka, Torit, Lafon, Malakal (Southern)",Epidemic,Bacterial disease,476,15711,0,0,2006-0077,--,--
+21/04/2006,06/10/2006,Sudan (the),SDN,"Khartoum, North Kordofan, South Kordofan, White Nile, River Nile, South Darfur, Gezira, Kassala (North Dudan)",Epidemic,Bacterial disease,196,5757,0,0,2006-0289,--,--
+01/09/2006,18/11/2006,Sudan (the),SDN,"Yei county, Central Equatoria State (South), Yambo county (Western Equatorial State)",Epidemic,Bacterial disease,16,231,0,0,2006-0611,--,--
+/12/2006,25/03/2007,Sudan (the),SDN,"Central, Western and Eastern Equatoria, Northern and Eastern Bahar El Gazal, Lakes, Warrab, Jonglie and Unity states",Epidemic,Bacterial disease,430,6516,0,0,2006-0725,--,--
+/08/2007,/08/2007,Sudan (the),SDN,,Epidemic,--,58,890,0,0,2007-0324,--,--
+01/01/2007,11/03/2007,Sudan (the),SDN,"Aweil West, Juba, Mundri East, Rumbek, Tonj South, Wulu, Yirol",Epidemic,Bacterial disease,430,6516,0,0,2007-0657,--,--
+18/10/2007,14/11/2007,Sudan (the),SDN,"While Nile, Sennar, Gazeera States",Epidemic,Viral disease,96,233,0,0,2007-0658,--,--
+/07/2008,/10/2008,Sudan (the),SDN,Gedarif,Epidemic,Bacterial disease,3,163,0,0,2008-0469,--,--
+29/09/2008,05/10/2008,Sudan (the),SDN,Bar-el-Ghazal's Aweil,Epidemic,Bacterial disease,12,49,0,0,2008-0470,--,--
+02/09/2012,09/01/2013,Sudan (the),SDN,"Nyala, Sharq Algabal, Kass, Mershing, Kubum, Rehaid Albirdy (South Darfur); Zalingei, Wadisali, Azoom, Nertity, Mukjer, bendisi, Um Dukhun (Central Darfur); Genaina, Beidha, Habila, Kernik, Forbranga, Jebel Moon (West Darfur); Saraf Omra, Alseraif, Elfashir (North Darfur), Yassin (East Darfur)",Epidemic,Viral disease,171,678,0,0,2012-0494,--,--
+19/09/2016,19/09/2016,Sudan (the),SDN,"Bue Nyle, Kassala",Epidemic,Bacterial disease,19,632,0,0,2016-0344,--,--
+/01/1992,/01/1992,Swaziland,SWZ,,Epidemic,Bacterial disease,30,2228,0,0,1992-0168,--,--
+/01/1996,/04/1996,Swaziland,SWZ,,Epidemic,Parasitic disease,80,0,0,0,1996-0056,--,--
+12/12/2000,12/12/2000,Swaziland,SWZ,"Lubombo, Hhohho, Manzini, Shiselweni regions",Epidemic,Bacterial disease,32,1449,0,0,2000-0852,--,--
+22/04/2002,22/04/2002,Sweden,SWE,,Epidemic,--,0,350,0,0,2002-0235,--,--
+28/03/2003,23/04/2003,Sweden,SWE,,Epidemic,Viral disease,0,0,0,0,2002-0858,--,--
+09/03/2003,09/03/2003,Switzerland,CHE,,Epidemic,Viral disease,0,1,0,0,2002-0858,--,--
+/07/1977,/07/1977,Syrian Arab Republic,SYR,Widespread,Epidemic,Bacterial disease,88,2865,0,0,1977-0080,--,--
+/08/1977,/08/1977,Syrian Arab Republic,SYR,"North West, Hama",Epidemic,Parasitic disease,0,1300,0,0,1977-0098,--,--
+/04/1998,03/07/1998,Taiwan (Province of China),TWN,,Epidemic,Viral disease,54,250000,0,0,1998-0151,--,--
+25/02/2003,15/06/2003,Taiwan (Province of China),TWN,,Epidemic,Viral disease,37,309,0,0,2002-0858,--,--
+31/05/1996,05/08/1996,Tajikistan,TJK,"Kulyab, Shakhrinau, Muminabad, Kuybishev, Gisar, Javan, Leninsky, Piandz, Turun-Sade, Voseisky and Varzop",Epidemic,Bacterial disease,0,7516,0,0,1996-0098,--,--
+13/02/1997,13/02/1997,Tajikistan,TJK,Dushanbé,Epidemic,Bacterial disease,168,15618,0,0,1997-0496,--,--
+/01/1999,/01/1999,Tajikistan,TJK,Kulob,Epidemic,Bacterial disease,3,200,0,0,1999-0515,--,--
+/10/2003,/10/2003,Tajikistan,TJK,Frunze distrcit (Dushanbe),Epidemic,Bacterial disease,0,256,0,0,2003-0573,--,--
+01/01/2010,01/08/2010,Tajikistan,TJK,"Dushanbe, Kurgantube, Kulyab, Bokhtar, Vakhsh, J. Rumi, A. Jomi, Shahrituz, Panj, Jilikkul, Sarband, Nosiri Khusrav distrivts",Epidemic,Viral disease,21,456,0,0,2010-0393,--,--
+01/01/1977,01/01/1977,"Tanzania, United Republic of",TZA,Widespread,Epidemic,Viral disease,0,50,0,0,1977-0023,--,--
+/11/1977,/11/1977,"Tanzania, United Republic of",TZA,Widespread,Epidemic,Bacterial disease,500,6000,0,0,1977-0130,--,--
+/05/1980,/05/1980,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,12,0,0,0,1980-0043,--,--
+/04/1983,/04/1983,"Tanzania, United Republic of",TZA,Kilwa District,Epidemic,--,163,0,0,0,1983-0064,--,--
+/12/1985,/12/1985,"Tanzania, United Republic of",TZA,Northern Tanzania,Epidemic,Bacterial disease,10,118,0,0,1985-0137,--,--
+/11/1987,/11/1987,"Tanzania, United Republic of",TZA,Kigoma (Near Lake Tanganyika),Epidemic,Bacterial disease,90,500,0,0,1987-0201,--,--
+/01/1990,/01/1990,"Tanzania, United Republic of",TZA,Kabwe,Epidemic,Bacterial disease,200,0,0,0,1990-0140,--,--
+/12/1991,/12/1991,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,290,0,0,0,1991-0677,--,--
+//1991,//1991,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,284,1733,0,0,1991-0768,--,--
+/01/1992,/12/1992,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,2231,40249,0,0,1992-0557,--,--
+30/01/1997,31/12/1997,"Tanzania, United Republic of",TZA,Dar es Salaam and Zanzibar,Epidemic,Bacterial disease,2025,35591,0,0,1997-0129,--,--
+21/11/1997,21/11/1997,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,304,6759,0,0,1997-0516,--,--
+01/01/1998,01/01/1998,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,1871,35824,0,0,1998-0128,--,--
+13/05/1998,13/05/1998,"Tanzania, United Republic of",TZA,Sumbawanga district,Epidemic,Parasitic disease,590,4853,0,0,1998-0146,--,--
+/01/1999,/01/1999,"Tanzania, United Republic of",TZA,Rukwa,Epidemic,--,56,529,0,0,1999-0516,--,--
+08/01/2000,08/01/2000,"Tanzania, United Republic of",TZA,Mtwara region,Epidemic,Bacterial disease,16,254,0,0,2000-0056,--,--
+01/01/2000,01/01/2000,"Tanzania, United Republic of",TZA,"Mburahati camp (Kinondoni district, Dar Es Salaam)",Epidemic,--,4,114,0,0,2000-0073,--,--
+11/02/2000,11/02/2000,"Tanzania, United Republic of",TZA,"Pembar, Zanzibar Isl.",Epidemic,Viral disease,8,200,0,0,2000-0075,--,--
+01/01/2000,01/01/2000,"Tanzania, United Republic of",TZA,"Pemba, Unguja, Zanzibar Isl.",Epidemic,Viral disease,9,330,0,0,2000-0135,--,--
+18/05/2001,20/07/2001,"Tanzania, United Republic of",TZA,"Temeke, Ilala districts (Dar Es Salaam)",Epidemic,Bacterial disease,3,103,0,0,2001-0391,--,--
+22/12/2001,22/12/2001,"Tanzania, United Republic of",TZA,Rufiji district,Epidemic,--,22,412,0,0,2001-0733,--,--
+01/07/2002,02/10/2002,"Tanzania, United Republic of",TZA,"Nduta, Karago, Mtendeli, Mkugwa (Kibondo districts)",Epidemic,Bacterial disease,9,149,0,0,2002-0567,--,--
+02/12/2005,/03/2006,"Tanzania, United Republic of",TZA,,Epidemic,Bacterial disease,6,576,0,0,2005-0814,--,--
+02/01/2006,30/04/2006,"Tanzania, United Republic of",TZA,"Dae Essalem, Kigoma, Mbeya, Manyara, Rukwa, Ruvuma, Tanaga regions and Zanzibar",Epidemic,Bacterial disease,15,300,0,0,2006-0235,--,--
+/08/2006,/08/2006,"Tanzania, United Republic of",TZA,"Zanzibar municipality, Pemba and Unguja Islands",Epidemic,Bacterial disease,50,106,0,0,2006-0440,--,--
+/11/2006,/11/2006,"Tanzania, United Republic of",TZA,Dar es Salaam,Epidemic,Bacterial disease,5,820,0,0,2006-0635,--,--
+/12/2006,/12/2006,"Tanzania, United Republic of",TZA,Micheweni district (Pemba Isl.),Epidemic,Viral disease,0,184,0,0,2006-0717,--,--
+13/01/2007,03/05/2007,"Tanzania, United Republic of",TZA,"Arusha, Tanga, Manyara, Dodoma, Singida, Morogoro, Dar Es Salaam, Iringa, Pwani regions",Epidemic,Viral disease,109,264,0,0,2007-0113,--,--
+28/07/2007,01/08/2007,"Tanzania, United Republic of",TZA,northern Tanzanian region of Mara,Epidemic,Bacterial disease,10,20,0,0,2007-0429,--,--
+/10/2009,/10/2009,"Tanzania, United Republic of",TZA,Hendeni district (Tanga region),Epidemic,Bacterial disease,12,600,0,0,2009-0437,--,--
+14/08/2015,26/11/2015,"Tanzania, United Republic of",TZA,"Dar es Salaam (Kinondoni district); Morogoro, Kigoma, Dodoma, Geita, Mwanza, Mara, Arusha, Tabora; Tanga, Shinyanga, Singida, Cost and Zanzibar",Epidemic,Bacterial disease,129,8954,0,0,2015-0540,--,--
+/05/2015,/11/2015,"Tanzania, United Republic of",TZA,"Nyarugusu refugee camp (Border with Burundi); Dar es Salaam, Mwanza, Arusha, Tanga",Epidemic,Bacterial disease,40,4833,0,0,2015-0541,--,--
+/10/1977,/10/1977,Thailand,THA,,Epidemic,Bacterial disease,100,2800,0,0,1977-0123,--,--
+/01/2000,/01/2000,Thailand,THA,"Northern, North-eastern regions",Epidemic,Bacterial disease,89,1946,0,0,2000-0460,--,--
+11/03/2003,27/05/2003,Thailand,THA,"Bangkok, Chonburi, Songkhla",Epidemic,Viral disease,2,7,0,0,2002-0858,--,--
+15/10/2003,24/03/2004,Thailand,THA,"Sukhotai, Kanchanaburi, Suphanburi, Uttaradit, Lopburi, Ayudhaya",Epidemic,Viral disease,7,4,0,0,2003-0715,--,--
+01/01/2004,25/11/2005,Thailand,THA,"Prachin Buri, Kamphaeng Phet, Nonthaburi, Phetchabun (Kanchanaburi province)",Epidemic,Viral disease,14,8,0,0,2004-0515,--,--
+/08/2010,10/08/2010,Thailand,THA,"Nam Yuen, Na Ja Luay, Nam Kun, Buntharik districts (Ubon Ratchathani)",Epidemic,Viral disease,2,880,0,0,2010-0386,--,--
+/09/2011,/09/2011,Thailand,THA,"Buriram, Chaiyaphum, Nakhon Ratchasima, Surin",Epidemic,Viral disease,27,37728,0,0,2011-0457,--,--
+05/01/2005,28/02/2005,Timor-Leste,TLS,"Dili, Liquica, Maliana, Baucau, Manatuto",Epidemic,Viral disease,22,336,0,0,2005-0061,--,--
+/01/2014,/02/2014,Timor-Leste,TLS,Dili district,Epidemic,Viral disease,2,197,0,0,2014-0065,--,--
+/12/1988,/12/1988,Togo,TGO,Northern,Epidemic,Bacterial disease,50,1617,0,0,1988-0621,--,--
+/11/1996,11/04/1997,Togo,TGO,"Dapaong, Savanes district (North)",Epidemic,Bacterial disease,360,2619,0,0,1996-0210,--,--
+//1996,//1996,Togo,TGO,,Epidemic,Bacterial disease,0,0,0,0,1996-0443,--,--
+23/09/1998,23/09/1998,Togo,TGO,,Epidemic,Bacterial disease,239,3669,0,0,1998-0342,--,--
+01/01/2001,01/01/2001,Togo,TGO,"Kara, Savanes, Centrale regions",Epidemic,Bacterial disease,187,976,0,0,2001-0163,--,--
+01/04/2001,01/04/2001,Togo,TGO,"Lomé, Golfe, Lacs, Kozah, Oto, Tone",Epidemic,Bacterial disease,48,591,0,0,2001-0373,--,--
+/01/2002,/01/2002,Togo,TGO,,Epidemic,Bacterial disease,95,494,0,0,2002-0260,--,--
+29/12/2003,28/03/2004,Togo,TGO,"Lome, Noepe, Maritime region",Epidemic,Bacterial disease,40,790,0,0,2003-0716,--,--
+12/12/2008,12/01/2009,Togo,TGO,Lome region,Epidemic,Bacterial disease,6,686,0,0,2008-0658,--,--
+01/01/2010,22/03/2010,Togo,TGO,"Blitta, Savannah",Epidemic,Viral disease,60,236,0,0,2010-0131,--,--
+30/08/2013,28/10/2013,Togo,TGO,"Lome commune, Maritime region, Region Centrale",Epidemic,Bacterial disease,7,168,0,0,2013-0457,--,--
+/12/2015,/02/2016,Togo,TGO,"Centrale; Assoli, Bassar, Binah, Dankpen, Doufelgou, Keran, Kozah distrcits (Kara); Savannas",Epidemic,Viral disease,24,324,0,0,2015-0580,--,--
+/02/1964,/02/1964,Turkey,TUR,Adana Province,Epidemic,Viral disease,19,2500,0,0,1964-0015,--,--
+/02/1965,/02/1965,Turkey,TUR,,Epidemic,Viral disease,461,100000,0,0,1965-0008,--,--
+/04/1968,/04/1968,Turkey,TUR,Countrywide (Except East),Epidemic,Viral disease,98,1975,0,0,1968-0039,--,--
+/08/1977,/08/1977,Turkey,TUR,,Epidemic,Parasitic disease,0,100000,0,0,1977-0099,--,--
+01/01/1978,01/01/1978,Turkey,TUR,Countrywide,Epidemic,Parasitic disease,0,0,0,0,1978-0018,--,--
+/08/1987,/08/1987,Turkey,TUR,Southern,Epidemic,Bacterial disease,11,150,0,0,1987-0140,--,--
+//2006,//2006,Turkey,TUR,"Agri, Ankara, Van, Kastamonu, Corum, Sivas, Samsun, Sanliurfa, Sirit",Epidemic,Viral disease,4,8,0,0,2004-0515,--,--
+01/01/2006,04/08/2006,Turkey,TUR,"Tokat, Sivas, Gümüshane, Amasya, Yozgat, Corum provinces",Epidemic,Viral disease,20,222,0,0,2006-0428,--,--
+//1901,//1901,Uganda,UGA,Nationwide,Epidemic,--,200000,0,0,0,1901-0001,--,--
+//1935,//1935,Uganda,UGA,,Epidemic,Bacterial disease,2000,0,0,0,1935-0001,--,--
+//1982,//1982,Uganda,UGA,,Epidemic,Bacterial disease,3,153,0,0,1982-0408,--,--
+//1986,//1986,Uganda,UGA,,Epidemic,Bacterial disease,27,340,0,0,1986-0403,--,--
+/12/1989,/12/1989,Uganda,UGA,"Kampala, Mbale, Arua",Epidemic,Bacterial disease,156,961,0,0,1989-0244,--,--
+01/01/1990,01/01/1990,Uganda,UGA,Countrywide,Epidemic,Bacterial disease,197,1170,0,0,1990-0618,--,--
+/03/1991,/03/1991,Uganda,UGA,,Epidemic,Bacterial disease,100,0,0,0,1991-0083,--,--
+/01/1992,/01/1992,Uganda,UGA,,Epidemic,Bacterial disease,50,0,0,0,1992-0424,--,--
+28/08/1996,28/08/1996,Uganda,UGA,,Epidemic,Bacterial disease,20,0,0,0,1996-0218,--,--
+26/11/1997,26/11/1997,Uganda,UGA,Mbarara & Kabalore Districts,Epidemic,Viral disease,0,100000,0,0,1997-0506,--,--
+30/12/1997,21/09/1998,Uganda,UGA,"Arua and Moyo districts (Northern region), Kamuli and Busia districts (eastern region), Bushenyi, Hoima, Kasese, Kibaale and Masinidi districts (western region)",Epidemic,Bacterial disease,0,300,0,0,1997-0518,--,--
+07/01/1998,07/01/1998,Uganda,UGA,"Wajir, Garissa districts",Epidemic,Bacterial disease,30,600,0,0,1998-0129,--,--
+/06/1999,/06/1999,Uganda,UGA,Bundibugyo District,Epidemic,Bacterial disease,31,589,0,0,1999-0517,--,--
+/01/1999,/01/1999,Uganda,UGA,Arua District,Epidemic,Bacterial disease,91,1616,0,0,1999-0630,--,--
+/11/1999,/11/1999,Uganda,UGA,Bundibugyo District,Epidemic,--,15,0,0,0,1999-0650,--,--
+27/02/2000,27/02/2000,Uganda,UGA,Bundibugyo district,Epidemic,Bacterial disease,22,281,0,0,2000-0366,--,--
+/09/2000,/09/2000,Uganda,UGA,Kabutabwe Bubandi (Bundibugyo district),Epidemic,--,13,19,0,0,2000-0624,--,--
+08/08/2000,28/02/2001,Uganda,UGA,"Gulu, Mbarara, Masindi districts",Epidemic,Viral disease,224,423,0,0,2000-0660,--,--
+/10/2001,/10/2001,Uganda,UGA,Nebbi district,Epidemic,Bacterial disease,14,9,0,0,2001-0581,--,--
+/03/2003,/04/2003,Uganda,UGA,Bundibugyo district,Epidemic,Bacterial disease,35,242,0,0,2003-0270,--,--
+01/11/2004,01/11/2004,Uganda,UGA,Pabbo IDP Camp (Gulu district),Epidemic,Bacterial disease,3,53,0,0,2004-0570,--,--
+/04/2005,31/05/2005,Uganda,UGA,"Kampala, Jonam county (Nebbi district), Gulu district",Epidemic,Bacterial disease,10,426,0,0,2005-0325,--,--
+28/12/2005,12/02/2006,Uganda,UGA,"Nakapiripirit, Moroto districts",Epidemic,Bacterial disease,11,300,0,0,2005-0755,--,--
+16/04/2006,31/12/2006,Uganda,UGA,"Northern, Western regions and Kawempe, Makindye, Rubaga, Central, Nakawa, Wasiko (Kampala)",Epidemic,Bacterial disease,43,403,0,0,2006-0679,--,--
+28/12/2006,08/04/2007,Uganda,UGA,"Arua/marcha-Terego, Yumbe, Moyo, Koboko, Adjumani, Nebby, Karamoja, Kotido, Moroto, Nakapiripit districts",Epidemic,Bacterial disease,100,3649,0,0,2006-0720,--,--
+09/01/2006,05/03/2006,Uganda,UGA,Gulu and other districts,Epidemic,Bacterial disease,49,551,0,0,2006-0724,--,--
+/12/2006,/03/2007,Uganda,UGA,"Kawempe, Makindye, Rubaga, Central, Nakawa, Wasiko (Kamapal city divisions)",Epidemic,Bacterial disease,11,1099,0,0,2006-0753,--,--
+20/08/2007,/02/2008,Uganda,UGA,"Kykyo, Kabango, Ntandi, Butolya, Bugharama, Kizufo, Buyaya, Butantagua, Bulhambago, Bundimwali I, Bugharama II, Bulhambaghiri (Bundibugyo District), Kabarole, Kasese, Masindi, Hoima, Kampala, Kibaale",Epidemic,Viral disease,36,176,0,0,2007-0561,--,--
+/11/2007,19/01/2009,Uganda,UGA,"Madi Opei (Lamwo County, Kitgum district), Agoro, Paloga, Padibe, Mucwini, Lokung, Layamo, Orom, Kigtum, Akwnag, Palabek Gem, Pader, Gulu and Yumbe districts (West Nile region), Oboko, Lupulingi, Lugede, Ywaya, Apwoyo",Epidemic,Viral disease,96,5761,0,0,2007-0682,--,--
+02/05/2008,27/06/2008,Uganda,UGA,"Mbale, Butaleja, Pallisa, Manafwa, Tororo districts",Epidemic,Bacterial disease,28,388,0,0,2008-0274,--,--
+08/03/2009,29/10/2009,Uganda,UGA,"Karambi, Nyakiyumbu, Kitholhu, Ihandiro, Bwera sub-counties (Bukonzo West constituency)",Epidemic,Bacterial disease,8,368,0,0,2009-0255,--,--
+/10/2009,26/10/2009,Uganda,UGA,"Busia, Kampala districts",Epidemic,Bacterial disease,9,176,0,0,2009-0545,--,--
+16/11/2010,29/12/2010,Uganda,UGA,"Abim, Agago, Kitgum, Gulu, Arua, Lira, Kaabong, Kotido",Epidemic,Viral disease,48,190,0,0,2010-0670,--,--
+01/01/2012,01/09/2012,Uganda,UGA,"Mbale, Sironko, Bududa (Eastern region); Kasase, Buliisa (WEst and South Western region); Nebbi (West-Nile sub-region)",Epidemic,Bacterial disease,118,5279,0,0,2012-0110,--,--
+03/08/2012,24/08/2012,Uganda,UGA,Kibale district,Epidemic,Viral disease,35,116,0,0,2012-0261,--,--
+25/10/2012,02/12/2012,Uganda,UGA,"Luweero, Kampala",Epidemic,Viral disease,3,585,0,0,2012-0495,--,--
+16/01/2013,18/04/2013,Uganda,UGA,"Hoima, Nebbi, Buliisa districts ",Epidemic,Bacterial disease,7,217712,0,0,2013-0139,--,--
+/01/2013,/10/2013,Uganda,UGA,"Isingiro, Kamwenge, Kyenjojo, Mubende districts",Epidemic,Viral disease,2,129,0,0,2013-0458,--,--
+/10/2013,/12/2013,Uganda,UGA,Napak district,Epidemic,Viral disease,19,656,0,0,2013-0571,--,--
+01/01/1994,01/01/1994,Ukraine,UKR,,Epidemic,Bacterial disease,71,1333,0,0,1994-0638,--,--
+/01/1995,/01/1995,Ukraine,UKR,,Epidemic,Bacterial disease,204,5336,0,0,1995-0320,--,--
+12/11/1997,12/11/1997,Ukraine,UKR,,Epidemic,Bacterial disease,0,102,0,0,1997-0505,--,--
+/08/1984,/08/1984,United Kingdom of Great Britain and Northern Irela,GBR,Wakefield,Epidemic,Bacterial disease,26,16,0,0,1984-0416,--,--
+04/05/1985,04/05/1985,United Kingdom of Great Britain and Northern Irela,GBR,Strattford,Epidemic,Parasitic disease,34,144,0,0,1985-0289,--,--
+/01/2001,/06/2001,United Kingdom of Great Britain and Northern Irela,GBR,,Epidemic,Bacterial disease,11,30,0,0,2001-0788,--,--
+01/03/2003,01/04/2003,United Kingdom of Great Britain and Northern Irela,GBR,,Epidemic,Viral disease,0,4,0,0,2002-0858,--,--
+/07/1990,/07/1990,United States of America (the),USA,Florida,Epidemic,Viral disease,3,50,0,0,1990-0135,--,--
+/01/1993,/01/1993,United States of America (the),USA,Wisconsin,Epidemic,Parasitic disease,100,403000,0,0,1993-0562,--,--
+09/07/2002,26/11/2002,United States of America (the),USA,"Alabama, district of Columbia, Illinois, Indiana, Louisiana, Mississippi, Texas, Florida, Massachusetts, Missouri, New York City, Ohio, Georgia, Kentucky, Maryland, Michigan, Nebraska, South Dacota, Tennessee, Texas, Virginia, Wisconsin",Epidemic,Viral disease,214,3523,0,0,2002-0502,--,--
+16/10/2002,16/10/2002,United States of America (the),USA,,Epidemic,--,0,101,0,0,2002-0667,--,--
+24/02/2003,13/07/2003,United States of America (the),USA,"Alabama, California, Connecticut, Georgia, Hawaii, Illinois, Kansas, Maine, Massachusetts, Michigan, Missouri, Mississippi, Minnesota, New Jersey, New Mexico, North Carolina, New York, Pennsylvannia, Rhode Island, Texas, Utah, Virginia, Wisconsin",Epidemic,Viral disease,0,29,0,0,2002-0858,--,--
+04/02/1998,04/02/1998,Uzbekistan,UZB,Tashkent,Epidemic,Bacterial disease,40,148,0,0,1998-0135,--,--
+22/12/1971,22/12/1971,Venezuela (Bolivarian Republic of),VEN,"Tachira, Santa Ana",Epidemic,Viral disease,1,0,0,0,1971-0062,--,--
+/12/1989,/12/1989,Venezuela (Bolivarian Republic of),VEN,,Epidemic,Viral disease,37,0,0,0,1989-0558,--,--
+01/01/1990,01/01/1990,Venezuela (Bolivarian Republic of),VEN,Fed. Districts,Epidemic,Viral disease,74,9506,0,0,1990-0113,--,--
+01/01/1991,01/01/1991,Venezuela (Bolivarian Republic of),VEN,,Epidemic,Bacterial disease,18,967,0,0,1991-0696,--,--
+/01/1992,/01/1992,Venezuela (Bolivarian Republic of),VEN,,Epidemic,Bacterial disease,32,0,0,0,1992-0458,--,--
+/01/1995,/01/1995,Venezuela (Bolivarian Republic of),VEN,,Epidemic,Viral disease,0,32280,0,0,1995-0216,--,--
+/01/2011,/01/2011,Venezuela (Bolivarian Republic of),VEN,,Epidemic,Bacterial disease,0,118,0,0,2010-0557,--,--
+01/01/1964,01/01/1964,Viet Nam,VNM,"Saigon, Mekong delta",Epidemic,Bacterial disease,598,10848,0,0,1964-0004,--,--
+/01/1990,/01/1990,Viet Nam,VNM,Nghe Tinh,Epidemic,Parasitic disease,200,0,0,0,1990-0177,--,--
+05/07/1996,05/07/1996,Viet Nam,VNM,South,Epidemic,Viral disease,45,9706,0,0,1996-0131,--,--
+09/09/1998,09/09/1998,Viet Nam,VNM,N.A. on the source,Epidemic,Viral disease,20,0,0,0,1998-0273,--,--
+11/09/1998,11/09/1998,Viet Nam,VNM,N.A. on the source,Epidemic,Viral disease,214,8000,0,0,1998-0327,--,--
+23/02/2003,14/04/2003,Viet Nam,VNM,"Hanoi, Ho Chi Minh city",Epidemic,Viral disease,5,58,0,0,2002-0858,--,--
+15/10/2003,24/03/2004,Viet Nam,VNM,"Hanoi, Ho Chi Minh",Epidemic,Viral disease,15,8,0,0,2003-0715,--,--
+//2004,14/11/2005,Viet Nam,VNM,"Tay Ninh, Tra Vinh, Tien Giang, Hau Giang, Hanoi, Thai Binh, Bac Lieu, Long An, Dong Thap, Ha Tay provinces",Epidemic,Viral disease,42,51,0,0,2004-0515,--,--
+26/12/2005,02/04/2006,Viet Nam,VNM,Kien Kang province,Epidemic,--,16,83,0,0,2005-0761,--,--
+/07/2007,/07/2007,Viet Nam,VNM,,Epidemic,Viral disease,27,0,0,0,2007-0274,--,--
+10/09/2000,09/10/2000,Yemen,YEM,Wadi Mawr (Al-Hudaydah Governorate),Epidemic,Viral disease,32,289,0,0,2000-0622,--,--
+25/02/2005,06/12/2005,Yemen,YEM,"Hadramoat Sayeun, Hudeida, Hajjah, Taiz, Sanaa, Sanna city and Mary governorates",Epidemic,Viral disease,0,179,0,0,2005-0289,--,--
+27/03/2015,04/06/2015,Yemen,YEM,"Hodeidah, Lahj, Hadramout, Aden, Taiz, Shabwa",Epidemic,Viral disease,3,3026,0,0,2015-0302,--,--
+07/03/1972,07/03/1972,Yugoslavia,YUG,"Belgrade, Cacak",Epidemic,Viral disease,35,174,0,0,1972-0025,--,--
+/07/1982,/07/1982,Zambia,ZMB,Mwinilunga,Epidemic,Viral disease,51,0,0,0,1982-0083,--,--
+/12/1990,/12/1990,Zambia,ZMB,"Luapula, Copperbelt, Northern provinces",Epidemic,Viral disease,85,667,0,0,1990-0123,--,--
+23/02/1991,23/02/1991,Zambia,ZMB,,Epidemic,Bacterial disease,0,13154,0,0,1991-0063,--,--
+/01/1992,/01/1992,Zambia,ZMB,North + Lusaka,Epidemic,Bacterial disease,0,11659,0,0,1992-0167,--,--
+/05/1999,/05/1999,Zambia,ZMB,"Kaputa, Chiegi Districts",Epidemic,Bacterial disease,23,672,0,0,1999-0518,--,--
+06/01/1999,06/01/1999,Zambia,ZMB,"Lusaka, Ndola District",Epidemic,Bacterial disease,44,944,0,0,1999-0519,--,--
+/10/1999,/10/1999,Zambia,ZMB,Kaputa District,Epidemic,Bacterial disease,2,140,0,0,1999-0647,--,--
+//1999,/06/1999,Zambia,ZMB,"Lusaku district (Central Province), Chilubi and Samfya districts (northern Province)",Epidemic,--,393,11327,0,0,1999-0719,--,--
+/03/2000,/03/2000,Zambia,ZMB,"Mununga, Luapula Provinces",Epidemic,--,0,123,0,0,2000-0185,--,--
+/01/2000,/01/2000,Zambia,ZMB,,Epidemic,Bacterial disease,163,1101,0,0,2000-0424,--,--
+/03/2001,15/03/2001,Zambia,ZMB,Petauke district (Eastern province),Epidemic,Bacterial disease,11,425,0,0,2001-0789,--,--
+04/12/2003,25/02/2004,Zambia,ZMB,"Lusaka, Southern, Copperbelt, Northern and Central provinces",Epidemic,Bacterial disease,179,3835,0,0,2003-0642,--,--
+13/08/2005,05/04/2006,Zambia,ZMB,"Lusaka, Kabwe, Chihombo, Kapiri Mposhi, Mufulira, Kasempa, Copperbelt, Central, Eastern, Luampala, North Western, Western (Lusaka, Central, Copperbelt, Southern, Luapula, Eastern provinces)",Epidemic,Bacterial disease,21,7615,0,0,2005-0712,--,--
+15/10/2006,/11/2006,Zambia,ZMB,"Lusaka, Central, Copper Belt, Eastern, Luapula, North-Western, Southern provinces",Epidemic,Bacterial disease,5,105,0,0,2006-0634,--,--
+/02/2007,/02/2007,Zambia,ZMB,Lusaka,Epidemic,Bacterial disease,5,115,0,0,2007-0057,--,--
+10/09/2008,/06/2009,Zambia,ZMB,"Mpulungu district (Northern province), Mazabuka, Linvingstone, Lusaka districts; Southern, Copperbelt provinces",Epidemic,Bacterial disease,173,8312,0,0,2008-0511,--,--
+19/10/2009,08/04/2010,Zambia,ZMB,"Lusaka, Southern, Copperbelt, Northern, Luapula",Epidemic,Bacterial disease,87,5198,0,0,2009-0655,--,--
+03/08/2012,27/08/2012,Zambia,ZMB,Mpulungu district (Northern Province),Epidemic,Bacterial disease,2,153,0,0,2012-0360,--,--
+25/11/1992,25/11/1992,Zimbabwe,ZWE,,Epidemic,Bacterial disease,258,5649,0,0,1992-0464,--,--
+23/05/1996,23/05/1996,Zimbabwe,ZWE,,Epidemic,Parasitic disease,1311,500000,0,0,1996-0132,--,--
+07/10/1998,07/10/1998,Zimbabwe,ZWE,Harare,Epidemic,Bacterial disease,10,42,0,0,1998-0337,--,--
+//1998,27/03/1998,Zimbabwe,ZWE,"Chipinge District (Manicaland Province), Chiredzi District (Masvingo Province) and Matabeleland North Province",Epidemic,Bacterial disease,12,335,0,0,1998-0596,--,--
+/01/1999,/01/1999,Zimbabwe,ZWE,"Harare, districts bordering Mozambique",Epidemic,Bacterial disease,32,135,0,0,1999-0520,--,--
+/11/1999,/11/1999,Zimbabwe,ZWE,Zvimba District,Epidemic,Bacterial disease,20,327,0,0,1999-0634,--,--
+/01/2000,/01/2000,Zimbabwe,ZWE,,Epidemic,Bacterial disease,93,1675,0,0,2000-0300,--,--
+/11/2000,/11/2000,Zimbabwe,ZWE,Chegutu district,Epidemic,Bacterial disease,11,769,0,0,2000-0822,--,--
+30/12/2000,30/12/2000,Zimbabwe,ZWE,Beit Bridge district,Epidemic,Bacterial disease,8,368,0,0,2000-0863,--,--
+06/03/2002,06/03/2002,Zimbabwe,ZWE,"Bikita district, Masvingo",Epidemic,--,4,102,0,0,2002-0135,--,--
+/08/2002,/08/2002,Zimbabwe,ZWE,,Epidemic,Bacterial disease,0,350,0,0,2002-0589,--,--
+09/10/2003,14/12/2003,Zimbabwe,ZWE,"Chunga, Manyoro (Binga district), Mola (Kariba district, Matabeleland province), Nyaminyami (Mashonaland province)",Epidemic,Bacterial disease,40,750,0,0,2003-0558,--,--
+/05/2005,/06/2005,Zimbabwe,ZWE,Eastern,Epidemic,Bacterial disease,14,203,0,0,2005-0404,--,--
+10/12/2005,18/05/2006,Zimbabwe,ZWE,"Chikomba, Buhera, Harare, Manicaland, Mashonaland Central, East and West, Masvingo, Midlands",Epidemic,Bacterial disease,73,980,0,0,2005-0726,--,--
+25/05/2007,/02/2008,Zimbabwe,ZWE,"Bulawayo, Harare, Kadoma, Kwekwe, Gokwe North and South Rural districts (Mashonaland West, Midlands)",Epidemic,--,67,10000,0,0,2007-0432,--,--
+15/08/2008,23/07/2009,Zimbabwe,ZWE,"Shamva, Centenary, Mazowe, Guruve, Mbire, Mt Drwin, Bindura, Rushinga (Mashonaland Central province), Bulawayo urban (Bulawayo province), Harare (Budiriro), Chitungwiza (Harare province), Mudzi, Murehwa, Goromonzi, Mutoko, Marondera, Chikomba, Hwedza, UMP, Seke (Mashonaland East province), Kariba Mahombekombe, Kariba rural, Zvimba, Kadoma city, Hurungwe, Cheguto/Norton (Mashonaland West province) Mutasa, Mutare city, Buhera, Chipinge, Makoni, Mutare, Chimanimani (Manicaland province), Lupane (Matebeleland North province), Gwanda, Plumtree (Matebeleland South province), Masvingo, Gutu, Bikita, Mwezeni, Zaka (Masvingo province), Gweru city/Mkoba, Zvishavane, Mberengwa, Gokwe North, Gokwe South, Kwekwe, Shurungwi, Mvuma (Midlands)",Epidemic,Bacterial disease,4276,98349,0,0,2008-0511,--,--
+/08/2009,22/11/2009,Zimbabwe,ZWE,"Rushinga, Bindura districts (Mashonaland Central province); Kadoma, Chegutu, Makonde districts (Mashonaland West province); Chipinge district (Manicaland province); Gokwe North, Gokwe South districts (Midlands province); Harare district (Harare province)",Epidemic,Bacterial disease,5,146,0,0,2009-0502,--,--
+/10/2009,/02/2010,Zimbabwe,ZWE,"Bubi, Bulawayo (Matebaland North); Umzingwane, Insiza (Matebaland South); Kwekwe (Midlands); Makonde, Zvimba, Chegutu (Mashonaland West); Centenary, Mt Darwin, Bindura (Mashonaland Central); Harare (Harare); SEke, Goromonzi, Marondera, Hwedza (Mashonaland West); Nyanga, Makoni, Mutare, Buhera, Chipinge (Manicaland); Gutu, Masvingo, Zaka, Bikita, Chiredzi (Masvingo)",Epidemic,Viral disease,50,1200,0,0,2009-0645,--,--
+04/02/2010,14/03/2010,Zimbabwe,ZWE,,Epidemic,Bacterial disease,3,120,0,0,2010-0143,--,--
+01/01/2010,14/03/2010,Zimbabwe,ZWE,Mabvuku,Epidemic,Viral disease,5,138,0,0,2010-0144,--,--
+01/01/2011,17/07/2011,Zimbabwe,ZWE,"Bikita, Buhera, Chimanimani, Chegetu, Chipinge, Chiredzi, Kadoma, Murewa, Mutare, Mutasa",Epidemic,Bacterial disease,45,1140,0,0,2011-0289,--,--
+/02/2015,/02/2015,Zimbabwe,ZWE,"Chiredzi, Mudzi, Beitbridge districts",Epidemic,Bacterial disease,0,11,0,0,2014-0530,--,--
