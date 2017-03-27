@@ -5,6 +5,7 @@ import click
 import getopt
 import sys
 import time
+import urllib
 
 # setup a geocoder, such as OpenStreet Nominatim or Google V3
 # used for converting city names into (long,lat) coordinates
@@ -15,6 +16,7 @@ geolocator = geopy.geocoders.GoogleV3()         # very decent, but limited to 25
 #geolocator = geopy.geocoders.ArcGIS()          # slows down after multiple requests...
 
 def geocode(nam):
+    nam= urllib.urlencode(nam)
     loc = geolocator.geocode(nam, timeout=10)
     return loc
 
@@ -38,13 +40,15 @@ def transform_csv(input,output,transformer,initialize=None):
                                    label="Transforming CSV data",
                                    length=sum(1 for line in open(input))) as records:
                 for record in records:
+		    time.sleep(1)
                     try:
                         if(initialize):
                             initialize(record)
                         entry = { k: f(record) for (k,f) in transformer.iteritems() }
                         writer.writerow(entry)
                         outputfile.flush()
-                    except geopy.exc.GeopyError as e: 
+                    except geopy.exc.GeopyError as e:
+			print record
                         print str(e)
                         break
                     except:                         # other errors can be caused by some invalid records => continue
