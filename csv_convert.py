@@ -7,6 +7,7 @@ import sys
 import time
 import urllib
 
+threshold = 900
 # setup a geocoder, such as OpenStreet Nominatim or Google V3
 # used for converting city names into (long,lat) coordinates
 # caveat: API usage per day is limited (problematic for larger datasets...)
@@ -40,7 +41,10 @@ def transform_csv(input,output,transformer,initialize=None):
                                    label="Transforming CSV data",
                                    length=sum(1 for line in open(input))) as records:
                 for record in records:
-		    
+                    if(total <  threshold):
+                        total += 1
+                        continue
+
                     try:
                         if(initialize):
                             initialize(record)
