@@ -1,3 +1,4 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
 23/08/2000,31/08/2000,India,IND,"Adilabad, Cuddapah, East Godavari, Guntur, Hyderabad, Karimnagar, Khammam, Krishna, Kurnool, Mahbubnagar, Medak, Nalgonda, Nellore, Nizamabad, Prakasam, Rangareddi, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",Flood,Flash flood,179,252016,173000,0,2000-0534,--,--
 18/09/2000,21/10/2000,India,IND,"Birbhum, Bardhaman, Murshidabad, Maldah districts (West Bengal province), Dumka, Sahibganj, Deoghar districts (Jharkhand province), Banka, Bhagalpur, Munger, Sheikhpura districts (Bihar province)",Flood,Riverine flood,884,24600000,691500,0,2000-0610,--,--
 19/10/2000,19/10/2000,India,IND,North 24 Parganas district (West Bengal province),Flood,--,6,534035,0,0,2000-0738,--,--
@@ -1302,7 +1303,8 @@ Dang, Salyan areas (Rapti district, Mid Western province),",Flood,Riverine flood
 11/07/1994,16/09/1994,Pakistan,PAK,"Murree, Risalpur, Karachi, Pashawar, Lahore, Sialkot, Multan, Bahawalpur, Shorkot, Quetta, Rawalpindi, Islamabad",Flood,Riverine flood,316,840016,92000,0,1994-0075,--,--
 21/06/1995,21/06/1995,Pakistan,PAK,Faisalabad,Flood,Riverine flood,12,0,0,0,1995-0123,--,--
 22/07/1995,29/07/1995,Pakistan,PAK,"Swat, Azad Kasmir, Dadu, Khuzdar, Dera Ismail Khan, Rawalpindi, Khal Magsi",Flood,Flash flood,451,1255000,0,0,1995-0156,--,--
-19/07/1995,10/08/1995,Pakistan,PAK,"Punjab, Sindh, Baluchistan, North West Frontier",Flood,Riverine flood,600,600000,0,0,1995-0471,--,--
+19/07/1995,10/08/1995,Pakistan,PAK,"Punjab, Sindh, Baluchistan, North West Frontier
+",Flood,Riverine flood,600,600000,0,0,1995-0471,--,--
 19/08/1996,02/09/1996,Pakistan,PAK,"Lahore, Sialkot, Pasrur (Eastern Punjab province)",Flood,Riverine flood,111,1300000,0,0,1996-0192,--,--
 25/07/1997,28/07/1997,Pakistan,PAK,"Mansehra (NWFP), Lahore (Punjab)",Flood,Riverine flood,31,56,0,0,1997-0156,--,--
 12/08/1997,03/09/1997,Pakistan,PAK,Punjab Province,Flood,Riverine flood,140,851328,0,0,1997-0183,--,--

@@ -1,3 +1,4 @@
+start_date,end_date,country_name,iso,location,dis_type,dis_subtype,total_deaths,total_affected,total_dam,insured_losses,disaster_no,associated_dis,associated_dis2
 17/09/1989,17/09/1989,Martinique,MTQ,,Storm,Tropical cyclone,0,0,0,0,1989-0115,--,--
 04/10/1990,04/10/1990,Martinique,MTQ,,Storm,Tropical cyclone,8,1500,0,0,1990-0070,--,--
 15/08/1993,15/08/1993,Martinique,MTQ,,Storm,Tropical cyclone,2,3010,0,0,1993-0195,--,--
