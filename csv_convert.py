@@ -7,7 +7,7 @@ import sys
 import time
 import urllib
 
-threshold = 900
+threshold = 0 
 # setup a geocoder, such as OpenStreet Nominatim or Google V3
 # used for converting city names into (long,lat) coordinates
 # caveat: API usage per day is limited (problematic for larger datasets...)
@@ -18,7 +18,7 @@ geolocator = geopy.geocoders.GoogleV3()         # very decent, but limited to 25
 
 def geocode(nam):
     nam = urllib.quote_plus(nam)
-    loc = geolocator.geocode(nam, timeout=10)
+    loc = geolocator.geocode(nam, timeout=100000)
     return loc
 
 # A simple function to transform CSV data into a 'standard' format
