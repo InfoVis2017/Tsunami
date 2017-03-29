@@ -22,10 +22,12 @@
     <div id="container"></div>
 
      <!-- simple timeslider -->
-    <!-- <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
-      <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000"/>
-      <output class ="timeslider" name="timeslidervalue" for="timeslider">2000</output>
-    </form> -->
+     <div class="timeslider_wrapper">
+      <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+        <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000"/>
+        <output class ="timeslider" name="timeslidervalue" for="timeslider">2000</output>
+      </form>
+    </div>
 
     <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>

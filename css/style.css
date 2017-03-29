@@ -26,9 +26,16 @@ circle.selected.current {
 
 #map {
   position: absolute;
-  height: 100%;
+  height: 95%;
+  width: 95%;
+  z-index: 1
+}
+
+.timeslider_wrapper{
+  z-index: 2;
+  position: absolute;
+  bottom: 25px;
   width: 100%;
-  z-index: 
 }
 
 .timeslider{
