@@ -4,11 +4,34 @@
   stroke-width: 0.5;
 }
 
-.quake {
-  fill: black;
+.epidemic {
+  fill: cyan;
+}
+
+.drought {
+  fill: brown;
+}
+
+.earthquake {
+  fill: purple;
+}
+
+circle {
+  visibility: hidden;
+}
+
+circle.selected.current {
+  visibility: visible;
 }
 
 #map {
   border:2px solid #000;
   background: #fff;
+}
+
+.timeslider{
+    margin: 30px auto 0 auto;
+    width: 50%;
+    display: block;
+     text-align: center;
 }

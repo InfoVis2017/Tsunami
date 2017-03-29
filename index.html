@@ -11,7 +11,19 @@
 
     <!-- a basic layout-->
 
+    <form style="float:right;height:755px" method="post">
+            <fieldset style="height:inherit" id="legend">
+                    <legend >Disaster type</legend>
+            </fieldset>
+    </form>
+
     <div id="container"></div>
+
+    <!-- simple timeslider -->
+    <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+      <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000"/>
+      <output class ="timeslider" name="timeslidervalue" for="timeslider">2000</output>
+    </form>
 
     <!-- D3 library -->
     <script src="https://d3js.org/d3.v4.min.js"></script>

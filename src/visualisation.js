@@ -32,39 +32,99 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     .enter().append("path")
       .attr("class", "country")
       .attr("d", path)
+
+  /* setup disasters (cf. inf.) */
+  registerData("drought",["/datasplittedOutput/drought0"])
+  registerData("earthquake",["/datasplittedOutput/earthquake0","/datasplittedOutput/earthquake01"])
+  registerData("epidemic",["/datasplittedOutput/epidemic0","/datasplittedOutput/epidemic0.1"])
 });
 
-/* let's add in the quakes */
+/** DISASTERS **/
 
-/* do string->int conversion trick for a quake disaster */
-function type(d) {
-  d.Longitude = +d.Longitude
-  d.Latitude = +d.Latitude
-  d.Magnitude = +d.Magnitude
+function registerData(name,sources) {
+  for(var i = 0; i < sources.length; ++i) {
+    d3.csv(sources[i], convert, function(err,data) {
+      var scale = d3.scaleLinear()
+                    .domain([0,1000000])  // scale from #affected persons
+                    .range([1,20])          // to predetermined minimum/maximum radius
+      g.selectAll("." + name)
+        .data(data)
+        .enter().append("circle")
+          .attr("class",name)
+          .attr("cx", function(d) {
+            return projection([d.lon,d.lat])[0]
+          })
+          .attr("cy", function(d) {
+            return projection([d.lon,d.lat])[1]
+          })
+          .attr("r", function(d) {
+            return scale(d.deaths)
+          })
+    })
+  }
+  // add to legend
+  d3.select("#legend")
+    .append("label")
+      .text(name)
+      .append("input")
+        .attr("type","checkbox")
+        .on("change",function(d) {
+          toggle(this,name)
+          refreshYear()
+        })
+}
+
+function toggle(checkbox,name) {
+  if(checkbox.checked) {
+    includeData(name)
+  } else {
+    excludeData(name)
+  }
+}
+
+function convert(d) {
+  d.affected = +d.affected
+  d.deaths = +d.deaths
+  d.damage = +d.damage
+  d.lat = +d.lat
+  d.lon = +d.lon
+  /*
+    TODO: just the start date is probably a bit too simplistic
+    don't just parse using new Date(...), the format sometimes misses day/month
+  */
+  var date = d.start_date
+  d.year = +date.slice(date.length-4,date.length)
   return d
 }
 
-/* load and show the quakes */
-d3.csv("/data/earthquakes.csv", type, function(err, quakes) {
+/* set the current year to filter out disasters (i.e. only show disasters from that year) */
+/* again, for now we can just keep this global, clean code is for later :) */
 
-  var min_magnitude = d3.min(quakes,function(d) { return d.Magnitude })
-  var max_magnitude = d3.max(quakes,function(d) { return d.Magnitude })
+var currentYear = 2000
 
-  var scale = d3.scaleLinear()
-                .domain([min_magnitude,max_magnitude])
-                .range([1,7])
+function setYear(year) {
+  year = +year
+  if(currentYear !== year) {
+    currentYear = year
+    refreshYear()
+  }
+}
 
-   g.selectAll(".quake")
-    .data(quakes)
-    .enter().append("circle")
-      .attr("class", "quake")
-      .attr("cx", function(d) {
-        return projection([d.Longitude,d.Latitude])[0]
-      })
-      .attr("cy", function(d) {
-        return projection([d.Longitude,d.Latitude])[1]
-      })
-      .attr("r", function(d) {
-        return scale(d.Magnitude)
-      })
-});
+function refreshYear() {
+  g.selectAll(".current")
+    .classed("current",false)
+  g.selectAll("circle")
+    .filter(function(d) { return d.year === currentYear })
+    .classed("current",true)
+}
+
+/* show/remove data on the visualisation, given the name of the 'disaster type' */
+function includeData(name) {
+  g.selectAll("." + name)
+    .classed("selected", true)
+}
+
+function excludeData(name) {
+  g.selectAll("." + name)
+    .classed("selected", false)
+}
