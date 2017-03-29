@@ -25,8 +25,10 @@ circle.selected.current {
 }
 
 #map {
-  border:2px solid #000;
-  background: #fff;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 
 }
 
 .timeslider{

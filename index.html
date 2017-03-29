@@ -11,26 +11,29 @@
 
     <!-- a basic layout-->
 
-    <form style="float:right;height:755px" method="post">
+    <!-- <form style="float:right;height:755px" method="post">
             <fieldset style="height:inherit" id="legend">
                     <legend >Disaster type</legend>
             </fieldset>
-    </form>
+    </form> -->
+
+    <div id="map" class="map" style="height:100%;"></div>
 
     <div id="container"></div>
 
-    <!-- simple timeslider -->
-    <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+     <!-- simple timeslider -->
+    <!-- <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
       <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000"/>
       <output class ="timeslider" name="timeslidervalue" for="timeslider">2000</output>
-    </form>
+    </form> -->
 
-    <!-- D3 library -->
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-    <!-- Topojson library -->
-    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <!-- http://datamaps.github.io/ -->
+    <script src="src/datamaps.world.hires.min.js"></script>
     <!-- Our visualisation app -->
-    <script src="src/visualisation.js"></script>
+    <script src="src/worldmap.js"></script>
+    <!-- <script src="src/visualisation.js"></script> -->
 
   </body>
 
