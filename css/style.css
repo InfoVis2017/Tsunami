@@ -27,8 +27,8 @@ circle.selected.current {
 #map {
   position: absolute;
   height: 95%;
-  width: 95%;
-  z-index: 1
+  width: 85%;
+  z-index: 1;
 }
 
 .timeslider_wrapper{
@@ -39,8 +39,28 @@ circle.selected.current {
 }
 
 .timeslider{
-    margin: 30px auto 0 auto;
-    width: 50%;
-    display: block;
-     text-align: center;
+  margin: 30px auto 0 auto;
+  width: 50%;
+  display: block;
+  text-align: center;
+}
+
+form.filter{
+  z-index: 0;
+  width: 10%;
+  float:right;
+  height:755px;
+}
+
+img.filter{
+  width: 64px;
+  height: 64px
+}
+
+input.filter{
+  height: 64px;
+}
+
+div.filter{
+  width: 100%;
 }

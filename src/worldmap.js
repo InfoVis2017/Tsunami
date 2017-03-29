@@ -5,5 +5,5 @@ function setup(){
   element: document.getElementById("map")
 });
 }
-
+/*Probably unnecessary*/
 window.onload = setup
