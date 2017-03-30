@@ -1,12 +1,13 @@
 /* setup the dimensions */
 var margin = { top: 50, bottom: 50, left: 50, right: 50 },
-    width = 800 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+    width = (0.9 * window.innerWidth) - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
 
 /* setup the projection and path generator */
 var projection = d3.geoMercator()
-                    .translate([width/2,height/2])
-                    .scale(100)
+                    .translate([(width/2), (height/2)])
+                    .scale( width / 2 / Math.PI);
+                    
 var path = d3.geoPath()
               .projection(projection)
 
@@ -19,8 +20,46 @@ var svg = d3.select("#container")
 
 var g = svg.append("g")
            .attr("transform", "translate("+margin.left+","+margin.top+")")
+           
+var color = false;
+           
+ // add to options
+  d3.select("#options")
+    .append("label")
+      .text("Colorize")
+      .append("input")
+        .attr("type","checkbox")
+        .on("change",function(d) {
+          console.log(this.checked)
+          drawColor(this.checked)
+        })
+        
+  d3.select("#legend")
+      .append("br")
 
 /* load the world topology data */
+function drawColor(color) {
+  
+  
+  
+  d3.json("/data/topology/world-topo-min.json", function(error, data) {
+
+  /* extract the JSON-encoded feature data for the countries */
+  var countries = topojson.feature(data,data.objects.countries)
+
+  /* main map manipulation */
+   g.selectAll(".country")
+    .data(countries.features)
+      .style("fill", function(d, i) { 
+        if(color){
+        return d.properties.color;}
+        else{
+        return '#ffffff'}
+      })
+    })
+  }
+        
+        
 d3.json("/data/topology/world-topo-min.json", function(error, data) {
 
   /* extract the JSON-encoded feature data for the countries */
@@ -32,12 +71,18 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     .enter().append("path")
       .attr("class", "country")
       .attr("d", path)
+      .style("fill", function(d, i) { 
+        return '#ffffff'})
+      
+     
 
   /* setup disasters (cf. inf.) */
   registerData("drought",["/datasplittedOutput/drought0"])
   registerData("earthquake",["/datasplittedOutput/earthquake0","/datasplittedOutput/earthquake01"])
   registerData("epidemic",["/datasplittedOutput/epidemic0","/datasplittedOutput/epidemic0.1"])
-});
+})
+
+
 
 /** DISASTERS **/
 
@@ -46,7 +91,7 @@ function registerData(name,sources) {
     d3.csv(sources[i], convert, function(err,data) {
       var scale = d3.scaleLinear()
                     .domain([0,1000000])  // scale from #affected persons
-                    .range([1,20])          // to predetermined minimum/maximum radius
+                    .range([10,20])          // to predetermined minimum/maximum radius
       g.selectAll("." + name)
         .data(data)
         .enter().append("circle")
@@ -72,6 +117,11 @@ function registerData(name,sources) {
           toggle(this,name)
           refreshYear()
         })
+        
+  d3.select("#legend")
+      .append("br")
+      
+ 
 }
 
 function toggle(checkbox,name) {
