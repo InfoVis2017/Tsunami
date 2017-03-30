@@ -1,6 +1,6 @@
 /* setup the dimensions */
 var margin = { top: 50, bottom: 50, left: 50, right: 50 },
-    width = (0.9 * window.innerWidth) - margin.left - margin.right,
+    width = (0.75 * window.innerWidth) - margin.left - margin.right,
     height = 800 - margin.top - margin.bottom;
 
 /* setup the projection and path generator */
