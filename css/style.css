@@ -6,14 +6,17 @@
 
 .epidemic {
   fill: cyan;
+  color: cyan;
 }
 
 .drought {
   fill: brown;
+  color:brown;
 }
 
 .earthquake {
   fill: purple;
+  color:purple;
 }
 
 circle {

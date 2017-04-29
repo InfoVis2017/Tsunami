@@ -110,6 +110,7 @@ function registerData(name,sources) {
   // add to legend
   d3.select("#legend")
     .append("label")
+      .attr("class",name)
       .text(name)
       .append("input")
         .attr("type","checkbox")

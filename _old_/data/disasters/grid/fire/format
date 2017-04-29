@@ -1,9 +1,0 @@
-Line format = [Date Orbit Time Latitude Longitude] (Record length = 66)
-
-Field name	Format 	Description
-Date 	YYYYMMDD 	Year Month Day
-Orbit 	9999 	Orbit number
-Time 	SS.MMM	Second . Millisecond
-Latitude 	s999.999	(s : sign)
-Longitude 	s999.999	(s : sign)
-

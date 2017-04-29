@@ -1,0 +1,437 @@
+affected,end_date,deaths,lon,damage,lat,start_date,extra
+NULL,1900,50.0,138.53,NULL,36.4,1900,{'Name': 'Asama'}
+6.0,1900,4.0,130.87,NULL,31.93,1900,{'Name': 'Kirishima'}
+20.0,1900,144.0,140.28,NULL,37.62,1900,{'Name': 'Adatara'}
+NULL,1900,NULL,39.13,NULL,8.158,1900,{'Name': 'Tullu Moje'}
+NULL,1901,NULL,112.308,NULL,-7.93,1901,{'Name': 'Kelut'}
+NULL,1901,NULL,168.37,NULL,-16.68,1901,{'Name': 'Epi'}
+NULL,1902,46.0,-61.17,NULL,14.82,1902,{'Name': 'Pelee'}
+NULL,1902,3360.0,-61.18,NULL,13.33,1902,{'Name': 'Soufriere St. Vincent'}
+NULL,1902,56000.0,-61.17,NULL,14.82,1902,{'Name': 'Pelee'}
+NULL,1902,NULL,-61.17,NULL,14.82,1902,{'Name': 'Pelee'}
+NULL,1902,250.0,140.32,NULL,30.48,1902,{'Name': 'Tori-shima'}
+NULL,1902,2000.0,-61.17,NULL,14.82,1902,{'Name': 'Pelee'}
+NULL,1902,3000.0,-91.552,NULL,14.756,1902,{'Name': 'Santa Maria'}
+90.0,1902,32.0,110.442,NULL,-7.542,1902,{'Name': 'Merapi'}
+NULL,1903,8.0,176.5,NULL,-38.12,1903,{'Name': 'Okataina'}
+NULL,1903,34.0,43.38,NULL,-11.75,1903,{'Name': 'Karthala'}
+NULL,1904,2.0,43.38,NULL,-11.75,1904,{'Name': 'Karthala'}
+2.0,1905,2.0,14.426,NULL,40.821,1905,{'Name': 'Vesuvius'}
+NULL,1905,NULL,-172.525,NULL,-13.612,1905,"{'Name': ""Savai'i""}"
+600.0,1906,700.0,14.426,NULL,40.821,1906,{'Name': 'Vesuvius'}
+NULL,1907,NULL,-175.65,NULL,-21.38,1907,{'Name': 'Unnamed'}
+NULL,1907,NULL,40.57,NULL,12.88,1907,{'Name': 'Alayta'}
+NULL,1907,2.0,122.775,NULL,-8.53,1907,{'Name': 'Lewotobi'}
+NULL,1907,NULL,-172.525,NULL,-13.612,1907,"{'Name': ""Savai'i""}"
+NULL,1909,NULL,9.17,NULL,4.203,1909,{'Name': 'Cameroon; Mt.'}
+NULL,1909,442.0,112.92,NULL,-8.108,1909,{'Name': 'Semeru'}
+NULL,1910,2.0,176,NULL,-38.82,1910,{'Name': 'Taupo'}
+NULL,1910,2.0,140.83,NULL,42.53,1910,{'Name': 'Usu'}
+398.0,1911,2670.0,120.993,NULL,14.002,1911,{'Name': 'Taal'}
+NULL,1911,2.0,138.53,NULL,36.4,1911,{'Name': 'Asama'}
+NULL,1911,NULL,138.53,NULL,36.4,1911,{'Name': 'Asama'}
+NULL,1911,NULL,-61,NULL,10,1911,{'Name': 'Piparo'}
+NULL,1911,NULL,112.92,NULL,-8.108,1911,{'Name': 'Semeru'}
+NULL,1912,4.0,-155.16,NULL,58.27,1912,{'Name': 'Novarupta'}
+NULL,1912,40.0,29.2,NULL,-1.408,1912,{'Name': 'Nyamuragira;Africa-C'}
+NULL,1913,26.0,-103.62,NULL,19.514,1913,{'Name': 'Colima'}
+NULL,1913,138.0,125.5,NULL,3.67,1913,{'Name': 'Awu'}
+NULL,1913,2.0,138.53,NULL,36.4,1913,{'Name': 'Asama'}
+NULL,1913,NULL,112.92,NULL,-8.108,1913,{'Name': 'Semeru'}
+NULL,1913,42.0,168.12,NULL,-16.25,1913,{'Name': 'Ambrym'}
+112.0,1914,91.0,130.67,19040000.0,31.58,1914,{'Name': 'Sakura-jima'}
+NULL,1914,NULL,150.52,NULL,-5.58,1914,{'Name': 'Pago'}
+NULL,1914,22.0,177.18,NULL,-37.52,1914,{'Name': 'White Island'}
+NULL,1914,200.0,167.83,NULL,-15.4,1914,{'Name': 'Aoba'}
+NULL,1916,NULL,-78.442,NULL,-1.467,1916,{'Name': 'Tungurahua'}
+NULL,1916,NULL,15.213,NULL,38.789,1916,{'Name': 'Stromboli'}
+NULL,1917,NULL,35.902,NULL,-2.751,1917,{'Name': 'Lengai; Ol Doinyo'}
+6.0,1917,4.0,176.5,NULL,-38.12,1917,{'Name': 'Okataina'}
+NULL,1917,NULL,-72.614,NULL,-41.326,1917,{'Name': 'Calbuco'}
+NULL,1917,650.0,-89.286,NULL,13.736,1917,{'Name': 'San Salvador'}
+NULL,1918,NULL,125.491,NULL,3.138,1918,{'Name': 'Banua Wuhu'}
+NULL,1918,NULL,-19.05,NULL,63.63,1918,{'Name': 'Katla'}
+NULL,1919,NULL,-98.622,NULL,19.023,1919,{'Name': 'Popocatepetl'}
+NULL,1919,NULL,125.491,NULL,3.138,1919,{'Name': 'Banua Wuhu'}
+NULL,1919,10220.0,112.308,NULL,-7.93,1919,{'Name': 'Kelut'}
+NULL,1919,8.0,15.213,NULL,38.789,1919,{'Name': 'Stromboli'}
+NULL,1919,4.0,139.97,NULL,37.12,1919,{'Name': 'Nasu'}
+NULL,1919,NULL,-155.608,NULL,19.475,1919,{'Name': 'Mauna Loa'}
+NULL,1920,66.0,110.442,NULL,-7.542,1920,{'Name': 'Merapi'}
+NULL,1920,NULL,-89.633,NULL,13.813,1920,{'Name': 'Izalco'}
+NULL,1921,2.0,139.97,NULL,37.12,1921,{'Name': 'Nasu'}
+NULL,1923,2.0,107.73,NULL,-7.32,1923,{'Name': 'Papandayan'}
+NULL,1923,6.0,107.6,NULL,-6.77,1923,{'Name': 'Tangkubanparahu'}
+NULL,1923,2.0,130.87,NULL,31.93,1923,{'Name': 'Kirishima'}
+NULL,1924,2.0,-155.292,NULL,19.425,1924,{'Name': 'Kilauea'}
+414.0,1926,288.0,142.68,NULL,43.42,1926,{'Name': 'Tokachi'}
+NULL,1927,NULL,121.708,NULL,-8.32,1927,{'Name': 'Paluweh'}
+NULL,1927,2.0,-16.65,NULL,64.27,1927,{'Name': 'Esjufjoll'}
+NULL,1928,96.0,25.396,NULL,36.404,1928,{'Name': 'Santorini'}
+NULL,1928,NULL,123.685,NULL,13.257,1928,{'Name': 'Mayon'}
+NULL,1928,NULL,105.423,NULL,-6.102,1928,{'Name': 'Krakatau'}
+NULL,1928,80.0,109.92,NULL,-7.2,1928,{'Name': 'Dieng Volc Complex'}
+200.0,1928,324.0,121.708,NULL,-8.32,1928,{'Name': 'Paluweh'}
+NULL,1928,10.0,15.004,NULL,37.734,1928,{'Name': 'Etna'}
+NULL,1929,NULL,-72.614,NULL,-41.326,1929,{'Name': 'Calbuco'}
+8.0,1929,4.0,140.68,NULL,42.07,1929,{'Name': 'Komaga-take'}
+NULL,1929,4.0,15.004,NULL,37.734,1929,{'Name': 'Etna'}
+NULL,1929,400.0,-91.552,NULL,14.756,1929,{'Name': 'Santa Maria'}
+NULL,1930,NULL,105.423,NULL,-6.102,1930,{'Name': 'Krakatau'}
+NULL,1930,12.0,138.53,NULL,36.4,1930,{'Name': 'Asama'}
+40.0,1930,11.0,15.213,NULL,38.789,1930,{'Name': 'Stromboli'}
+NULL,1930,2738.0,110.442,NULL,-7.542,1930,{'Name': 'Merapi'}
+NULL,1931,6.0,138.53,NULL,36.4,1931,{'Name': 'Asama'}
+NULL,1932,NULL,-90.88,NULL,14.473,1932,{'Name': 'Fuego'}
+NULL,1932,NULL,110.442,NULL,-7.542,1932,{'Name': 'Merapi'}
+14.0,1932,4.0,138.55,NULL,36.62,1932,{'Name': 'Kusatsu-Shirane'}
+NULL,1933,2.0,154.508,NULL,49.12,1933,{'Name': 'Kharimkotan'}
+NULL,1933,2.0,139.02,NULL,35.22,1933,{'Name': 'Hakone'}
+52.0,1933,16.0,130.22,NULL,30.43,1933,{'Name': 'Kuchinoerabu-jima'}
+NULL,1933,9.0,124.05,NULL,12.77,1933,{'Name': 'Bulusan'}
+NULL,1934,2.0,-121.694,NULL,45.374,1934,{'Name': 'Hood'}
+NULL,1936,4.0,138.53,NULL,36.4,1936,{'Name': 'Asama'}
+NULL,1937,6.0,-71.729,NULL,-38.692,1937,{'Name': 'Llaima'}
+NULL,1937,1014.0,152.203,NULL,-4.271,1937,{'Name': 'Rabaul'}
+NULL,1938,NULL,29.2,NULL,-1.408,1938,{'Name': 'Nyamuragira;Africa-C'}
+NULL,1938,4.0,140.08,NULL,37.6,1938,{'Name': 'Bandai'}
+NULL,1938,NULL,123.685,NULL,13.257,1938,{'Name': 'Mayon'}
+NULL,1938,NULL,138.53,NULL,36.4,1938,{'Name': 'Asama'}
+NULL,1939,4.0,140.32,NULL,30.48,1939,{'Name': 'Tori-shima'}
+NULL,1939,20.0,109.92,NULL,-7.2,1939,{'Name': 'Dieng Volc Complex'}
+4.0,1940,2.0,125.48,NULL,2.78,1940,{'Name': 'Karangetang [Api Siau]'}
+40.0,1940,22.0,139.53,NULL,34.08,1940,{'Name': 'Miyake-jima'}
+NULL,1940,NULL,35.902,NULL,-2.751,1940,{'Name': 'Lengai; Ol Doinyo'}
+2.0,1941,2.0,138.53,NULL,36.4,1941,{'Name': 'Asama'}
+NULL,1941,NULL,112.92,NULL,-8.108,1941,{'Name': 'Semeru'}
+NULL,1943,6.0,-102.25,NULL,19.48,1943,{'Name': 'Michoacan-Guanajuato'}
+NULL,1943,2.0,-91.42,NULL,-0.9,1943,{'Name': 'Azul; Cerro'}
+NULL,1944,54.0,14.426,NULL,40.821,1944,{'Name': 'Vesuvius'}
+NULL,1944,2.0,-169.95,NULL,52.82,1944,{'Name': 'Cleveland'}
+NULL,1944,2.0,140.83,NULL,42.53,1944,{'Name': 'Usu'}
+NULL,1944,NULL,15.213,NULL,38.789,1944,{'Name': 'Stromboli'}
+NULL,1944,2.0,140.83,NULL,42.53,1944,{'Name': 'Usu'}
+500.0,1944,234.0,109.92,NULL,-7.2,1944,{'Name': 'Dieng Volc Complex'}
+NULL,1946,2.0,130.67,NULL,31.58,1946,{'Name': 'Sakura-jima'}
+NULL,1946,12.0,112.92,NULL,-8.108,1946,{'Name': 'Semeru'}
+NULL,1946,NULL,112.92,NULL,-8.108,1946,{'Name': 'Semeru'}
+NULL,1947,NULL,123.685,NULL,13.257,1947,{'Name': 'Mayon'}
+NULL,1947,22.0,138.53,NULL,36.4,1947,{'Name': 'Asama'}
+NULL,1947,1398.0,139.18,NULL,36.53,1947,{'Name': 'Akagi'}
+NULL,1947,2.0,-19.7,NULL,63.98,1947,{'Name': 'Hekla'}
+NULL,1948,NULL,123.59,NULL,-8.54,1948,{'Name': 'Iliwerung'}
+NULL,1949,108.0,-71.93,NULL,-39.42,1949,{'Name': 'Villarrica'}
+NULL,1949,34.0,-76.4,NULL,2.32,1949,{'Name': 'Purace'}
+NULL,1949,4.0,124.673,NULL,9.203,1949,{'Name': 'Camiguin'}
+NULL,1950,12.0,112.92,NULL,-8.108,1950,{'Name': 'Semeru'}
+NULL,1950,136.0,124.673,NULL,9.203,1950,{'Name': 'Camiguin'}
+2.0,1950,2.0,138.53,NULL,36.4,1950,{'Name': 'Asama'}
+NULL,1951,5884.0,148.15,NULL,-8.95,1951,{'Name': 'Lamington'}
+NULL,1951,1000.0,-87.57,NULL,12.98,1951,{'Name': 'Cosiguina'}
+NULL,1951,14.0,112.308,NULL,-7.93,1951,{'Name': 'Kelut'}
+NULL,1951,4.0,139.02,NULL,35.22,1951,{'Name': 'Hakone'}
+3000.0,1951,1000.0,124.673,NULL,9.203,1951,{'Name': 'Camiguin'}
+NULL,1951,NULL,157.95,NULL,-9.02,1951,{'Name': 'Kavachi'}
+NULL,1952,2.0,139.02,NULL,35.22,1952,{'Name': 'Hakone'}
+NULL,1952,NULL,139.85,NULL,32.1,1952,{'Name': 'Myojun Knoll'}
+NULL,1952,NULL,139.85,NULL,32.1,1952,{'Name': 'Myojun Knoll'}
+NULL,1952,62.0,139.85,NULL,32.1,1952,{'Name': 'Myojun Knoll'}
+NULL,1952,NULL,139.85,NULL,32.1,1952,{'Name': 'Myojun Knoll'}
+NULL,1952,24.0,121.1,NULL,17.32,1952,{'Name': 'Ambalatungan Group'}
+NULL,1953,NULL,139.85,NULL,32.1,1953,{'Name': 'Myojun Knoll'}
+114.0,1953,128.0,110.442,NULL,-7.542,1953,{'Name': 'Merapi'}
+NULL,1953,NULL,139.85,NULL,32.1,1953,{'Name': 'Myojun Knoll'}
+NULL,1953,12.0,131.1,NULL,32.88,1953,{'Name': 'Aso'}
+NULL,1953,NULL,147.35,NULL,-2.38,1953,{'Name': 'St. Andrew Strait'}
+2.0,1953,10.0,124.148,NULL,-8.51,1953,{'Name': 'Sirung'}
+NULL,1953,20.0,139.02,NULL,35.22,1953,{'Name': 'Hakone'}
+NULL,1953,2.0,139.38,NULL,34.73,1953,{'Name': 'Oshima'}
+NULL,1953,302.0,175.57,NULL,-39.28,1953,{'Name': 'Ruapehu'}
+NULL,1954,NULL,15.213,NULL,38.789,1954,{'Name': 'Stromboli'}
+NULL,1954,2.0,137.6,NULL,36.57,1954,{'Name': 'Tate-yama'}
+NULL,1954,50.0,144.85,NULL,-3.6,1954,{'Name': 'Bam'}
+NULL,1954,4.0,124.673,NULL,9.203,1954,{'Name': 'Camiguin'}
+NULL,1955,4.0,-72.07,NULL,-40.35,1955,{'Name': 'Carran-Los Venados'}
+NULL,1955,NULL,130.67,NULL,31.58,1955,{'Name': 'Sakura-jima'}
+NULL,1956,NULL,160.587,NULL,55.978,1956,{'Name': 'Bezymianny'}
+NULL,1957,NULL,-168.68,NULL,53.13,1957,{'Name': 'Vsevidof'}
+NULL,1957,26.0,130.3,NULL,32.75,1957,{'Name': 'Unzen'}
+106.0,1957,2.0,139.38,NULL,34.73,1957,{'Name': 'Oshima'}
+NULL,1957,24.0,131.1,NULL,32.88,1957,{'Name': 'Aso'}
+20.0,1958,2.0,124.858,NULL,1.358,1958,{'Name': 'Mahawu'}
+NULL,1958,4.0,142.88,NULL,43.68,1958,{'Name': 'Daisetsu'}
+NULL,1958,NULL,168.536,NULL,-16.829,1958,{'Name': 'Kuwae'}
+NULL,1960,NULL,-72.117,NULL,-40.59,1960,{'Name': 'Puyehue'}
+NULL,1961,NULL,-72.614,NULL,-41.326,1961,{'Name': 'Calbuco'}
+NULL,1961,2.0,137.6,NULL,36.57,1961,{'Name': 'Tate-yama'}
+12.0,1961,12.0,110.442,NULL,-7.542,1961,{'Name': 'Merapi'}
+NULL,1961,4.0,142.88,NULL,43.68,1961,{'Name': 'Daisetsu'}
+NULL,1961,2.0,138.53,NULL,36.4,1961,{'Name': 'Asama'}
+22.0,1962,10.0,142.68,NULL,43.42,1962,{'Name': 'Tokachi'}
+NULL,1962,4.0,110.442,NULL,-7.542,1962,{'Name': 'Merapi'}
+10.0,1962,10.0,127.325,NULL,0.8,1962,{'Name': 'Gamalama'}
+NULL,1963,30.0,-83.852,NULL,9.979,1963,{'Name': 'Irazu'}
+1248.0,1963,2056.0,115.508,NULL,-8.342,1963,{'Name': 'Agung'}
+NULL,1963,2.0,112.92,NULL,-8.108,1963,{'Name': 'Semeru'}
+NULL,1963,240.0,115.508,NULL,-8.342,1963,{'Name': 'Agung'}
+NULL,1963,NULL,-71.93,NULL,-39.42,1963,{'Name': 'Villarrica'}
+NULL,1963,4.0,115.375,NULL,-8.242,1963,{'Name': 'Batur'}
+NULL,1963,14.0,-90.88,NULL,14.473,1963,{'Name': 'Fuego'}
+NULL,1963,80.0,-83.852,NULL,9.979,1963,{'Name': 'Irazu'}
+6.0,1964,2.0,121.708,NULL,-8.32,1964,{'Name': 'Paluweh'}
+NULL,1964,50.0,-71.93,NULL,-39.42,1964,{'Name': 'Villarrica'}
+NULL,1964,228.0,109.92,NULL,-7.2,1964,{'Name': 'Dieng Volc Complex'}
+NULL,1965,710.0,120.993,NULL,14.002,1965,{'Name': 'Taal'}
+NULL,1966,NULL,165.8,NULL,-10.38,1966,{'Name': 'Tinakula'}
+328.0,1966,430.0,112.308,NULL,-7.93,1966,{'Name': 'Kelut'}
+2000.0,1966,78.0,125.5,NULL,3.67,1966,{'Name': 'Awu'}
+NULL,1966,NULL,35.902,NULL,-2.751,1966,{'Name': 'Lengai; Ol Doinyo'}
+NULL,1967,NULL,35.902,NULL,-2.751,1967,{'Name': 'Lengai; Ol Doinyo'}
+NULL,1967,6.0,112.92,NULL,-8.108,1967,{'Name': 'Semeru'}
+NULL,1967,NULL,-60.65,NULL,-62.97,1967,{'Name': 'Deception Island'}
+NULL,1968,12.0,123.685,NULL,13.257,1968,{'Name': 'Mayon'}
+NULL,1968,160.0,-84.703,NULL,10.463,1968,{'Name': 'Arenal'}
+NULL,1969,6.0,110.442,NULL,-7.542,1969,{'Name': 'Merapi'}
+20.0,1969,4.0,121.63,NULL,-8.88,1969,{'Name': 'Iya'}
+NULL,1969,3.0,122.202,NULL,19.077,1969,{'Name': 'Didicas'}
+NULL,1969,2.0,140.73,NULL,38.73,1969,{'Name': 'Narugo'}
+NULL,1970,6.0,14.139,NULL,40.827,1970,{'Name': 'Campi Flegrei'}
+NULL,1970,NULL,-19.7,NULL,63.98,1970,{'Name': 'Hekla'}
+NULL,1971,8.0,-72.97,NULL,-45.9,1971,{'Name': 'Hudson; Cerro'}
+NULL,1971,NULL,165.8,NULL,-10.38,1971,{'Name': 'Tinakula'}
+NULL,1971,20.0,-90.88,NULL,14.473,1971,{'Name': 'Fuego'}
+NULL,1971,NULL,-17.83,NULL,28.58,1971,{'Name': 'La Palma'}
+NULL,1971,30.0,-71.93,NULL,-39.42,1971,{'Name': 'Villarrica'}
+NULL,1971,12.0,138.55,NULL,36.62,1971,{'Name': 'Kusatsu-Shirane'}
+NULL,1972,6.0,55.713,NULL,-21.229,1972,{'Name': 'Fournaise; Piton de la'}
+NULL,1972,4.0,139.02,NULL,35.22,1972,{'Name': 'Hakone'}
+NULL,1972,NULL,148.121,NULL,-5.52,1972,{'Name': 'Ritter Island'}
+NULL,1973,2.0,-20.28,NULL,63.43,1973,{'Name': 'Vestmannaeyjar'}
+NULL,1973,NULL,121.708,NULL,-8.32,1973,{'Name': 'Paluweh'}
+NULL,1973,4.0,-72.97,NULL,-45.9,1973,{'Name': 'Hudson; Cerro'}
+NULL,1973,4.0,123.59,NULL,-8.54,1973,{'Name': 'Iliwerung'}
+NULL,1974,8.0,125.48,NULL,2.78,1974,{'Name': 'Karangetang [Api Siau]'}
+NULL,1974,6.0,130.67,NULL,31.58,1974,{'Name': 'Sakura-jima'}
+NULL,1974,6.0,138.03,NULL,36.92,1974,{'Name': 'Niigata-Yake-yama'}
+NULL,1974,10.0,130.67,NULL,31.58,1974,{'Name': 'Sakura-jima'}
+NULL,1974,NULL,-90.88,NULL,14.473,1974,{'Name': 'Fuego'}
+NULL,1974,NULL,148.121,NULL,-5.52,1974,{'Name': 'Ritter Island'}
+NULL,1974,18.0,110.442,NULL,-7.542,1974,{'Name': 'Merapi'}
+NULL,1975,160.0,100.473,NULL,-0.381,1975,{'Name': 'Marapi'}
+NULL,1975,4.0,-84.703,NULL,10.463,1975,{'Name': 'Arenal'}
+NULL,1975,2.0,-155.292,4000000.0,19.425,1975,{'Name': 'Kilauea'}
+NULL,1976,6.0,138.55,NULL,36.62,1976,{'Name': 'Kusatsu-Shirane'}
+8.0,1976,4.0,-78.33,NULL,-2.03,1976,{'Name': 'Sangay'}
+NULL,1976,238.0,112.92,NULL,-8.108,1976,{'Name': 'Semeru'}
+2.0,1976,2.0,125.48,NULL,2.78,1976,{'Name': 'Karangetang [Api Siau]'}
+NULL,1976,58.0,110.442,NULL,-7.542,1976,{'Name': 'Merapi'}
+NULL,1977,NULL,29.25,NULL,-1.52,1977,{'Name': 'Nyiragongo;Africa-C'}
+NULL,1977,NULL,43.38,NULL,-11.75,1977,{'Name': 'Karthala'}
+NULL,1977,NULL,-16.78,NULL,65.73,1977,{'Name': 'Krafla'}
+NULL,1977,2.0,160.638,NULL,56.057,1977,{'Name': 'Kliuchevskoi'}
+NULL,1977,6.0,140.83,NULL,42.53,1977,{'Name': 'Usu'}
+4.0,1978,6.0,140.83,NULL,42.53,1978,{'Name': 'Usu'}
+NULL,1978,NULL,124.05,NULL,12.77,1978,{'Name': 'Bulusan'}
+NULL,1978,2.0,-91.552,NULL,14.756,1978,{'Name': 'Santa Maria'}
+NULL,1978,24.0,112.92,NULL,-8.108,1978,{'Name': 'Semeru'}
+NULL,1978,6.0,107.6,NULL,-6.77,1978,{'Name': 'Tangkubanparahu'}
+NULL,1979,298.0,109.92,NULL,-7.2,1979,{'Name': 'Dieng Volc Complex'}
+NULL,1979,4.0,145.964,NULL,-4.649,1979,{'Name': 'Karkar'}
+NULL,1979,4.0,-61.18,NULL,13.33,1979,{'Name': 'Soufriere St. Vincent'}
+46.0,1979,18.0,15.004,NULL,37.734,1979,{'Name': 'Etna'}
+22.0,1979,6.0,131.1,NULL,32.88,1979,{'Name': 'Aso'}
+32.0,1979,1239.0,123.59,NULL,-8.54,1979,{'Name': 'Iliwerung'}
+NULL,1980,114.0,-122.18,4000000000.0,46.2,1980,{'Name': 'St. Helens'}
+NULL,1980,NULL,-19.7,NULL,63.98,1980,{'Name': 'Hekla'}
+NULL,1980,2.0,-121.694,NULL,45.374,1980,{'Name': 'Hood'}
+NULL,1981,NULL,15.004,10000000.0,37.734,1981,{'Name': 'Etna'}
+NULL,1981,2.0,112.92,NULL,-8.108,1981,{'Name': 'Semeru'}
+NULL,1981,NULL,155.55,NULL,50.858,1981,{'Name': 'Alaid'}
+544.0,1981,744.0,112.92,NULL,-8.108,1981,{'Name': 'Semeru'}
+NULL,1981,400.0,123.685,NULL,13.257,1981,{'Name': 'Mayon'}
+NULL,1981,NULL,121.708,NULL,-8.32,1981,{'Name': 'Paluweh'}
+NULL,1981,NULL,158.3,NULL,52.68,1981,{'Name': 'Vilyuchik'}
+3510.0,1982,3758.0,-93.228,6600000.0,17.36,1982,{'Name': 'Chichon; El'}
+NULL,1982,66.0,-93.228,NULL,17.36,1982,{'Name': 'Chichon; El'}
+NULL,1982,136.0,108.05,30000000.0,-7.25,1982,{'Name': 'Galunggung'}
+NULL,1982,2.0,-93.228,NULL,17.36,1982,{'Name': 'Chichon; El'}
+NULL,1983,2.0,160.638,NULL,56.057,1983,{'Name': 'Kliuchevskoi'}
+NULL,1983,NULL,121.608,NULL,-0.17,1983,{'Name': 'Colo [Una Una]'}
+NULL,1983,NULL,123.59,NULL,-8.54,1983,{'Name': 'Iliwerung'}
+NULL,1983,NULL,139.53,NULL,34.08,1983,{'Name': 'Miyake-jima'}
+NULL,1984,74.0,10.5,NULL,6.25,1984,{'Name': 'Oku Volc Field'}
+NULL,1984,2.0,123.685,NULL,13.257,1984,{'Name': 'Mayon'}
+NULL,1984,58.0,137.48,NULL,35.9,1984,{'Name': 'On-take'}
+NULL,1984,2.0,15.004,NULL,37.734,1984,{'Name': 'Etna'}
+NULL,1985,140.0,112.92,NULL,-8.108,1985,{'Name': 'Semeru'}
+20000.0,1985,46160.0,-75.322,NULL,4.895,1985,{'Name': 'Ruiz'}
+NULL,1985,2.0,15.004,NULL,37.734,1985,{'Name': 'Etna'}
+NULL,1986,2.0,140.77,NULL,39.97,1986,{'Name': 'Akita-Yake-yama'}
+NULL,1986,2.0,15.213,NULL,38.789,1986,{'Name': 'Stromboli'}
+600.0,1986,3400.0,10.5,NULL,6.25,1986,{'Name': 'Oku Volc Field'}
+NULL,1986,2.0,110.442,NULL,-7.542,1986,{'Name': 'Merapi'}
+NULL,1986,2.0,139.38,NULL,34.73,1986,{'Name': 'Oshima'}
+30.0,1987,NULL,-90.601,NULL,14.381,1987,{'Name': 'Pacaya'}
+14.0,1987,4.0,15.004,NULL,37.734,1987,{'Name': 'Etna'}
+NULL,1987,125.0,124.148,5000000.0,-8.51,1987,{'Name': 'Sirung'}
+NULL,1988,8.0,129.871,NULL,-4.525,1988,{'Name': 'Banda Api'}
+NULL,1988,2.0,-84.703,NULL,10.463,1988,{'Name': 'Arenal'}
+NULL,1988,2.0,112.92,NULL,-8.108,1988,{'Name': 'Semeru'}
+NULL,1988,2.0,-71.58,NULL,-38.377,1988,{'Name': 'Lonquimay'}
+NULL,1988,6.0,140.77,NULL,39.97,1988,{'Name': 'Akita-Yake-yama'}
+NULL,1989,2.0,131.1,NULL,32.88,1989,{'Name': 'Aso'}
+NULL,1989,4.0,130.87,NULL,31.93,1989,{'Name': 'Kirishima'}
+NULL,1990,NULL,161.36,NULL,56.653,1990,{'Name': 'Shiveluch'}
+NULL,1990,64.0,112.308,NULL,-7.93,1990,{'Name': 'Kelut'}
+NULL,1990,2.0,131.1,NULL,32.88,1990,{'Name': 'Aso'}
+NULL,1990,2.0,131.1,NULL,32.88,1990,{'Name': 'Aso'}
+NULL,1990,NULL,-71.85,NULL,-15.78,1990,{'Name': 'Sabancaya'}
+NULL,1990,12.0,152.203,NULL,-4.271,1990,{'Name': 'Rabaul'}
+NULL,1990,8.0,-91.552,NULL,14.756,1990,{'Name': 'Santa Maria'}
+NULL,1990,2.0,131.1,NULL,32.88,1990,{'Name': 'Aso'}
+NULL,1990,2.0,29.25,NULL,-1.52,1990,{'Name': 'Nyiragongo;Africa-C'}
+NULL,1990,8.0,112.308,NULL,-7.93,1990,{'Name': 'Kelut'}
+NULL,1991,86.0,130.3,NULL,32.75,1991,{'Name': 'Unzen'}
+8.0,1991,1250.0,120.35,NULL,15.13,1991,{'Name': 'Pinatubo'}
+NULL,1991,2.0,158.195,NULL,52.453,1991,{'Name': 'Mutnovsky'}
+NULL,1991,NULL,43.38,NULL,-11.75,1991,{'Name': 'Karthala'}
+NULL,1991,NULL,-72.97,NULL,-45.9,1991,{'Name': 'Hudson; Cerro'}
+NULL,1991,2.0,124.792,NULL,1.358,1991,{'Name': 'Lokon-Empung'}
+NULL,1991,NULL,15.004,5000000.0,37.734,1991,{'Name': 'Etna'}
+NULL,1992,4.0,125.48,NULL,2.78,1992,{'Name': 'Karangetang [Api Siau]'}
+4.0,1992,2.0,109.92,NULL,-7.2,1992,{'Name': 'Dieng Volc Complex'}
+100.0,1992,22.0,-86.702,6000000.0,12.506,1992,{'Name': 'Negro; Cerro'}
+2.0,1992,12.0,125.48,NULL,2.78,1992,{'Name': 'Karangetang [Api Siau]'}
+10.0,1992,2.0,100.473,NULL,-0.381,1992,{'Name': 'Marapi'}
+NULL,1992,12.0,120.35,NULL,15.13,1992,{'Name': 'Pinatubo'}
+NULL,1992,NULL,-152.25,4000000.0,61.3,1992,{'Name': 'Spurr'}
+NULL,1992,6.0,112.92,NULL,-8.108,1992,{'Name': 'Semeru'}
+NULL,1993,18.0,-77.37,NULL,1.22,1993,{'Name': 'Galeras'}
+24.0,1993,2.0,128.675,NULL,-7.125,1993,{'Name': 'Wurlali'}
+NULL,1993,150.0,123.685,NULL,13.257,1993,{'Name': 'Mayon'}
+NULL,1993,4.0,-78.598,NULL,-0.171,1993,{'Name': 'Guagua Pichincha'}
+44.0,1993,2.0,-155.292,NULL,19.425,1993,{'Name': 'Kilauea'}
+10.0,1993,2.0,105.423,NULL,-6.102,1993,{'Name': 'Krakatau'}
+NULL,1993,2.0,130.3,NULL,32.75,1993,{'Name': 'Unzen'}
+NULL,1993,8.0,120.35,NULL,15.13,1993,{'Name': 'Pinatubo'}
+NULL,1993,28.0,120.35,NULL,15.13,1993,{'Name': 'Pinatubo'}
+NULL,1994,2.0,169.425,NULL,-19.52,1994,{'Name': 'Yasur'}
+NULL,1994,12.0,112.92,NULL,-8.108,1994,{'Name': 'Semeru'}
+NULL,1994,2.0,131.1,NULL,32.88,1994,{'Name': 'Aso'}
+NULL,1994,650.0,-76.05,2400000.0,2.92,1994,{'Name': 'Huila'}
+NULL,1994,4.0,152.203,35000000.0,-4.271,1994,{'Name': 'Rabaul'}
+NULL,1994,62.0,116.47,NULL,-8.42,1994,{'Name': 'Rinjani'}
+NULL,1994,120.0,110.442,NULL,-7.542,1994,{'Name': 'Merapi'}
+NULL,1995,4.0,169.425,NULL,-19.52,1995,{'Name': 'Yasur'}
+NULL,1995,8.0,137.58,NULL,36.22,1995,{'Name': 'Yake-dake'}
+40.0,1995,NULL,-24.35,NULL,14.95,1995,{'Name': 'Fogo'}
+NULL,1995,2.0,-90.601,NULL,14.381,1995,{'Name': 'Pacaya'}
+NULL,1995,2.0,121.83,NULL,-8.758,1995,{'Name': 'Kelimutu'}
+NULL,1995,120.0,124.892,NULL,6.12,1995,{'Name': 'Parker'}
+NULL,1996,NULL,159.43,NULL,54.05,1996,{'Name': 'Karymsky'}
+NULL,1996,10.0,-98.622,NULL,19.023,1996,{'Name': 'Popocatepetl'}
+36.0,1996,6.0,123.132,NULL,10.412,1996,{'Name': 'Kanlaon'}
+NULL,1996,12.0,-85.515,NULL,11.446,1996,{'Name': 'Maderas'}
+NULL,1996,NULL,-17.33,NULL,64.42,1996,{'Name': 'Grimsvotn'}
+58.0,1996,26.0,145.061,NULL,-4.1,1996,{'Name': 'Manam'}
+NULL,1997,12.0,110.442,NULL,-7.542,1997,{'Name': 'Merapi'}
+NULL,1997,6.0,125.48,NULL,2.78,1997,{'Name': 'Karangetang [Api Siau]'}
+1.0,1997,44.0,-62.18,NULL,16.72,1997,{'Name': 'Soufriere Hills'}
+NULL,1997,6.0,140.88,NULL,40.65,1997,{'Name': 'Hakkoda Group'}
+NULL,1997,4.0,-62.18,NULL,16.72,1997,{'Name': 'Soufriere Hills'}
+NULL,1997,4.0,112.92,NULL,-8.108,1997,{'Name': 'Semeru'}
+NULL,1997,8.0,140.28,NULL,37.62,1997,{'Name': 'Adatara'}
+NULL,1997,4.0,131.1,NULL,32.88,1997,{'Name': 'Aso'}
+NULL,1997,NULL,-62.18,NULL,16.72,1997,{'Name': 'Soufriere Hills'}
+NULL,1998,1.0,-155.292,NULL,19.425,1998,{'Name': 'Kilauea'}
+NULL,1998,20.0,112.308,NULL,-7.93,1998,{'Name': 'Kelut'}
+NULL,1998,3240.0,-87.004,NULL,12.702,1998,{'Name': 'San Cristobal'}
+NULL,1999,NULL,-62.18,NULL,16.72,1999,{'Name': 'Soufriere Hills'}
+NULL,1999,NULL,-90.88,NULL,14.473,1999,{'Name': 'Fuego'}
+NULL,1999,NULL,161.36,NULL,56.653,1999,{'Name': 'Shiveluch'}
+NULL,1999,4.0,-78.598,NULL,-0.171,1999,{'Name': 'Guagua Pichincha'}
+8.0,1999,2.0,-78.442,NULL,-1.467,1999,{'Name': 'Tungurahua'}
+NULL,2000,1.0,139.53,NULL,34.08,2000,{'Name': 'Miyake-jima'}
+NULL,2000,4.0,112.92,NULL,-8.108,2000,{'Name': 'Semeru'}
+2.0,2000,4.0,-84.703,NULL,10.463,2000,{'Name': 'Arenal'}
+NULL,2000,4.0,-155.292,NULL,19.425,2000,{'Name': 'Kilauea'}
+NULL,2000,2.0,110.442,NULL,-7.542,2000,{'Name': 'Merapi'}
+NULL,2001,2.0,15.004,NULL,37.734,2001,{'Name': 'Etna'}
+NULL,2001,NULL,15.004,NULL,37.734,2001,{'Name': 'Etna'}
+NULL,2001,4.0,110.442,NULL,-7.542,2001,{'Name': 'Merapi'}
+NULL,2001,2.0,15.213,NULL,38.789,2001,{'Name': 'Stromboli'}
+NULL,2002,NULL,125.48,NULL,2.78,2002,{'Name': 'Karangetang [Api Siau]'}
+400.0,2002,200.0,29.25,NULL,-1.52,2002,{'Name': 'Nyiragongo;Africa-C'}
+64.0,2002,NULL,15.004,NULL,37.734,2002,{'Name': 'Etna'}
+NULL,2002,NULL,-77.656,NULL,-0.078,2002,{'Name': 'Reventador'}
+NULL,2002,NULL,15.213,NULL,38.789,2002,{'Name': 'Stromboli'}
+NULL,2002,6.0,112.92,NULL,-8.108,2002,{'Name': 'Semeru'}
+NULL,2003,NULL,-62.18,NULL,16.72,2003,{'Name': 'Soufriere Hills'}
+NULL,2004,2.0,122.45,NULL,-8.67,2004,{'Name': 'Egon'}
+5.0,2004,2.0,112.95,NULL,-7.942,2004,{'Name': 'Tengger Caldera'}
+NULL,2004,10.0,145.061,NULL,-4.1,2004,{'Name': 'Manam'}
+28.0,2005,2.0,145.061,NULL,-4.1,2005,{'Name': 'Manam'}
+NULL,2005,4.0,-89.63,NULL,13.853,2005,{'Name': 'Santa Ana'}
+NULL,2005,NULL,43.38,NULL,-11.75,2005,{'Name': 'Karthala'}
+NULL,2006,2.0,-177.92,NULL,-29.27,2006,{'Name': 'Raoul Island'}
+NULL,2006,NULL,-62.18,NULL,16.72,2006,{'Name': 'Soufriere Hills'}
+NULL,2006,1.0,124.05,NULL,12.77,2006,{'Name': 'Bulusan'}
+NULL,2006,4.0,110.442,NULL,-7.542,2006,{'Name': 'Merapi'}
+NULL,2006,2.0,-78.442,NULL,-1.467,2006,{'Name': 'Tungurahua'}
+13.0,2006,11.0,-78.442,NULL,-1.467,2006,{'Name': 'Tungurahua'}
+NULL,2006,2532.0,123.685,NULL,13.257,2006,{'Name': 'Mayon'}
+2.0,2007,8.0,145.061,NULL,-4.1,2007,{'Name': 'Manam'}
+NULL,2007,NULL,-76.05,NULL,2.92,2007,{'Name': 'Huila'}
+NULL,2007,12.0,106.73,NULL,-6.72,2007,{'Name': 'Salak'}
+1.0,2007,14.0,41.742,NULL,15.7,2007,{'Name': 'Tair; Jebel at'}
+NULL,2008,2.0,-72.646,NULL,-42.833,2008,{'Name': 'Chaiten'}
+NULL,2008,NULL,-175.5,NULL,52.18,2008,{'Name': 'Kasatochi'}
+4.0,2008,4.0,-78.442,NULL,-1.467,2008,{'Name': 'Tungurahua'}
+NULL,2008,20.0,-76.05,NULL,2.92,2008,{'Name': 'Huila'}
+NULL,2009,NULL,-152.75,NULL,60.48,2009,{'Name': 'Redoubt'}
+NULL,2009,NULL,-155.292,NULL,19.425,2009,{'Name': 'Kilauea'}
+NULL,2010,NULL,-78.442,NULL,-1.467,2010,{'Name': 'Tungurahua'}
+NULL,2010,4.0,-19.62,NULL,63.63,2010,{'Name': 'Eyjafjallajokull'}
+6.0,2010,2.0,-90.601,NULL,14.381,2010,{'Name': 'Pacaya'}
+NULL,2010,NULL,145.78,NULL,16.708,2010,{'Name': 'Sarigan'}
+10.0,2010,8.0,125.48,NULL,2.78,2010,{'Name': 'Karangetang [Api Siau]'}
+NULL,2010,4.0,98.392,NULL,3.17,2010,{'Name': 'Sinabung'}
+854.0,2010,648.0,110.442,1200000000.0,-7.542,2010,{'Name': 'Merapi'}
+NULL,2010,NULL,-78.442,NULL,-1.467,2010,{'Name': 'Tungurahua'}
+NULL,2010,NULL,112.95,NULL,-7.942,2010,{'Name': 'Tengger Caldera'}
+2.0,2011,2.0,110.442,NULL,-7.542,2011,{'Name': 'Merapi'}
+NULL,2011,NULL,130.87,NULL,31.93,2011,{'Name': 'Kirishima'}
+NULL,2011,2.0,124.05,NULL,12.77,2011,{'Name': 'Bulusan'}
+NULL,2011,NULL,125.48,NULL,2.78,2011,{'Name': 'Karangetang [Api Siau]'}
+NULL,2011,NULL,-78.442,NULL,-1.467,2011,{'Name': 'Tungurahua'}
+NULL,2011,NULL,-72.117,NULL,-40.59,2011,{'Name': 'Puyehue'}
+NULL,2011,14.0,41.7,NULL,13.37,2011,{'Name': 'Nabro'}
+NULL,2011,NULL,-19.05,NULL,63.63,2011,{'Name': 'Katla'}
+NULL,2011,2.0,124.792,NULL,1.358,2011,{'Name': 'Lokon-Empung'}
+NULL,2011,8.0,127.325,NULL,0.8,2011,{'Name': 'Gamalama'}
+NULL,2012,NULL,-155.292,NULL,19.425,2012,{'Name': 'Kilauea'}
+NULL,2012,NULL,-155.292,NULL,19.425,2012,{'Name': 'Kilauea'}
+NULL,2012,NULL,160.33,NULL,55.83,2012,{'Name': 'Tolbachik'}
+2.0,2013,2.0,110.442,NULL,-7.542,2013,{'Name': 'Merapi'}
+NULL,2013,NULL,121.708,NULL,-8.32,2013,{'Name': 'Paluweh'}
+16.0,2013,10.0,123.685,NULL,13.257,2013,{'Name': 'Mayon'}
+NULL,2013,10.0,121.708,NULL,-8.32,2013,{'Name': 'Paluweh'}
+NULL,2013,NULL,-70.903,NULL,-16.355,2013,{'Name': 'Ubinas'}
+NULL,2013,NULL,130.67,NULL,31.58,2013,{'Name': 'Sakura-jima'}
+NULL,2013,NULL,98.392,NULL,3.17,2013,{'Name': 'Sinabung'}
+6.0,2014,34.0,98.392,NULL,3.17,2014,{'Name': 'Sinabung'}
+NULL,2014,14.0,112.308,NULL,-7.93,2014,{'Name': 'Kelut'}
+140.0,2014,110.0,137.48,NULL,35.9,2014,{'Name': 'On-take'}
+NULL,2014,NULL,-155.292,29000000.0,19.425,2014,{'Name': 'Kilauea'}
+NULL,2014,NULL,-24.35,NULL,14.95,2014,{'Name': 'Fogo'}
+8.0,2014,2.0,127.325,NULL,0.8,2014,{'Name': 'Gamalama'}
+NULL,2015,NULL,98.392,NULL,3.17,2015,{'Name': 'Sinabung'}
+NULL,2015,NULL,-72.614,NULL,-41.326,2015,{'Name': 'Calbuco'}
+NULL,2015,NULL,125.48,NULL,2.78,2015,{'Name': 'Karangetang [Api Siau]'}
+4.0,2015,NULL,145.061,NULL,-4.1,2015,{'Name': 'Manam'}
+NULL,2015,2.0,98.392,NULL,3.17,2015,{'Name': 'Sinabung'}
+8.0,2016,2.0,98.392,NULL,3.17,2016,{'Name': 'Sinabung'}
+6.0,2016,14.0,98.392,200000000.0,3.17,2016,{'Name': 'Sinabung'}
+NULL,2016,2.0,-110.67,NULL,44.43,2016,{'Name': 'Yellowstone'}
+88.0,2016,NULL,116.47,NULL,-8.42,2016,{'Name': 'Rinjani'}
+NULL,2016,NULL,131.1,NULL,32.88,2016,{'Name': 'Aso'}
