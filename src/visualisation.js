@@ -37,7 +37,7 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
       .attr("class", "country")
       .attr("d", path)
       .style("fill", function(d, i) {
-        return '#ffffff'
+        return '#eeeeee'
       })
 
   /* setup disasters (cf. inf.) */
@@ -53,7 +53,7 @@ function registerData(name,sources) {
     d3.csv(sources[i], convert, function(err,data) {
       var scale = d3.scaleLinear()
                     .domain([0,1000000])    // scale from #affected persons
-                    .range([10,20])         // to predetermined minimum/maximum radius
+                    .range([0.5,1])        // to predetermined minimum/maximum radius
       g.selectAll("." + name)
         .data(data)
         .enter().append("circle")
@@ -64,7 +64,8 @@ function registerData(name,sources) {
           .attr("cy", function(d) {
             return projection([d.lon,d.lat])[1]
           })
-          .attr("r", function(d) {
+          .attr("r", 10)                  // radius is fixed
+          .style("opacity", function(d) {
             return scale(d.deaths)
           })
     })
