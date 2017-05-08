@@ -64,6 +64,8 @@ function registerData(name,sources) {
       g.selectAll("." + name)
         .data(data)
         .enter().append("circle")
+          .on("mouseover", function(d) {showDetails(d3.select(this))})
+          .on("mouseout", function(d) {hideDetails(d3.select(this))})
           .attr("class",name)
           .attr("cx", function(d) {
             return projection([d.lon,d.lat])[0];
@@ -146,4 +148,12 @@ function includeData(name) {
 function excludeData(name) {
   g.selectAll("." + name)
     .classed("selected", false);
+}
+
+function showDetails(circle) {
+  circle.transition().attr("r",50)
+}
+
+function hideDetails(circle) {
+  circle.transition().attr("r",10)
 }
