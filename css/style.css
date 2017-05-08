@@ -47,3 +47,11 @@ circle.selected.current {
   fill: #fff;
   font: 10px sans-serif;
 }
+
+text.detail {
+  font: 13px bold sans-serif;
+  stroke-linejoin: round;
+  text-anchor: middle;
+  fill: white;
+  stroke: black;
+}
