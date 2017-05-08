@@ -38,3 +38,11 @@ circle.selected.current {
     display: block;
      text-align: center;
 }
+
+text.detail {
+  font: 13px bold sans-serif;
+  stroke-linejoin: round;
+  text-anchor: middle;
+  fill: white;
+  stroke: black;
+}

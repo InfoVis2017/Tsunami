@@ -174,7 +174,9 @@ function showDetails(disaster,d) {
 
   disaster.append("g").attr("transform", "translate(-2,-5)")
           .append("text")
+            .classed("detail",true)
             .style("pointer-events","none")
+            .style("fill","none")
             .html(d.deaths)
 }
 
