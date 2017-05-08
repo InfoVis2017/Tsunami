@@ -9,26 +9,26 @@ var projection = d3.geoMercator()
                     .scale( width / 2 / Math.PI);
 
 var path = d3.geoPath()
-              .projection(projection)
+              .projection(projection);
 
 /* setup the basic elements */
 var svg = d3.select("#container")
             .append("svg")
             .attr("id", "map")
             .attr("height", height + margin.top + margin.bottom)
-            .attr("width", width + margin.left + margin.right)
+            .attr("width", width + margin.left + margin.right);
 
 var g = svg.append("g")
-           .attr("transform", "translate("+margin.left+","+margin.top+")")
+           .attr("transform", "translate("+margin.left+","+margin.top+")");
 
 d3.select("#legend")
-    .append("br")
+    .append("br");
 
 /* load the world topology data */
 d3.json("/data/topology/world-topo-min.json", function(error, data) {
 
   /* extract the JSON-encoded feature data for the countries */
-  var countries = topojson.feature(data,data.objects.countries)
+  var countries = topojson.feature(data,data.objects.countries);
 
   /* main map manipulation */
    g.selectAll(".country")
@@ -37,8 +37,8 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
       .attr("class", "country")
       .attr("d", path)
       .style("fill", function(d, i) {
-        return '#eeeeee'
-      })
+        return '#eeeeee';
+      });
 
   /* setup disasters (cf. inf.) */
   registerData("Drought",["/data/disasters/emdat/drought.csv"])
@@ -52,6 +52,7 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
   registerData("Storms",["/data/disasters/emdat/storms.csv"]);
 })
 
+
 /** DISASTERS **/
 
 function registerData(name,sources) {
@@ -59,22 +60,22 @@ function registerData(name,sources) {
     d3.csv(sources[i], convert, function(err,data) {
       var scale = d3.scaleLinear()
                     .domain([0,1000000])    // scale from #affected persons
-                    .range([0.5,1])        // to predetermined minimum/maximum radius
+                    .range([0.5,1]);       // to predetermined minimum/maximum radius
       g.selectAll("." + name)
         .data(data)
         .enter().append("circle")
           .attr("class",name)
           .attr("cx", function(d) {
-            return projection([d.lon,d.lat])[0]
+            return projection([d.lon,d.lat])[0];
           })
           .attr("cy", function(d) {
-            return projection([d.lon,d.lat])[1]
+            return projection([d.lon,d.lat])[1];
           })
           .attr("r", 10)                  // radius is fixed
           .style("opacity", function(d) {
-            return scale(d.deaths)
-          })
-    })
+            return scale(d.deaths);
+          });
+    });
   }
   // add to legend
   d3.select("#legend")
@@ -84,65 +85,65 @@ function registerData(name,sources) {
       .append("input")
         .attr("type","checkbox")
         .on("change",function(d) {
-          toggle(this,name)
-          refreshYear()
-        })
+          toggle(this,name);
+          refreshYear();
+        });
 
   d3.select("#legend")
-      .append("br")
+      .append("br");
 }
 
 function toggle(checkbox,name) {
   if(checkbox.checked) {
-    includeData(name)
+    includeData(name);
   } else {
-    excludeData(name)
+    excludeData(name);
   }
 }
 
 function convert(d) {
-  d.affected = +d.affected
-  d.deaths = +d.deaths
-  d.damage = +d.damage
-  d.lat = +d.lat
-  d.lon = +d.lon
+  d.affected = +d.affected;
+  d.deaths = +d.deaths;
+  d.damage = +d.damage;
+  d.lat = +d.lat;
+  d.lon = +d.lon;
   /*
     TODO: just the start date is probably a bit too simplistic
     don't just parse using new Date(...), the format sometimes misses day/month
   */
-  var date = d.start_date
-  d.year = +date.slice(date.length-4,date.length)
-  return d
+  var date = d.start_date;
+  d.year = +date.slice(date.length-4,date.length);
+  return d;
 }
 
 /* set the current year to filter out disasters (i.e. only show disasters from that year) */
 /* again, for now we can just keep this global, clean code is for later :) */
 
-var currentYear = 2000
+var currentYear = 2000;
 
 function setYear(year) {
-  year = +year
+  year = +year;
   if(currentYear !== year) {
-    currentYear = year
-    refreshYear()
+    currentYear = year;
+    refreshYear();
   }
 }
 
 function refreshYear() {
   g.selectAll(".current")
-    .classed("current",false)
+    .classed("current",false);
   g.selectAll("circle")
-    .filter(function(d) { return d.year === currentYear })
-    .classed("current",true)
+    .filter(function(d) { return d.year === currentYear; })
+    .classed("current",true);
 }
 
 /* show/remove data on the visualisation, given the name of the 'disaster type' */
 function includeData(name) {
   g.selectAll("." + name)
-    .classed("selected", true)
+    .classed("selected", true);
 }
 
 function excludeData(name) {
   g.selectAll("." + name)
-    .classed("selected", false)
+    .classed("selected", false);
 }
