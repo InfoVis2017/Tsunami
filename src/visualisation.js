@@ -154,7 +154,7 @@ function excludeData(name) {
 function showDetails(disaster) {
   disaster.select("circle").transition().attr("r",50)
   disaster.append("text")
-          //.style("visibility","hidden")
+          .style("pointer-events","none")
           .attr("text-anchor","middle")
           .html("Test text")
 }
