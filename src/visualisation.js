@@ -68,8 +68,8 @@ function registerData(name,classname,sources) {
                           var crds = projection([d.lon,d.lat]);
                           return "translate(" + crds[0] + "," + crds[1] + ")";
                         })
-                        .on("mouseover", function() {showDetails(d3.select(this))})
-                        .on("mouseout", function() {hideDetails(d3.select(this))})
+                        .on("mouseover", function(d) {showDetails(d3.select(this),d)})
+                        .on("mouseout", function(d) {hideDetails(d3.select(this),d)})
 
       group.append("circle")
               .attr("class",classname)
@@ -151,15 +151,17 @@ function excludeData(name) {
     .classed("selected", false);
 }
 
-function showDetails(disaster) {
+function showDetails(disaster,d) {
   disaster.select("circle").transition().attr("r",50)
   disaster.append("text")
           .style("pointer-events","none")
           .attr("text-anchor","middle")
-          .html("Test text")
+          .html("Deaths:" + d.deaths + "<br>" +
+                "Economic Damage:" + d.damage + "<br>" +
+                "coordinates: x=" + d.lon + " y=" + d.lat)
 }
 
-function hideDetails(disaster) {
+function hideDetails(disaster,d) {
   disaster.select("circle").transition().attr("r",10)
   disaster.select("text").remove()
 }
