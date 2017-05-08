@@ -54,14 +54,13 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
 
 /** DISASTERS **/
 
+var scale = d3.scaleLinear()
+              .domain([0,1000000])    // scale from #affected persons
+              .range([0.5,1]);       // to predetermined minimum/maximum radius
+
 function registerData(name,classname,sources) {
   for(var i = 0; i < sources.length; ++i) {
     d3.csv(sources[i], convert, function(err,data) {
-
-      var scale = d3.scaleLinear()
-                    .domain([0,1000000])    // scale from #affected persons
-                    .range([0.5,1]);       // to predetermined minimum/maximum radius
-
       var group = g.selectAll("." + classname)
                       .data(data).enter().append("g")
                         .attr("transform", function(d) {
@@ -152,16 +151,38 @@ function excludeData(name) {
 }
 
 function showDetails(disaster,d) {
-  disaster.select("circle").transition().attr("r",50)
-  disaster.append("text")
+
+  disaster.select("circle")
+          .transition()
+            .attr("r",40)
+            .style("opacity",1)
+
+  /*
+    disaster.append("text")
           .style("pointer-events","none")
-          .attr("text-anchor","middle")
-          .html("Deaths:" + d.deaths + "<br>" +
+          .html("Deaths:" + d.deaths + "&#10;" +
                 "Economic Damage:" + d.damage + "<br>" +
                 "coordinates: x=" + d.lon + " y=" + d.lat)
+  */
+
+  disaster.append("g").attr("transform", "translate(-30,-20)")
+          .append("image")
+            .style("pointer-events","none")
+            .attr("xlink:href","skull.svg")
+            .attr("width", 24)
+            .attr("height", 24)
+
+  disaster.append("g").attr("transform", "translate(-2,-5)")
+          .append("text")
+            .style("pointer-events","none")
+            .html(d.deaths)
 }
 
 function hideDetails(disaster,d) {
-  disaster.select("circle").transition().attr("r",10)
-  disaster.select("text").remove()
+  disaster.select("circle")
+          .transition()
+            .attr("r",10)
+            .style("opacity", function(d) { return scale(d.deaths); })
+
+  disaster.selectAll("g").remove()
 }
