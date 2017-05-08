@@ -41,30 +41,29 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
       });
 
   /* setup disasters (cf. inf.) */
-  registerData("Drought",["/data/disasters/emdat/drought.csv"])
-  registerData("Earthquake",["/data/disasters/emdat/earthquakes.csv"])
-  registerData("Epidemic",["/data/disasters/emdat/epidemic.csv"])
-  registerData("Extreme Temperature",["/data/disasters/emdat/extreme-temperature.csv"]);
-  registerData("Floods",["/data/disasters/emdat/floods.csv"]);
-  registerData("Insects",["/data/disasters/emdat/insects.csv"]);
-  registerData("Landslide",["/data/disasters/emdat/landslide.csv"]);
-  registerData("Mass Movement",["/data/disasters/emdat/mass-movement.csv"]);
-  registerData("Storms",["/data/disasters/emdat/storms.csv"]);
+  registerData("Drought","drought",["/data/disasters/emdat/drought.csv"])
+  registerData("Earthquake","earthquake",["/data/disasters/emdat/earthquakes.csv"])
+  registerData("Epidemic","epidemic",["/data/disasters/emdat/epidemic.csv"])
+  registerData("Extreme Temperature","temperature",["/data/disasters/emdat/extreme-temperature.csv"]);
+  registerData("Floods","flood",["/data/disasters/emdat/floods.csv"]);
+  registerData("Insects","insects",["/data/disasters/emdat/insects.csv"]);
+  registerData("Landslide","landslide",["/data/disasters/emdat/landslide.csv"]);
+  registerData("Mass Movement","mass",["/data/disasters/emdat/mass-movement.csv"]);
+  registerData("Storms","storm",["/data/disasters/emdat/storms.csv"]);
 })
-
 
 /** DISASTERS **/
 
-function registerData(name,sources) {
+function registerData(name,classname,sources) {
   for(var i = 0; i < sources.length; ++i) {
     d3.csv(sources[i], convert, function(err,data) {
       var scale = d3.scaleLinear()
                     .domain([0,1000000])    // scale from #affected persons
                     .range([0.5,1]);       // to predetermined minimum/maximum radius
-      g.selectAll("." + name)
+      g.selectAll("." + classname)
         .data(data)
         .enter().append("circle")
-          .attr("class",name)
+          .attr("class",classname)
           .attr("cx", function(d) {
             return projection([d.lon,d.lat])[0];
           })
@@ -80,12 +79,12 @@ function registerData(name,sources) {
   // add to legend
   d3.select("#legend")
     .append("label")
-      .attr("class",name)
+      .attr("class",classname)
       .text(name)
       .append("input")
         .attr("type","checkbox")
         .on("change",function(d) {
-          toggle(this,name);
+          toggle(this,classname);
           refreshYear();
         });
 
