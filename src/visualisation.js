@@ -60,22 +60,24 @@ function registerData(name,classname,sources) {
       var scale = d3.scaleLinear()
                     .domain([0,1000000])    // scale from #affected persons
                     .range([0.5,1]);       // to predetermined minimum/maximum radius
-      g.selectAll("." + classname)
-        .data(data)
-        .enter().append("circle")
-          .on("mouseover", function(d) {showDetails(d3.select(this))})
-          .on("mouseout", function(d) {hideDetails(d3.select(this))})
-          .attr("class",classname)
-          .attr("cx", function(d) {
-            return projection([d.lon,d.lat])[0];
-          })
-          .attr("cy", function(d) {
-            return projection([d.lon,d.lat])[1];
-          })
-          .attr("r", 10)                  // radius is fixed
-          .style("opacity", function(d) {
-            return scale(d.deaths);
-          });
+      var group = g.selectAll("." + classname)
+                      .data(data)
+                      .enter().append("g")
+                           .attr("transform", function(d) {
+                             var crds = projection([d.lon,d.lat]);
+                             return "translate(" +crds[0] + "," + crds[1] + ")"}
+                              )
+        
+      group.append("circle")
+              .on("mouseover", function(d) {showDetails(d3.select(this),group)})
+              .on("mouseout", function(d) {hideDetails(d3.select(this),group)})
+              .attr("class",classname)
+             
+              .attr("r", 10)                  // radius is fixed
+              .style("opacity", function(d) {
+                return scale(d.deaths);
+              });
+              
     });
   }
   // add to legend
@@ -149,8 +151,13 @@ function excludeData(name) {
     .classed("selected", false);
 }
 
-function showDetails(circle) {
+function showDetails(circle,group) {
   circle.transition().attr("r",50)
+  group.append("text")
+        .attr("x","50%")
+        .attr("y","50%")
+        .attr("text-anchor","middle")
+        .html("Test text")
 }
 
 function hideDetails(circle) {
