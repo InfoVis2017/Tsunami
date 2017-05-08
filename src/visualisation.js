@@ -41,9 +41,15 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
       })
 
   /* setup disasters (cf. inf.) */
-  registerData("drought",["/data/disasters/emdat/drought.csv"])
-  registerData("earthquake",["/data/disasters/emdat/earthquakes.csv"])
-  registerData("epidemic",["/data/disasters/emdat/epidemic.csv"])
+  registerData("Drought",["/data/disasters/emdat/drought.csv"])
+  registerData("Earthquake",["/data/disasters/emdat/earthquakes.csv"])
+  registerData("Epidemic",["/data/disasters/emdat/epidemic.csv"])
+  registerData("Extreme Temperature",["/data/disasters/emdat/extreme-temperature.csv"]);
+  registerData("Floods",["/data/disasters/emdat/floods.csv"]);
+  registerData("Insects",["/data/disasters/emdat/insects.csv"]);
+  registerData("Landslide",["/data/disasters/emdat/landslide.csv"]);
+  registerData("Mass Movement",["/data/disasters/emdat/mass-movement.csv"]);
+  registerData("Storms",["/data/disasters/emdat/storms.csv"]);
 })
 
 /** DISASTERS **/
