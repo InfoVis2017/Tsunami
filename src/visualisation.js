@@ -44,9 +44,15 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     .enter().append("path")
       .attr("class", "country")
       .attr("d", path)
-      .style("fill", function(d, i) {
-        return '#eeeeee';
-      });
+      .on("mouseover",function(){ 
+        var country = d3.select(this);
+        var originalwidth =  country.style("stroke-width");
+        country.style("stroke-width",originalwidth + 0.5);
+        })
+      .on("mouseout",function(){
+        var country = d3.select(this);
+        var originalwidth =  country.style("stroke-width");
+        country.style("stroke-width",originalwidth - 0.5);});
 
   /* setup disasters (cf. inf.) */
   registerData("Drought","drought",["/data/disasters/emdat/drought.csv"])
@@ -198,6 +204,10 @@ function hideDetails(disaster,d) {
   disaster.selectAll("g").remove()
 }
 
+/////////////////////////////////////////////////////////////////////////////////
+///                                 Chart                                    ////
+/////////////////////////////////////////////////////////////////////////////////
+
 var chartLocation = d3.select("#chart")
                       .append("svg")
                       .attr("id", "graph")
@@ -210,10 +220,7 @@ var x = d3.scaleBand().rangeRound([0, width]).paddingInner(0.05);
 var chart = chartLocation.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     
-var ChartData = []//[{id: 0,y: 0},{id: 1,y: 1000},{id: 2,y: 1000},{id:3 ,y: 2000},{id: 4,y:3000}]
-
-//x.domain(d3.range(0,ChartData.length));
-//y.domain([0, d3.max(ChartData, function(d) { return d.y })]);
+var ChartData = []
 
 chart.append("g")
      // .attr("id","xaxis")
@@ -285,3 +292,23 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 reDrawChart();
+
+/////////////////////////////////////////////////////////////////////////////////
+///                                 Overlays                                 ////
+/////////////////////////////////////////////////////////////////////////////////
+
+function seaColor(value){ 
+  if(value){
+      svg.attr("class","bluesea");
+  }
+  else {
+      svg.attr("class","nosea");
+  }
+}
+
+function showBorders(value){
+  if(value){
+    g.selectAll(".country").style("stroke-width",0.5);
+  }
+    g.selectAll(".country").style("stroke-width",0);
+}

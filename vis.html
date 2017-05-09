@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <title>Natural Disasters</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/switch.css">
 </head>
 
 <body>
@@ -16,17 +17,51 @@
 
   <div style="display:inline-block;vertical-align: top">
 
-    <form style="height:390px" method="post">
       <fieldset style="height:inherit" id="legend">
         <legend>Disaster type</legend>
       </fieldset>
-    </form>
 
-    <form style="height:390px" method="post">
       <fieldset style="height:inherit;margin-top:30px" id="options">
         <legend>Options</legend>
+
+        
+        <label for="emdat">EM-DAT</label>
+        <input id="emdat" type="checkbox">
+        
+        <label for="emdat">GRID</label>
+        <input id="emdat" type="checkbox">
+
+         
       </fieldset>
-    </form>
+       
+      <fieldset style="height:inherit;margin-top:30px" id="overlays">
+        <legend>Overlays</legend>
+
+        <div class="press">
+          <input type="checkbox" id="topo" class="cbx hidden"/>
+          Topo 
+          <label for="topo" class="lbl"> </label>
+        </div>
+
+        <div class="press">
+          <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)"/>
+          Blue water 
+          <label for="bluesea" class="lbl"> </label>
+        </div>
+
+        <div class="press">
+          <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)"/>
+          Show borders 
+          <label for="borders" class="lbl"> </label>
+        </div>
+
+        <div class="press">
+          <input type="checkbox" id="Option4" class="cbx hidden"/>
+          Option4 
+          <label for="Option4" class="lbl"> </label>
+        </div>
+
+      </fieldset>
 
   </div>
 

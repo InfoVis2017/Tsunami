@@ -1,5 +1,5 @@
 .country {
-  fill: #cccccc;
+  fill: #eeeeee;
   stroke: #333333;
   stroke-width: 0.5;
 }
@@ -29,11 +29,10 @@ circle.selected.current {
 
 #map {
   border:2px solid #000;
-  background: #fff;
 }
 
 .timeslider{
-    margin: 30px auto 0 auto;
+    margin: 30px auto 0 300px;
     width: 50%;
     display: block;
      text-align: center;
@@ -47,3 +46,10 @@ circle.selected.current {
   fill: brown;
 }
 
+.bluesea {
+  background: #a1d6ff;
+}
+
+.nosea {
+  background: white;
+}
