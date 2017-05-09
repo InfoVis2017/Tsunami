@@ -39,19 +39,11 @@ circle.selected.current {
      text-align: center;
 }
 
-.bar rect {
+.bar {
   fill: steelblue;
 }
 
-.bar text {
-  fill: #fff;
-  font: 10px sans-serif;
+.bar:hover {
+  fill: brown;
 }
 
-text.detail {
-  font: 13px bold sans-serif;
-  stroke-linejoin: round;
-  text-anchor: middle;
-  fill: white;
-  stroke: black;
-}
