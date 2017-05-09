@@ -11,12 +11,20 @@ var projection = d3.geoMercator()
 var path = d3.geoPath()
               .projection(projection);
 
+var zoom = d3.zoom()
+.scaleExtent([1, 10])
+.on("zoom", zoomed);
+
+function zoomed() {
+  g.attr("transform", d3.event.transform);
+}
 /* setup the basic elements */
 var svg = d3.select("#container")
             .append("svg")
             .attr("id", "map")
             .attr("height", height + margin.top + margin.bottom)
-            .attr("width", width + margin.left + margin.right);
+            .attr("width", width + margin.left + margin.right)
+            .call(zoom);
 
 var g = svg.append("g")
            .attr("transform", "translate("+margin.left+","+margin.top+")");
