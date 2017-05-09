@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--source =  http://bl.ocks.org/Mattwoelk/6132258-->
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Natural Disasters</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- a basic layout-->
+
+  <div id="container" style="display:inline-block"> </div>
+
+  <div style="display:inline-block;vertical-align: top">
+
+    <form style="height:390px" method="post">
+      <fieldset style="height:inherit" id="legend">
+        <legend>Disaster type</legend>
+      </fieldset>
+    </form>
+
+    <form style="height:390px" method="post">
+      <fieldset style="height:inherit;margin-top:30px" id="options">
+        <legend>Options</legend>
+      </fieldset>
+    </form>
+
+  </div>
+
+  <!-- simple timeslider -->
+  <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+    <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+    <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
+  </form>
+
+  <div id="chart"></div>
+  
+  <!-- D3 library -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <!-- Topojson library -->
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <!-- Our visualisation app -->
+  <script src="src/visualisation.js"></script>
+
+  
+
+</body>
+
+</html>
