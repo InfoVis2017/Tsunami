@@ -1,3 +1,5 @@
+startLoadScreen();
+
 /* setup the dimensions */
 var margin = { top: 50, bottom: 50, left: 50, right: 50 },
     width = (0.75 * window.innerWidth) - margin.left - margin.right,
@@ -342,3 +344,5 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
       .attr("d", path);
 
 });
+
+endLoadScreen();
