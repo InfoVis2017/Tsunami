@@ -309,8 +309,9 @@ function seaColor(value){
 function showBorders(value){
   if(value){
     g.selectAll(".country").style("stroke-width",0.5);
+  } else {
+      g.selectAll(".country").style("stroke-width",0);
   }
-    g.selectAll(".country").style("stroke-width",0);
 }
 
 function showTectonic(bool){
