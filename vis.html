@@ -51,6 +51,12 @@
         </div>
 
         <div class="press">
+          <input type="checkbox" id="greenland" class="cbx hidden" onchange="landColor(this.checked)"/>
+          Green land
+          <label for="greenland" class="lbl"> </label>
+        </div>
+
+        <div class="press">
           <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)"/>
           Show borders 
           <label for="borders" class="lbl"> </label>
@@ -58,7 +64,7 @@
 
         <div class="press">
           <input type="checkbox" id="tectonic" class="cbx hidden" checked onchange="showTectonic(this.checked)"/>
-          Show tectonic plates
+          Tectonic plates
           <label for="tectonic" class="lbl"> </label>
         </div>
 
