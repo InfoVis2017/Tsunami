@@ -13,8 +13,14 @@
 <body>
 
   <!-- a basic layout-->
-
-  <div id="container" style="display:inline-block"> </div>
+  <div id='main-left' style="display:inline-block">
+    <div id="container"> </div>
+    <!-- simple timeslider -->
+    <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+      <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+      <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
+    </form>
+  </div>
 
   <div style="display:inline-block;vertical-align: top">
 
@@ -77,12 +83,6 @@
       </fieldset>
 
   </div>
-
-  <!-- simple timeslider -->
-  <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
-    <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
-    <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
-  </form>
 
   <div id="chart"></div>
   
