@@ -64,7 +64,7 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
   registerData("Landslide","landslide",["/data/disasters/emdat/landslide.csv"]);
   registerData("Mass Movement","mass",["/data/disasters/emdat/mass-movement.csv"]);
   registerData("Storms","storm",["/data/disasters/emdat/storms.csv"]);
-})
+});
 
 /** DISASTERS **/
 
@@ -312,3 +312,23 @@ function showBorders(value){
   }
     g.selectAll(".country").style("stroke-width",0);
 }
+
+function showTectonic(bool){
+  if(bool){
+    g.selectAll('.tectonic').style("opacity",0.5);
+  } else {
+    g.selectAll('.tectonic').style("opacity",0);
+  }
+}
+
+
+/*Add tectonic overlay*/
+
+d3.json('/data/topology/tectonics.json', function(err, data) {
+
+  g.insert("path", ".graticule")
+      .datum(topojson.feature(data, data.objects.tec))
+      .attr("class", "tectonic")
+      .attr("d", path);
+
+});

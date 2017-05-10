@@ -1,0 +1,19 @@
+.graticule {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 5.0px;
+}
+
+.graticule :nth-child(2n+16) {
+  stroke-dasharray: 2,2;
+}
+
+.graticule :nth-child(-2n+15) {
+  stroke-dasharray: 2,2;
+}
+
+.tectonic {
+  fill: none;
+  stroke: #000;
+  opacity: 0.5;
+}
