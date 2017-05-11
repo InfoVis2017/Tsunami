@@ -34,40 +34,34 @@
         <fieldset style="height:inherit;margin-top:30px" id="options">
           <legend>Options</legend>
 
-          
+
           <label for="emdat">EM-DAT</label>
           <input id="emdat" type="checkbox">
-          
+
           <label for="emdat">GRID</label>
           <input id="emdat" type="checkbox">
 
-           
+
         </fieldset>
-         
+
         <fieldset style="height:inherit;margin-top:30px" id="overlays">
           <legend>Overlays</legend>
 
           <div class="press">
             <input type="checkbox" id="topo" class="cbx hidden"/>
-            Topo 
+            Topo
             <label for="topo" class="lbl"> </label>
           </div>
 
           <div class="press">
             <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)"/>
-            Blue water 
+            Blue water
             <label for="bluesea" class="lbl"> </label>
           </div>
 
           <div class="press">
-            <input type="checkbox" id="greenland" class="cbx hidden" onchange="landColor(this.checked)"/>
-            Green land
-            <label for="greenland" class="lbl"> </label>
-          </div>
-
-          <div class="press">
             <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)"/>
-            Show borders 
+            Show borders
             <label for="borders" class="lbl"> </label>
           </div>
 
@@ -79,7 +73,7 @@
 
           <div class="press">
             <input type="checkbox" id="Option4" class="cbx hidden"/>
-            Option4 
+            Option4
             <label for="Option4" class="lbl"> </label>
           </div>
 
@@ -89,7 +83,7 @@
   </div>
 
   <div id="chart"></div>
-  
+
   <!-- D3 library -->
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <!-- Loader -->
@@ -101,7 +95,7 @@
   <!-- Our visualisation app -->
   <script src="src/visualisation.js"></script>
 
-  
+
 
 </body>
 
