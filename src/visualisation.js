@@ -118,11 +118,13 @@ function registerData(name,classname,sources) {
       group.append("circle")
               .attr("class",classname)
               .attr("r", function(d) {
-                return scaleRadius(d.damage_level);
+                return scaleRadius(d.affected_level);
               })
               .style("opacity", function(d) {
-                return scaleOpacity(d.damage_level);
+                return scaleOpacity(d.affected_level);
               })
+              .style("stroke-width", 2)
+              .style("stroke", "black")
     });
   }
   // add to legend
@@ -153,7 +155,7 @@ function convert(d) {
   d.affected = +d.affected;
   d.deaths = +d.deaths;
   d.damage = +d.damage;
-  d.damage_level = +d.damage_level;
+  d.affected_level = +d.affected_level;
   d.lat = +d.lat;
   d.lon = +d.lon;
   /*
