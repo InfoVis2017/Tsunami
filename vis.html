@@ -9,31 +9,27 @@
   <link rel="stylesheet" href="css/switch.css">
   <link rel="stylesheet" href="css/tectonic.css">
   <link rel="stylesheet" href="css/slider.css">
+  <link rel="stylesheet" href="css/materialize.css">
 </head>
 
 <body>
 
   <div id="loader_container"></div>
   <!-- a basic layout-->
-  <div id="main">
-    <div id='main-left' style="display:inline-block">
-      <div id="container"> </div>
-      <!-- simple timeslider -->
-      <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
-        <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
-        <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
-      </form>
-    </div>
 
-    <div style="display:inline-block;vertical-align: top">
-
-        <fieldset style="height:inherit" id="legend">
-          <legend>Disaster type</legend>
+  <div class="dropdown">
+    <button onclick="toggleDropList('typeFilterDropDown')" class="btn">Filter</button>
+      <div id="typeFilterDropDown" class="dropdown-cntnt">
+       <fieldset style="height:inherit" id="legend">
         </fieldset>
+    </div>
+  </div>
 
+
+  <div class="dropdown">
+    <button onclick="toggleDropList('DataDropDown')" class="btn" data-activates="legend">Data Source</button>
+      <div id="DataDropDown" class="dropdown-cntnt">
         <fieldset style="height:inherit;margin-top:30px" id="options">
-          <legend>Options</legend>
-
 
           <label for="emdat">EM-DAT</label>
           <input id="emdat" type="checkbox">
@@ -43,15 +39,13 @@
 
 
         </fieldset>
+    </div>
+  </div>
 
-        <fieldset style="height:inherit;margin-top:30px" id="overlays">
-          <legend>Overlays</legend>
-
-          <div class="press">
-            <input type="checkbox" id="topo" class="cbx hidden"/>
-            Topo
-            <label for="topo" class="lbl"> </label>
-          </div>
+  <div class="dropdown">
+    <button onclick="toggleDropList('ChartOptionsDropDown')" class="btn">Map Options</button>
+      <div id="ChartOptionsDropDown" class="dropdown-cntnt">
+       <fieldset style="height:inherit;margin-top:30px" id="overlays">
 
           <div class="press">
             <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)"/>
@@ -71,18 +65,27 @@
             <label for="tectonic" class="lbl"> </label>
           </div>
 
-          <div class="press">
-            <input type="checkbox" id="Option4" class="cbx hidden"/>
-            Option4
-            <label for="Option4" class="lbl"> </label>
-          </div>
-
         </fieldset>
-
     </div>
   </div>
 
-  <div id="chart"></div>
+
+  <div id="main">
+    <div class='main-left' style="display:inline-block">
+      <div id="container"> </div>
+      <!-- simple timeslider -->
+      <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+        <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+        <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
+      </form>
+    </div>
+
+    <div class="main-right">
+      <div id="chart"></div>
+    </div>
+  </div>
+
+  
 
   <!-- D3 library -->
   <script src="https://d3js.org/d3.v4.min.js"></script>
