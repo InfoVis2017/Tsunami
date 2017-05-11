@@ -8,7 +8,7 @@
   fill: blue;
 }
 
-label.epidemic {
+span.Epidemic {
   color: blue;
 }
 
@@ -16,7 +16,7 @@ label.epidemic {
   fill: yellow;
 }
 
-label.drought {
+span.Drought {
   color: yellow;
 }
 
@@ -24,7 +24,7 @@ label.drought {
   fill: red;
 }
 
-label.earthquake {
+span.Earthquake {
   color: red;
 }
 
@@ -45,7 +45,7 @@ circle.selected.current {
 }
 
 .main-right{
-  float: right;
+  float: left;
 }
 
 
@@ -96,7 +96,7 @@ div.tooltip {
 
 .dropbtn:hover, .dropbtn:focus {
     background-color: #3e8e41;
-    
+
 }
 
 .dropdown {
@@ -104,7 +104,7 @@ div.tooltip {
     display: inline-block;
     margin: 10px;
     margin-right: 50px;
-    
+
 }
 
 .dropdown-cntnt {
