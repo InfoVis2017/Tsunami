@@ -119,14 +119,16 @@ function registerData(name,classname,sources) {
                           return "translate(" + crds[0] + "," + crds[1] + ")";
                         })
                         .on("mouseover", function(d) {
+                          var crds = projection([d.lon,d.lat]);
+                          div.html("<strong>Affected: </strong><span>" + d.affected + "</span>"
+                          + "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>"
+                          + "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
+                             .style("left", crds[0] + "px")
+                             .style("top", crds[1] + "px");
                           div.transition().style("opacity",0.9);
-                          div.html("<strong>Deaths:</strong> <span style='color:red'>" + d.deaths + "</span>"
-                          + "<br><strong>Damage:</strong> <span style='color:red'>" + d.damage + "</span>")
-                             .style("left", (d3.event.pageX) + "px")
-                             .style("top", (d3.event.pageY - 28) + "px");
                         })
                         .on("mouseout", function(d) {
-                          div.transition().style("opacity",0);
+                          div.transition().style("opacity",0)
                         })
                         .on("click", function(d) {addToPinboard(d3.select(this),d)})
 
@@ -164,9 +166,9 @@ function toggle(checkbox,name) {
 }
 
 function convert(d) {
-  d.affected = +d.affected;
   d.deaths = +d.deaths;
   d.damage = +d.damage;
+  d.affected = Math.max(d.deaths, +d.affected);
   d.affected_level = +d.affected_level;
   d.lat = +d.lat;
   d.lon = +d.lon;

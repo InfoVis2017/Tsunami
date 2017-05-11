@@ -5,18 +5,15 @@
 }
 
 .epidemic {
-  fill: cyan;
-  color: cyan;
+  fill: blue;
 }
 
 .drought {
-  fill: brown;
-  color:brown;
+  fill: yellow;
 }
 
 .earthquake {
-  fill: purple;
-  color:purple;
+  fill: red;
 }
 
 circle {
@@ -56,13 +53,12 @@ circle.selected.current {
 
 div.tooltip {
     position: absolute;
-    text-align: center;
-    width: 90px;
-    height: 30px;
+    text-align: left;
+    height: 47px;
     padding: 2px;
-    font: 12px sans-serif;
-    background: darkgray;
-    border: 0px;
-    border-radius: 4px;
+    font: 13px webdings;
+    background: white;
+    border: 2px solid black;
+    border-radius: 5px;
     pointer-events: none;
 }
