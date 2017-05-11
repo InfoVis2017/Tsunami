@@ -15,77 +15,77 @@
 <body>
 
   <div id="loader_container"></div>
-  <!-- a basic layout-->
 
-  <div class="dropdown">
-    <button onclick="toggleDropList('typeFilterDropDown')" class="btn">Filter</button>
-      <div id="typeFilterDropDown" class="dropdown-cntnt">
-       <fieldset style="height:inherit" id="legend">
-        </fieldset>
+  <div id="visWindow">
+
+    <div id="top" style="width:100%">
+      <div class="dropdown">
+        <button onclick="toggleDropList('typeFilterDropDown')" class="btn">Filter</button>
+        <div id="typeFilterDropDown" class="dropdown-cntnt">
+          <fieldset style="height:inherit" id="legend">
+          </fieldset>
+        </div>
+      </div>
+
+
+      <div class="dropdown">
+        <button onclick="toggleDropList('DataDropDown')" class="btn" data-activates="legend">Data Source</button>
+        <div id="DataDropDown" class="dropdown-cntnt">
+          <fieldset style="height:inherit;margin-top:30px" id="options">
+
+            <label for="emdat">EM-DAT</label>
+            <input id="emdat" type="checkbox">
+
+            <label for="emdat">GRID</label>
+            <input id="emdat" type="checkbox">
+
+
+          </fieldset>
+        </div>
+      </div>
+
+      <div class="dropdown">
+        <button onclick="toggleDropList('ChartOptionsDropDown')" class="btn">Map Options</button>
+        <div id="ChartOptionsDropDown" class="dropdown-cntnt">
+          <fieldset style="height:inherit;margin-top:30px" id="overlays">
+
+            <div class="press">
+              <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)" /> Blue water
+              <label for="bluesea" class="lbl"> </label>
+            </div>
+
+            <div class="press">
+              <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)" /> Show borders
+              <label for="borders" class="lbl"> </label>
+            </div>
+
+            <div class="press">
+              <input type="checkbox" id="tectonic" class="cbx hidden" onchange="showTectonic(this.checked)" /> Tectonic plates
+              <label for="tectonic" class="lbl"> </label>
+            </div>
+
+          </fieldset>
+        </div>
+      </div>
+
+    </div>
+
+    <div id="main">
+      <div class='main-left' style="display:inline-block">
+        <div id="container"> </div>
+        <!-- simple timeslider -->
+        <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
+          <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+          <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
+        </form>
+      </div>
+
+      <div class="main-right">
+        <div id="chart"></div>
+      </div>
     </div>
   </div>
 
-
-  <div class="dropdown">
-    <button onclick="toggleDropList('DataDropDown')" class="btn" data-activates="legend">Data Source</button>
-      <div id="DataDropDown" class="dropdown-cntnt">
-        <fieldset style="height:inherit;margin-top:30px" id="options">
-
-          <label for="emdat">EM-DAT</label>
-          <input id="emdat" type="checkbox">
-
-          <label for="emdat">GRID</label>
-          <input id="emdat" type="checkbox">
-
-
-        </fieldset>
-    </div>
-  </div>
-
-  <div class="dropdown">
-    <button onclick="toggleDropList('ChartOptionsDropDown')" class="btn">Map Options</button>
-      <div id="ChartOptionsDropDown" class="dropdown-cntnt">
-       <fieldset style="height:inherit;margin-top:30px" id="overlays">
-
-          <div class="press">
-            <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)"/>
-            Blue water
-            <label for="bluesea" class="lbl"> </label>
-          </div>
-
-          <div class="press">
-            <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)"/>
-            Show borders
-            <label for="borders" class="lbl"> </label>
-          </div>
-
-          <div class="press">
-            <input type="checkbox" id="tectonic" class="cbx hidden" onchange="showTectonic(this.checked)"/>
-            Tectonic plates
-            <label for="tectonic" class="lbl"> </label>
-          </div>
-
-        </fieldset>
-    </div>
-  </div>
-
-
-  <div id="main">
-    <div class='main-left' style="display:inline-block">
-      <div id="container"> </div>
-      <!-- simple timeslider -->
-      <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
-        <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
-        <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output>
-      </form>
-    </div>
-
-    <div class="main-right">
-      <div id="chart"></div>
-    </div>
-  </div>
-
-  
 
   <!-- D3 library -->
   <script src="https://d3js.org/d3.v4.min.js"></script>
