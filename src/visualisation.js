@@ -94,6 +94,21 @@ function scaleOpacity(damagelevel) {
   }
 }
 
+function scaleStrokeWidth(damagelevel) {
+  switch(damagelevel) {
+      case 1: return 0
+      case 2: return 1
+      case 3: return 1
+      case 4: return 3
+  }
+}
+
+function scaleOnAffected(scaler) {
+  return function(d) {
+    return scaler(d.affected_level);
+  }
+}
+
 function registerData(name,classname,sources) {
   for(var i = 0; i < sources.length; ++i) {
     d3.csv(sources[i], convert, function(err,data) {
@@ -117,14 +132,11 @@ function registerData(name,classname,sources) {
 
       group.append("circle")
               .attr("class",classname)
-              .attr("r", function(d) {
-                return scaleRadius(d.affected_level);
-              })
-              .style("opacity", function(d) {
-                return scaleOpacity(d.affected_level);
-              })
-              .style("stroke-width", 2)
-              .style("stroke", "black")
+              .attr("r", scaleOnAffected(scaleRadius))
+              .style("opacity", scaleOnAffected(scaleOpacity))
+              .style("stroke-width", scaleOnAffected(scaleStrokeWidth))
+              .style("stroke-opacity", scaleOnAffected(scaleOpacity))
+              .style("stroke", "black");
     });
   }
   // add to legend
