@@ -1,4 +1,4 @@
-affected,end_date,deaths,lon,damage,lat,start_date,death_level,affected_level, damage_level
+affected,end_date,deaths,lon,damage,lat,start_date,death_level,affected_level,damage_level
 0,02/02/2015,0,19.7277546,0,40.6100328,31/01/2015,1,1,1
 0,02/06/2004,0,13.1888598,0,-8.9214152,01/02/2004,1,1,1
 0,01/02/2001,0,153.0167393,0,-30.1335026,01/02/2001,1,1,1

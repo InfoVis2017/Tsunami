@@ -1,4 +1,4 @@
-startLoadScreen();
+//startLoadScreen();
 
 /* setup the dimensions */
 var margin = { top: 50, bottom: 50, left: 50, right: 50 },
@@ -46,7 +46,7 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     .enter().append("path")
       .attr("class", "country")
       .attr("d", path)
-      .on("mouseover",function(){ 
+      .on("mouseover",function(){
         var country = d3.select(this);
         var originalwidth =  country.style("stroke-width");
         country.style("stroke-width",originalwidth + 0.5);
@@ -57,22 +57,42 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
         country.style("stroke-width",originalwidth - 0.5);});
 
   /* setup disasters (cf. inf.) */
-  registerData("Drought","drought",["/data/disasters/emdat/drought.csv"])
-  registerData("Earthquake","earthquake",["/data/disasters/emdat/earthquakes.csv"])
-  registerData("Epidemic","epidemic",["/data/disasters/emdat/epidemic.csv"])
-  registerData("Extreme Temperature","temperature",["/data/disasters/emdat/extreme-temperature.csv"]);
-  registerData("Floods","flood",["/data/disasters/emdat/floods.csv"]);
-  registerData("Insects","insects",["/data/disasters/emdat/insects.csv"]);
-  registerData("Landslide","landslide",["/data/disasters/emdat/landslide.csv"]);
-  registerData("Mass Movement","mass",["/data/disasters/emdat/mass-movement.csv"]);
-  registerData("Storms","storm",["/data/disasters/emdat/storms.csv"]);
+  registerData("Drought","drought",["/data/disasters/emdat-leveled/drought.csv"])
+  registerData("Earthquake","earthquake",["/data/disasters/emdat-leveled/earthquakes.csv"])
+  registerData("Epidemic","epidemic",["/data/disasters/emdat-leveled/epidemic.csv"])
+  registerData("Extreme Temperature","temperature",["/data/disasters/emdat-leveled/extreme-temperature.csv"]);
+  registerData("Floods","flood",["/data/disasters/emdat-leveled/floods.csv"]);
+  registerData("Insects","insects",["/data/disasters/emdat-leveled/insects.csv"]);
+  registerData("Landslide","landslide",["/data/disasters/emdat-leveled/landslide.csv"]);
+  registerData("Mass Movement","mass",["/data/disasters/emdat-leveled/mass-movement.csv"]);
+  registerData("Storms","storm",["/data/disasters/emdat-leveled/storms.csv"]);
 });
 
 /** DISASTERS **/
 
-var scale = d3.scaleLinear()
-              .domain([0,1000000])    // scale from #affected persons
-              .range([0.5,1]);       // to predetermined minimum/maximum radius
+// setup an invisible tooltip
+var div = d3.select("body")
+            .append("div")
+              .attr("class", "tooltip")
+              .style("opacity", 0);
+
+function scaleRadius(damagelevel) {
+  switch(damagelevel) {
+      case 1: return 5
+      case 2: return 10
+      case 3: return 10
+      case 4: return 15
+  }
+}
+
+function scaleOpacity(damagelevel) {
+  switch(damagelevel) {
+      case 1: return 0.5
+      case 2: return 0.75
+      case 3: return 0.75
+      case 4: return 1
+  }
+}
 
 function registerData(name,classname,sources) {
   for(var i = 0; i < sources.length; ++i) {
@@ -83,17 +103,26 @@ function registerData(name,classname,sources) {
                           var crds = projection([d.lon,d.lat]);
                           return "translate(" + crds[0] + "," + crds[1] + ")";
                         })
-                        .on("mouseover", function(d) {showDetails(d3.select(this),d)})
-                        .on("mouseout", function(d) {hideDetails(d3.select(this),d)})
+                        .on("mouseover", function(d) {
+                          div.transition().style("opacity",0.9);
+                          div.html("<strong>Deaths:</strong> <span style='color:red'>" + d.deaths + "</span>"
+                          + "<br><strong>Damage:</strong> <span style='color:red'>" + d.damage + "</span>")
+                             .style("left", (d3.event.pageX) + "px")
+                             .style("top", (d3.event.pageY - 28) + "px");
+                        })
+                        .on("mouseout", function(d) {
+                          div.transition().style("opacity",0);
+                        })
                         .on("click", function(d) {addToPinboard(d3.select(this),d)})
 
       group.append("circle")
               .attr("class",classname)
-              .attr("r", 10)                  // radius is fixed
+              .attr("r", function(d) {
+                return scaleRadius(d.damage_level);
+              })
               .style("opacity", function(d) {
-                return scale(d.deaths);
-              });
-
+                return scaleOpacity(d.damage_level);
+              })
     });
   }
   // add to legend
@@ -124,6 +153,7 @@ function convert(d) {
   d.affected = +d.affected;
   d.deaths = +d.deaths;
   d.damage = +d.damage;
+  d.damage_level = +d.damage_level;
   d.lat = +d.lat;
   d.lon = +d.lon;
   /*
@@ -214,14 +244,14 @@ var chartLocation = d3.select("#chart")
                       .append("svg")
                       .attr("id", "graph")
                       .attr("height", height + margin.top + margin.bottom)
-                      .attr("width", width + margin.left + margin.right);   
+                      .attr("width", width + margin.left + margin.right);
 
 var x = d3.scaleBand().rangeRound([0, width]).paddingInner(0.05);
     y = d3.scaleLinear().rangeRound([height, 0]);
 
 var chart = chartLocation.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-    
+
 var ChartData = []
 
 chart.append("g")
@@ -229,7 +259,7 @@ chart.append("g")
       .attr("class", "axis axis--x")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x));
-      
+
 chart.append("g")
       .attr("id","yaxis")
       .attr("class", "axis axis--y")
@@ -245,15 +275,15 @@ chart.append("g")
 function reDrawChart() {
   x.domain(d3.range(0,ChartData.length));
   y.domain([0, d3.max(ChartData, function(d) { return d.y })]);
-  
+
 //  d3.select("#xaxis").call(d3.axisBottom(x).ticks(ChartData.length))
   d3.select("#yaxis").call(d3.axisLeft(y).ticks(10))
-  
+
  var bars = chart.selectAll(".bar").data(ChartData)
- 
- //Remove  
+
+ //Remove
  bars.exit().remove();
-  
+
  //Update
  bars.transition()
               .attr("class", "bar")
@@ -261,8 +291,8 @@ function reDrawChart() {
               .attr("y", function(d) { return y(d.y);})
               .attr("width", function(d,i) { return x.bandwidth(i);})
               .attr("height", function(d) { return height - y(d.y);});
-    
-  //Add  
+
+  //Add
   bars.enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d,i) { return x(i); })
@@ -276,8 +306,8 @@ function reDrawChart() {
       .on("mouseout",function(d) {d.circle.select("circle")
                                         .transition()
                                         .attr("r",10);});
- 
-   
+
+
 };
 
 var globalCounter = 0;
@@ -299,21 +329,12 @@ reDrawChart();
 ///                                 Overlays                                 ////
 /////////////////////////////////////////////////////////////////////////////////
 
-function seaColor(value){ 
+function seaColor(value){
   if(value){
       svg.attr("class","bluesea");
   }
   else {
       svg.attr("class","nosea");
-  }
-}
-
-function landColor(value){
-  if(value){
-    g.selectAll('.country').style('fill','rgb(171, 221, 164)').style('fill-opacity', 1);
-  }
-  else {
-    g.selectAll('.country').style('fill-opacity', 0);
   }
 }
 
@@ -333,7 +354,6 @@ function showTectonic(bool){
   }
 }
 
-
 /*Add tectonic overlay*/
 
 d3.json('/data/topology/tectonics.json', function(err, data) {
@@ -345,4 +365,4 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 
 });
 
-endLoadScreen();
+//endLoadScreen();
