@@ -1,4 +1,4 @@
-startLoadScreen();
+//startLoadScreen();
 
 /* setup the dimensions */
 var margin = { top: 50, bottom: 50, left: 50, right: 50 },
@@ -46,7 +46,7 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     .enter().append("path")
       .attr("class", "country")
       .attr("d", path)
-      .on("mouseover",function(){ 
+      .on("mouseover",function(){
         var country = d3.select(this);
         var originalwidth =  country.style("stroke-width");
         country.style("stroke-width",originalwidth + 0.5);
@@ -70,9 +70,16 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
 
 /** DISASTERS **/
 
+// setup an invisible tooltip
+var div = d3.select("body")
+            .append("div")
+              .attr("class", "tooltip")
+              .style("opacity", 0);
+
 var scale = d3.scaleLinear()
-              .domain([0,1000000])    // scale from #affected persons
-              .range([0.5,1]);       // to predetermined minimum/maximum radius
+              .domain([0,1000])    // scale from #affected persons
+              .range([3,10])      // to predetermined minimum/maximum radius
+              .clamp(true);
 
 function registerData(name,classname,sources) {
   for(var i = 0; i < sources.length; ++i) {
@@ -83,16 +90,23 @@ function registerData(name,classname,sources) {
                           var crds = projection([d.lon,d.lat]);
                           return "translate(" + crds[0] + "," + crds[1] + ")";
                         })
-                        .on("mouseover", function(d) {showDetails(d3.select(this),d)})
-                        .on("mouseout", function(d) {hideDetails(d3.select(this),d)})
+                        .on("mouseover", function(d) {
+                          div.transition().style("opacity",0.9);
+                          div.html("<strong>Deaths:</strong> <span style='color:red'>" + d.deaths + "</span>"
+                          + "<br><strong>Damage:</strong> <span style='color:red'>" + d.damage + "</span>")
+                             .style("left", (d3.event.pageX) + "px")
+                             .style("top", (d3.event.pageY - 28) + "px");
+                        })
+                        .on("mouseout", function(d) {
+                          div.transition().style("opacity",0);
+                        })
                         .on("click", function(d) {addToPinboard(d3.select(this),d)})
 
       group.append("circle")
               .attr("class",classname)
-              .attr("r", 10)                  // radius is fixed
-              .style("opacity", function(d) {
-                return scale(d.deaths);
-              });
+              .attr("r", function(d) {
+                return scale(d.deaths)
+              })
 
     });
   }
@@ -214,14 +228,14 @@ var chartLocation = d3.select("#chart")
                       .append("svg")
                       .attr("id", "graph")
                       .attr("height", height + margin.top + margin.bottom)
-                      .attr("width", width + margin.left + margin.right);   
+                      .attr("width", width + margin.left + margin.right);
 
 var x = d3.scaleBand().rangeRound([0, width]).paddingInner(0.05);
     y = d3.scaleLinear().rangeRound([height, 0]);
 
 var chart = chartLocation.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-    
+
 var ChartData = []
 
 chart.append("g")
@@ -229,7 +243,7 @@ chart.append("g")
       .attr("class", "axis axis--x")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x));
-      
+
 chart.append("g")
       .attr("id","yaxis")
       .attr("class", "axis axis--y")
@@ -245,15 +259,15 @@ chart.append("g")
 function reDrawChart() {
   x.domain(d3.range(0,ChartData.length));
   y.domain([0, d3.max(ChartData, function(d) { return d.y })]);
-  
+
 //  d3.select("#xaxis").call(d3.axisBottom(x).ticks(ChartData.length))
   d3.select("#yaxis").call(d3.axisLeft(y).ticks(10))
-  
+
  var bars = chart.selectAll(".bar").data(ChartData)
- 
- //Remove  
+
+ //Remove
  bars.exit().remove();
-  
+
  //Update
  bars.transition()
               .attr("class", "bar")
@@ -261,8 +275,8 @@ function reDrawChart() {
               .attr("y", function(d) { return y(d.y);})
               .attr("width", function(d,i) { return x.bandwidth(i);})
               .attr("height", function(d) { return height - y(d.y);});
-    
-  //Add  
+
+  //Add
   bars.enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d,i) { return x(i); })
@@ -276,8 +290,8 @@ function reDrawChart() {
       .on("mouseout",function(d) {d.circle.select("circle")
                                         .transition()
                                         .attr("r",10);});
- 
-   
+
+
 };
 
 var globalCounter = 0;
@@ -299,7 +313,7 @@ reDrawChart();
 ///                                 Overlays                                 ////
 /////////////////////////////////////////////////////////////////////////////////
 
-function seaColor(value){ 
+function seaColor(value){
   if(value){
       svg.attr("class","bluesea");
   }
@@ -345,4 +359,4 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 
 });
 
-endLoadScreen();
+//endLoadScreen();
