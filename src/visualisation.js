@@ -338,15 +338,6 @@ function seaColor(value){
   }
 }
 
-function landColor(value){
-  if(value){
-    g.selectAll('.country').style('fill','rgb(171, 221, 164)').style('fill-opacity', 1);
-  }
-  else {
-    g.selectAll('.country').style('fill-opacity', 0);
-  }
-}
-
 function showBorders(value){
   if(value){
     g.selectAll(".country").style("stroke-width",0.5);
@@ -362,7 +353,6 @@ function showTectonic(bool){
     g.selectAll('.tectonic').style("opacity",0);
   }
 }
-
 
 /*Add tectonic overlay*/
 
