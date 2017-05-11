@@ -142,19 +142,24 @@ function registerData(name,classname,sources) {
     });
   }
   // add to legend
-  d3.select("#legend")
-    .append("label")
-      .attr("class",classname)
-      .text(name)
-      .append("input")
-        .attr("type","checkbox")
-        .on("change",function(d) {
-          toggle(this,classname);
-          refreshYear();
-        });
+  
+  var divke = d3.select("#legend")
+    .append("div")
+      .attr("class","press")
 
-  d3.select("#legend")
-      .append("br");
+  divke.append("label")
+      .attr("class","lbl " +classname)
+      .text(name)
+      .attr("for",name)
+
+  divke.append("input")
+      .attr("type","checkbox")
+      .attr("class","cbx hidden")
+      .attr("id",name)
+      .on("change",function(d) {
+        toggle(this,classname);
+        refreshYear();
+      });
 }
 
 function toggle(checkbox,name) {
@@ -385,3 +390,18 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 function toggleDropList(id){
   document.getElementById(id).classList.toggle("show");
 };
+
+
+window.onclick = function(event) {
+  if (!event.target.matches('.btn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-cntnt");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}

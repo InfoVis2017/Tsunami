@@ -8,12 +8,24 @@
   fill: blue;
 }
 
+label.epidemic {
+  color: blue;
+}
+
 .drought {
   fill: yellow;
 }
 
+label.drought {
+  color: yellow;
+}
+
 .earthquake {
   fill: red;
+}
+
+label.earthquake {
+  color: red;
 }
 
 circle {
@@ -91,6 +103,7 @@ div.tooltip {
     position: relative;
     display: inline-block;
     margin: 10px;
+    margin-right: 50px;
     
 }
 
