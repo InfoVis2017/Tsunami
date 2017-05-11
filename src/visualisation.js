@@ -57,15 +57,15 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
         country.style("stroke-width",originalwidth - 0.5);});
 
   /* setup disasters (cf. inf.) */
-  registerData("Drought","drought",["/data/disasters/emdat/drought.csv"])
-  registerData("Earthquake","earthquake",["/data/disasters/emdat/earthquakes.csv"])
-  registerData("Epidemic","epidemic",["/data/disasters/emdat/epidemic.csv"])
-  registerData("Extreme Temperature","temperature",["/data/disasters/emdat/extreme-temperature.csv"]);
-  registerData("Floods","flood",["/data/disasters/emdat/floods.csv"]);
-  registerData("Insects","insects",["/data/disasters/emdat/insects.csv"]);
-  registerData("Landslide","landslide",["/data/disasters/emdat/landslide.csv"]);
-  registerData("Mass Movement","mass",["/data/disasters/emdat/mass-movement.csv"]);
-  registerData("Storms","storm",["/data/disasters/emdat/storms.csv"]);
+  registerData("Drought","drought",["/data/disasters/emdat-leveled/drought.csv"])
+  registerData("Earthquake","earthquake",["/data/disasters/emdat-leveled/earthquakes.csv"])
+  registerData("Epidemic","epidemic",["/data/disasters/emdat-leveled/epidemic.csv"])
+  registerData("Extreme Temperature","temperature",["/data/disasters/emdat-leveled/extreme-temperature.csv"]);
+  registerData("Floods","flood",["/data/disasters/emdat-leveled/floods.csv"]);
+  registerData("Insects","insects",["/data/disasters/emdat-leveled/insects.csv"]);
+  registerData("Landslide","landslide",["/data/disasters/emdat-leveled/landslide.csv"]);
+  registerData("Mass Movement","mass",["/data/disasters/emdat-leveled/mass-movement.csv"]);
+  registerData("Storms","storm",["/data/disasters/emdat-leveled/storms.csv"]);
 });
 
 /** DISASTERS **/
@@ -76,10 +76,23 @@ var div = d3.select("body")
               .attr("class", "tooltip")
               .style("opacity", 0);
 
-var scale = d3.scaleLinear()
-              .domain([0,1000])    // scale from #affected persons
-              .range([3,10])      // to predetermined minimum/maximum radius
-              .clamp(true);
+function scaleRadius(damagelevel) {
+  switch(damagelevel) {
+      case 1: return 5
+      case 2: return 10
+      case 3: return 10
+      case 4: return 15
+  }
+}
+
+function scaleOpacity(damagelevel) {
+  switch(damagelevel) {
+      case 1: return 0.5
+      case 2: return 0.75
+      case 3: return 0.75
+      case 4: return 1
+  }
+}
 
 function registerData(name,classname,sources) {
   for(var i = 0; i < sources.length; ++i) {
@@ -105,9 +118,11 @@ function registerData(name,classname,sources) {
       group.append("circle")
               .attr("class",classname)
               .attr("r", function(d) {
-                return scale(d.deaths)
+                return scaleRadius(d.damage_level);
               })
-
+              .style("opacity", function(d) {
+                return scaleOpacity(d.damage_level);
+              })
     });
   }
   // add to legend
@@ -138,6 +153,7 @@ function convert(d) {
   d.affected = +d.affected;
   d.deaths = +d.deaths;
   d.damage = +d.damage;
+  d.damage_level = +d.damage_level;
   d.lat = +d.lat;
   d.lon = +d.lon;
   /*
