@@ -10,6 +10,33 @@
     float: right;
 }
 
+.cbx:checked ~ label.drought {
+	background: yellow;
+}
+
+.cbx:checked ~ label.drought:after {
+	left: 20px;
+	background: yellow;
+}
+
+.cbx:checked ~ label.earthquake {
+	background: red;
+}
+
+.cbx:checked ~ label.earthquake:after {
+	left: 20px;
+	background: darkred;
+}
+
+.cbx:checked ~ label.epidemic {
+	background: blue;
+}
+
+.cbx:checked ~ label.epidemic:after {
+	left: 20px;
+	background: darkblue;
+}
+
 .lbl:after {
 	position: absolute;
 	left: -2px;

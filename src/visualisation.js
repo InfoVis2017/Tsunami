@@ -174,7 +174,6 @@ function registerData(name, classname, sources) {
     });
 
   divke.append("span")
-    .attr("class", name)
     .html(name);
 
   divke.append("label")
@@ -241,47 +240,6 @@ function excludeData(name) {
     .classed("selected", false);
 }
 
-function showDetails(disaster, d) {
-
-  disaster.select("circle")
-    .transition()
-    .attr("r", 40)
-    .style("opacity", 1)
-
-  /*
-    disaster.append("text")
-          .style("pointer-events","none")
-          .html("Deaths:" + d.deaths + "&#10;" +
-                "Economic Damage:" + d.damage + "<br>" +
-                "coordinates: x=" + d.lon + " y=" + d.lat)
-  */
-
-  disaster.append("g").attr("transform", "translate(-30,-20)")
-    .append("image")
-    .style("pointer-events", "none")
-    .attr("xlink:href", "skull.svg")
-    .attr("width", 24)
-    .attr("height", 24)
-
-  disaster.append("g").attr("transform", "translate(-2,-5)")
-    .append("text")
-    .classed("detail", true)
-    .style("pointer-events", "none")
-    .style("fill", "none")
-    .html(d.deaths)
-}
-
-function hideDetails(disaster, d) {
-  disaster.select("circle")
-    .transition()
-    .attr("r", 10)
-    .style("opacity", function(d) {
-      return scale(d.deaths);
-    })
-
-  disaster.selectAll("g").remove()
-}
-
 /////////////////////////////////////////////////////////////////////////////////
 ///                                 Chart                                    ////
 /////////////////////////////////////////////////////////////////////////////////
@@ -293,7 +251,7 @@ var chartLocation = d3.select("#chart")
   .attr("width", width + margin.left + margin.right);
 
 var x = d3.scaleBand().rangeRound([0, width]).paddingInner(0.05);
-y = d3.scaleLinear().rangeRound([height, 0]);
+var y = d3.scaleLinear().rangeRound([height, 0]);
 
 var chart = chartLocation.append("g")
   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
