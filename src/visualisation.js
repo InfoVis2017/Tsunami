@@ -152,7 +152,7 @@ function registerData(name, classname, sources) {
           div.transition().style("opacity", 0)
         })
         .on("click", function(d) {
-          addToPinboard(d3.select(this), d)
+          addToPinboard(d3.select(this), d, classname)
         })
 
       group.append("circle")
@@ -296,7 +296,9 @@ chart.append("g")
   .attr("fill", "black");
 
 function reDrawChart() {
-  x.domain(d3.range(0, ChartData.length));
+
+  var barCount = Math.max(ChartData.length,5);
+  x.domain(d3.range(0, barCount));
   y.domain([0, d3.max(ChartData, function(d) {
     return d.y
   })]);
@@ -311,7 +313,6 @@ function reDrawChart() {
 
   //Update
   bars.transition()
-    .attr("class", "bar")
     .attr("x", function(d, i) {
       return x(i);
     })
@@ -322,12 +323,15 @@ function reDrawChart() {
       return x.bandwidth(i);
     })
     .attr("height", function(d) {
-      return height - y(d.y);
+      return chartHeight - y(d.y);
     });
 
   //Add
   bars.enter().append("rect")
-    .attr("class", "bar")
+    .attr("class", function(d) {
+      return d.class;
+    })
+    .classed("bar", true)
     .attr("x", function(d, i) {
       return x(i);
     })
@@ -338,20 +342,20 @@ function reDrawChart() {
       return x.bandwidth(i);
     })
     .attr("height", function(d) {
-      return height - y(d.y);
+      return chartHeight - y(d.y);
     })
     .on("click", function(d) {
-      removeFromPinboard(d)
+      d.circle.select("circle").transition()
+        .attr("r", scaleOnAffected(scaleRadius));
+      removeFromPinboard(d);
     })
     .on("mouseover", function(d) {
-      d.circle.select("circle")
-        .transition()
-        .attr("r", 50);
+      d.circle.select("circle").transition()
+        .attr("r", 40);
     })
     .on("mouseout", function(d) {
-      d.circle.select("circle")
-        .transition()
-        .attr("r", 10);
+      d.circle.select("circle").transition()
+        .attr("r", scaleOnAffected(scaleRadius));
     });
 
 
@@ -359,14 +363,15 @@ function reDrawChart() {
 
 var globalCounter = 0;
 
-function addToPinboard(groupElement, data) {
+function addToPinboard(groupElement, data, classname) {
   var newbar = {
     id: globalCounter,
     y: Math.floor(Math.random() * 3000),
-    circle: groupElement
+    circle: groupElement,
+    class: classname
   };
   globalCounter = globalCounter + 1;
-  ChartData.push(newbar)
+  ChartData.push(newbar);
   reDrawChart();
 };
 
@@ -377,7 +382,7 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 
-//reDrawChart();
+reDrawChart();
 
 /////////////////////////////////////////////////////////////////////////////////
 ///                                 Overlays                                 ////
