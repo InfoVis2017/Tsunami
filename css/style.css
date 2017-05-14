@@ -5,27 +5,51 @@
 }
 
 .epidemic {
-  fill: blue;
+  fill: rgb(155,155,155);
 }
 
 span.Epidemic {
-  color: blue;
+  color: rgb(155,155,155);
 }
 
 .drought {
-  fill: yellow;
+  fill: rgb(248,166,98);
 }
 
 span.Drought {
-  color: yellow;
+  fill: rgb(248,166,98);
 }
 
 .earthquake {
-  fill: red;
+  fill: rgb(204,112,91);
 }
 
 span.Earthquake {
-  color: red;
+  color: rgb(204,112,91);
+}
+
+.flood {
+  fill: rgb(93,156,210);
+}
+
+span.flood {
+  color: rgb(93,156,210);
+}
+
+.storm {
+  fill: rgb(157,105,169);
+}
+
+span.storm {
+  color: rgb(157,105,169);
+}
+
+.landslide {
+  fill: rgb(239,91,99);
+}
+
+span.landslide {
+  color: rgb(239,91,99);
 }
 
 circle {
@@ -37,7 +61,7 @@ circle.selected.current {
 }
 
 #map {
-  border:2px solid #000;
+  border:0px solid #000;
 }
 
 .main-left{
@@ -47,7 +71,6 @@ circle.selected.current {
 .main-right{
   float: left;
 }
-
 
 .timeslider{
     margin: 30px auto 0 300px;
@@ -75,7 +98,6 @@ circle.selected.current {
 div.tooltip {
     position: absolute;
     text-align: left;
-    height: 47px;
     padding: 2px;
     font: 13px verdana;
     background: white;

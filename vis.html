@@ -19,8 +19,11 @@
   <div id="visWindow">
 
     <div id="main">
+
       <div class='main-left' style="display:inline-block">
+
         <div id="container"> </div>
+
         <!-- simple timeslider -->
         <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)">
           <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
@@ -29,34 +32,45 @@
 
         <div>
 
-          <fieldset style="height:inherit;display:inline-block" id="legend"></fieldset>
 
-          <fieldset style="height:inherit;margin-top:30px;display:inline-block" id="overlays">
-
-            <div class="press">
-              <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)" /> Blue water
-              <label for="bluesea" class="lbl"> </label>
-            </div>
-
-            <div class="press">
-              <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)" /> Show borders
-              <label for="borders" class="lbl"> </label>
-            </div>
-
-            <div class="press">
-              <input type="checkbox" id="tectonic" class="cbx hidden" onchange="showTectonic(this.checked)" /> Tectonic plates
-              <label for="tectonic" class="lbl"> </label>
-            </div>
-
-          </fieldset>
 
         </div>
 
       </div>
 
       <div class="main-right" style="display:inline-block">
+
+        <div id="legend" style="margin-top:10%">
+          <div style="width:10%;display:inline-block"></div>
+          <div style="width:35%;display:inline-block" id="legend-left"></div>
+          <div style="width:10%;display:inline-block"></div>
+          <div style="width:35%;display:inline-block" id="legend-right"></div>
+          <div style="width:10%;display:inline-block"></div>
+        </div>
+
         <div id="chart"></div>
+
+        <div id="overlays" style="margin-top:10%;display:inline-block">
+
+          <div class="press" style="float:left;margin-left:20px">
+            <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)" /> Blue water
+            <label for="bluesea" class="lbl"> </label>
+          </div>
+
+          <div class="press" style="float:left;margin-left:20px">
+            <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)" /> Show borders
+            <label for="borders" class="lbl"> </label>
+          </div>
+
+          <div class="press" style="float:left;margin-left:20px">
+            <input type="checkbox" id="tectonic" class="cbx hidden" onchange="showTectonic(this.checked)" /> Tectonic plates
+            <label for="tectonic" class="lbl"> </label>
+          </div>
+
       </div>
+
+    </div>
+
   </div>
 
 

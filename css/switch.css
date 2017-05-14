@@ -11,30 +11,57 @@
 }
 
 .cbx:checked ~ label.drought {
-	background: yellow;
+	background: rgb(248,166,98);
 }
 
 .cbx:checked ~ label.drought:after {
 	left: 20px;
-	background: yellow;
+	background: rgb(208,126,58);
 }
 
 .cbx:checked ~ label.earthquake {
-	background: red;
+	background: rgb(204,112,91);
 }
 
 .cbx:checked ~ label.earthquake:after {
 	left: 20px;
-	background: darkred;
+	background: rgb(164,72,51);
 }
 
 .cbx:checked ~ label.epidemic {
-	background: blue;
+	background: rgb(155,155,155);
 }
 
 .cbx:checked ~ label.epidemic:after {
 	left: 20px;
-	background: darkblue;
+	background: rgb(115,115,115);
+}
+
+.cbx:checked ~ label.flood {
+	background: rgb(93,156,210);
+}
+
+.cbx:checked ~ label.flood:after {
+	left: 20px;
+	background: rgb(53,116,170);
+}
+
+.cbx:checked ~ label.storm {
+	background: rgb(157,105,169);
+}
+
+.cbx:checked ~ label.storm:after {
+	left: 20px;
+	background: rgb(117,65,129);
+}
+
+.cbx:checked ~ label.landslide {
+	background: rgb(239,91,99);
+}
+
+.cbx:checked ~ label.landslide:after {
+	left: 20px;
+	background: rgb(199,51,59);
 }
 
 .lbl:after {

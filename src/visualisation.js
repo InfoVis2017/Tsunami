@@ -1,5 +1,8 @@
 //startLoadScreen();
 
+var aspectRatio = 3/4     // standard aspect ratio
+var mapSize = 0.65        // 65% of screen width for map
+
 /* setup the dimensions */
 var margin = {
     top: 50,
@@ -7,8 +10,8 @@ var margin = {
     left: 50,
     right: 50
   },
-  width = (0.45 * window.innerWidth) - margin.left - margin.right,
-  height = 600 - margin.top - margin.bottom;
+  width = (mapSize * window.innerWidth) - margin.left - margin.right,
+  height = aspectRatio * width - margin.top - margin.bottom;
 
 /* setup the projection and path generator */
 var projection = d3.geoMercator()
@@ -66,7 +69,7 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
   //registerData("Extreme Temperature", "temperature", ["/data/disasters/emdat-leveled/extreme-temperature.csv"]);
   registerData("Floods", "flood", ["/data/disasters/emdat-leveled/floods.csv"]);
   //registerData("Insects", "insects", ["/data/disasters/emdat-leveled/insects.csv"]);
-  //registerData("Landslide", "landslide", ["/data/disasters/emdat-leveled/landslide.csv"]);
+  registerData("Landslide", "landslide", ["/data/disasters/emdat-leveled/landslide.csv"]);
   //registerData("Mass Movement", "mass", ["/data/disasters/emdat-leveled/mass-movement.csv"]);
   registerData("Storms", "storm", ["/data/disasters/emdat-leveled/storms.csv"]);
 });
@@ -124,7 +127,10 @@ function scaleOnAffected(scaler) {
   }
 }
 
+var leftLegend = true;
+
 function registerData(name, classname, sources) {
+
   for (var i = 0; i < sources.length; ++i) {
     d3.csv(sources[i], convert, function(err, data) {
       var group = g.selectAll("." + classname)
@@ -158,9 +164,12 @@ function registerData(name, classname, sources) {
         .style("stroke", "black");
     });
   }
+
   // add to legend
 
-  var divke = d3.select("#legend").append("div");
+  var currentLegend = (leftLegend? "#legend-left" : "#legend-right");
+  leftLegend = !leftLegend; // switch to other side for next item
+  var divke = d3.select(currentLegend).append("div");
 
   divke.attr("class", "press");
 
@@ -244,24 +253,34 @@ function excludeData(name) {
 ///                                 Chart                                    ////
 /////////////////////////////////////////////////////////////////////////////////
 
+var chartWidth = (0.9 - mapSize) * window.innerWidth;
+var chartHeight = 0.5 * (height + margin.top + margin.bottom);
+
+var chartMargin = {
+  top: 20,
+  bottom: 20,
+  left: 60,
+  right: 20
+}
+
 var chartLocation = d3.select("#chart")
   .append("svg")
   .attr("id", "graph")
-  .attr("height", height + margin.top + margin.bottom)
-  .attr("width", width + margin.left + margin.right);
+  .attr("width", chartWidth + chartMargin.left + chartMargin.right)
+  .attr("height", chartHeight + chartMargin.top + chartMargin.bottom);
 
-var x = d3.scaleBand().rangeRound([0, width]).paddingInner(0.05);
-var y = d3.scaleLinear().rangeRound([height, 0]);
+var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.05);
+var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
 var chart = chartLocation.append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
 
 var ChartData = []
 
 chart.append("g")
-  // .attr("id","xaxis")
+  .attr("id", "xaxis")
   .attr("class", "axis axis--x")
-  .attr("transform", "translate(0," + height + ")")
+  .attr("transform", "translate(0," + chartHeight + ")")
   .call(d3.axisBottom(x));
 
 chart.append("g")
@@ -357,7 +376,8 @@ function removeFromPinboard(data) {
   })
   reDrawChart();
 }
-reDrawChart();
+
+//reDrawChart();
 
 /////////////////////////////////////////////////////////////////////////////////
 ///                                 Overlays                                 ////
