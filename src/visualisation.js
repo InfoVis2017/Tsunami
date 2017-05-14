@@ -22,12 +22,22 @@ var path = d3.geoPath()
   .projection(projection);
 
 var zoom = d3.zoom()
-  .scaleExtent([1, 10])
+  .scaleExtent([1, 30])
   .on("zoom", zoomed);
 
+var scale = 1;
 function zoomed() {
+  scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
+  updateSelection();
 }
+
+function updateSelection() {
+  g.selectAll("circle.current.selected")
+    .attr("r", function(d) { return d.rad / scale })
+    .style("stroke-width", function(d) { return d.stw / scale });
+}
+
 /* setup the basic elements */
 var svg = d3.select("#container")
   .append("svg")
@@ -63,15 +73,15 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     });
 
   /* setup disasters (cf. inf.) */
-  registerData("Drought", "drought", ["/data/disasters/emdat-leveled/drought.csv"])
-  registerData("Earthquake", "earthquake", ["/data/disasters/emdat-leveled/earthquakes.csv"])
-  registerData("Epidemic", "epidemic", ["/data/disasters/emdat-leveled/epidemic.csv"])
-  //registerData("Extreme Temperature", "temperature", ["/data/disasters/emdat-leveled/extreme-temperature.csv"]);
-  registerData("Floods", "flood", ["/data/disasters/emdat-leveled/floods.csv"]);
-  //registerData("Insects", "insects", ["/data/disasters/emdat-leveled/insects.csv"]);
-  registerData("Landslide", "landslide", ["/data/disasters/emdat-leveled/landslide.csv"]);
-  //registerData("Mass Movement", "mass", ["/data/disasters/emdat-leveled/mass-movement.csv"]);
-  registerData("Storms", "storm", ["/data/disasters/emdat-leveled/storms.csv"]);
+  registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv")
+  registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv")
+  registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv")
+  //registerData("Extreme Temperature", "temperature", "/data/disasters/emdat-leveled/extreme-temperature.csv");
+  registerData("Floods", "flood", "/data/disasters/emdat-leveled/floods.csv");
+  //registerData("Insects", "insects", "/data/disasters/emdat-leveled/insects.csv");
+  registerData("Landslide", "landslide", "/data/disasters/emdat-leveled/landslide.csv");
+  //registerData("Mass Movement", "mass", "/data/disasters/emdat-leveled/mass-movement.csv");
+  registerData("Storms", "storm", "/data/disasters/emdat-leveled/storms.csv");
 });
 
 /** DISASTERS **/
@@ -129,10 +139,15 @@ function scaleOnAffected(scaler) {
 
 var leftLegend = true;
 
-function registerData(name, classname, sources) {
+function registerData(name, classname, source) {
 
-  for (var i = 0; i < sources.length; ++i) {
-    d3.csv(sources[i], convert, function(err, data) {
+    d3.csv(source, convert, function(err, data) {
+      // data preprocessing
+      data.forEach(function(d) {
+        d.rad = scaleOnAffected(scaleRadius)(d);
+        d.stw = scaleOnAffected(scaleStrokeWidth)(d);
+      });
+      // add the data to the DOM tree
       var group = g.selectAll("." + classname)
         .data(data).enter().append("g")
         .attr("transform", function(d) {
@@ -157,19 +172,15 @@ function registerData(name, classname, sources) {
 
       group.append("circle")
         .attr("class", classname)
-        .attr("r", scaleOnAffected(scaleRadius))
-        .style("opacity", scaleOnAffected(scaleOpacity))
-        .style("stroke-width", scaleOnAffected(scaleStrokeWidth))
-        .style("stroke-opacity", scaleOnAffected(scaleOpacity))
         .style("stroke", "black");
-    });
-  }
+
+      refreshYear();
+  });
 
   // add to legend
-
   var currentLegend = (leftLegend? "#legend-left" : "#legend-right");
-  leftLegend = !leftLegend; // switch to other side for next item
   var divke = d3.select(currentLegend).append("div");
+  leftLegend = !leftLegend; // switch to other side for next item
 
   divke.attr("class", "press");
 
@@ -179,7 +190,6 @@ function registerData(name, classname, sources) {
     .attr("id", name)
     .on("change", function(d) {
       toggle(this, classname);
-      refreshYear();
     });
 
   divke.append("span")
@@ -194,6 +204,7 @@ function registerData(name, classname, sources) {
 function toggle(checkbox, name) {
   if (checkbox.checked) {
     includeData(name);
+    updateSelection();
   } else {
     excludeData(name);
   }
@@ -226,6 +237,7 @@ function setYear(year) {
     currentYear = year;
     refreshYear();
     document.getElementById("yearslot").innerHTML = year;
+    updateSelection();
   }
 }
 
@@ -242,6 +254,8 @@ function refreshYear() {
 /* show/remove data on the visualisation, given the name of the 'disaster type' */
 function includeData(name) {
   g.selectAll("." + name)
+    .attr("r",function(d) { return d.rad / scale })
+    .style("stroke-width",function(d) { return d.stw / scale })
     .classed("selected", true);
 }
 
