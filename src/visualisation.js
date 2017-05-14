@@ -225,6 +225,7 @@ function setYear(year) {
   if (currentYear !== year) {
     currentYear = year;
     refreshYear();
+    document.getElementById("yearslot").innerHTML = year;
   }
 }
 
@@ -275,7 +276,7 @@ var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 var chart = chartLocation.append("g")
   .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
 
-var ChartData = []
+ChartData = []
 
 chart.append("g")
   .attr("id", "xaxis")
@@ -306,6 +307,7 @@ function reDrawChart() {
   //  d3.select("#xaxis").call(d3.axisBottom(x).ticks(ChartData.length))
   d3.select("#yaxis").call(d3.axisLeft(y).ticks(10))
 
+  console.log(ChartData);
   var bars = chart.selectAll(".bar").data(ChartData)
 
   //Remove
@@ -364,11 +366,17 @@ function reDrawChart() {
 var globalCounter = 0;
 
 function addToPinboard(groupElement, data, classname) {
+  var actualClass = "invis"
+  if (data.deaths > 0){
+    actualClass = classname
+  }
   var newbar = {
     id: globalCounter,
-    y: Math.floor(Math.random() * 3000),
+    // y: Math.floor(Math.random() * 3000),
+    y : Math.max(data.deaths, 1),
     circle: groupElement,
-    class: classname
+    // class: classname
+    class: actualClass
   };
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);

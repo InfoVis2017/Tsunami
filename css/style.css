@@ -131,6 +131,11 @@ circle.selected.current {
   background: #a1d6ff;
 }
 
+.bar.invis {
+  opacity: 1;
+  fill: rgb(255,255,255);
+}
+
 .nosea {
   background: white;
 }
@@ -189,3 +194,10 @@ div.tooltip {
 .dropdown a:hover {background-color: #f1f1f1}
 
 .show {display:block;}
+
+#yearslot {
+  position: absolute;
+  top: 15px;
+  left: 60px;
+  font-size: 75px;
+}
