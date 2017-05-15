@@ -1,0 +1,10 @@
+.river{
+    stroke: steelblue;
+    fill: none;
+    opacity: 0;
+}
+
+.lake{
+    fill : steelblue;
+    opacity: 0;
+}

@@ -437,11 +437,13 @@ reDrawChart();
 ///                                 Overlays                                 ////
 /////////////////////////////////////////////////////////////////////////////////
 
-function seaColor(value) {
+function riverColor(value) {
   if (value) {
-    svg.attr("class", "bluesea");
+    g.selectAll(".river").style("opacity",1);
+    g.selectAll(".lake").style("opacity",1);
   } else {
-    svg.attr("class", "nosea");
+    g.selectAll(".river").style("opacity",0);
+    g.selectAll(".lake").style("opacity",0);
   }
 }
 
@@ -470,3 +472,29 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
     .attr("class", "tectonic")
     .attr("d", path);
 });
+
+
+d3.json("/data/topology/lakes.geojson", function(json) {
+
+
+                g.selectAll("path")
+                   .data(json.features)
+                   .enter()
+                   .append("path")
+                   .attr("d", path)
+                   .attr("class","lake")
+
+            });
+
+
+d3.json("/data/topology/rivers.geojson", function(json) {
+
+
+                g.selectAll("path")
+                   .data(json.features)
+                   .enter()
+                   .append("path")
+                   .attr("d", path)
+                   .attr("class","river")
+
+            });
