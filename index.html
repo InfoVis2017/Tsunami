@@ -18,7 +18,8 @@
   <div id="loader_container"></div>
 
   <div id="visWindow">
-
+    <div style="height:100px">
+    </div>
     <div id="main">
 
       <div class='main-left' style="width: 70%; display:inline-block">
@@ -29,11 +30,11 @@
         <!-- simple timeslider -->
         <form name="timelineform" oninput="timeSlidervalue.value = timeslider.valueAsNumber;setYear(timeSlidervalue.value)" onsubmit="return togglescrolling()">
           <div style="width: 95%; float:left;">
-          <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
-        </div>
+            <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+          </div>
           <div style="width:5%; float:left;">
-          <input id="scrolltoggle" type="submit" value="">
-        </div>
+            <input id="scrolltoggle" type="submit" value="">
+          </div>
         </form>
       </div>
 
