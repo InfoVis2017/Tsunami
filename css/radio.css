@@ -1,0 +1,23 @@
+input[type="radio"] {
+  -webkit-appearance: none;
+  margin-left: 25px;
+  width: 24px;
+  height: 24px;
+  background: #eeeeee;
+  box-shadow: inset 0 0 0 .4em white, 0 0 0 .3em #898989;
+  border-radius: 50%;
+  transition: .2s;
+  cursor: pointer;
+  color: ##363945;
+}
+input[type="radio"]:hover, input[type="radio"]:checked {
+  background: #6dbbb2;
+  box-shadow: inset 0 0 0 .6em white, 0 0 0 .3em;
+}
+input[type="radio"]:checked {
+  background: #6dbbb2;
+  box-shadow: inset 0 0 0 .4em white, 0 0 0 .3em #179588;
+}
+input[type="radio"]:focus {
+  outline: 0;
+}
