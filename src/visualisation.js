@@ -3,6 +3,7 @@
 var aspectRatio = 3/4     // standard aspect ratio
 var mapSize = 0.65        // 65% of screen width for map
 
+var timeslidervalue = {}
 /* setup the dimensions */
 var margin = {
     top: 50,
@@ -167,6 +168,7 @@ function registerData(name, classname, source) {
           div.transition().style("opacity", 0)
         })
         .on("click", function(d) {
+          console.log(d);
           addToPinboard(d3.select(this), d, classname)
         })
 
@@ -290,7 +292,7 @@ var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 var chart = chartLocation.append("g")
   .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
 
-ChartData = []
+var ChartData = []
 
 chart.append("g")
   .attr("id", "xaxis")
@@ -319,9 +321,8 @@ function reDrawChart() {
   })]);
 
   //  d3.select("#xaxis").call(d3.axisBottom(x).ticks(ChartData.length))
-  d3.select("#yaxis").call(d3.axisLeft(y).ticks(10))
+  d3.select("#yaxis").transition().call(d3.axisLeft(y).ticks(10))
 
-  console.log(ChartData);
   var bars = chart.selectAll(".bar").data(ChartData)
 
   //Remove
@@ -380,17 +381,14 @@ function reDrawChart() {
 var globalCounter = 0;
 
 function addToPinboard(groupElement, data, classname) {
-  var actualClass = "invis"
-  if (data.deaths > 0){
-    actualClass = classname
-  }
   var newbar = {
     id: globalCounter,
-    // y: Math.floor(Math.random() * 3000),
     y : Math.max(data.deaths, 1),
     circle: groupElement,
-    // class: classname
-    class: actualClass
+    class: classname,
+    deaths: data.deaths,
+    affected: data.affected,
+    damage: data.damage
   };
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
@@ -401,6 +399,14 @@ function removeFromPinboard(data) {
   ChartData = ChartData.filter(function(event) {
     return event.id !== data.id;
   })
+  reDrawChart();
+}
+
+function switchDataType(type){ 
+  ChartData.forEach(function(bar){
+    bar.y = Math.max(bar[type],1);
+  })
+
   reDrawChart();
 }
 
@@ -445,7 +451,6 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 
 });
 
-//endLoadScreen();
 function toggleDropList(id) {
   document.getElementById(id).classList.toggle("show");
 };

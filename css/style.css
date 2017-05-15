@@ -72,13 +72,6 @@ circle.selected.current {
   float: left;
 }
 
-.timeslider{
-    margin: 30px auto 0 300px;
-    width: 50%;
-    display: block;
-     text-align: center;
-}
-
 .bar.epidemic {
   fill: rgb(155,155,155);
 }

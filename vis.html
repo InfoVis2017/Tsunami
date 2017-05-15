@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--source =  http://bl.ocks.org/Mattwoelk/6132258-->
 <html>
 
 <head>
@@ -9,6 +8,7 @@
   <link rel="stylesheet" href="css/switch.css">
   <link rel="stylesheet" href="css/tectonic.css">
   <link rel="stylesheet" href="css/slider.css">
+  <link rel="stylesheet" href="css/range.css">
   <!--<link rel="stylesheet" href="css/materialize.css">-->
 </head>
 
@@ -71,7 +71,19 @@
             <label for="tectonic" class="lbl"> </label>
           </div>
 
-      </div>
+        </div>
+
+        <div id="chartoptions">
+          <label for="chartoptions" style="float:left"> Chart data options:</label>
+          <form id="chartoptions">
+            <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)"/> 
+            <label>Deaths</label>
+            <input type="radio" name="data" value="affected" onclick="switchDataType(this.value)"/> 
+            <label>Affected</label>
+            <input type="radio" name="data" value="damage" onclick="switchDataType(this.value)"/> 
+            <label>Damage</label>
+          </form>
+        </div>
 
     </div>
 
