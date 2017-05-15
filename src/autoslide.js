@@ -28,5 +28,8 @@ function autoslide(start, end, interval = 1000){
       setYear(start);
       window.setTimeout(function() {autoslide(start+1, end, interval)}, interval);
     }
+    else {
+      togglescrolling();
+    }
   }
 }
