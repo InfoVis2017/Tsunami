@@ -88,10 +88,24 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
 /** DISASTERS **/
 
 // setup an invisible tooltip
-var div = d3.select("body")
+var tooltip = d3.select("body")
   .append("div")
   .attr("class", "tooltip")
   .style("opacity", 0);
+
+function showTooltip(d) {
+  var crds = projection([d.lon, d.lat]);
+  tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
+      "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
+      "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
+    .style("left", crds[0] + "px")
+    .style("top", crds[1] + "px");
+  tooltip.transition().style("opacity", 0.9);
+}
+
+function hideTooltip() {
+  tooltip.transition().style("opacity", 0)
+}
 
 function scaleRadius(damagelevel) {
   switch (damagelevel) {
@@ -155,19 +169,9 @@ function registerData(name, classname, source) {
           var crds = projection([d.lon, d.lat]);
           return "translate(" + crds[0] + "," + crds[1] + ")";
         })
-        .on("mouseover", function(d) {
-          div.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
-              "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
-              "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-            .style("left", d3.event.pageX + "px")
-            .style("top", d3.event.pageY + "px");
-          div.transition().style("opacity", 0.9);
-        })
-        .on("mouseout", function(d) {
-          div.transition().style("opacity", 0)
-        })
+        .on("mouseover", showTooltip)
+        .on("mouseout", hideTooltip)
         .on("click", function(d) {
-          console.log(d);
           addToPinboard(d3.select(this), d, classname)
         })
 
@@ -376,17 +380,25 @@ function reDrawChart() {
       return chartHeight - y(d.y);
     })
     .on("click", function(d) {
-      d.circle.select("circle").transition()
-        .attr("r", function(d) { return d.rad / scale; });
+      var circle = d.circle.select("circle");
+      circle.transition().attr("r", function(d) { return d.rad / scale; });
+      circle.classed("previewed", false);
       removeFromPinboard(d);
+      hideTooltip();
     })
     .on("mouseover", function(d) {
-      d.circle.select("circle").transition()
-        .attr("r", 40 / scale);
+      var circle = d.circle.select("circle");
+      circle.transition().attr("r", 30 / scale);
+      if(!(circle.classed("selected") && circle.classed("current"))) {
+        circle.classed("previewed", true);
+      }
+      showTooltip(d.data);
     })
     .on("mouseout", function(d) {
-      d.circle.select("circle").transition()
-        .attr("r", function(d) { return d.rad / scale; });
+      var circle = d.circle.select("circle");
+      circle.transition().attr("r", function(d) { return d.rad / scale; });
+      circle.classed("previewed", false);
+      hideTooltip();
     });
 
     updateChartInfo();
@@ -400,6 +412,7 @@ function addToPinboard(groupElement, data, classname) {
     y : Math.max(data.deaths, 1),
     circle: groupElement,
     class: classname,
+    data: data,
     deaths: data.deaths,
     affected: data.affected,
     damage: data.damage
@@ -416,7 +429,7 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 
-function switchDataType(type){ 
+function switchDataType(type){
   ChartData.forEach(function(bar){
     bar.y = Math.max(bar[type],1);
   })
@@ -454,7 +467,7 @@ function showTectonic(bool) {
   }
 }
 
-/*Add tectonic overlay*/
+/* Add tectonic overlay */
 
 d3.json('/data/topology/tectonics.json', function(err, data) {
 
@@ -462,23 +475,4 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
     .datum(topojson.feature(data, data.objects.tec))
     .attr("class", "tectonic")
     .attr("d", path);
-
 });
-
-function toggleDropList(id) {
-  document.getElementById(id).classList.toggle("show");
-};
-
-window.onclick = function(event) {
-  if (!event.target.matches('.btn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-cntnt");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}

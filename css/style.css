@@ -60,6 +60,12 @@ circle.selected.current {
   visibility: visible;
 }
 
+circle.previewed {
+  visibility: visible;
+  opacity: 0.6;
+  stroke-opacity: 0.6;
+}
+
 #map {
   border:0px solid #000;
 }
