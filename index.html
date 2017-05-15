@@ -43,6 +43,20 @@
 
         <div id="chart"></div>
 
+
+        <div id="chartoptions">
+          <label for="chartoptions" style="float:left"> Chart data options:</label>
+          <form id="chartoptions">
+            <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)" />
+            <label>Deaths</label>
+            <input type="radio" name="data" value="affected" onclick="switchDataType(this.value)" />
+            <label>Affected</label>
+            <input type="radio" name="data" value="damage" onclick="switchDataType(this.value)" />
+            <label>Damage</label>
+          </form>
+          <br>
+        </div>
+
         <div id="overlays" style="display: inline-flex">
 
           <div class="press" style="float: left">
@@ -60,18 +74,6 @@
             <label for="tectonic" class="lbl"> </label>
           </div>
 
-        </div>
-
-        <div id="chartoptions">
-          <label for="chartoptions" style="float:left"> Chart data options:</label>
-          <form id="chartoptions">
-            <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)" />
-            <label>Deaths</label>
-            <input type="radio" name="data" value="affected" onclick="switchDataType(this.value)" />
-            <label>Affected</label>
-            <input type="radio" name="data" value="damage" onclick="switchDataType(this.value)" />
-            <label>Damage</label>
-          </form>
         </div>
 
       </div>

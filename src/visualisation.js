@@ -275,7 +275,7 @@ var chartInfo = chartLocation.append("text")
   .attr("y", "50%")
   .attr("fill", "black")
   .attr("text-anchor", "middle")
-  .text("Click on disasters to compare them");
+  .text("Click on disasters to compare them.")
 
 function updateChartInfo() {
   if(ChartData.length === 0) {
