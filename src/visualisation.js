@@ -22,7 +22,7 @@ var path = d3.geoPath()
   .projection(projection);
 
 var zoom = d3.zoom()
-  .scaleExtent([1, 30])
+  .scaleExtent([1,30])
   .on("zoom", zoomed);
 
 var scale = 1;
@@ -284,7 +284,7 @@ var chartLocation = d3.select("#chart")
   .attr("width", chartWidth + chartMargin.left + chartMargin.right)
   .attr("height", chartHeight + chartMargin.top + chartMargin.bottom);
 
-var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.05);
+var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.1);
 var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
 var chart = chartLocation.append("g")
@@ -362,16 +362,16 @@ function reDrawChart() {
     })
     .on("click", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", scaleOnAffected(scaleRadius));
+        .attr("r", function(d) { return d.rad / scale; });
       removeFromPinboard(d);
     })
     .on("mouseover", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", 40);
+        .attr("r", 40 / scale);
     })
     .on("mouseout", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", scaleOnAffected(scaleRadius));
+        .attr("r", function(d) { return d.rad / scale; });
     });
 
 
