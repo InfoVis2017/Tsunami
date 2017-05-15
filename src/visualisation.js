@@ -166,6 +166,7 @@ function registerData(name, classname, source) {
   //add type of disaster and checkbox with right color ( see css)
   divke.attr("class", "press");
   divke.html(name);
+  divke.style("font-family","verdana")
 
   divke.append("input")
     .attr("type", "checkbox")
@@ -273,6 +274,8 @@ var chartInfo = chartLocation.append("text")
   .attr("fill", "black")
   .attr("text-anchor", "middle")
   .text("Click on disasters to compare them.")
+  .style("font-family","verdana")
+  .style("font-size",11)
 
 function updateChartInfo() {
   if (ChartData.length === 0) {
