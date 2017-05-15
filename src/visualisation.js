@@ -1,25 +1,30 @@
-var aspectRatio = 3 / 4 // standard aspect ratio
-var mapSize = 0.65 // 65% of screen width for map
+// standard aspect ratio
+var aspectRatio = 3 / 4;
 
-var timeslidervalue = {}
-/* setup the dimensions */
-width = (mapSize * window.innerWidth),
-  height = aspectRatio * width;
+// 65% of screen width (div it is in = 70%);
+var mapSize = 0.65;
 
-/* setup the projection and path generator */
+//value of the year slider
+var timeSlidervalue = {};
+
+// setup the map dimensions
+var width = (mapSize * window.innerWidth);
+var height = aspectRatio * width;
+
+//setup the projection and path generator
 var projection = d3.geoMercator()
   .translate([(width / 2), (height / 2)])
   .scale(width / 2 / Math.PI);
-
 var path = d3.geoPath()
   .projection(projection);
-
+//setup zoom
 var zoom = d3.zoom()
   .scaleExtent([1, 30])
   .on("zoom", zoomed);
 
+//current scale for the zoom
 var scale = 1;
-
+//called to zoom
 function zoomed() {
   scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
