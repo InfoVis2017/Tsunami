@@ -27,7 +27,6 @@ var zoom = d3.zoom()
   .on("zoom", zoomed);
 
 var scale = 1;
-
 function zoomed() {
   scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
@@ -37,10 +36,10 @@ function zoomed() {
 function updateSelection() {
   g.selectAll("circle.current.selected")
     .attr("r", function(d) {
-      return d.rad / scale
+      return d.rad / scale;
     })
     .style("stroke-width", function(d) {
-      return d.stw / scale
+      return d.stw / scale;
     });
 }
 
@@ -95,13 +94,13 @@ var tooltip = d3.select("body")
   .attr("class", "tooltip")
   .style("opacity", 0);
 
-function showTooltip(d) {
-  var crds = projection([d.lon, d.lat]);
+function showTooltip(d,circle) {
+  var rect = circle.getBoundingClientRect();
   tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
       "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
       "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-    .style("left", crds[0] + "px")
-    .style("top", crds[1] + "px");
+    .style("left", rect.left + "px")
+    .style("top", rect.top + "px");
   tooltip.transition().style("opacity", 0.9);
 }
 
@@ -148,10 +147,10 @@ function registerData(name, classname, source) {
           var crds = projection([d.lon, d.lat]);
           return "translate(" + crds[0] + "," + crds[1] + ")";
         })
-        .on("mouseover", showTooltip)
+        .on("mouseover", function(d) { showTooltip(d,this) })
         .on("mouseout", hideTooltip)
         .on("click", function(d) {
-          addToPinboard(d3.select(this), d, classname)
+          addToPinboard(this, d, classname)
         })
 
       group.append("circle")
@@ -368,24 +367,21 @@ function reDrawChart() {
       return chartHeight - y(d.y);
     })
     .on("click", function(d) {
-      var circle = d.circle.select("circle");
-      circle.transition().attr("r", function(d) { return d.rad / scale; });
-      circle.classed("previewed", false);
+      d.circle.transition().attr("r", function(d) { return d.rad / scale; });
+      d.circle.classed("previewed", false);
       removeFromPinboard(d);
       hideTooltip();
     })
     .on("mouseover", function(d) {
-      var circle = d.circle.select("circle");
-      circle.transition().attr("r", 30 / scale);
-      if(!(circle.classed("selected") && circle.classed("current"))) {
-        circle.classed("previewed", true);
+      d.circle.transition().attr("r", 30 / scale);
+      if(!(d.circle.classed("selected") && d.circle.classed("current"))) {
+        d.circle.classed("previewed", true);
       }
-      showTooltip(d.data);
+      showTooltip(d.data, d.group);
     })
     .on("mouseout", function(d) {
-      var circle = d.circle.select("circle");
-      circle.transition().attr("r", function(d) { return d.rad / scale; });
-      circle.classed("previewed", false);
+      d.circle.transition().attr("r", function(d) { return d.rad / scale; });
+      d.circle.classed("previewed", false);
       hideTooltip();
     });
 
@@ -397,13 +393,11 @@ var globalCounter = 0;
 function addToPinboard(groupElement, data, classname) {
   var newbar = {
     id: globalCounter,
-    y : Math.max(data[dataType], 1),
-    circle: groupElement,
+    group: groupElement,
+    y : Math.max(data.deaths, 1),
+    circle: d3.select(groupElement).select("circle"),
     class: classname,
-    data: data,
-    deaths: data.deaths,
-    affected: data.affected,
-    damage: data.damage
+    data: data
   };
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
@@ -420,7 +414,7 @@ function removeFromPinboard(data) {
 function switchDataType(type){
   dataType = type
   ChartData.forEach(function(bar){
-    bar.y = Math.max(bar[type],1);
+    bar.y = Math.max(bar.data[type],1);
   })
 
   reDrawChart();
