@@ -25,13 +25,13 @@
         <div id="yearslot">2000</div>
 
         <!-- simple timeslider -->
-        <!-- simple timeslider -->
         <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return togglescrolling()">
           <div style="width: 95%; float:left;">
           <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
         </div>
+          <!-- <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output> -->
           <div style="width:5%; float:left;">
-          <input id="scrolltoggle" type="submit" value="">
+          <input id="scrolltoggle" type="submit" class="active">
         </div>
         </form>
       </div>
@@ -67,30 +67,30 @@
         <div id="chartoptions">
           <label for="chartoptions" style="float:left"> Chart data options:</label>
           <form id="chartoptions">
-            <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)" />
+            <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)"/>
             <label>Deaths</label>
-            <input type="radio" name="data" value="affected" onclick="switchDataType(this.value)" />
+            <input type="radio" name="data" value="affected" onclick="switchDataType(this.value)"/>
             <label>Affected</label>
-            <input type="radio" name="data" value="damage" onclick="switchDataType(this.value)" />
+            <input type="radio" name="data" value="damage" onclick="switchDataType(this.value)"/>
             <label>Damage</label>
           </form>
         </div>
 
-      </div>
+    </div>
 
     </div>
 
   </div>
 
 
-  <!-- D3 library -->
-  <script src="https://d3js.org/d3.v4.min.js"></script>
-  <!-- autoslide -->
-  <script src="src/autoslide.js"></script>
-  <!-- Topojson library -->
-  <script src="https://d3js.org/topojson.v1.min.js"></script>
-  <!-- Our visualisation app -->
-  <script src="src/visualisation.js"></script>
+    <!-- D3 library -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!-- autoslide -->
+    <script src="src/autoslide.js"></script>
+    <!-- Topojson library -->
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <!-- Our visualisation app -->
+    <script src="src/visualisation.js"></script>
 
 
 

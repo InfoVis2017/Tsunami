@@ -200,3 +200,21 @@ div.tooltip {
   left: 60px;
   font-size: 75px;
 }
+
+input#scrolltoggle {
+  border : none;
+  width: 24px;
+  height: 24px;
+  margin-left: 5px;
+  background-color: none;
+}
+
+input#scrolltoggle{
+  background-image: url("/img/start.png");
+  background-size: contain;
+}
+
+input#scrolltoggle.active{
+  background-image: url("/img/stop.png");
+  background-size: contain;
+}
