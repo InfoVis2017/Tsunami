@@ -1,39 +1,37 @@
-//startLoadScreen();
+// standard aspect ratio
+var aspectRatio = 3 / 4;
 
-var aspectRatio = 3 / 4 // standard aspect ratio
-var mapSize = 0.65 // 65% of screen width for map
+// 65% of screen width (div it is in = 70%);
+var mapSize = 0.65;
 
-var timeslidervalue = {}
-/* setup the dimensions */
-var margin = {
-    top: 50,
-    bottom: 50,
-    left: 50,
-    right: 50
-  },
-  width = (mapSize * window.innerWidth) - margin.left - margin.right,
-  height = aspectRatio * width - margin.top - margin.bottom;
+//value of the year slider
+var timeSlidervalue = {};
 
-/* setup the projection and path generator */
+// setup the map dimensions
+var width = (mapSize * window.innerWidth);
+var height = aspectRatio * width;
+
+//setup the projection and path generator
 var projection = d3.geoMercator()
   .translate([(width / 2), (height / 2)])
   .scale(width / 2 / Math.PI);
-
 var path = d3.geoPath()
   .projection(projection);
-
+//setup zoom
 var zoom = d3.zoom()
   .scaleExtent([1, 30])
   .on("zoom", zoomed);
 
+//current scale for the zoom
 var scale = 1;
-
+//called to zoom
 function zoomed() {
   scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
   updateSelection();
 }
 
+//updating current selected circle --> make it bigger (bigger radius)
 function updateSelection() {
   g.selectAll("circle.current.selected")
     .attr("r", function(d) {
@@ -44,16 +42,16 @@ function updateSelection() {
     });
 }
 
-/* setup the basic elements */
+// setup the basic elements
 var svg = d3.select("#container")
   .append("svg")
   .attr("id", "map")
-  .attr("height", height + margin.top + margin.bottom)
-  .attr("width", width + margin.left + margin.right)
+  .attr("height", height)
+  .attr("width", width)
+  .style("background","#a1d6ff")
   .call(zoom);
 
-var g = svg.append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var g = svg.append("g");
 
 /* load the world topology data */
 d3.json("/data/topology/world-topo-min.json", function(error, data) {
@@ -79,9 +77,9 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     });
 
   /* setup disasters (cf. inf.) */
-  registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv")
-  registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv")
-  registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv")
+  registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv");
+  registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv");
+  registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv");
   registerData("Floods", "flood", "/data/disasters/emdat-leveled/floods.csv");
   registerData("Landslide", "landslide", "/data/disasters/emdat-leveled/landslide.csv");
   registerData("Storms", "storm", "/data/disasters/emdat-leveled/storms.csv");
@@ -95,6 +93,7 @@ var tooltip = d3.select("body")
   .attr("class", "tooltip")
   .style("opacity", 0);
 
+// show a tooltip when on a circle
 function showTooltip(d, group) {
   var rect = group.getBoundingClientRect();
   tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
@@ -105,35 +104,31 @@ function showTooltip(d, group) {
   tooltip.transition().style("opacity", 0.9);
 }
 
+//hide tooltip when quiting the circle
 function hideTooltip() {
-  tooltip.transition().style("opacity", 0)
+  tooltip.transition().style("opacity", 0);
 }
 
+//scale the radius of the circle (disaster), dependant on dammage level
 function scaleRadius(damagelevel) {
-  switch (damagelevel) {
-    case 1:
-      return 5
-    case 2:
-      return 10
-    case 3:
-      return 15
-    case 4:
-      return 20
-  }
+  return damagelevel * 5;
 }
 
+//the stroke of the circle scales with the size
 function scaleStrokeWidth(damagelevel) {
   return damagelevel;
 }
 
+// create scaler with given scaler function
 function scaleOnAffected(scaler) {
   return function(d) {
     return scaler(d.affected_level);
-  }
+  };
 }
 
 var leftLegend = true;
 
+// register all the data on the map
 function registerData(name, classname, source) {
   d3.csv(source, convert, function(err, data) {
     // data preprocessing
@@ -149,12 +144,11 @@ function registerData(name, classname, source) {
         return "translate(" + crds[0] + "," + crds[1] + ")";
       })
       .on("mouseover", function(d) {
-        showTooltip(d, this)
+        showTooltip(d, this);
       })
       .on("mouseout", hideTooltip)
       .on("click", function(d) {
-        console.log("click")
-        addToPinboard(this, d, classname)
+        addToPinboard(this, d, classname);
       })
 
     group.append("circle")
@@ -169,6 +163,7 @@ function registerData(name, classname, source) {
   var divke = d3.select(currentLegend).append("div");
   leftLegend = !leftLegend; // switch to other side for next item
 
+  //add type of disaster and checkbox with right color ( see css)
   divke.attr("class", "press");
   divke.html(name);
 
@@ -186,6 +181,7 @@ function registerData(name, classname, source) {
 
 }
 
+//used to show and hide data when a checkbox is (un)checked
 function toggle(checkbox, name) {
   if (checkbox.checked) {
     includeData(name);
@@ -195,6 +191,7 @@ function toggle(checkbox, name) {
   }
 }
 
+// convert string data to numbers
 function convert(d) {
   d.deaths = +d.deaths;
   d.damage = +d.damage;
@@ -202,10 +199,6 @@ function convert(d) {
   d.affected_level = +d.affected_level;
   d.lat = +d.lat;
   d.lon = +d.lon;
-  /*
-    TODO: just the start date is probably a bit too simplistic
-    don't just parse using new Date(...), the format sometimes misses day/month
-  */
   var date = d.start_date;
   d.year = +date.slice(date.length - 4, date.length);
   return d;
@@ -257,15 +250,15 @@ function excludeData(name) {
 ///                                 Chart                                    ////
 /////////////////////////////////////////////////////////////////////////////////
 
-var chartWidth = (0.9 - mapSize) * window.innerWidth;
-var chartHeight = 0.5 * (height + margin.top + margin.bottom);
+var chartWidth = (0.85 - mapSize) * window.innerWidth;
+var chartHeight = 0.5 * height;
 
 var chartMargin = {
   top: 20,
   bottom: 40,
   left: 0,
   right: 20
-}
+};
 
 var chartLocation = d3.select("#chart")
   .append("svg")
