@@ -396,7 +396,7 @@ function addToPinboard(groupElement, data, classname) {
   var newbar = {
     id: globalCounter,
     group: groupElement,
-    y: Math.max(data.deaths, 1),
+    y: Math.max(data[dataType], 1),
     circle: d3.select(groupElement).select("circle"),
     class: classname,
     data: data
