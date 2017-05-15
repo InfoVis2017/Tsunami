@@ -31,6 +31,7 @@ function zoomed() {
   updateSelection();
 }
 
+//updating current selected circle --> make it bigger (bigger radius)
 function updateSelection() {
   g.selectAll("circle.current.selected")
     .attr("r", function(d) {
@@ -41,7 +42,7 @@ function updateSelection() {
     });
 }
 
-/* setup the basic elements */
+// setup the basic elements
 var svg = d3.select("#container")
   .append("svg")
   .attr("id", "map")
@@ -49,7 +50,7 @@ var svg = d3.select("#container")
   .attr("width", width)
   .call(zoom);
 
-var g = svg.append("g")
+var g = svg.append("g");
 
 /* load the world topology data */
 d3.json("/data/topology/world-topo-min.json", function(error, data) {
@@ -75,9 +76,9 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
     });
 
   /* setup disasters (cf. inf.) */
-  registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv")
-  registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv")
-  registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv")
+  registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv");
+  registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv");
+  registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv");
   registerData("Floods", "flood", "/data/disasters/emdat-leveled/floods.csv");
   registerData("Landslide", "landslide", "/data/disasters/emdat-leveled/landslide.csv");
   registerData("Storms", "storm", "/data/disasters/emdat-leveled/storms.csv");
@@ -91,6 +92,7 @@ var tooltip = d3.select("body")
   .attr("class", "tooltip")
   .style("opacity", 0);
 
+// show a tooltip when on a circle
 function showTooltip(d, group) {
   var rect = group.getBoundingClientRect();
   tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
@@ -101,35 +103,31 @@ function showTooltip(d, group) {
   tooltip.transition().style("opacity", 0.9);
 }
 
+//hide tooltip when quiting the circle
 function hideTooltip() {
-  tooltip.transition().style("opacity", 0)
+  tooltip.transition().style("opacity", 0);
 }
 
+//scale the radius of the circle (disaster), dependant on dammage level
 function scaleRadius(damagelevel) {
-  switch (damagelevel) {
-    case 1:
-      return 5
-    case 2:
-      return 10
-    case 3:
-      return 15
-    case 4:
-      return 20
-  }
+  return damagelevel * 5;
 }
 
+//the stroke of the circle scales with the size
 function scaleStrokeWidth(damagelevel) {
   return damagelevel;
 }
 
+// create scaler with given scaler function
 function scaleOnAffected(scaler) {
   return function(d) {
     return scaler(d.affected_level);
-  }
+  };
 }
 
 var leftLegend = true;
 
+// register all the data on the map
 function registerData(name, classname, source) {
   d3.csv(source, convert, function(err, data) {
     // data preprocessing
@@ -145,12 +143,11 @@ function registerData(name, classname, source) {
         return "translate(" + crds[0] + "," + crds[1] + ")";
       })
       .on("mouseover", function(d) {
-        showTooltip(d, this)
+        showTooltip(d, this);
       })
       .on("mouseout", hideTooltip)
       .on("click", function(d) {
-        console.log("click")
-        addToPinboard(this, d, classname)
+        addToPinboard(this, d, classname);
       })
 
     group.append("circle")
