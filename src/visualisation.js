@@ -27,6 +27,7 @@ var zoom = d3.zoom()
   .on("zoom", zoomed);
 
 var scale = 1;
+
 function zoomed() {
   scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
@@ -94,7 +95,7 @@ var tooltip = d3.select("body")
   .attr("class", "tooltip")
   .style("opacity", 0);
 
-function showTooltip(d,group) {
+function showTooltip(d, group) {
   var rect = group.getBoundingClientRect();
   tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
       "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
@@ -134,31 +135,33 @@ function scaleOnAffected(scaler) {
 var leftLegend = true;
 
 function registerData(name, classname, source) {
-    d3.csv(source, convert, function(err, data) {
-      // data preprocessing
-      data.forEach(function(d) {
-        d.rad = scaleOnAffected(scaleRadius)(d);
-        d.stw = scaleOnAffected(scaleStrokeWidth)(d);
-      });
-      // add the data to the DOM tree
-      var group = g.selectAll("." + classname)
-        .data(data).enter().append("g")
-        .attr("transform", function(d) {
-          var crds = projection([d.lon, d.lat]);
-          return "translate(" + crds[0] + "," + crds[1] + ")";
-        })
-        .on("mouseover", function(d) { showTooltip(d,this) })
-        .on("mouseout", hideTooltip)
-        .on("click", function(d) {
-          console.log("click")
-          addToPinboard(this, d, classname)
-        })
+  d3.csv(source, convert, function(err, data) {
+    // data preprocessing
+    data.forEach(function(d) {
+      d.rad = scaleOnAffected(scaleRadius)(d);
+      d.stw = scaleOnAffected(scaleStrokeWidth)(d);
+    });
+    // add the data to the DOM tree
+    var group = g.selectAll("." + classname)
+      .data(data).enter().append("g")
+      .attr("transform", function(d) {
+        var crds = projection([d.lon, d.lat]);
+        return "translate(" + crds[0] + "," + crds[1] + ")";
+      })
+      .on("mouseover", function(d) {
+        showTooltip(d, this)
+      })
+      .on("mouseout", hideTooltip)
+      .on("click", function(d) {
+        console.log("click")
+        addToPinboard(this, d, classname)
+      })
 
-      group.append("circle")
-        .attr("class", classname)
-        .style("stroke", "black");
+    group.append("circle")
+      .attr("class", classname)
+      .style("stroke", "black");
 
-      refreshYear();
+    refreshYear();
   });
 
   // add to legend
@@ -267,9 +270,9 @@ var chartMargin = {
 var chartLocation = d3.select("#chart")
   .append("svg")
   .attr("id", "graph")
-  //.attr("width", chartWidth + chartMargin.left + chartMargin.right)
+  .attr("width", chartWidth + chartMargin.left + chartMargin.right)
   .attr("height", chartHeight + chartMargin.top + chartMargin.bottom)
-  .style("padding-left","55px");
+  .style("padding-left", "55px");
 
 var chartInfo = chartLocation.append("text")
   .attr("x", "50%")
@@ -279,10 +282,10 @@ var chartInfo = chartLocation.append("text")
   .text("Click on disasters to compare them.")
 
 function updateChartInfo() {
-  if(ChartData.length === 0) {
-    chartInfo.attr("opacity",0.8)
+  if (ChartData.length === 0) {
+    chartInfo.attr("opacity", 0.8)
   } else {
-    chartInfo.attr("opacity",0)
+    chartInfo.attr("opacity", 0)
   }
 }
 
@@ -307,13 +310,13 @@ chart.append("g")
   .attr("class", "axis axis--y")
   .call(d3.axisLeft(y).ticks(10))
   .append("text")
-    .attr("id","chartlabel")
-    .attr("transform", "translate(20,-20)")
-    .attr("y", 6)
-    .attr("dy", "0.71em")
-    .attr("text-anchor", "end")
-    .text("Deaths")
-    .attr("fill", "black");
+  .attr("id", "chartlabel")
+  .attr("transform", "translate(20,-20)")
+  .attr("y", 6)
+  .attr("dy", "0.71em")
+  .attr("text-anchor", "end")
+  .text("Deaths")
+  .attr("fill", "black");
 
 function reDrawChart() {
 
@@ -335,22 +338,22 @@ function reDrawChart() {
 
   //Update
   bars.attr("class", function(d) {
-        return d.class;
-      })
-      .classed("bar", true)
-      .transition()
-        .attr("x", function(d, i) {
-          return x(i);
-        })
-        .attr("y", function(d) {
-          return y(d.y);
-        })
-        .attr("width", function(d, i) {
-          return x.bandwidth(i);
-        })
-        .attr("height", function(d) {
-          return chartHeight - y(d.y);
-        });
+      return d.class;
+    })
+    .classed("bar", true)
+    .transition()
+    .attr("x", function(d, i) {
+      return x(i);
+    })
+    .attr("y", function(d) {
+      return y(d.y);
+    })
+    .attr("width", function(d, i) {
+      return x.bandwidth(i);
+    })
+    .attr("height", function(d) {
+      return chartHeight - y(d.y);
+    });
 
   //Add
   bars.enter().append("rect")
@@ -371,25 +374,29 @@ function reDrawChart() {
       return chartHeight - y(d.y);
     })
     .on("click", function(d) {
-      d.circle.transition().attr("r", function(d) { return d.rad / scale; });
+      d.circle.transition().attr("r", function(d) {
+        return d.rad / scale;
+      });
       d.circle.classed("previewed", false);
       removeFromPinboard(d);
       hideTooltip();
     })
     .on("mouseover", function(d) {
       d.circle.transition().attr("r", 30 / scale);
-      if(!(d.circle.classed("selected") && d.circle.classed("current"))) {
+      if (!(d.circle.classed("selected") && d.circle.classed("current"))) {
         d.circle.classed("previewed", true);
       }
       showTooltip(d.data, d.group);
     })
     .on("mouseout", function(d) {
-      d.circle.transition().attr("r", function(d) { return d.rad / scale; });
+      d.circle.transition().attr("r", function(d) {
+        return d.rad / scale;
+      });
       d.circle.classed("previewed", false);
       hideTooltip();
     });
 
-    updateChartInfo();
+  updateChartInfo();
 }
 
 var globalCounter = 0;
@@ -398,7 +405,7 @@ function addToPinboard(groupElement, data, classname) {
   var newbar = {
     id: globalCounter,
     group: groupElement,
-    y : Math.max(data.deaths, 1),
+    y: Math.max(data.deaths, 1),
     circle: d3.select(groupElement).select("circle"),
     class: classname,
     data: data
@@ -415,10 +422,10 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 
-function switchDataType(type){
+function switchDataType(type) {
   dataType = type
-  ChartData.forEach(function(bar){
-    bar.y = Math.max(bar.data[type],1);
+  ChartData.forEach(function(bar) {
+    bar.y = Math.max(bar.data[type], 1);
   })
 
   reDrawChart();
