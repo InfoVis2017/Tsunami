@@ -274,7 +274,8 @@ var chartLocation = d3.select("#chart")
   .append("svg")
   .attr("id", "graph")
   .attr("width", chartWidth + chartMargin.left + chartMargin.right)
-  .attr("height", chartHeight + chartMargin.top + chartMargin.bottom);
+  .attr("height", chartHeight + chartMargin.top + chartMargin.bottom)
+  .style("padding-left","55px");
 
 var chartInfo = chartLocation.append("text")
   .attr("x", "50%")
@@ -296,8 +297,10 @@ var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
 var chart = chartLocation.append("g")
   .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
+  
 
 var ChartData = []
+var dataType = "deaths";
 
 chart.append("g")
   .attr("id", "xaxis")
@@ -308,14 +311,16 @@ chart.append("g")
 chart.append("g")
   .attr("id", "yaxis")
   .attr("class", "axis axis--y")
+  
   .call(d3.axisLeft(y).ticks(10))
   .append("text")
-  .attr("transform", "rotate(-90)")
-  .attr("y", 6)
-  .attr("dy", "0.71em")
-  .attr("text-anchor", "end")
-  .text("Deaths")
-  .attr("fill", "black");
+    .attr("id","chartlabel")
+    .attr("transform", "translate(20,-20)")
+    .attr("y", 6)
+    .attr("dy", "0.71em")
+    .attr("text-anchor", "end")
+    .text("Deaths")
+    .attr("fill", "black");
 
 function reDrawChart() {
 
@@ -324,6 +329,8 @@ function reDrawChart() {
   y.domain([0, d3.max(ChartData, function(d) {
     return d.y
   })]);
+
+  d3.select("#chartlabel").transition().text(dataType);
 
   //  d3.select("#xaxis").call(d3.axisBottom(x).ticks(ChartData.length))
   d3.select("#yaxis").transition().call(d3.axisLeft(y).ticks(10))
@@ -396,7 +403,7 @@ var globalCounter = 0;
 function addToPinboard(groupElement, data, classname) {
   var newbar = {
     id: globalCounter,
-    y : Math.max(data.deaths, 1),
+    y : Math.max(data[dataType], 1),
     circle: groupElement,
     class: classname,
     data: data,
@@ -416,7 +423,8 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 
-function switchDataType(type){
+function switchDataType(type){ 
+  dataType = type
   ChartData.forEach(function(bar){
     bar.y = Math.max(bar[type],1);
   })
