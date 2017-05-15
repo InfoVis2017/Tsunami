@@ -1,8 +1,8 @@
 // standard aspect ratio
 var aspectRatio = 3 / 4;
 
-// 60% of screen width (div it is in = 70%);
-var mapSize = 0.60;
+// 65% of screen width (div it is in = 70%);
+var mapSize = 0.65;
 
 //value of the year slider
 var timeSlidervalue = {};
@@ -48,7 +48,7 @@ var svg = d3.select("#container")
   .attr("id", "map")
   .attr("height", height)
   .attr("width", width)
-  .style("background","#a1d6ff")
+  .style("background", "#a1d6ff")
   .call(zoom);
 
 var g = svg.append("g");
@@ -166,7 +166,7 @@ function registerData(name, classname, source) {
   //add type of disaster and checkbox with right color ( see css)
   divke.attr("class", "press");
   divke.html(name);
-  divke.style("font-family","verdana")
+  divke.style("font-family", "verdana")
 
   divke.append("input")
     .attr("type", "checkbox")
@@ -274,8 +274,8 @@ var chartInfo = chartLocation.append("text")
   .attr("fill", "black")
   .attr("text-anchor", "middle")
   .text("Click on disasters to compare them.")
-  .style("font-family","verdana")
-  .style("font-size",11)
+  .style("font-family", "verdana")
+  .style("font-size", 11)
 
 function updateChartInfo() {
   if (ChartData.length === 0) {
@@ -435,11 +435,11 @@ reDrawChart();
 
 function riverColor(value) {
   if (value) {
-    g.selectAll(".river").style("opacity",1);
-    g.selectAll(".lake").style("opacity",1);
+    g.selectAll(".river").style("opacity", 1);
+    g.selectAll(".lake").style("opacity", 1);
   } else {
-    g.selectAll(".river").style("opacity",0);
-    g.selectAll(".lake").style("opacity",0);
+    g.selectAll(".river").style("opacity", 0);
+    g.selectAll(".lake").style("opacity", 0);
   }
 }
 
@@ -473,24 +473,24 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 d3.json("/data/topology/lakes.geojson", function(json) {
 
 
-                g.selectAll("path")
-                   .data(json.features)
-                   .enter()
-                   .append("path")
-                   .attr("d", path)
-                   .attr("class","lake")
+  g.selectAll("path")
+    .data(json.features)
+    .enter()
+    .append("path")
+    .attr("d", path)
+    .attr("class", "lake")
 
-            });
+});
 
 
 d3.json("/data/topology/rivers.geojson", function(json) {
 
 
-                g.selectAll("path")
-                   .data(json.features)
-                   .enter()
-                   .append("path")
-                   .attr("d", path)
-                   .attr("class","river")
+  g.selectAll("path")
+    .data(json.features)
+    .enter()
+    .append("path")
+    .attr("d", path)
+    .attr("class", "river")
 
-            });
+});
