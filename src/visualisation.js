@@ -119,36 +119,14 @@ function scaleRadius(damagelevel) {
     case 2:
       return 10
     case 3:
-      return 10
-    case 4:
       return 15
-  }
-}
-
-function scaleOpacity(damagelevel) {
-  switch (damagelevel) {
-    case 1:
-      return 0.5
-    case 2:
-      return 0.75
-    case 3:
-      return 0.75
     case 4:
-      return 1
+      return 20
   }
 }
 
 function scaleStrokeWidth(damagelevel) {
-  switch (damagelevel) {
-    case 1:
-      return 0
-    case 2:
-      return 1
-    case 3:
-      return 1
-    case 4:
-      return 3
-  }
+  return damagelevel;
 }
 
 function scaleOnAffected(scaler) {
