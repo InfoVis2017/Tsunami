@@ -232,10 +232,10 @@ function refreshYear() {
 function includeData(name) {
   g.selectAll("." + name)
     .attr("r", function(d) {
-      return d.rad / scale
+      return d.rad / scale;
     })
     .style("stroke-width", function(d) {
-      return d.stw / scale
+      return d.stw / scale;
     })
     .classed("selected", true);
 }
@@ -256,7 +256,7 @@ var chartMargin = {
   top: 20,
   bottom: 40,
   left: 0,
-  right: 20
+  right: 0
 };
 
 var chartLocation = d3.select("#chart")
