@@ -1,18 +1,10 @@
-//startLoadScreen();
-
 var aspectRatio = 3 / 4 // standard aspect ratio
 var mapSize = 0.65 // 65% of screen width for map
 
 var timeslidervalue = {}
 /* setup the dimensions */
-var margin = {
-    top: 50,
-    bottom: 50,
-    left: 50,
-    right: 50
-  },
-  width = (mapSize * window.innerWidth) - margin.left - margin.right,
-  height = aspectRatio * width - margin.top - margin.bottom;
+width = (mapSize * window.innerWidth),
+  height = aspectRatio * width;
 
 /* setup the projection and path generator */
 var projection = d3.geoMercator()
@@ -48,12 +40,11 @@ function updateSelection() {
 var svg = d3.select("#container")
   .append("svg")
   .attr("id", "map")
-  .attr("height", height + margin.top + margin.bottom)
-  .attr("width", width + margin.left + margin.right)
+  .attr("height", height)
+  .attr("width", width)
   .call(zoom);
 
 var g = svg.append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 /* load the world topology data */
 d3.json("/data/topology/world-topo-min.json", function(error, data) {
@@ -258,7 +249,7 @@ function excludeData(name) {
 /////////////////////////////////////////////////////////////////////////////////
 
 var chartWidth = (0.9 - mapSize) * window.innerWidth;
-var chartHeight = 0.5 * (height + margin.top + margin.bottom);
+var chartHeight = 0.5 * height;
 
 var chartMargin = {
   top: 20,
