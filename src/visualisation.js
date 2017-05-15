@@ -273,7 +273,7 @@ var chartHeight = 0.5 * (height + margin.top + margin.bottom);
 var chartMargin = {
   top: 20,
   bottom: 20,
-  left: 60,
+  left: 0,
   right: 20
 }
 
