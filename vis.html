@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Natural Disasters</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/switch.css">
+  <link rel="stylesheet" href="css/tectonic.css">
+  <link rel="stylesheet" href="css/slider.css">
+  <link rel="stylesheet" href="css/range.css">
+</head>
+
+<body>
+
+  <div id="loader_container"></div>
+
+  <div id="visWindow">
+
+    <div id="main">
+
+      <div class='main-left' style="width: 75%; display:inline-block">
+
+        <div id="container"> </div>
+        <div id="yearslot">2000</div>
+
+        <!-- simple timeslider -->
+        <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return startautoslide()">
+          <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+          <!-- <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output> -->
+          <input id="scrollstart" name="begin" type="number" min="1900" max="2017" placeholder="begin">
+          <input id="scrollend" name="end" type="number" min="1900" max="2017" placeholder="end">
+          <input type="submit" value="start">
+        </form>
+      </div>
+
+      <div class="main-right" style="width: 25%; display:inline-block">
+
+        <div id="legend" style="margin-top:10%">
+          <div style="width:45%;display:inline-block" id="legend-left"></div>
+          <div style="margin-left: 5%; width:45%;display:inline-block" id="legend-right"></div>
+        </div>
+
+        <div id="chart"></div>
+
+        <div id="overlays" style="display: inline-flex">
+
+          <div class="press" style="float: left">
+            <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)" /> Blue water
+            <label for="bluesea" class="lbl"> </label>
+          </div>
+
+          <div class="press">
+            <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)" /> Show borders
+            <label for="borders" class="lbl"> </label>
+          </div>
+
+          <div class="press" style='float: left'>
+            <input type="checkbox" id="tectonic" class="cbx hidden" onchange="showTectonic(this.checked)" /> Tectonic plates
+            <label for="tectonic" class="lbl"> </label>
+          </div>
+
+        </div>
+
+        <div id="chartoptions">
+          <label for="chartoptions" style="float:left"> Chart data options:</label>
+          <form id="chartoptions">
+            <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)"/>
+            <label>Deaths</label>
+            <input type="radio" name="data" value="affected" onclick="switchDataType(this.value)"/>
+            <label>Affected</label>
+            <input type="radio" name="data" value="damage" onclick="switchDataType(this.value)"/>
+            <label>Damage</label>
+          </form>
+        </div>
+
+    </div>
+
+    </div>
+
+  </div>
+
+
+    <!-- D3 library -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!-- autoslide -->
+    <script src="src/autoslide.js"></script>
+    <!-- Topojson library -->
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <!-- Our visualisation app -->
+    <script src="src/visualisation.js"></script>
+
+
+
+</body>
+
+</html>

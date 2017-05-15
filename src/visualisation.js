@@ -94,13 +94,13 @@ var tooltip = d3.select("body")
   .attr("class", "tooltip")
   .style("opacity", 0);
 
-function showTooltip(d,circle) {
-  var rect = circle.getBoundingClientRect();
+function showTooltip(d,group) {
+  var rect = group.getBoundingClientRect();
   tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
       "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
       "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-    .style("left", rect.left + "px")
-    .style("top", rect.top + "px");
+    .style("left", (rect.left + 20) + "px")
+    .style("top", (rect.top - 20) + "px");
   tooltip.transition().style("opacity", 0.9);
 }
 
@@ -150,6 +150,7 @@ function registerData(name, classname, source) {
         .on("mouseover", function(d) { showTooltip(d,this) })
         .on("mouseout", hideTooltip)
         .on("click", function(d) {
+          console.log("click")
           addToPinboard(this, d, classname)
         })
 
@@ -304,7 +305,6 @@ chart.append("g")
 chart.append("g")
   .attr("id", "yaxis")
   .attr("class", "axis axis--y")
-
   .call(d3.axisLeft(y).ticks(10))
   .append("text")
     .attr("id","chartlabel")
@@ -334,19 +334,23 @@ function reDrawChart() {
   bars.exit().remove();
 
   //Update
-  bars.transition()
-    .attr("x", function(d, i) {
-      return x(i);
-    })
-    .attr("y", function(d) {
-      return y(d.y);
-    })
-    .attr("width", function(d, i) {
-      return x.bandwidth(i);
-    })
-    .attr("height", function(d) {
-      return chartHeight - y(d.y);
-    });
+  bars.attr("class", function(d) {
+        return d.class;
+      })
+      .classed("bar", true)
+      .transition()
+        .attr("x", function(d, i) {
+          return x(i);
+        })
+        .attr("y", function(d) {
+          return y(d.y);
+        })
+        .attr("width", function(d, i) {
+          return x.bandwidth(i);
+        })
+        .attr("height", function(d) {
+          return chartHeight - y(d.y);
+        });
 
   //Add
   bars.enter().append("rect")
