@@ -266,7 +266,7 @@ var chartMargin = {
 var chartLocation = d3.select("#chart")
   .append("svg")
   .attr("id", "graph")
-  .attr("width", chartWidth + chartMargin.left + chartMargin.right)
+  //.attr("width", chartWidth + chartMargin.left + chartMargin.right)
   .attr("height", chartHeight + chartMargin.top + chartMargin.bottom)
   .style("padding-left","55px");
 
