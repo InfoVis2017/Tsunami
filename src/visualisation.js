@@ -155,12 +155,11 @@ function registerData(name, classname, source) {
           return "translate(" + crds[0] + "," + crds[1] + ")";
         })
         .on("mouseover", function(d) {
-          var crds = projection([d.lon, d.lat]);
           div.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
               "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
               "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-            .style("left", crds[0] + "px")
-            .style("top", crds[1] + "px");
+            .style("left", d3.event.pageX + "px")
+            .style("top", d3.event.pageY + "px");
           div.transition().style("opacity", 0.9);
         })
         .on("mouseout", function(d) {
