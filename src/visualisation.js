@@ -23,7 +23,7 @@ var path = d3.geoPath()
   .projection(projection);
 
 var zoom = d3.zoom()
-  .scaleExtent([1, 30])
+  .scaleExtent([1,30])
   .on("zoom", zoomed);
 
 var scale = 1;
@@ -156,12 +156,11 @@ function registerData(name, classname, source) {
           return "translate(" + crds[0] + "," + crds[1] + ")";
         })
         .on("mouseover", function(d) {
-          var crds = projection([d.lon, d.lat]);
           div.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
               "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
               "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-            .style("left", crds[0] + "px")
-            .style("top", crds[1] + "px");
+            .style("left", d3.event.pageX + "px")
+            .style("top", d3.event.pageY + "px");
           div.transition().style("opacity", 0.9);
         })
         .on("mouseout", function(d) {
@@ -276,7 +275,7 @@ var chartHeight = 0.5 * (height + margin.top + margin.bottom);
 var chartMargin = {
   top: 20,
   bottom: 20,
-  left: 60,
+  left: 0,
   right: 20
 }
 
@@ -286,7 +285,22 @@ var chartLocation = d3.select("#chart")
   .attr("width", chartWidth + chartMargin.left + chartMargin.right)
   .attr("height", chartHeight + chartMargin.top + chartMargin.bottom);
 
-var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.05);
+var chartInfo = chartLocation.append("text")
+  .attr("x", "50%")
+  .attr("y", "50%")
+  .attr("fill", "black")
+  .attr("text-anchor", "middle")
+  .text("Click on disasters to compare them");
+
+function updateChartInfo() {
+  if(ChartData.length === 0) {
+    chartInfo.attr("opacity",0.8)
+  } else {
+    chartInfo.attr("opacity",0)
+  }
+}
+
+var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.1);
 var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
 var chart = chartLocation.append("g")
@@ -363,20 +377,20 @@ function reDrawChart() {
     })
     .on("click", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", scaleOnAffected(scaleRadius));
+        .attr("r", function(d) { return d.rad / scale; });
       removeFromPinboard(d);
     })
     .on("mouseover", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", 40);
+        .attr("r", 40 / scale);
     })
     .on("mouseout", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", scaleOnAffected(scaleRadius));
+        .attr("r", function(d) { return d.rad / scale; });
     });
 
-
-};
+    updateChartInfo();
+}
 
 var globalCounter = 0;
 
@@ -393,7 +407,7 @@ function addToPinboard(groupElement, data, classname) {
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
   reDrawChart();
-};
+}
 
 function removeFromPinboard(data) {
   ChartData = ChartData.filter(function(event) {
@@ -454,7 +468,6 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 function toggleDropList(id) {
   document.getElementById(id).classList.toggle("show");
 };
-
 
 window.onclick = function(event) {
   if (!event.target.matches('.btn')) {

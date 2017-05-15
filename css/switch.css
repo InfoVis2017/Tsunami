@@ -1,4 +1,6 @@
 .lbl {
+	margin-left: 8px;
+	margin-right: 5px;
 	position: relative;
 	display: block;
 	height: 20px;
