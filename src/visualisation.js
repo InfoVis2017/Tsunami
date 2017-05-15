@@ -1,7 +1,7 @@
 //startLoadScreen();
 
-var aspectRatio = 3/4     // standard aspect ratio
-var mapSize = 0.65        // 65% of screen width for map
+var aspectRatio = 3 / 4 // standard aspect ratio
+var mapSize = 0.65 // 65% of screen width for map
 
 var timeslidervalue = {}
 /* setup the dimensions */
@@ -23,10 +23,11 @@ var path = d3.geoPath()
   .projection(projection);
 
 var zoom = d3.zoom()
-  .scaleExtent([1,30])
+  .scaleExtent([1, 30])
   .on("zoom", zoomed);
 
 var scale = 1;
+
 function zoomed() {
   scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
@@ -35,8 +36,12 @@ function zoomed() {
 
 function updateSelection() {
   g.selectAll("circle.current.selected")
-    .attr("r", function(d) { return d.rad / scale })
-    .style("stroke-width", function(d) { return d.stw / scale });
+    .attr("r", function(d) {
+      return d.rad / scale
+    })
+    .style("stroke-width", function(d) {
+      return d.stw / scale
+    });
 }
 
 /* setup the basic elements */
@@ -88,10 +93,24 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
 /** DISASTERS **/
 
 // setup an invisible tooltip
-var div = d3.select("body")
+var tooltip = d3.select("body")
   .append("div")
   .attr("class", "tooltip")
   .style("opacity", 0);
+
+function showTooltip(d) {
+  var crds = projection([d.lon, d.lat]);
+  tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
+      "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
+      "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
+    .style("left", crds[0] + "px")
+    .style("top", crds[1] + "px");
+  tooltip.transition().style("opacity", 0.9);
+}
+
+function hideTooltip() {
+  tooltip.transition().style("opacity", 0)
+}
 
 function scaleRadius(damagelevel) {
   switch (damagelevel) {
@@ -141,7 +160,6 @@ function scaleOnAffected(scaler) {
 var leftLegend = true;
 
 function registerData(name, classname, source) {
-
     d3.csv(source, convert, function(err, data) {
       // data preprocessing
       data.forEach(function(d) {
@@ -155,19 +173,9 @@ function registerData(name, classname, source) {
           var crds = projection([d.lon, d.lat]);
           return "translate(" + crds[0] + "," + crds[1] + ")";
         })
-        .on("mouseover", function(d) {
-          div.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
-              "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
-              "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-            .style("left", d3.event.pageX + "px")
-            .style("top", d3.event.pageY + "px");
-          div.transition().style("opacity", 0.9);
-        })
-        .on("mouseout", function(d) {
-          div.transition().style("opacity", 0)
-        })
+        .on("mouseover", showTooltip)
+        .on("mouseout", hideTooltip)
         .on("click", function(d) {
-          console.log(d);
           addToPinboard(d3.select(this), d, classname)
         })
 
@@ -179,11 +187,12 @@ function registerData(name, classname, source) {
   });
 
   // add to legend
-  var currentLegend = (leftLegend? "#legend-left" : "#legend-right");
+  var currentLegend = (leftLegend ? "#legend-left" : "#legend-right");
   var divke = d3.select(currentLegend).append("div");
   leftLegend = !leftLegend; // switch to other side for next item
 
   divke.attr("class", "press");
+  divke.html(name);
 
   divke.append("input")
     .attr("type", "checkbox")
@@ -193,8 +202,8 @@ function registerData(name, classname, source) {
       toggle(this, classname);
     });
 
-  divke.append("span")
-    .html(name);
+  //divke.append("span")
+  //  .html(name);
 
   divke.append("label")
     .attr("class", "lbl " + classname)
@@ -255,8 +264,12 @@ function refreshYear() {
 /* show/remove data on the visualisation, given the name of the 'disaster type' */
 function includeData(name) {
   g.selectAll("." + name)
-    .attr("r",function(d) { return d.rad / scale })
-    .style("stroke-width",function(d) { return d.stw / scale })
+    .attr("r", function(d) {
+      return d.rad / scale
+    })
+    .style("stroke-width", function(d) {
+      return d.stw / scale
+    })
     .classed("selected", true);
 }
 
@@ -274,7 +287,7 @@ var chartHeight = 0.5 * (height + margin.top + margin.bottom);
 
 var chartMargin = {
   top: 20,
-  bottom: 20,
+  bottom: 40,
   left: 0,
   right: 20
 }
@@ -333,7 +346,7 @@ chart.append("g")
 
 function reDrawChart() {
 
-  var barCount = Math.max(ChartData.length,5);
+  var barCount = Math.max(ChartData.length, 5);
   x.domain(d3.range(0, barCount));
   y.domain([0, d3.max(ChartData, function(d) {
     return d.y
@@ -383,17 +396,25 @@ function reDrawChart() {
       return chartHeight - y(d.y);
     })
     .on("click", function(d) {
-      d.circle.select("circle").transition()
-        .attr("r", function(d) { return d.rad / scale; });
+      var circle = d.circle.select("circle");
+      circle.transition().attr("r", function(d) { return d.rad / scale; });
+      circle.classed("previewed", false);
       removeFromPinboard(d);
+      hideTooltip();
     })
     .on("mouseover", function(d) {
-      d.circle.select("circle").transition()
-        .attr("r", 40 / scale);
+      var circle = d.circle.select("circle");
+      circle.transition().attr("r", 30 / scale);
+      if(!(circle.classed("selected") && circle.classed("current"))) {
+        circle.classed("previewed", true);
+      }
+      showTooltip(d.data);
     })
     .on("mouseout", function(d) {
-      d.circle.select("circle").transition()
-        .attr("r", function(d) { return d.rad / scale; });
+      var circle = d.circle.select("circle");
+      circle.transition().attr("r", function(d) { return d.rad / scale; });
+      circle.classed("previewed", false);
+      hideTooltip();
     });
 
     updateChartInfo();
@@ -407,6 +428,7 @@ function addToPinboard(groupElement, data, classname) {
     y : Math.max(data[dataType], 1),
     circle: groupElement,
     class: classname,
+    data: data,
     deaths: data.deaths,
     affected: data.affected,
     damage: data.damage
@@ -462,7 +484,7 @@ function showTectonic(bool) {
   }
 }
 
-/*Add tectonic overlay*/
+/* Add tectonic overlay */
 
 d3.json('/data/topology/tectonics.json', function(err, data) {
 
@@ -470,23 +492,4 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
     .datum(topojson.feature(data, data.objects.tec))
     .attr("class", "tectonic")
     .attr("d", path);
-
 });
-
-function toggleDropList(id) {
-  document.getElementById(id).classList.toggle("show");
-};
-
-window.onclick = function(event) {
-  if (!event.target.matches('.btn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-cntnt");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
