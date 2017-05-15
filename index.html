@@ -27,8 +27,7 @@
         <div id="yearslot">2000</div>
 
         <!-- simple timeslider -->
-        <!-- simple timeslider -->
-        <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return togglescrolling()">
+        <form name="timelineform" oninput="timeSlidervalue.value = timeslider.valueAsNumber;setYear(timeSlidervalue.value)" onsubmit="return togglescrolling()">
           <div style="width: 95%; float:left;">
             <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
           </div>
@@ -49,7 +48,7 @@
 
 
         <div id="chartoptions">
-          <label for="chartoptions" style="float:left;display:inline-flex">Chart view:</label>
+          <label for="chartoptions" style="float:left;display:inline-flex"><b>View:</b></label>
           <form id="chartoptions" style="display: inline-flex;">
             <input type="radio" name="data" value="deaths" checked onclick="switchDataType(this.value)" />
             <label>Deaths</label>
@@ -64,12 +63,12 @@
         <div id="overlays" style="display: inline-flex">
 
           <div class="press" style="float: left">
-            <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)" /> Blue water
+            <input type="checkbox" id="bluesea" class="cbx hidden" onchange="seaColor(this.checked)" /> Water
             <label for="bluesea" class="lbl"> </label>
           </div>
 
           <div class="press">
-            <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)" /> Show borders
+            <input type="checkbox" id="borders" class="cbx hidden" checked onchange="showBorders(this.checked)" /> Borders
             <label for="borders" class="lbl"> </label>
           </div>
 
