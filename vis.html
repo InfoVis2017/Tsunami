@@ -19,12 +19,17 @@
 
     <div id="main">
 
+<<<<<<< HEAD
       <div class='main-left' style="width: 75%; display:inline-block">
+=======
+      <div class='main-left' style="width: 70%; display:inline-block">
+>>>>>>> origin/master
 
         <div id="container"> </div>
         <div id="yearslot">2000</div>
 
         <!-- simple timeslider -->
+<<<<<<< HEAD
         <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return startautoslide()">
           <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
           <!-- <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output> -->
@@ -35,6 +40,20 @@
       </div>
 
       <div class="main-right" style="width: 25%; display:inline-block">
+=======
+        <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return togglescrolling()">
+          <div style="width: 95%; float:left;">
+          <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
+        </div>
+          <!-- <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output> -->
+          <div style="width:5%; float:left;">
+          <input id="scrolltoggle" type="submit" class="active">
+        </div>
+        </form>
+      </div>
+
+      <div class="main-right" style="width: 26%; margin-left: 1%; margin-rigth:3%; display:inline-block">
+>>>>>>> origin/master
 
         <div id="legend" style="margin-top:10%">
           <div style="width:45%;display:inline-block" id="legend-left"></div>

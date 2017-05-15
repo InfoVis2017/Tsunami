@@ -25,12 +25,14 @@
         <div id="yearslot">2000</div>
 
         <!-- simple timeslider -->
-        <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return startautoslide()">
+        <!-- simple timeslider -->
+        <form name="timelineform" oninput="timeslidervalue.value = timeslider.valueAsNumber;setYear(timeslidervalue.value)" onsubmit="return togglescrolling()">
+          <div style="width: 95%; float:left;">
           <input class="timeslider" id="timeslider" type="range" min="1900" max="2017" value="2000" />
-          <!-- <output class="timeslider" name="timeslidervalue" for="timeslider">2000</output> -->
-          <input id="scrollstart" name="begin" type="number" min="1900" max="2017" placeholder="begin">
-          <input id="scrollend" name="end" type="number" min="1900" max="2017" placeholder="end">
-          <input type="submit" value="start">
+        </div>
+          <div style="width:5%; float:left;">
+          <input id="scrolltoggle" type="submit" value="">
+        </div>
         </form>
       </div>
 
