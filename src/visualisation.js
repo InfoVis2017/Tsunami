@@ -1,7 +1,7 @@
 //startLoadScreen();
 
-var aspectRatio = 3/4     // standard aspect ratio
-var mapSize = 0.65        // 65% of screen width for map
+var aspectRatio = 3 / 4 // standard aspect ratio
+var mapSize = 0.65 // 65% of screen width for map
 
 /* setup the dimensions */
 var margin = {
@@ -22,10 +22,11 @@ var path = d3.geoPath()
   .projection(projection);
 
 var zoom = d3.zoom()
-  .scaleExtent([1,30])
+  .scaleExtent([1, 30])
   .on("zoom", zoomed);
 
 var scale = 1;
+
 function zoomed() {
   scale = d3.event.transform.k;
   g.attr("transform", d3.event.transform);
@@ -34,8 +35,12 @@ function zoomed() {
 
 function updateSelection() {
   g.selectAll("circle.current.selected")
-    .attr("r", function(d) { return d.rad / scale })
-    .style("stroke-width", function(d) { return d.stw / scale });
+    .attr("r", function(d) {
+      return d.rad / scale
+    })
+    .style("stroke-width", function(d) {
+      return d.stw / scale
+    });
 }
 
 /* setup the basic elements */
@@ -141,47 +146,48 @@ var leftLegend = true;
 
 function registerData(name, classname, source) {
 
-    d3.csv(source, convert, function(err, data) {
-      // data preprocessing
-      data.forEach(function(d) {
-        d.rad = scaleOnAffected(scaleRadius)(d);
-        d.stw = scaleOnAffected(scaleStrokeWidth)(d);
-      });
-      // add the data to the DOM tree
-      var group = g.selectAll("." + classname)
-        .data(data).enter().append("g")
-        .attr("transform", function(d) {
-          var crds = projection([d.lon, d.lat]);
-          return "translate(" + crds[0] + "," + crds[1] + ")";
-        })
-        .on("mouseover", function(d) {
-          div.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
-              "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
-              "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-            .style("left", d3.event.pageX + "px")
-            .style("top", d3.event.pageY + "px");
-          div.transition().style("opacity", 0.9);
-        })
-        .on("mouseout", function(d) {
-          div.transition().style("opacity", 0)
-        })
-        .on("click", function(d) {
-          addToPinboard(d3.select(this), d, classname)
-        })
+  d3.csv(source, convert, function(err, data) {
+    // data preprocessing
+    data.forEach(function(d) {
+      d.rad = scaleOnAffected(scaleRadius)(d);
+      d.stw = scaleOnAffected(scaleStrokeWidth)(d);
+    });
+    // add the data to the DOM tree
+    var group = g.selectAll("." + classname)
+      .data(data).enter().append("g")
+      .attr("transform", function(d) {
+        var crds = projection([d.lon, d.lat]);
+        return "translate(" + crds[0] + "," + crds[1] + ")";
+      })
+      .on("mouseover", function(d) {
+        div.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
+            "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
+            "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
+          .style("left", d3.event.pageX + "px")
+          .style("top", d3.event.pageY + "px");
+        div.transition().style("opacity", 0.9);
+      })
+      .on("mouseout", function(d) {
+        div.transition().style("opacity", 0)
+      })
+      .on("click", function(d) {
+        addToPinboard(d3.select(this), d, classname)
+      })
 
-      group.append("circle")
-        .attr("class", classname)
-        .style("stroke", "black");
+    group.append("circle")
+      .attr("class", classname)
+      .style("stroke", "black");
 
-      refreshYear();
+    refreshYear();
   });
 
   // add to legend
-  var currentLegend = (leftLegend? "#legend-left" : "#legend-right");
+  var currentLegend = (leftLegend ? "#legend-left" : "#legend-right");
   var divke = d3.select(currentLegend).append("div");
   leftLegend = !leftLegend; // switch to other side for next item
 
   divke.attr("class", "press");
+  divke.html(name);
 
   divke.append("input")
     .attr("type", "checkbox")
@@ -191,8 +197,8 @@ function registerData(name, classname, source) {
       toggle(this, classname);
     });
 
-  divke.append("span")
-    .html(name);
+  //divke.append("span")
+  //  .html(name);
 
   divke.append("label")
     .attr("class", "lbl " + classname)
@@ -253,8 +259,12 @@ function refreshYear() {
 /* show/remove data on the visualisation, given the name of the 'disaster type' */
 function includeData(name) {
   g.selectAll("." + name)
-    .attr("r",function(d) { return d.rad / scale })
-    .style("stroke-width",function(d) { return d.stw / scale })
+    .attr("r", function(d) {
+      return d.rad / scale
+    })
+    .style("stroke-width", function(d) {
+      return d.stw / scale
+    })
     .classed("selected", true);
 }
 
@@ -272,7 +282,7 @@ var chartHeight = 0.5 * (height + margin.top + margin.bottom);
 
 var chartMargin = {
   top: 20,
-  bottom: 20,
+  bottom: 40,
   left: 0,
   right: 20
 }
@@ -311,7 +321,7 @@ chart.append("g")
 
 function reDrawChart() {
 
-  var barCount = Math.max(ChartData.length,5);
+  var barCount = Math.max(ChartData.length, 5);
   x.domain(d3.range(0, barCount));
   y.domain([0, d3.max(ChartData, function(d) {
     return d.y
@@ -361,7 +371,9 @@ function reDrawChart() {
     })
     .on("click", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", function(d) { return d.rad / scale; });
+        .attr("r", function(d) {
+          return d.rad / scale;
+        });
       removeFromPinboard(d);
     })
     .on("mouseover", function(d) {
@@ -370,7 +382,9 @@ function reDrawChart() {
     })
     .on("mouseout", function(d) {
       d.circle.select("circle").transition()
-        .attr("r", function(d) { return d.rad / scale; });
+        .attr("r", function(d) {
+          return d.rad / scale;
+        });
     });
 
 
@@ -380,13 +394,13 @@ var globalCounter = 0;
 
 function addToPinboard(groupElement, data, classname) {
   var actualClass = "invis"
-  if (data.deaths > 0){
+  if (data.deaths > 0) {
     actualClass = classname
   }
   var newbar = {
     id: globalCounter,
     // y: Math.floor(Math.random() * 3000),
-    y : Math.max(data.deaths, 1),
+    y: Math.max(data.deaths, 1),
     circle: groupElement,
     // class: classname
     class: actualClass
