@@ -14,19 +14,19 @@ function togglescrolling(){
 }
 
 function startautoslide(){
- start = parseInt(document.getElementsByTagName('input')[0].value)
  end   = 2017;
  scrolling = true;
- autoslide(start, end);
+ autoslide(end);
  return false;
 }
 
-function autoslide(start, end, interval = 1000){
+function autoslide(end, interval = 1000){
+  var start = parseInt(document.getElementsByTagName('input')[0].value) + 1;
   if (scrolling) {
     if (start <= end){
       document.getElementsByTagName('input')[0].value = start;
       setYear(start);
-      window.setTimeout(function() {autoslide(start+1, end, interval)}, interval);
+      window.setTimeout(function() {autoslide(end, interval)}, interval);
     }
     else {
       togglescrolling();
