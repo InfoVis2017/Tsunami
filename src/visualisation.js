@@ -162,6 +162,7 @@ function registerData(name, classname, source) {
   var divke = d3.select(currentLegend).append("div");
   leftLegend = !leftLegend; // switch to other side for next item
 
+  //add type of disaster and checkbox with right color ( see css)
   divke.attr("class", "press");
   divke.html(name);
 
@@ -179,6 +180,7 @@ function registerData(name, classname, source) {
 
 }
 
+//used to show and hide data when a checkbox is (un)checked
 function toggle(checkbox, name) {
   if (checkbox.checked) {
     includeData(name);
@@ -188,6 +190,7 @@ function toggle(checkbox, name) {
   }
 }
 
+// convert string data to numbers
 function convert(d) {
   d.deaths = +d.deaths;
   d.damage = +d.damage;
@@ -195,10 +198,6 @@ function convert(d) {
   d.affected_level = +d.affected_level;
   d.lat = +d.lat;
   d.lon = +d.lon;
-  /*
-    TODO: just the start date is probably a bit too simplistic
-    don't just parse using new Date(...), the format sometimes misses day/month
-  */
   var date = d.start_date;
   d.year = +date.slice(date.length - 4, date.length);
   return d;
@@ -250,7 +249,7 @@ function excludeData(name) {
 ///                                 Chart                                    ////
 /////////////////////////////////////////////////////////////////////////////////
 
-var chartWidth = (0.9 - mapSize) * window.innerWidth;
+var chartWidth = (0.85 - mapSize) * window.innerWidth;
 var chartHeight = 0.5 * height;
 
 var chartMargin = {
@@ -258,7 +257,7 @@ var chartMargin = {
   bottom: 40,
   left: 0,
   right: 20
-}
+};
 
 var chartLocation = d3.select("#chart")
   .append("svg")
