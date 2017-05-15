@@ -82,11 +82,8 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
   registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv")
   registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv")
   registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv")
-  //registerData("Extreme Temperature", "temperature", "/data/disasters/emdat-leveled/extreme-temperature.csv");
   registerData("Floods", "flood", "/data/disasters/emdat-leveled/floods.csv");
-  //registerData("Insects", "insects", "/data/disasters/emdat-leveled/insects.csv");
   registerData("Landslide", "landslide", "/data/disasters/emdat-leveled/landslide.csv");
-  //registerData("Mass Movement", "mass", "/data/disasters/emdat-leveled/mass-movement.csv");
   registerData("Storms", "storm", "/data/disasters/emdat-leveled/storms.csv");
 });
 
@@ -179,9 +176,6 @@ function registerData(name, classname, source) {
     .on("change", function(d) {
       toggle(this, classname);
     });
-
-  //divke.append("span")
-  //  .html(name);
 
   divke.append("label")
     .attr("class", "lbl " + classname)
@@ -297,7 +291,7 @@ var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
 var chart = chartLocation.append("g")
   .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
-  
+
 
 var ChartData = []
 var dataType = "deaths";
@@ -311,7 +305,7 @@ chart.append("g")
 chart.append("g")
   .attr("id", "yaxis")
   .attr("class", "axis axis--y")
-  
+
   .call(d3.axisLeft(y).ticks(10))
   .append("text")
     .attr("id","chartlabel")
@@ -423,7 +417,7 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 
-function switchDataType(type){ 
+function switchDataType(type){
   dataType = type
   ChartData.forEach(function(bar){
     bar.y = Math.max(bar[type],1);
