@@ -126,18 +126,11 @@ circle.previewed {
   fill: rgb(199,51,59);
 }
 
-.bluesea {
-  background: #a1d6ff;
-}
-
 .bar.invis {
   opacity: 1;
   fill: rgb(255,255,255);
 }
 
-.nosea {
-  background: white;
-}
 
 div.tooltip {
     position: absolute;

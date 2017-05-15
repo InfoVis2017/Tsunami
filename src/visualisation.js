@@ -48,6 +48,7 @@ var svg = d3.select("#container")
   .attr("id", "map")
   .attr("height", height)
   .attr("width", width)
+  .style("background","#a1d6ff")
   .call(zoom);
 
 var g = svg.append("g");
@@ -165,6 +166,7 @@ function registerData(name, classname, source) {
   //add type of disaster and checkbox with right color ( see css)
   divke.attr("class", "press");
   divke.html(name);
+  divke.style("font-family","verdana")
 
   divke.append("input")
     .attr("type", "checkbox")
@@ -272,6 +274,8 @@ var chartInfo = chartLocation.append("text")
   .attr("fill", "black")
   .attr("text-anchor", "middle")
   .text("Click on disasters to compare them.")
+  .style("font-family","verdana")
+  .style("font-size",11)
 
 function updateChartInfo() {
   if (ChartData.length === 0) {
@@ -429,11 +433,13 @@ reDrawChart();
 ///                                 Overlays                                 ////
 /////////////////////////////////////////////////////////////////////////////////
 
-function seaColor(value) {
+function riverColor(value) {
   if (value) {
-    svg.attr("class", "bluesea");
+    g.selectAll(".river").style("opacity",1);
+    g.selectAll(".lake").style("opacity",1);
   } else {
-    svg.attr("class", "nosea");
+    g.selectAll(".river").style("opacity",0);
+    g.selectAll(".lake").style("opacity",0);
   }
 }
 
@@ -462,3 +468,29 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
     .attr("class", "tectonic")
     .attr("d", path);
 });
+
+
+d3.json("/data/topology/lakes.geojson", function(json) {
+
+
+                g.selectAll("path")
+                   .data(json.features)
+                   .enter()
+                   .append("path")
+                   .attr("d", path)
+                   .attr("class","lake")
+
+            });
+
+
+d3.json("/data/topology/rivers.geojson", function(json) {
+
+
+                g.selectAll("path")
+                   .data(json.features)
+                   .enter()
+                   .append("path")
+                   .attr("d", path)
+                   .attr("class","river")
+
+            });
