@@ -1,8 +1,8 @@
 // standard aspect ratio
 var aspectRatio = 3 / 4;
 
-// 65% of screen width (div it is in = 70%);
-var mapSize = 0.65;
+// 60% of screen width (div it is in = 70%);
+var mapSize = 0.60;
 
 //value of the year slider
 var timeSlidervalue = {};
