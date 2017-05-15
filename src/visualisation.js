@@ -283,6 +283,21 @@ var chartLocation = d3.select("#chart")
   .attr("width", chartWidth + chartMargin.left + chartMargin.right)
   .attr("height", chartHeight + chartMargin.top + chartMargin.bottom);
 
+var chartInfo = chartLocation.append("text")
+  .attr("x", "50%")
+  .attr("y", "50%")
+  .attr("fill", "black")
+  .attr("text-anchor", "middle")
+  .text("Click on disasters to compare them");
+
+function updateChartInfo() {
+  if(ChartData.length === 0) {
+    chartInfo.attr("opacity",0.8)
+  } else {
+    chartInfo.attr("opacity",0)
+  }
+}
+
 var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.1);
 var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
@@ -373,14 +388,14 @@ function reDrawChart() {
         .attr("r", function(d) { return d.rad / scale; });
     });
 
-
-};
+    updateChartInfo();
+}
 
 var globalCounter = 0;
 
 function addToPinboard(groupElement, data, classname) {
   var actualClass = "invis"
-  if (data.deaths > 0){
+  if (data.deaths > 0) {
     actualClass = classname
   }
   var newbar = {
@@ -394,7 +409,7 @@ function addToPinboard(groupElement, data, classname) {
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
   reDrawChart();
-};
+}
 
 function removeFromPinboard(data) {
   ChartData = ChartData.filter(function(event) {
@@ -448,7 +463,6 @@ d3.json('/data/topology/tectonics.json', function(err, data) {
 function toggleDropList(id) {
   document.getElementById(id).classList.toggle("show");
 };
-
 
 window.onclick = function(event) {
   if (!event.target.matches('.btn')) {
