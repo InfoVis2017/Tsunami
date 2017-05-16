@@ -143,12 +143,20 @@ function registerData(name, classname, source) {
         var crds = projection([d.lon, d.lat]);
         return "translate(" + crds[0] + "," + crds[1] + ")";
       })
+
+      .attr("clicked","no")
+
       .on("mouseover", function(d) {
         showTooltip(d, this);
       })
       .on("mouseout", hideTooltip)
       .on("click", function(d) {
-        addToPinboard(this, d, classname);
+
+        var thisgroup =  d3.select(this);
+        if (thisgroup.attr("clicked") == "no"){
+          addToPinboard(this, d, classname);
+          thisgroup.attr("clicked","yes");
+        }
       })
 
     group.append("circle")
@@ -370,6 +378,7 @@ function reDrawChart() {
       return chartHeight - y(d.y);
     })
     .on("click", function(d) {
+      d3.select(d.group).attr("clicked","no")
       d.circle.transition().attr("r", function(d) {
         return d.rad / scale;
       });
@@ -398,6 +407,10 @@ function reDrawChart() {
 var globalCounter = 0;
 
 function addToPinboard(groupElement, data, classname) {
+
+  var circle = d3.select(groupElement).select("circle");
+
+  
   var newbar = {
     id: globalCounter,
     group: groupElement,
@@ -406,6 +419,17 @@ function addToPinboard(groupElement, data, classname) {
     class: classname,
     data: data
   };
+
+  circle.on("mouseover",function(){
+    newbar.class = classname + " highlighted"
+    reDrawChart()
+  })
+
+  circle.on("mouseout",function(){
+    newbar.class = classname
+    reDrawChart()
+  })
+  
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
   reDrawChart();
