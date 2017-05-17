@@ -1,5 +1,3 @@
-//value of the year slider
-var timeSlidervalue = {};
 
 /////////////////////////////////////////////////////////////////////////////////
 ///                                 Chart                                    ////
@@ -167,14 +165,14 @@ function addToPinboard(groupElement, data, classname) {
   };
 
   circle.on("mouseover",function(){
-    newbar.class = classname + " highlighted"
-    reDrawChart()
-  })
+    newbar.class = classname + " highlighted";
+    reDrawChart();
+  });
 
   circle.on("mouseout",function(){
-    newbar.class = classname
-    reDrawChart()
-  })
+    newbar.class = classname;
+    reDrawChart();
+  });
 
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
@@ -184,16 +182,15 @@ function addToPinboard(groupElement, data, classname) {
 function removeFromPinboard(data) {
   ChartData = ChartData.filter(function(event) {
     return event.id !== data.id;
-  })
+  });
   reDrawChart();
 }
 
 function switchDataType(type) {
-  dataType = type
+  dataType = type;
   ChartData.forEach(function(bar) {
     bar.y = Math.max(bar.data[type], 1);
-  })
-
+  });
   reDrawChart();
 }
 
