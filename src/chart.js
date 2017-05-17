@@ -2,6 +2,7 @@
 var chartWidth = (0.85 - mapRatio) * window.innerWidth;
 var chartHeight = 0.5 * mapHeight;
 
+//set up margins
 var chartMargin = {
   top: 20,
   bottom: 40,
@@ -9,6 +10,7 @@ var chartMargin = {
   right: 0
 };
 
+//setup chart properties
 var chartLocation = d3.select("#chart")
   .append("svg")
   .attr("id", "graph")
@@ -16,6 +18,7 @@ var chartLocation = d3.select("#chart")
   .attr("height", chartHeight + chartMargin.top + chartMargin.bottom)
   .style("padding-left", "55px");
 
+//set up chart info
 var chartInfo = chartLocation.append("text")
   .attr("x", "50%")
   .attr("y", "50%")
@@ -25,6 +28,7 @@ var chartInfo = chartLocation.append("text")
   .style("font-family", "verdana")
   .style("font-size", 11);
 
+//show are hide information of showed on chart
 function updateChartInfo() {
   if (ChartData.length === 0) {
     chartInfo.attr("opacity", 0.8);
@@ -32,6 +36,7 @@ function updateChartInfo() {
     chartInfo.attr("opacity", 0);
   }
 }
+
 
 var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.1);
 var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
@@ -182,6 +187,7 @@ function removeFromPinboard(data) {
   reDrawChart();
 }
 
+//change the data type showed in the chart
 function switchDataType(type) {
   dataType = type;
   ChartData.forEach(function(bar) {
