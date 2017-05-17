@@ -28,7 +28,7 @@ var chartInfo = chartLocation.append("text")
   .style("font-family", "verdana")
   .style("font-size", 11);
 
-//show are hide information of showed on chart
+//show or hide information of info text on chart
 function updateChartInfo() {
   if (ChartData.length === 0) {
     chartInfo.attr("opacity", 0.8);
@@ -38,13 +38,14 @@ function updateChartInfo() {
 }
 
 
+//Create x and y axis ranges
 var x = d3.scaleBand().rangeRound([0, chartWidth]).paddingInner(0.1);
 var y = d3.scaleLinear().rangeRound([chartHeight, 0]);
 
 var chart = chartLocation.append("g")
   .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
 
-
+//Initialize bar chart data and displayed type
 var ChartData = [];
 var dataType = "deaths";
 
@@ -67,6 +68,7 @@ chart.append("g")
   .text("Deaths")
   .attr("fill", "black");
 
+//Draw all bars (either updating or creating)
 function reDrawChart() {
 
   var barCount = Math.max(ChartData.length, 5);
@@ -149,8 +151,11 @@ function reDrawChart() {
   updateChartInfo();
 }
 
+//Unique identifier for bars on the chart
 var globalCounter = 0;
 
+
+//Add a new disaster to the chart
 function addToPinboard(groupElement, data, classname) {
 
   var circle = d3.select(groupElement).select("circle");
@@ -159,7 +164,7 @@ function addToPinboard(groupElement, data, classname) {
   var newbar = {
     id: globalCounter,
     group: groupElement,
-    y: Math.max(data[dataType], 1),
+    y: Math.max(data[dataType], 0.01),
     circle: d3.select(groupElement).select("circle"),
     class: classname,
     data: data
@@ -191,7 +196,7 @@ function removeFromPinboard(data) {
 function switchDataType(type) {
   dataType = type;
   ChartData.forEach(function(bar) {
-    bar.y = Math.max(bar.data[type], 1);
+    bar.y = Math.max(bar.data[type], 0.01);
   });
   reDrawChart();
 }
