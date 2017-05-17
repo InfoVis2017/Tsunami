@@ -1,4 +1,7 @@
-var scrolling = false
+//value of the year slider
+var timeSlidervalue = {};
+
+var scrolling = false;
 
 function togglescrolling(){
   scrolling = (! scrolling);
@@ -26,7 +29,7 @@ function autoslide(end, interval = 1000){
     if (start <= end){
       document.getElementsByTagName('input')[0].value = start;
       setYear(start);
-      window.setTimeout(function() {autoslide(end, interval)}, interval);
+      window.setTimeout(function() {autoslide(end, interval);}, interval);
     }
     else {
       togglescrolling();

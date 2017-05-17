@@ -1,266 +1,12 @@
-// standard aspect ratio
-var aspectRatio = 3 / 4;
-
-// 65% of screen width (div it is in = 70%);
-var mapSize = 0.65;
-
 //value of the year slider
 var timeSlidervalue = {};
-
-// setup the map dimensions
-var width = (mapSize * window.innerWidth);
-var height = aspectRatio * width;
-
-//setup the projection and path generator
-var projection = d3.geoMercator()
-  .translate([(width / 2), (height / 2)])
-  .scale(width / 2 / Math.PI);
-var path = d3.geoPath()
-  .projection(projection);
-//setup zoom
-var zoom = d3.zoom()
-  .scaleExtent([1, 30])
-  .on("zoom", zoomed);
-
-//current scale for the zoom
-var scale = 1;
-//called to zoom
-function zoomed() {
-  scale = d3.event.transform.k;
-  g.attr("transform", d3.event.transform);
-  updateSelection();
-}
-
-//updating current selected circle --> make it bigger (bigger radius)
-function updateSelection() {
-  g.selectAll("circle.current.selected")
-    .attr("r", function(d) {
-      return d.rad / scale;
-    })
-    .style("stroke-width", function(d) {
-      return d.stw / scale;
-    });
-}
-
-// setup the basic elements
-var svg = d3.select("#container")
-  .append("svg")
-  .attr("id", "map")
-  .attr("height", height)
-  .attr("width", width)
-  .style("background", "#a1d6ff")
-  .call(zoom);
-
-var g = svg.append("g");
-
-/* load the world topology data */
-d3.json("/data/topology/world-topo-min.json", function(error, data) {
-
-  /* extract the JSON-encoded feature data for the countries */
-  var countries = topojson.feature(data, data.objects.countries);
-
-  /* main map manipulation */
-  g.selectAll(".country")
-    .data(countries.features)
-    .enter().append("path")
-    .attr("class", "country")
-    .attr("d", path)
-    .on("mouseover", function() {
-      var country = d3.select(this);
-      var originalwidth = country.style("stroke-width");
-      country.style("stroke-width", originalwidth + 0.5);
-    })
-    .on("mouseout", function() {
-      var country = d3.select(this);
-      var originalwidth = country.style("stroke-width");
-      country.style("stroke-width", originalwidth - 0.5);
-    });
-
-  /* setup disasters (cf. inf.) */
-  registerData("Drought", "drought", "/data/disasters/emdat-leveled/drought.csv");
-  registerData("Earthquake", "earthquake", "/data/disasters/emdat-leveled/earthquakes.csv");
-  registerData("Epidemic", "epidemic", "/data/disasters/emdat-leveled/epidemic.csv");
-  registerData("Floods", "flood", "/data/disasters/emdat-leveled/floods.csv");
-  registerData("Landslide", "landslide", "/data/disasters/emdat-leveled/landslide.csv");
-  registerData("Storms", "storm", "/data/disasters/emdat-leveled/storms.csv");
-});
-
-/** DISASTERS **/
-
-// setup an invisible tooltip
-var tooltip = d3.select("body")
-  .append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
-
-// show a tooltip when on a circle
-function showTooltip(d, group) {
-  var rect = group.getBoundingClientRect();
-  tooltip.html("<strong>Affected: </strong><span>" + d.affected + "</span>" +
-      "<br><strong>Deaths: </strong><span>" + d.deaths + "</span>" +
-      "<br><strong>Damage: </strong><span>$" + d.damage + "</span>")
-    .style("left", (rect.left + 20) + "px")
-    .style("top", (rect.top - 20) + "px");
-  tooltip.transition().style("opacity", 0.9);
-}
-
-//hide tooltip when quiting the circle
-function hideTooltip() {
-  tooltip.transition().style("opacity", 0);
-}
-
-//scale the radius of the circle (disaster), dependant on dammage level
-function scaleRadius(damagelevel) {
-  return damagelevel * 5;
-}
-
-//the stroke of the circle scales with the size
-function scaleStrokeWidth(damagelevel) {
-  return damagelevel;
-}
-
-// create scaler with given scaler function
-function scaleOnAffected(scaler) {
-  return function(d) {
-    return scaler(d.affected_level);
-  };
-}
-
-var leftLegend = true;
-
-// register all the data on the map
-function registerData(name, classname, source) {
-  d3.csv(source, convert, function(err, data) {
-    // data preprocessing
-    data.forEach(function(d) {
-      d.rad = scaleOnAffected(scaleRadius)(d);
-      d.stw = scaleOnAffected(scaleStrokeWidth)(d);
-    });
-    // add the data to the DOM tree
-    var group = g.selectAll("." + classname)
-      .data(data).enter().append("g")
-      .attr("transform", function(d) {
-        var crds = projection([d.lon, d.lat]);
-        return "translate(" + crds[0] + "," + crds[1] + ")";
-      })
-
-      .attr("clicked","no")
-
-      .on("mouseover", function(d) {
-        showTooltip(d, this);
-      })
-      .on("mouseout", hideTooltip)
-      .on("click", function(d) {
-
-        var thisgroup =  d3.select(this);
-        if (thisgroup.attr("clicked") == "no"){
-          addToPinboard(this, d, classname);
-          thisgroup.attr("clicked","yes");
-        }
-      })
-
-    group.append("circle")
-      .attr("class", classname)
-      .style("stroke", "black");
-
-    refreshYear();
-  });
-
-  // add to legend
-  var currentLegend = (leftLegend ? "#legend-left" : "#legend-right");
-  var divke = d3.select(currentLegend).append("div");
-  leftLegend = !leftLegend; // switch to other side for next item
-
-  //add type of disaster and checkbox with right color ( see css)
-  divke.attr("class", "press");
-  divke.html(name);
-  divke.style("font-family", "verdana")
-
-  divke.append("input")
-    .attr("type", "checkbox")
-    .attr("class", "cbx hidden")
-    .attr("id", name)
-    .on("change", function(d) {
-      toggle(this, classname);
-    });
-
-  divke.append("label")
-    .attr("class", "lbl " + classname)
-    .attr("for", name);
-
-}
-
-//used to show and hide data when a checkbox is (un)checked
-function toggle(checkbox, name) {
-  if (checkbox.checked) {
-    includeData(name);
-    updateSelection();
-  } else {
-    excludeData(name);
-  }
-}
-
-// convert string data to numbers
-function convert(d) {
-  d.deaths = +d.deaths;
-  d.damage = +d.damage;
-  d.affected = Math.max(d.deaths, +d.affected);
-  d.affected_level = +d.affected_level;
-  d.lat = +d.lat;
-  d.lon = +d.lon;
-  var date = d.start_date;
-  d.year = +date.slice(date.length - 4, date.length);
-  return d;
-}
-
-/* set the current year to filter out disasters (i.e. only show disasters from that year) */
-/* again, for now we can just keep this global, clean code is for later :) */
-
-var currentYear = 2000;
-
-function setYear(year) {
-  year = +year;
-  if (currentYear !== year) {
-    currentYear = year;
-    refreshYear();
-    document.getElementById("yearslot").innerHTML = year;
-    updateSelection();
-  }
-}
-
-function refreshYear() {
-  g.selectAll(".current")
-    .classed("current", false);
-  g.selectAll("circle")
-    .filter(function(d) {
-      return d.year === currentYear;
-    })
-    .classed("current", true);
-}
-
-/* show/remove data on the visualisation, given the name of the 'disaster type' */
-function includeData(name) {
-  g.selectAll("." + name)
-    .attr("r", function(d) {
-      return d.rad / scale;
-    })
-    .style("stroke-width", function(d) {
-      return d.stw / scale;
-    })
-    .classed("selected", true);
-}
-
-function excludeData(name) {
-  g.selectAll("." + name)
-    .classed("selected", false);
-}
 
 /////////////////////////////////////////////////////////////////////////////////
 ///                                 Chart                                    ////
 /////////////////////////////////////////////////////////////////////////////////
 
-var chartWidth = (0.85 - mapSize) * window.innerWidth;
-var chartHeight = 0.5 * height;
+var chartWidth = (0.85 - mapRatio) * window.innerWidth;
+var chartHeight = 0.5 * mapHeight;
 
 var chartMargin = {
   top: 20,
@@ -410,7 +156,7 @@ function addToPinboard(groupElement, data, classname) {
 
   var circle = d3.select(groupElement).select("circle");
 
-  
+
   var newbar = {
     id: globalCounter,
     group: groupElement,
@@ -429,7 +175,7 @@ function addToPinboard(groupElement, data, classname) {
     newbar.class = classname
     reDrawChart()
   })
-  
+
   globalCounter = globalCounter + 1;
   ChartData.push(newbar);
   reDrawChart();
