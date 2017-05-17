@@ -1,8 +1,4 @@
-
-/////////////////////////////////////////////////////////////////////////////////
-///                                 Chart                                    ////
-/////////////////////////////////////////////////////////////////////////////////
-
+//set up chart size
 var chartWidth = (0.85 - mapRatio) * window.innerWidth;
 var chartHeight = 0.5 * mapHeight;
 
@@ -27,13 +23,13 @@ var chartInfo = chartLocation.append("text")
   .attr("text-anchor", "middle")
   .text("Click on disasters to compare them.")
   .style("font-family", "verdana")
-  .style("font-size", 11)
+  .style("font-size", 11);
 
 function updateChartInfo() {
   if (ChartData.length === 0) {
-    chartInfo.attr("opacity", 0.8)
+    chartInfo.attr("opacity", 0.8);
   } else {
-    chartInfo.attr("opacity", 0)
+    chartInfo.attr("opacity", 0);
   }
 }
 
@@ -44,7 +40,7 @@ var chart = chartLocation.append("g")
   .attr("transform", "translate(" + chartMargin.left + "," + chartMargin.top + ")");
 
 
-var ChartData = []
+var ChartData = [];
 var dataType = "deaths";
 
 chart.append("g")
@@ -71,15 +67,15 @@ function reDrawChart() {
   var barCount = Math.max(ChartData.length, 5);
   x.domain(d3.range(0, barCount));
   y.domain([0, d3.max(ChartData, function(d) {
-    return d.y
+    return d.y;
   })]);
 
   d3.select("#chartlabel").transition().text(dataType);
 
   //  d3.select("#xaxis").call(d3.axisBottom(x).ticks(ChartData.length))
-  d3.select("#yaxis").transition().call(d3.axisLeft(y).ticks(10))
+  d3.select("#yaxis").transition().call(d3.axisLeft(y).ticks(10));
 
-  var bars = chart.selectAll(".bar").data(ChartData)
+  var bars = chart.selectAll(".bar").data(ChartData);
 
   //Remove
   bars.exit().remove();
@@ -122,7 +118,7 @@ function reDrawChart() {
       return chartHeight - y(d.y);
     })
     .on("click", function(d) {
-      d3.select(d.group).attr("clicked","no")
+      d3.select(d.group).attr("clicked", "no");
       d.circle.transition().attr("r", function(d) {
         return d.rad / scale;
       });
@@ -164,12 +160,12 @@ function addToPinboard(groupElement, data, classname) {
     data: data
   };
 
-  circle.on("mouseover",function(){
+  circle.on("mouseover", function() {
     newbar.class = classname + " highlighted";
     reDrawChart();
   });
 
-  circle.on("mouseout",function(){
+  circle.on("mouseout", function() {
     newbar.class = classname;
     reDrawChart();
   });
@@ -195,69 +191,3 @@ function switchDataType(type) {
 }
 
 reDrawChart();
-
-/////////////////////////////////////////////////////////////////////////////////
-///                                 Overlays                                 ////
-/////////////////////////////////////////////////////////////////////////////////
-
-function riverColor(value) {
-  if (value) {
-    g.selectAll(".river").style("opacity", 1);
-    g.selectAll(".lake").style("opacity", 1);
-  } else {
-    g.selectAll(".river").style("opacity", 0);
-    g.selectAll(".lake").style("opacity", 0);
-  }
-}
-
-function showBorders(value) {
-  if (value) {
-    g.selectAll(".country").style("stroke-width", 0.5);
-  } else {
-    g.selectAll(".country").style("stroke-width", 0);
-  }
-}
-
-function showTectonic(bool) {
-  if (bool) {
-    g.selectAll('.tectonic').style("opacity", 0.5);
-  } else {
-    g.selectAll('.tectonic').style("opacity", 0);
-  }
-}
-
-/* Add tectonic overlay */
-
-d3.json('/data/topology/tectonics.json', function(err, data) {
-
-  g.insert("path", ".graticule")
-    .datum(topojson.feature(data, data.objects.tec))
-    .attr("class", "tectonic")
-    .attr("d", path);
-});
-
-
-d3.json("/data/topology/lakes.geojson", function(json) {
-
-
-  g.selectAll("path")
-    .data(json.features)
-    .enter()
-    .append("path")
-    .attr("d", path)
-    .attr("class", "lake")
-
-});
-
-
-d3.json("/data/topology/rivers.geojson", function(json) {
-
-
-  g.selectAll("path")
-    .data(json.features)
-    .enter()
-    .append("path")
-    .attr("d", path)
-    .attr("class", "river")
-
-});
