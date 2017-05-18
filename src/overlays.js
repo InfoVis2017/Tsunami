@@ -29,29 +29,33 @@ function showTectonic(bool) {
 
 
 //Draw tectonic plates
-d3.json('/data/topology/tectonics.json', function(err, data) {
-  g.insert("path", ".graticule")
-    .datum(topojson.feature(data, data.objects.tec))
-    .attr("class", "tectonic")
-    .attr("d", path);
-});
+function initOverlays() {
 
-//Draw lakes
-d3.json("/data/topology/lakes.geojson", function(json) {
-  g.selectAll("path")
-    .data(json.features)
-    .enter()
-    .append("path")
-    .attr("d", path)
-    .attr("class", "lake");
-});
+  //Draw tectonics
+  d3.json('/data/topology/tectonics.json', function(err, data) {
+    g.insert("path", ".graticule")
+      .datum(topojson.feature(data, data.objects.tec))
+      .attr("class", "tectonic")
+      .attr("d", path);
 
-//Draw rivers
-d3.json("/data/topology/rivers.geojson", function(json) {
-  g.selectAll("path")
-    .data(json.features)
-    .enter()
-    .append("path")
-    .attr("d", path)
-    .attr("class", "river");
-});
+      //Draw rivers
+      d3.json("/data/topology/rivers.geojson", function(json) {
+        g.selectAll("path")
+          .data(json.features)
+          .enter()
+          .append("path")
+          .attr("d", path)
+          .attr("class", "river");
+
+          //Draw lakes
+          d3.json("/data/topology/lakes.geojson", function(json) {
+            g.selectAll("path")
+              .data(json.features)
+              .enter()
+              .append("path")
+              .attr("d", path)
+              .attr("class", "lake");
+          });
+      });
+  });
+}

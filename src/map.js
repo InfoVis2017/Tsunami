@@ -144,4 +144,6 @@ d3.json("/data/topology/world-topo-min.json", function(error, data) {
   registerData("Floods", "flood", "/data/disasters/emdat-leveled/floods.csv");
   registerData("Landslide", "landslide", "/data/disasters/emdat-leveled/landslide.csv");
   registerData("Storms", "storm", "/data/disasters/emdat-leveled/storms.csv");
+
+  initOverlays();
 });
